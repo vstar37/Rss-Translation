@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 15 Apr 2024 18:04:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 21:08:16 GMT</lastBuildDate>
     <item>
-      <title>[媒体]加州创造了历史，过去 25 年里，加州一直保持 100% 可再生能源 [...]</title>
-      <link>https://t.me/hn_summary/84683</link>
-      <description><![CDATA[加州为可再生能源树立了标杆
-加州在过去 32 天中有 25 天保持 100% 可再生能源，创造了历史，这在该州历史上尚属首次。斯坦福大学教授马克·Z·雅各布森一直在更新他的社交媒体上的每一个里程碑，强调风能、太阳能和水力发电的成功。尽管来自肮脏能源公司的怀疑，加州正在证明向清洁能源过渡是可能的。 Jacobson 预测，到 2035 年，该州将永久实现 100% WindWaterSolar。这一成就是减少空气污染和应对气候变化的重要一步，为全球可再生能源树立了基准。]]></description>
-      <guid>https://t.me/hn_summary/84683</guid>
-      <pubDate>Mon, 15 Apr 2024 18:04:20 GMT</pubDate>
+      <title>Nathan Tolbert 是 NCSA 的首席研究软件工程师，一直致力于开发独立游戏 [...]</title>
+      <link>https://t.me/hn_summary/84715</link>
+      <description><![CDATA[Nathan Tolbert 突破了旧游戏机上新游戏的限制
+Nathan Tolbert 是 NCSA 的首席研究软件工程师，15 年来一直致力于为 NES 等旧游戏机开发独立游戏。他的最新游戏“The Storyed Sword”受到忍者龙剑传的启发，并以故事书奇幻为主题。托尔伯特的过程包括平衡游戏创意与控制台限制、学习汇编语言和优化代码。他喜欢支持性的复古游戏社区，并鼓励其他人参与其中。托尔伯特最喜欢的游戏是安古纳系列，他喜欢和孩子们一起玩“超级自制战争”。他还喜欢与家人一起在尚佩恩的莫里西公园度过时光，并正在学习骑独轮车。]]></description>
+      <guid>https://t.me/hn_summary/84715</guid>
+      <pubDate>Mon, 15 Apr 2024 21:08:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]由于破纪录的珊瑚礁白化事件，世界各地的珊瑚礁正在经历毁灭性的白化事件。</title>
-      <link>https://t.me/hn_summary/84682</link>
-      <description><![CDATA[海洋高温导致全球珊瑚白化事件，可能是有记录以来最严重的一次&lt; /a&gt;
-由于破纪录的海洋高温，世界各地的珊瑚礁正在经历毁灭性的白化事件，这可能是有记录以来最严重的一次。超过 54% 的珊瑚礁地区经历了白化，威胁着海洋生物和食物链。海水温度的迅速上升让专家们对珊瑚礁的未来感到担忧。联合国环境规划署警告说，如果不减少排放，将会产生灾难性后果，并预测气温升高 2 度将导致大规模珊瑚死亡。需要采取紧急行动来保护珊瑚礁，这对海洋生物、沿海社区和全球食物来源至关重要。绿色和平组织呼吁立即停止使用新化石燃料，以防止不可逆转的气候灾难。]]></description>
-      <guid>https://t.me/hn_summary/84682</guid>
-      <pubDate>Mon, 15 Apr 2024 17:44:10 GMT</pubDate>
+      <title>[媒体] Dun, Dun Duuun 流行文化中最具戏剧性的声音从何而来？</title>
+      <link>https://t.me/hn_summary/84714</link>
+      <description><![CDATA[Dun, Dun Duuun 流行文化中最具戏剧性的声音来自哪里？ （2022）
+在充满悬念和戏剧性的世界中，有一种声音经受住了时间的考验——标志性的“dun, duuun”。从斯特拉文斯基到布偶，这个三拍乐句在流行文化史上留下了印记，以其悬疑的魅力吸引着观众。虽然它的起源仍然是个谜，但作曲家迪克·沃尔特 (Dick Walter) 在 1983 年创作的“震撼恐怖”刺痛已成为那些希望为其作品增添戏剧性的制片人的首选声音。这种永恒的声音有着植根于维多利亚时代的情节剧和魔鬼间隔的历史，它继续让各种媒介的观众感到兴奋和娱乐。]]></description>
+      <guid>https://t.me/hn_summary/84714</guid>
+      <pubDate>Mon, 15 Apr 2024 21:07:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Linus Torvalds 已将选项卡注入 Linux 内核的 Kconfig 文件以对抗解析 [...]</title>
-      <link>https://t.me/hn_summary/84681</link>
-      <description><![CDATA[Torvalds 注入选项卡以阻止 Kconfig 解析器无法正确处理它们
-Linus Torvalds 将制表符注入到 Linux 内核的 Kconfig 文件中，以对抗那些难以处理制表符的解析器，而选择使用空格。这一举动是在引入补丁以将 Kconfig 文件中的制表符替换为空格之后发生的，导致 Torvalds 采取了行动。通过向通用 Kconfig 文件添加隐藏选项卡，Torvalds 旨在破坏任何无法正确处理选项卡的第三方解析器。这一决定肯定会给依赖空格作为空白的解析器带来明显的问题。 Torvalds 强调了正确解析 Kconfig 文件中制表符的重要性，强调了制表符与空格混淆的传统 Unix 挑战。]]></description>
-      <guid>https://t.me/hn_summary/84681</guid>
-      <pubDate>Mon, 15 Apr 2024 17:30:59 GMT</pubDate>
+      <title>[媒体]纽约市的儿童保育已成为一场危机，80%的家庭无力承担。</title>
+      <link>https://t.me/hn_summary/84713</link>
+      <description><![CDATA[纽约市的儿童保育费用如此昂贵，以至于已经成为一场危机
+纽约市的儿童保育已成为一场危机，80% 的家庭无力承担费用。议员们敦促亚当斯政府扭转 10 亿美元的预算削减，其中包括用于幼儿教育的 1.7 亿美元。儿童保育费用每年高达 20,000 美元，远远超出联邦负担能力标准。人员配备是提供商最大的开支，导致人员短缺。纽约市的生活成本加剧了这个问题，一些社区无力承担儿童保育费用。专家表示，解决方案是普及儿童保育，但目前的补贴计划还不够。该市必须优先为所有家庭提供高质量、负担得起的儿童保育服务。]]></description>
+      <guid>https://t.me/hn_summary/84713</guid>
+      <pubDate>Mon, 15 Apr 2024 21:02:07 GMT</pubDate>
     </item>
     <item>
-      <title>在 Limitless，我们提供由您所见、所言、所闻所驱动的个性化人工智能，同时 [...]</title>
-      <link>https://t.me/hn_summary/84680</link>
-      <description><![CDATA[无限：由您所见所闻提供支持的个性化人工智能，说，并听到了
-在 Limitless，我们提供基于您的所见、所说和所听内容的个性化人工智能，同时确保您的隐私受到我们的机密云技术的保护。机密云比端到端加密更好，即使您不使用该应用程序，您的个性化人工智能也可以为您工作。您可以控制谁可以解密您的数据，并且您的数据将被匿名化以保护您的身份。我们绝不会出售您的数据，并使用带有唯一密钥的信封加密来提高安全性。此外，我们还保护您的数据免遭第三方人工智能提供商、云提供商和传票的侵害，确保您的信息安全可靠。]]></description>
-      <guid>https://t.me/hn_summary/84680</guid>
-      <pubDate>Mon, 15 Apr 2024 17:29:55 GMT</pubDate>
+      <title>[媒体] 加州再次超过其主电网 100% 的需求，展示了 [...]</title>
+      <link>https://t.me/hn_summary/84712</link>
+      <description><![CDATA[加州再次超过其主电网需求的 100% 
+加州再次超过其主电网 100% 的需求，展示了该州对可再生能源的承诺。这一成就凸显了加州优先考虑清洁能源和减少对化石燃料依赖的努力所取得的成功。围绕这一成就的争议在于平衡电网供需的挑战，尤其是在高峰时段。尽管面临这些挑战，加州仍继续在可持续能源实践方面处于领先地位，为其他州效仿树立了榜样。]]></description>
+      <guid>https://t.me/hn_summary/84712</guid>
+      <pubDate>Mon, 15 Apr 2024 21:01:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]沙特阿拉伯令人惊讶地承认其在帮助保卫以色列方面的作用[...]</title>
-      <link>https://t.me/hn_summary/84679</link>
-      <description><![CDATA[沙特阿拉伯承认帮助保卫以色列免受伊朗侵害
-沙特阿拉伯令人惊讶地承认其在帮助保护以色列免受伊朗袭击方面所发挥的作用。王室网站引用了 KAN News 的一篇报道，详细介绍了沙特阿拉伯如何与美国、约旦、英国和法国一起，在伊朗无人机和导弹抵达以色列之前成功拦截了 99% 的伊朗无人机和导弹。这一消息是在该地区紧张局势不断升级之际公布的，沙特阿拉伯巧妙地承认参与了防御行动。报告还强调沙特阿拉伯对伊朗行为的谴责，指责伊朗支持恐怖主义并破坏与以色列关系正常化的努力。五军之间前所未有的合作标志着抗击伊朗侵略的斗争取得了重大进展。]]></description>
-      <guid>https://t.me/hn_summary/84679</guid>
-      <pubDate>Mon, 15 Apr 2024 17:20:47 GMT</pubDate>
+      <title>[媒体]令人震惊的事件，一对错误的夫妇因电脑错误离婚 [...]</title>
+      <link>https://t.me/hn_summary/84711</link>
+      <description><![CDATA[Vardag律师事务所电脑错误导致错误夫妇离婚 
+事情发生了令人震惊的转折，由于瓦达格律师事务所的电脑错误，一对错误的夫妇被错误地离婚了。这一错误发生在有争议的经济补救程序中，给涉案夫妇带来了困惑和痛苦。高等法院家庭法庭庭长麦克法兰法官强调了情况的严重性。这一事件对我们在法律诉讼中过度依赖技术的潜在陷阱起到了警示作用。围绕此案的争议凸显了在离婚诉讼等敏感问题上进行彻底监督和关注细节的重要性。]]></description>
+      <guid>https://t.me/hn_summary/84711</guid>
+      <pubDate>Mon, 15 Apr 2024 20:43:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]特斯拉正在裁员 14,000 多个工作岗位，约占其员工总数的 10%，以努力成为 [...]</title>
-      <link>https://t.me/hn_summary/84678</link>
-      <description><![CDATA[特斯拉将裁员 1.4 万人，占员工总数的 10%，正如马斯克的目标让它“又瘦又饿”
-特斯拉正在裁员 14,000 多个工作岗位，约占其员工总数的 10%，以提高电动汽车市场的效率和竞争力。首席执行官埃隆·马斯克(Elon Musk)将职位重复和需求放缓视为裁员的原因。该公司最近的困境，包括交付量下降和利润率下降，引发了人们对马斯克领导力对该品牌影响的猜测。此次裁员之际，特斯拉面临着来自中国竞争对手的日益激烈的竞争以及充满挑战的全球市场。此举导致特斯拉股价下跌，引发业界对该公司未来的担忧。]]></description>
-      <guid>https://t.me/hn_summary/84678</guid>
-      <pubDate>Mon, 15 Apr 2024 17:19:42 GMT</pubDate>
+      <title>[媒体] T-Mobile 员工成为非法交换 SIM 卡的现金优惠目标，PO [...]</title>
+      <link>https://t.me/hn_summary/84710</link>
+      <description><![CDATA[全国各地的 T-Mobile 员工收到非法交换 Sim 卡的现金优惠
+T-Mobile 员工成为非法交换 SIM 卡的现金优惠目标，这可能会使客户帐户面临风险。这些短信提供每次交换 300 美元的价格，并声称已从 T-Mobile 的通讯录中获取了员工号码。这引发了人们对数据安全和新违规可能性的担忧。建议客户使用基于非短信的双因素身份验证并在其帐户上启用 SIM 卡保护来保护自己。 T-Mobile 否认系统遭到破坏，但正在调查情况。持续存在的问题突出表明需要采取更好的预防措施来防范 SIM 交换诈骗。]]></description>
+      <guid>https://t.me/hn_summary/84710</guid>
+      <pubDate>Mon, 15 Apr 2024 20:39:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]苹果公司最近从 App Store 中删除了 iGBA Game Boy 模拟器，原因是它违反了 GUI [...]</title>
-      <link>https://t.me/hn_summary/84677</link>
-      <description><![CDATA[Apple 进一步解释 Game Boy Emulator iGBA 为何从 App Store 下架&lt; /a&gt;
-Apple 最近从 App Store 中删除了 iGBA Game Boy 模拟器，原因是它违反了垃圾邮件和侵犯版权的相关准则。该应用程序是开源 GBA4iOS 应用程序的山寨版本，并添加了广告。苹果澄清说，模拟器可以从网络加载 ROM，只要它们仅模拟复古游戏机游戏即可。虽然任天堂警告不要下载盗版游戏，但苹果更新了其指导方针，允许复古游戏机模拟器，并让开发商有责任遵守法律。争议在于苹果公司在意识到 iGBA 的功能是山寨品之前就批准了它，引发了人们对 App Store 允许使用哪些复古游戏机的疑问。]]></description>
-      <guid>https://t.me/hn_summary/84677</guid>
-      <pubDate>Mon, 15 Apr 2024 17:18:38 GMT</pubDate>
+      <title>[媒体]网络内容讨论了 Meta 和 Goo 等主要科技公司的令人震惊的趋势 [...]</title>
+      <link>https://t.me/hn_summary/84709</link>
+      <description><![CDATA[他们正在掠夺互联网
+网络内容讨论了 Meta 和 Google 等主要科技公司通过 Instagram、Facebook 和 YouTube 等平台上的广告赚取数十亿美元收入的惊人趋势。它凸显了向用户推送广告的激进策略、过度货币化导致的用户体验下降以及这些平台上诈骗和错误信息的泛滥。该内容还深入探讨了在线广告行业做法对用户和整个互联网的不利影响。它揭示了在线平台的衰落和利用用户牟利的现象，描绘了现代互联网格局的严峻图景。 （根据故事文本的 42% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/84709</guid>
+      <pubDate>Mon, 15 Apr 2024 20:25:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了旧石器时代晚期文化和创新技术的传播[...]</title>
-      <link>https://t.me/hn_summary/84676</link>
-      <description><![CDATA[从失落化石的快照中学习
-本文讨论了旧石器时代晚期文化以及创新技术在欧洲和地中海的传播。它强调了像 Ksâr ‘Akil 这样的遗址的重要性，在那里发现了旧石器时代早期的文物和人类遗骸，证明创造者是智人。这篇文章还深入研究了 Ksâr ‘Akil 人类遗骸的发现，牙科人类学家贝利和旧石器时代考古学家特赖恩对这些发现进行了分析。令人惊讶的是，他们发现他们正在研究的牙齿并不属于他们认为的那个人，从而对 Ksâr ‘Akil 4 的孩子有了新的认识。]]></description>
-      <guid>https://t.me/hn_summary/84676</guid>
-      <pubDate>Mon, 15 Apr 2024 17:12:33 GMT</pubDate>
+      <title>[媒体] 网络内容讨论了 1933 年继纳兹之后对德国科学的大清洗 [...]</title>
+      <link>https://t.me/hn_summary/84708</link>
+      <description><![CDATA[1933 年德国科学大清洗
+网络内容讨论了 1933 年纳粹党上台后对德国科学界的大清洗。 Berufsbeamtengesetz 法允许解雇“非雅利安人”公务员，影响了哥廷根大学等顶级机构的科学家和学者。像理查德·库朗这样的著名犹太学者被迫移居国外，导致德国科学主导地位的衰落。反对该政权的阿尔伯特·爱因斯坦前往美国。丘吉尔和林德曼致力于营救犹太科学家，比如接受了剑桥大学职位的马克斯·玻恩。内容强调了清洗对科学进步和全球科学界的影响。 （根据 48% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84708</guid>
+      <pubDate>Mon, 15 Apr 2024 20:18:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]特斯拉曾经是电动汽车市场的领军者，如今却面临销量挑战……</title>
-      <link>https://t.me/hn_summary/84675</link>
-      <description><![CDATA[由于销售放缓，特斯拉将裁员 10% 以上
-特斯拉曾经是电动汽车市场的领导者，但现在面临着销售放缓和竞争加剧的挑战。该公司计划裁员 10% 以上，以削减成本并提高生产率。首席执行官埃隆·马斯克承认这是一个艰难的决定，但他认为这对于公司的发展是必要的。由于产品阵容老化，且在中国等关键市场的吸引力有限，特斯拉未来的成功仍存在不确定性。专注于削减成本以及转向机器人出租车而不是新车型的有争议的决定凸显了该公司在竞争激烈的行业中的挣扎。]]></description>
-      <guid>https://t.me/hn_summary/84675</guid>
-      <pubDate>Mon, 15 Apr 2024 17:08:28 GMT</pubDate>
+      <title>小型泰坦巨龙蜥脚类恐龙的一个新属和新种，Titanomachya gimenezi，已被 [...]</title>
+      <link>https://t.me/hn_summary/84707</link>
+      <description><![CDATA[阿根廷发现新泰坦巨龙物种
+在阿根廷巴塔哥尼亚发现了小型泰坦巨蜥脚类恐龙的新属和新种，Titanomachya gimenezi。这个古老的物种在白垩纪末期（大约 6600 万年前）在地球上漫游。 Titanomachya gimenezi 是 Lithostrotia 组的成员，与 Saltasauridae 科具有共同的特征。这一发现揭示了白垩纪晚期巴塔哥尼亚泰坦巨龙的多样性。尽管仅以四肢化石为代表，泰坦马奇亚·吉梅内兹却表现出了独特的特征组合，使其成为蜥脚类恐龙进化景观中一个有趣的标本。]]></description>
+      <guid>https://t.me/hn_summary/84707</guid>
+      <pubDate>Mon, 15 Apr 2024 20:17:29 GMT</pubDate>
     </item>
     <item>
-      <title>查看我在 willmeye.rs 上的最新项目，名为“Little Guys”。</title>
-      <link>https://t.me/hn_summary/84674</link>
-      <description><![CDATA[显示 HN：小家伙
-查看我在 willmeye.rs 上名为“Little Guys”的最新项目。使用面部识别技术和 MET 图像数据集，我在一天内创建了独特的小角色。令人惊奇的是，利用当今可用的技术来创造有趣和有创意的东西是多么简单。亲自检查一下，看看令人惊讶的结果！]]></description>
-      <guid>https://t.me/hn_summary/84674</guid>
-      <pubDate>Mon, 15 Apr 2024 17:07:24 GMT</pubDate>
+      <title>Radxa Rock 5 ITX 是一款采用 Mini ITX 外形的新型单板计算机，具有 [...]</title>
+      <link>https://t.me/hn_summary/84706</link>
+      <description><![CDATA[Radxa Rock 5 ITX：带有 LPDDR5 的 8 核 ARM Mini ITX 主板内存
+Radxa Rock 5 ITX 是一款采用 Mini ITX 外形的新型单板计算机，具有时尚的黑色和金色配色方案。该主板包括 Rockchip RK3588 处理器和 2 个 4GB LPDDR5 SK Hynix 模块，不过与 LPDDR4X 相比存在延迟问题。该主板提供各种连接器，包括 USB、HDMI、以太网和 SATA 端口，使其适合用作低功耗台式机或 NAS。包装中包括一个详细的主板盒，作者很高兴能进一步测试该主板，并希望内存问题能够得到解决。]]></description>
+      <guid>https://t.me/hn_summary/84706</guid>
+      <pubDate>Mon, 15 Apr 2024 20:16:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
