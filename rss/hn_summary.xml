@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 15 Apr 2024 12:08:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 18:04:20 GMT</lastBuildDate>
     <item>
-      <title>据称，由于油门踏板问题导致严重事故，特斯拉已暂停 Cyber​​truck 交付 [...]</title>
-      <link>https://t.me/hn_summary/84623</link>
-      <description><![CDATA[特斯拉据称暂停赛博卡车交付
-据称，由于油门踏板问题导致可怕的油门卡住事件，特斯拉暂停了 Cyber​​truck 的交付。 TikTok 上的一段视频显示踏板盖滑落并卡住油门，引发安全担忧。特斯拉可能需要手动改造现有卡车，以防止潜在的事故。该公司尚未发表官方评论，因此情况存在不确定性。这一事件凸显了了解如何处理任何车辆油门卡住情况的重要性。 Cyber​​truck 踏板的缺陷对特斯拉来说是一个糟糕的表现，强调需要正确制造基本控制装置以确保安全。]]></description>
-      <guid>https://t.me/hn_summary/84623</guid>
-      <pubDate>Mon, 15 Apr 2024 12:08:28 GMT</pubDate>
+      <title>[媒体]加州创造了历史，过去 25 年里，加州一直保持 100% 可再生能源 [...]</title>
+      <link>https://t.me/hn_summary/84683</link>
+      <description><![CDATA[加州为可再生能源树立了标杆
+加州在过去 32 天中有 25 天保持 100% 可再生能源，创造了历史，这在该州历史上尚属首次。斯坦福大学教授马克·Z·雅各布森一直在更新他的社交媒体上的每一个里程碑，强调风能、太阳能和水力发电的成功。尽管来自肮脏能源公司的怀疑，加州正在证明向清洁能源过渡是可能的。 Jacobson 预测，到 2035 年，该州将永久实现 100% WindWaterSolar。这一成就是减少空气污染和应对气候变化的重要一步，为全球可再生能源树立了基准。]]></description>
+      <guid>https://t.me/hn_summary/84683</guid>
+      <pubDate>Mon, 15 Apr 2024 18:04:20 GMT</pubDate>
     </item>
     <item>
-      <title>我正在为欧洲之行做准备，并希望确保我的关键应用程序，例如银行门户 [...]</title>
-      <link>https://t.me/hn_summary/84622</link>
-      <description><![CDATA[与 Tailscale 一起旅行
-我正在为欧洲之行做准备，并希望确保我的关键应用程序（例如银行门户）能够在国外无缝运行。设置 Tailscale 出口节点是解决方案。通过部署 DigitalOcean Droplet 并配置 Tailscale，我成功地将所有流量路由到出口节点。然而，当我使用 Netbird VPN 的工作笔记本电脑与 Tailscale 路由发生冲突时，出现了挑战。为了解决这个问题，我深入研究了 Tailscale 的 IP 路由机制，最终创建了自定义规则，以优先考虑 Netbird 的内部流量和 Tailscale 的外部流量。该解决方案使我能够实现流程自动化，并为我的旅行实现无缝网络设置。]]></description>
-      <guid>https://t.me/hn_summary/84622</guid>
-      <pubDate>Mon, 15 Apr 2024 12:07:24 GMT</pubDate>
+      <title>[媒体]由于破纪录的珊瑚礁白化事件，世界各地的珊瑚礁正在经历毁灭性的白化事件。</title>
+      <link>https://t.me/hn_summary/84682</link>
+      <description><![CDATA[海洋高温导致全球珊瑚白化事件，可能是有记录以来最严重的一次&lt; /a&gt;
+由于破纪录的海洋高温，世界各地的珊瑚礁正在经历毁灭性的白化事件，这可能是有记录以来最严重的一次。超过 54% 的珊瑚礁地区经历了白化，威胁着海洋生物和食物链。海水温度的迅速上升让专家们对珊瑚礁的未来感到担忧。联合国环境规划署警告说，如果不减少排放，将会产生灾难性后果，并预测气温升高 2 度将导致大规模珊瑚死亡。需要采取紧急行动来保护珊瑚礁，这对海洋生物、沿海社区和全球食物来源至关重要。绿色和平组织呼吁立即停止使用新化石燃料，以防止不可逆转的气候灾难。]]></description>
+      <guid>https://t.me/hn_summary/84682</guid>
+      <pubDate>Mon, 15 Apr 2024 17:44:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 加入 Y Combinator 2020 年冬季初创公司 Recall.ai，担任俄罗斯工程师 #4 [...]</title>
-      <link>https://t.me/hn_summary/84621</link>
-      <description><![CDATA[Recall.ai (YC W20) 正在招聘工程师 #4 (Rust)和大规模基础设施）
-加入 Y Combinator 2020 年冬季初创公司 Recall.ai，担任工程师#4 专注于 Rust 和大型基础设施。该职位位于加利福尼亚州旧金山，可以选择远程工作，提供在快节奏的环境中研究尖端技术的机会。如果您对 Rust 编程充满热情并且拥有大规模基础设施的经验，那么这个角色非常适合您。立即申请成为塑造人工智能技术未来的充满活力的团队的一员。不要错过这个令人兴奋的机会，对行业产生重大影响。]]></description>
-      <guid>https://t.me/hn_summary/84621</guid>
-      <pubDate>Mon, 15 Apr 2024 12:01:19 GMT</pubDate>
+      <title>[媒体]Linus Torvalds 已将选项卡注入 Linux 内核的 Kconfig 文件以对抗解析 [...]</title>
+      <link>https://t.me/hn_summary/84681</link>
+      <description><![CDATA[Torvalds 注入选项卡以阻止 Kconfig 解析器无法正确处理它们
+Linus Torvalds 将制表符注入到 Linux 内核的 Kconfig 文件中，以对抗那些难以处理制表符的解析器，而选择使用空格。这一举动是在引入补丁以将 Kconfig 文件中的制表符替换为空格之后发生的，导致 Torvalds 采取了行动。通过向通用 Kconfig 文件添加隐藏选项卡，Torvalds 旨在破坏任何无法正确处理选项卡的第三方解析器。这一决定肯定会给依赖空格作为空白的解析器带来明显的问题。 Torvalds 强调了正确解析 Kconfig 文件中制表符的重要性，强调了制表符与空格混淆的传统 Unix 挑战。]]></description>
+      <guid>https://t.me/hn_summary/84681</guid>
+      <pubDate>Mon, 15 Apr 2024 17:30:59 GMT</pubDate>
     </item>
     <item>
-      <title>介绍我们的最新创新：为您的文档网站提供人工智能驱动的聊天机器人！</title>
-      <link>https://t.me/hn_summary/84620</link>
-      <description><![CDATA[显示 HN：在几秒钟内为您的文档站点创建可共享的 AI 聊天&lt; /a&gt;
-介绍我们的最新创新：为您的文档网站提供人工智能驱动的聊天机器人！只需点击几下，您就可以创建交互式、可共享的人工智能聊天，为用户的问题提供即时答案。告别漫长的等待时间和令人沮丧的信息搜索。我们友好的团队随时为您提供帮助。访问 explainit.mzslabs.com 看看有多么简单利用人工智能技术彻底改变您的文档网站。]]></description>
-      <guid>https://t.me/hn_summary/84620</guid>
-      <pubDate>Mon, 15 Apr 2024 11:42:09 GMT</pubDate>
+      <title>在 Limitless，我们提供由您所见、所言、所闻所驱动的个性化人工智能，同时 [...]</title>
+      <link>https://t.me/hn_summary/84680</link>
+      <description><![CDATA[无限：由您所见所闻提供支持的个性化人工智能，说，并听到了
+在 Limitless，我们提供基于您的所见、所说和所听内容的个性化人工智能，同时确保您的隐私受到我们的机密云技术的保护。机密云比端到端加密更好，即使您不使用该应用程序，您的个性化人工智能也可以为您工作。您可以控制谁可以解密您的数据，并且您的数据将被匿名化以保护您的身份。我们绝不会出售您的数据，并使用带有唯一密钥的信封加密来提高安全性。此外，我们还保护您的数据免遭第三方人工智能提供商、云提供商和传票的侵害，确保您的信息安全可靠。]]></description>
+      <guid>https://t.me/hn_summary/84680</guid>
+      <pubDate>Mon, 15 Apr 2024 17:29:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Apple 正准备通过即将推出的 M4 芯片彻底改变其 Mac 产品线，该芯片将 [...]</title>
-      <link>https://t.me/hn_summary/84619</link>
-      <description><![CDATA[Apple 准备推出 M4 芯片 Mac 系列，包括新款 MacBook Air 和 Mac Pro 
-苹果正准备通过即将推出的 M4 芯片彻底改变其 Mac 系列，该芯片将展示人工智能功能。随着 M3 芯片 Mac 的发布，这家科技巨头现在即将推出下一代处理器。 Apple 计划至少为所有 Mac 机型配备 M4 芯片，目前正在开发至少三种主要版本。此举正值苹果公司旨在为其电脑销售注入新活力之际。请继续关注这一突破性发展的更多更新。]]></description>
-      <guid>https://t.me/hn_summary/84619</guid>
-      <pubDate>Mon, 15 Apr 2024 11:41:06 GMT</pubDate>
+      <title>[媒体]沙特阿拉伯令人惊讶地承认其在帮助保卫以色列方面的作用[...]</title>
+      <link>https://t.me/hn_summary/84679</link>
+      <description><![CDATA[沙特阿拉伯承认帮助保卫以色列免受伊朗侵害
+沙特阿拉伯令人惊讶地承认其在帮助保护以色列免受伊朗袭击方面所发挥的作用。王室网站引用了 KAN News 的一篇报道，详细介绍了沙特阿拉伯如何与美国、约旦、英国和法国一起，在伊朗无人机和导弹抵达以色列之前成功拦截了 99% 的伊朗无人机和导弹。这一消息是在该地区紧张局势不断升级之际公布的，沙特阿拉伯巧妙地承认参与了防御行动。报告还强调沙特阿拉伯对伊朗行为的谴责，指责伊朗支持恐怖主义并破坏与以色列关系正常化的努力。五军之间前所未有的合作标志着抗击伊朗侵略的斗争取得了重大进展。]]></description>
+      <guid>https://t.me/hn_summary/84679</guid>
+      <pubDate>Mon, 15 Apr 2024 17:20:47 GMT</pubDate>
     </item>
     <item>
-      <title>在 2022 年的更新中，作者讨论了基于 C 构建的概念验证 Python 可执行文件 [...]</title>
-      <link>https://t.me/hn_summary/84618</link>
-      <description><![CDATA[Python 实际上是可移植的（2022）
-在 2022 年的更新中，作者讨论了基于 Cosmopolitan Libc 构建的概念验证 Python 可执行文件，该可执行文件允许 Python 在六种不同的操作系统上运行。作者详细介绍了 python.com 相对于普通 Python 所做的改进，包括更快的加载、减小尺寸以及改进的构建和测试系统。这篇文章还介绍了编译 Python、添加标准库模块以及使用 pip 等外部包所面临的挑战。作者探索了 python.com&lt; 的性能调优和自定义构建系统的潜力/a&gt; 可执行文件，突出了这个可移植版本的 Python 令人兴奋的可能性。 （根据 97% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84618</guid>
-      <pubDate>Mon, 15 Apr 2024 11:40:02 GMT</pubDate>
+      <title>[媒体]特斯拉正在裁员 14,000 多个工作岗位，约占其员工总数的 10%，以努力成为 [...]</title>
+      <link>https://t.me/hn_summary/84678</link>
+      <description><![CDATA[特斯拉将裁员 1.4 万人，占员工总数的 10%，正如马斯克的目标让它“又瘦又饿”
+特斯拉正在裁员 14,000 多个工作岗位，约占其员工总数的 10%，以提高电动汽车市场的效率和竞争力。首席执行官埃隆·马斯克(Elon Musk)将职位重复和需求放缓视为裁员的原因。该公司最近的困境，包括交付量下降和利润率下降，引发了人们对马斯克领导力对该品牌影响的猜测。此次裁员之际，特斯拉面临着来自中国竞争对手的日益激烈的竞争以及充满挑战的全球市场。此举导致特斯拉股价下跌，引发业界对该公司未来的担忧。]]></description>
+      <guid>https://t.me/hn_summary/84678</guid>
+      <pubDate>Mon, 15 Apr 2024 17:19:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 幸运VS.</title>
-      <link>https://t.me/hn_summary/84617</link>
-      <description><![CDATA[幸运与重复
-在运气和成功的世界里，区分什么是幸运的和什么是可重复的很重要。虽然运气看起来是随机且不可预测的，但不可重复的往往是无法轻易复制的独特环境和技能的结果。向杰夫·贝索斯或沃伦·巴菲特等成功人士学习包括了解哪些技能和策略是可重复的和可以效仿的，而不是试图复制特定的、不可重复的事件。通过专注于可重复的事情，普通人有更好的机会取得成功，并在他们的努力中变得“更幸运”。]]></description>
-      <guid>https://t.me/hn_summary/84617</guid>
-      <pubDate>Mon, 15 Apr 2024 11:22:54 GMT</pubDate>
+      <title>[媒体]苹果公司最近从 App Store 中删除了 iGBA Game Boy 模拟器，原因是它违反了 GUI [...]</title>
+      <link>https://t.me/hn_summary/84677</link>
+      <description><![CDATA[Apple 进一步解释 Game Boy Emulator iGBA 为何从 App Store 下架&lt; /a&gt;
+Apple 最近从 App Store 中删除了 iGBA Game Boy 模拟器，原因是它违反了垃圾邮件和侵犯版权的相关准则。该应用程序是开源 GBA4iOS 应用程序的山寨版本，并添加了广告。苹果澄清说，模拟器可以从网络加载 ROM，只要它们仅模拟复古游戏机游戏即可。虽然任天堂警告不要下载盗版游戏，但苹果更新了其指导方针，允许复古游戏机模拟器，并让开发商有责任遵守法律。争议在于苹果公司在意识到 iGBA 的功能是山寨品之前就批准了它，引发了人们对 App Store 允许使用哪些复古游戏机的疑问。]]></description>
+      <guid>https://t.me/hn_summary/84677</guid>
+      <pubDate>Mon, 15 Apr 2024 17:18:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]GestureX 是 GitHub 上的一个项目，允许用户用手控制他们的 Linux PC [...]</title>
-      <link>https://t.me/hn_summary/84616</link>
-      <description><![CDATA[使用 OpenCV、GTK、Mediapipe 的手势控制基于 Linux 的发行版&lt; /a&gt;
-GestureX 是 GitHub 上的一个项目，允许用户使用手势控制他们的 Linux PC。通过为不同的手势分配命令或功能，用户可以免提与计算机交互。该项目仍处于测试阶段，不稳定，但具有实时网络摄像头和手势识别功能，通过图形用户界面轻松配置，并支持各种手势，如“好的”、“安静”和“竖起大拇指”。 GestureX 的与众不同之处在于它使用 OpenCV、GTK 和 Mediapipe 进行手势识别，以及可自定义的命令映射。]]></description>
-      <guid>https://t.me/hn_summary/84616</guid>
-      <pubDate>Mon, 15 Apr 2024 11:21:50 GMT</pubDate>
+      <title>[媒体]文章讨论了旧石器时代晚期文化和创新技术的传播[...]</title>
+      <link>https://t.me/hn_summary/84676</link>
+      <description><![CDATA[从失落化石的快照中学习
+本文讨论了旧石器时代晚期文化以及创新技术在欧洲和地中海的传播。它强调了像 Ksâr ‘Akil 这样的遗址的重要性，在那里发现了旧石器时代早期的文物和人类遗骸，证明创造者是智人。这篇文章还深入研究了 Ksâr ‘Akil 人类遗骸的发现，牙科人类学家贝利和旧石器时代考古学家特赖恩对这些发现进行了分析。令人惊讶的是，他们发现他们正在研究的牙齿并不属于他们认为的那个人，从而对 Ksâr ‘Akil 4 的孩子有了新的认识。]]></description>
+      <guid>https://t.me/hn_summary/84676</guid>
+      <pubDate>Mon, 15 Apr 2024 17:12:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]2016年，日本政府推出了Society 5.0，一个新时代的创新特征[...]</title>
-      <link>https://t.me/hn_summary/84615</link>
-      <description><![CDATA[可以熔化钢铁的微型超亮激光器
-2016年，日本政府推出了Society 5.0，这是一个以按需商品和机器人为特色的创新新时代。虽然人工智能至关重要，但经常被忽视的关键技术是激光。半导体激光器对于这项工作来说太暗了，但一种称为光子晶体表面发射激光器（PCSEL）的新型激光器正在彻底改变该领域。 PCSEL 使用独特的瑞士奶酪层来控制光传播，从而产生可以熔化钢铁的超亮光束。这些激光器由京都大学的一个团队开发，具有改变行业的潜力，甚至可以实现核聚变和航天推进等奇异应用。 （根据故事文本的 63% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/84615</guid>
-      <pubDate>Mon, 15 Apr 2024 11:20:46 GMT</pubDate>
+      <title>[媒体]特斯拉曾经是电动汽车市场的领军者，如今却面临销量挑战……</title>
+      <link>https://t.me/hn_summary/84675</link>
+      <description><![CDATA[由于销售放缓，特斯拉将裁员 10% 以上
+特斯拉曾经是电动汽车市场的领导者，但现在面临着销售放缓和竞争加剧的挑战。该公司计划裁员 10% 以上，以削减成本并提高生产率。首席执行官埃隆·马斯克承认这是一个艰难的决定，但他认为这对于公司的发展是必要的。由于产品阵容老化，且在中国等关键市场的吸引力有限，特斯拉未来的成功仍存在不确定性。专注于削减成本以及转向机器人出租车而不是新车型的有争议的决定凸显了该公司在竞争激烈的行业中的挣扎。]]></description>
+      <guid>https://t.me/hn_summary/84675</guid>
+      <pubDate>Mon, 15 Apr 2024 17:08:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 光镊是使用激光束固定和移动麦克风的科学仪器 [...]</title>
-      <link>https://t.me/hn_summary/84614</link>
-      <description><![CDATA[光镊
-光镊是使用激光束来固定和移动原子和纳米粒子等微观物体的科学仪器。光镊由阿瑟·阿什金 (Arthur Ashkin) 开发，彻底改变了生物学、医学和量子光学等领域。朱棣文 (Steven Chu) 是光镊研发的关键人物，他利用光镊捕获中性原子，为他赢得了诺贝尔物理学奖。光镊在研究单分子、生物马达和细胞运动方面发挥了重要作用。它们还被用来捕获激光冷却的原子，用于量子科学应用。这项技术不断发展，努力让预算较少的研究人员更容易使用光镊。 （根据故事文本的 12% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/84614</guid>
-      <pubDate>Mon, 15 Apr 2024 11:13:40 GMT</pubDate>
+      <title>查看我在 willmeye.rs 上的最新项目，名为“Little Guys”。</title>
+      <link>https://t.me/hn_summary/84674</link>
+      <description><![CDATA[显示 HN：小家伙
+查看我在 willmeye.rs 上名为“Little Guys”的最新项目。使用面部识别技术和 MET 图像数据集，我在一天内创建了独特的小角色。令人惊奇的是，利用当今可用的技术来创造有趣和有创意的东西是多么简单。亲自检查一下，看看令人惊讶的结果！]]></description>
+      <guid>https://t.me/hn_summary/84674</guid>
+      <pubDate>Mon, 15 Apr 2024 17:07:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
