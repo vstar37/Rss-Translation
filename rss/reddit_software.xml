@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 17 Apr 2024 15:13:31 GMT</lastBuildDate>
+    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Wed, 17 Apr 2024 18:14:38 GMT</lastBuildDate>
+    <item>
+      <title>用于组织媒体的软件/文件浏览器建议。</title>
+      <link>https://www.reddit.com/r/software/comments/1c6fd8x/softwarefile_explorer_suggestions_for_organizing/</link>
+      <description><![CDATA[所以我收集物理媒体，但我也喜欢制作更难找到的绝版 DVD 的 iso 映像，但我不会能够根据收藏市场的走向再次购买。我用几个软件很好地解决了这部分问题。我正在寻找的是能够更好地对它们进行分类的东西。我使用 MPV 和 VLC 作为我的播放器，像 kodi 这样的东西有点不能满足我的需求。我正在寻找一种适合使用标签的媒体的文件浏览器。我尝试使用 kodi 作为前端，并让它使用 VLC 作为外部播放器，但在我的场景中，以这种方式使用 kodi 是多余的，因为我没有使用电视作为显示器。有没有适合我正在寻找的文件浏览器？我还使用 Tiny Media Manager 来获取每个文件的电影信息，但它并没有真正提供更多的信息。   由   提交 /u/MissingHubCap   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1c6fd8x/softwarefile_explorer_suggestions_for_organizing/</guid>
+      <pubDate>Wed, 17 Apr 2024 17:11:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求在线 Teams 会议中语言障碍的建议</title>
+      <link>https://www.reddit.com/r/software/comments/1c6crmy/seeking_advice_for_language_barrier_in_online/</link>
+      <description><![CDATA[大家好， 我在 Teams 中进行在线团队会议时遇到了一些困难。主要语言是英语，不幸的是，我不太精通它。管理员已禁用将音频转录为文本的选项，这对我来说非常有帮助，因为这样我可以更好地阅读并理解英语。 由于管理员禁用了 Microsoft Translator，我&#39;我现在正在寻找替代解决方案。您是否有其他推荐的工具或方法可以在 Teams 会议期间进行实时翻译或转录？   由   提交 /u/Ibelynx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1c6crmy/seeking_advice_for_language_barrier_in_online/</guid>
+      <pubDate>Wed, 17 Apr 2024 15:28:17 GMT</pubDate>
+    </item>
     <item>
       <title>我什么都不知道，需要建议</title>
       <link>https://www.reddit.com/r/software/comments/1c6aslz/i_dont_know_anything_and_need_advice_please/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我下载了免费版本来测试它，然后让它监视一个目录，然后我删除了一个文件来看看它是否可以检测到它。没有检测到任何东西..帮忙？   由   提交/u/dokha  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1c5nln0/watch_4_folder_program_not_working_or_just_me/</guid>
       <pubDate>Tue, 16 Apr 2024 18:34:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件开发人员</title>
-      <link>https://www.reddit.com/r/software/comments/1c5nhum/software_developer/</link>
-      <description><![CDATA[嘿！我叫巴勃罗，我正在寻找获得经验的机会。我愿意为你工作。这是我的简历（pablomatheis.com）。预先非常感谢   由   提交 /u/WinterMiserable5994   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1c5nhum/software_developer/</guid>
-      <pubDate>Tue, 16 Apr 2024 18:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>将长视频分成相等的片段。</title>
-      <link>https://www.reddit.com/r/software/comments/1c5m0pd/splitting_a_long_video_in_equal_segments/</link>
-      <description><![CDATA[我想自动将几个视频分割成等长的剪辑。例如，如果我有一个 35:00 分钟的视频，我想将其分割为 50 个等长的剪辑，是否有一个好的软件可以自动执行此操作？或者，如果我想要视频的 :30 秒剪辑，是否有软件可以将其分割为多个 :30 秒剪辑？    由   提交/u/aleach78  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1c5m0pd/splitting_a_long_video_in_equal_segments/</guid>
-      <pubDate>Tue, 16 Apr 2024 17:31:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
