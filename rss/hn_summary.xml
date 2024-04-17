@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 16 Apr 2024 21:01:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 00:49:07 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Spellbrush (YC W18) 招聘一位热爱动漫的分布式系统工程师；</title>
-      <link>https://t.me/hn_summary/84882</link>
-      <description><![CDATA[Spellbrush (YC W18) 雇用一位热爱动漫的分布式系统工程师；东京/旧金山
-Spellbrush 是一家 Y Combinator Winter 2018 初创公司，正在寻找一位对动漫充满热情的分布式系统工程师。这一独特的机会允许在东京或旧金山进行远程工作。如果您热爱动漫并拥有分布式系统方面的专业知识，那么这可能是您的完美角色。加入一个充满活力的团队，从事尖端项目，同时沉迷于您最喜欢的动漫系列。不要错过这个激动人心的机会，在蓬勃发展的创业环境中将您的热情和技能结合起来。立即申请！]]></description>
-      <guid>https://t.me/hn_summary/84882</guid>
-      <pubDate>Tue, 16 Apr 2024 21:01:17 GMT</pubDate>
+      <title>您可以在 news.ycombinator.com 上找到使用 Protobuf 的热门项目列表。</title>
+      <link>https://t.me/hn_summary/84919</link>
+      <description><![CDATA[使用 Protobuf 的热门项目列表
+您可以在 news.ycombinator.com 上找到使用 Protobuf 的热门项目列表。此列表展示了在其系统中成功实现 Protobuf 的各种知名项目。从大型科技公司到开源项目，Protobuf 已被证明是高效数据序列化和通信的宝贵工具。查看列表，了解 Protobuf 在科技行业的应用情况，并为您自己的项目获取灵感。]]></description>
+      <guid>https://t.me/hn_summary/84919</guid>
+      <pubDate>Wed, 17 Apr 2024 00:49:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]苹果的 iOS 18 将为 Siri 带来重大升级，重点关注隐私问题 [...]</title>
-      <link>https://t.me/hn_summary/84881</link>
-      <description><![CDATA[Apple 的 iOS 18 AI 将在设备上保护隐私，而不是服务器端
-苹果的 iOS 18 将对 Siri 进行重大升级，通过直接在 iPhone 上处理人工智能，无需连接云服务，重点关注隐私。新的设备上人工智能功能将允许离线文本分析和响应生成，更高级的功能仍然需要互联网连接。苹果公司内部的大型语言模型“Ajax”旨在通过提高文本生成质量并消除与服务器端人工智能相关的争议来与现有人工智能工具竞争。此举体现了 Apple 对人工智能领域隐私和创新的承诺。]]></description>
-      <guid>https://t.me/hn_summary/84881</guid>
-      <pubDate>Tue, 16 Apr 2024 20:57:13 GMT</pubDate>
+      <title>[媒体]Spy.pet 声称已从 6.2 亿人那里收集了超过 40 亿条公共信息 [...]</title>
+      <link>https://t.me/hn_summary/84918</link>
+      <description><![CDATA[该网站声称已收获 4B+ Discord 聊天内容，只要付出代价即可获得
+Spy.pet 声称已从 620 条信息中收集了超过 40 亿条公共消息14,000 个 Discord 服务器上有 10 亿用户，并正在出售这些数据的访问权限。该网站提供包含用户信息、连接帐户和公共消息的个人资料（收费）。用户必须购买积分才能访问此信息，每个积分花费一美分。 Spy.pet 还提供用于训练 AI 模型的“企业”选项或收集情报。该网站面临 DDoS 攻击和支付问题，其对 GDPR 的解释引发担忧。 Discord 正在调查该服务，以确定是否需要采取任何行动。]]></description>
+      <guid>https://t.me/hn_summary/84918</guid>
+      <pubDate>Wed, 17 Apr 2024 00:32:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]2011年3月11日，Ocean Link总工程师平井光义在我司考察 [...]</title>
-      <link>https://t.me/hn_summary/84880</link>
-      <description><![CDATA[海底云
-2011年3月11日，Ocean Link总工程师Mitsuyoshi Hirai正在修复受损的光缆，这时发生了地震，引发了海啸的担忧。船员们撤离到更深的水域，侥幸逃过一劫。由于多条电缆因地震而失效，船员们维护承载世界 99% 数据的海底电缆的工作变得更加重要。这个故事凸显了这些有线电视行业专业人士在保持世界互联方面发挥着重要但经常被忽视的作用，即使是在面临自然灾害的情况下也是如此。 （根据故事文本的 10% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/84880</guid>
-      <pubDate>Tue, 16 Apr 2024 20:48:06 GMT</pubDate>
+      <title>[媒体]在这篇博文中，作者反思了他们囤积药水和卷轴的倾向[...]</title>
+      <link>https://t.me/hn_summary/84917</link>
+      <description><![CDATA[使用你的药水和卷轴
+在这篇博文中，作者反思了他们在 RPG 游戏中囤积药水和卷轴的倾向，并与他们在现实生活中克制寻求帮助或推广项目的方式进行了类比。在玩完《博德之门 3》并决定根据需要使用物品后，他们发现这不仅为游戏增添了新的乐趣，而且还能发现隐藏的任务。将这种心态应用到他们的个人和职业生活中，他们意识到使用资源不会耗尽它们，而是会开辟新的机会。作者鼓励读者停止囤积资源，而是有策略地利用它们在生活中前进。]]></description>
+      <guid>https://t.me/hn_summary/84917</guid>
+      <pubDate>Wed, 17 Apr 2024 00:26:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]全球火力指数是对世界各国军事实力的综合排名。</title>
-      <link>https://t.me/hn_summary/84879</link>
-      <description><![CDATA[全球火力指数
-全球火力指数是对世界各国军事实力的综合排名。该指数综合考虑了人力、装备、资源等因素来确定哪些国家拥有最强大的军事力量。它提供了对不同国家的能力及其自卫或参与冲突的能力的令人着迷的见解。该指数定期更新数据，对于那些对全球军事实力动态感兴趣的人来说是宝贵的资源。探索排名并了解您的国家在世界军事实力中的地位。]]></description>
-      <guid>https://t.me/hn_summary/84879</guid>
-      <pubDate>Tue, 16 Apr 2024 20:43:00 GMT</pubDate>
+      <title>[媒体]波音公司持续存在的质量问题导致联合航空公司在第一季度损失了 2 亿美元 [...]</title>
+      <link>https://t.me/hn_summary/84916</link>
+      <description><![CDATA[波音公司的问题在 2024 年第一季度给美联航造成了 2 亿美元的损失 
+波音公司持续存在的质量问题导致联合航空在 2024 年第一季度损失了 2 亿美元，导致该公司陷入亏损。阿拉斯加航空航班发生事故后，波音 737 Max 9 喷气式飞机停飞，引发了人们对波音飞机安全的担忧。严重依赖波音飞机的美联航还面临着发动机着火和轮子从飞机上掉落等更多事故。该航空公司目前正在向空中客车公司寻求替代方案，租赁了 35 架新的 A321neo。尽管面临这些挑战，美联航的收入和乘客飞行里程仍有所改善，在面对波音的问题时表现出了韧性。]]></description>
+      <guid>https://t.me/hn_summary/84916</guid>
+      <pubDate>Wed, 17 Apr 2024 00:15:49 GMT</pubDate>
     </item>
     <item>
-      <title>陈的算法在一份新的电子出版物中详细介绍，在密码学界引起了轰动。</title>
-      <link>https://t.me/hn_summary/84878</link>
-      <description><![CDATA[一篇关于 Chen 算法的快速文章
-陈的算法在一份新的电子出版物中详细介绍，在密码学界引起了轰动。该算法声称可以在量子计算机上有效解决晶格问题，可能威胁到当前的加密方案。虽然该漏洞是特定的，不会对 NIST 批准的算法构成直接威胁，但其影响是重大的。如果加以改进，这种量子算法可能会使当前基于晶格的方案变得过时，从而促使人们重新评估后量子密码学。技术成果令人印象深刻，但潜在后果令人担忧。专家目前正在评估该算法的有效性和对该领域的影响。]]></description>
-      <guid>https://t.me/hn_summary/84878</guid>
-      <pubDate>Tue, 16 Apr 2024 20:39:56 GMT</pubDate>
+      <title>[媒体]美国众议院重新授权并扩大了备受争议的间谍活动 [...]</title>
+      <link>https://t.me/hn_summary/84915</link>
+      <description><![CDATA[美国重新授权并扩大其监控法律
+美国众议院重新授权并扩大了备受争议的间谍法，即《外国情报监视法》第 702 条，允许情报机构对美国人的通信进行未经授权的监视。特纳-海姆斯修正案甚至允许联邦执法部门强迫任何有权使用通信设备的服务提供商交出数据，实质​​上将普通美国人和企业视为政府间谍。监视权力的扩大引发了人们对隐私权和第一修正案利益的担忧，因为 FBI 已经滥用第 702 条来针对抗议者、记者和政治捐助者。参议院必须否决该法案并要求进行改革，以保护美国人免受不正当的政府间谍活动。]]></description>
+      <guid>https://t.me/hn_summary/84915</guid>
+      <pubDate>Wed, 17 Apr 2024 00:09:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]人气网络游戏《WizardLM》近日因未进行毒性测试而下架。</title>
-      <link>https://t.me/hn_summary/84877</link>
-      <description><![CDATA[WizardLM 由于缺少毒性测试而未发布
-WizardLM是一款流行的在线游戏，最近由于缺少毒性测试而被取消发布。这一决定引发了粉丝的争议，一些人认为游戏在被下架之前应该有机会纠正问题。这种情况令人惊讶的是，许多玩家并不知道毒性测试的要求，现在对游戏的突然下架感到失望。它提醒人们遵守所有准则和法规以确保在线平台的长寿的重要性。]]></description>
-      <guid>https://t.me/hn_summary/84877</guid>
-      <pubDate>Tue, 16 Apr 2024 20:27:49 GMT</pubDate>
+      <title>佛罗里达州户外工人热防护禁令已由州长签署成为法律。</title>
+      <link>https://t.me/hn_summary/84914</link>
+      <description><![CDATA[禁止户外工人使用热防护措施可能会造成“公共卫生危机” 
+佛罗里达州州长罗恩·德桑蒂斯(Ron DeSantis)签署了禁止户外工人穿热防护服的禁令，引发了人们对潜在公共卫生危机的担忧。尽管气候变化导致气温上升，但该立法禁止地方政府为极端高温下的工人提供保护。临床药剂师 Shauna Junco 警告说，热病是一个重大威胁，造成的死亡人数比自然灾害死亡人数的总和还要多。埃斯特班·伍德（Esteban Wood）等倡导者批评这项法律，称其为耻辱和可耻，因为它使工人面临风险并扼杀了当地的进步。随着夏季炎热的临近，倡导者正在探索保护户外工作者的替代方法，强调需要更容易获得医疗服务。]]></description>
+      <guid>https://t.me/hn_summary/84914</guid>
+      <pubDate>Tue, 16 Apr 2024 23:49:31 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：你玩过哪些老游戏？</title>
-      <link>https://t.me/hn_summary/84876</link>
-      <description><![CDATA[询问 HN：您在玩哪些旧游戏？
-我最近完成了《最终幻想 X》，现在我第一次进入《最终幻想 VII》。我相信那个时代的游戏更具吸引力，因为它们依赖于创造力而不是华而不实的图形。他们不会太认真地对待自己，只是玩起来更有趣。一段时间后，也更容易识别真正的宝石。令人惊讶的是，几个小时后，您就不再注意到旧图形了。您最近第一次玩过什么老游戏吗？分享您在 HN 上的经历！]]></description>
-      <guid>https://t.me/hn_summary/84876</guid>
-      <pubDate>Tue, 16 Apr 2024 20:12:42 GMT</pubDate>
+      <title>[媒体]自20世纪中叶以来，百万富翁的有效税率已减少一半，导致[...]</title>
+      <link>https://t.me/hn_summary/84913</link>
+      <description><![CDATA[自 20 世纪中期以来，百万富翁的有效税率已减半世纪
+自20世纪中叶以来，百万富翁的有效税率已减少一半，导致财富不平等创历史新高。美国税收公平组织发现，百万富翁现在缴纳的平均有效税率为 26.2%，而 1945 年至 1980 年间为 50.1%。联邦政府因此错失了数十亿美元的税收收入。税法已经变得有利于富人和企业，导致财富不平等加剧。亿万富翁从最近的减税政策中获益匪浅，他们的集体财富创下历史新高。美国税收公平组织建议进行税法改革，使税率更加公平。]]></description>
+      <guid>https://t.me/hn_summary/84913</guid>
+      <pubDate>Tue, 16 Apr 2024 23:35:23 GMT</pubDate>
     </item>
     <item>
-      <title>隆重推出 app.safa.ai，这是一款为 Linux 内核生成文档的革命性工具。</title>
-      <link>https://t.me/hn_summary/84875</link>
-      <description><![CDATA[显示 HN：为 Linux 内核生成的文档
-隆重推出 app.safa.ai，这是一款革命性的工具，可生成Linux 内核的文档。只需启用 JavaScript 即可体验 Safa 的全部功能。这个创新平台为用户提供了详细而全面的 Linux 内核文档，使用户能够比以往更轻松地导航和理解这个复杂的系统。告别繁琐的手动文档，迎接 Safa 的便利。探索当今的可能性并彻底改变您与 Linux 内核交互的方式。]]></description>
-      <guid>https://t.me/hn_summary/84875</guid>
-      <pubDate>Tue, 16 Apr 2024 20:11:39 GMT</pubDate>
+      <title>[媒体]美国宇航局肯尼迪航天中心正在利用电动防尘罩 (EDS) 技术 [...]</title>
+      <link>https://t.me/hn_summary/84912</link>
+      <description><![CDATA[NASA 技术有助于抵御月球尘埃
+美国宇航局肯尼迪航天中心正在利用电动防尘罩 (EDS) 技术来对抗有害的月球尘埃，这些尘埃对执行月球和火星任务的宇航员和航天器构成威胁。与地球尘埃不同，月球风化层锋利且具有磨蚀性，这使其成为一项重大挑战。 EDS 技术基于 1967 年开发的概念，在去除真空室甚至太空表面的灰尘方面已显示出可喜的效果。随着即将到来的月球任务，EDS 技术可以在确保月球任务的成功和人类在月球上建立存在方面发挥至关重要的作用。]]></description>
+      <guid>https://t.me/hn_summary/84912</guid>
+      <pubDate>Tue, 16 Apr 2024 23:32:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]台积电正在制定雄心勃勃的目标，以 2 [...]</title>
-      <link>https://t.me/hn_summary/84874</link>
-      <description><![CDATA[台积电计划到 2030 年在单个封装上安装数万亿个晶体管&lt; /a&gt;
-台积电制定了雄心勃勃的目标，即到 2030 年在一个封装中集成 1 万亿个晶体管，这与英特尔的长期愿景保持一致。这将通过先进的 3D 封装和提高单片芯片的复杂性来实现，从而在单个芯片上实现多达 2000 亿个晶体管的设计。虽然多芯片组架构很流行，但台积电强调封装和原始晶体管密度需要同时扩大。该公司的路线图包括将当今最大芯片的晶体管数量增加一倍，并计划实现超过 1000 亿个晶体管单片设计，并最终达到 2000 亿个。台积电有信心实现突破以满足未来的密度需求，但承认物理最终将决定时间表。]]></description>
-      <guid>https://t.me/hn_summary/84874</guid>
-      <pubDate>Tue, 16 Apr 2024 20:10:36 GMT</pubDate>
+      <title>news.ycombinator.com 上这篇文章的作者呼吁对主要人工智能进行快照 [...]</title>
+      <link>https://t.me/hn_summary/84911</link>
+      <description><![CDATA[告诉 HN：我们应该快照一个主要是 AI 输出的免费版本网页
+news.ycombinator.com 上这篇文章的作者是呼吁在为时已晚之前对主要是人工智能输出的免费网络版本进行快照。他们对人工智能生成的大量内容缺乏质量和相关性表示失望。作者建议，拥有没有人工智能干扰的网络快照可以作为评估信息源的基准。他们推测，谷歌、OpenAI 和 Facebook 等科技巨头可能已经拥有此类快照来训练他们的人工智能。保留一个不受人工智能操纵的网络版本的想法既充满争议又发人深省。]]></description>
+      <guid>https://t.me/hn_summary/84911</guid>
+      <pubDate>Tue, 16 Apr 2024 23:11:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]萨尔曼·拉什迪 (Salman Rushdie) 在舞台上被刺伤之前的两个晚上做了一个生动的噩梦 [...]</title>
-      <link>https://t.me/hn_summary/84873</link>
-      <description><![CDATA[袭击发生前两天晚上，萨尔曼·拉什迪梦见自己在舞台上被刺伤&lt; /a&gt;
-萨尔曼·拉什迪 (Salman Rushdie) 在 2022 年的一场文学活动中在舞台上被刺伤之前的两个晚上做了一场生动的噩梦。这次袭击让他受了重伤，让人想起他在小说《撒旦诗篇》出版后面临的死亡威胁。拉什迪的新书《刀》深入探讨了这次袭击、他的康复以及有关身份的存在主义问题。尽管遭受创伤，拉什迪并没有抓住愤怒，而是专注于爱和治愈。他在使用呼吸机时出现了幻觉，并对生活有了新的认识，将每一天都视为一种祝福。拉什迪的韧性和视角为面对死亡和在脆弱中寻找力量提供了独特的见解。]]></description>
-      <guid>https://t.me/hn_summary/84873</guid>
-      <pubDate>Tue, 16 Apr 2024 20:09:32 GMT</pubDate>
+      <title>[媒体]澳大利亚科学家创造了一种超强、轻质的“超材料”，灵感来自于[...]</title>
+      <link>https://t.me/hn_summary/84910</link>
+      <description><![CDATA[3D打印的“超材料”比自然界中的任何东西都强大
+澳大利亚科学家利用先进的金属 3D 打印技术，受植物启发，创造了一种超强、轻质的“超材料”。这种新材料具有均匀分布负载应力的晶格结构，使其比类似密度的最强航空航天合金强度高 50%。独特的设计融合了两个互补的晶格结构，避免了应力通常集中的薄弱环节。虽然制造过程最初可能是实际应用的障碍，但随着技术的发展，它将变得更容易实现。这一创新创造为高强度材料在各个行业的应用开辟了可能性。]]></description>
+      <guid>https://t.me/hn_summary/84910</guid>
+      <pubDate>Tue, 16 Apr 2024 22:52:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
