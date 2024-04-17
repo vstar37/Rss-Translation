@@ -4,7 +4,71 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 17 Apr 2024 05:43:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 08:34:17 GMT</lastBuildDate>
+    <item>
+      <title>Perliss 在 www.cs.yale.edu 上的编程警句提供了 92 条发人深省且诙谐的陈述 [...]</title>
+      <link>https://t.me/hn_summary/84950</link>
+      <description><![CDATA[玻璃市的编程警句
+Perliss 的编程警句，位于 www.cs.yale.edu 提供 92 条关于编程的发人深省且诙谐的陈述。从结构数据的重要性到递归的复杂性，每个警句都挑战程序员以不同的方式思考他们的技术。有争议的是，珀利斯认为编写不正确的程序比理解正确的程序更容易，而且优化会阻碍进化。令人惊讶的是，他还触及了编程的哲学方面，并将其与雕刻和双关语进行了比较。这本警句集是任何想要拓展编码艺术视野的程序员的必读之作。 （根据 79% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84950</guid>
+      <pubDate>Wed, 17 Apr 2024 08:34:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我很高兴与大家分享我的最新项目 - 我创建的自定义光标生成器[...]</title>
+      <link>https://t.me/hn_summary/84949</link>
+      <description><![CDATA[显示 HN：我在 1 周内制作了一个自定义光标生成器
+我很高兴与大家分享我的最新项目 - 我在短短一周内创建的自定义光标生成器！通过 cursumber.com，您可以轻松自定义光标以匹配您的独特的风格和个性。最好的部分？您只需支付 19 美元一次即可无限制地使用此工具。告别无聊的默认光标，迎接个性化的浏览体验。今天就尝试一下，让您的光标脱颖而出！]]></description>
+      <guid>https://t.me/hn_summary/84949</guid>
+      <pubDate>Wed, 17 Apr 2024 08:16:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]电动汽车 (EV) 的成功被严重低估，关键数据 [...]</title>
+      <link>https://t.me/hn_summary/84948</link>
+      <description><![CDATA[电动汽车的成功被严重低估
+电动汽车 (EV) 的成功被严重低估，关键数据往往隐藏在付费墙后面。 EV Universe 旨在提供有关全球电动汽车销售的详细、免费信息，追踪 2023 年 57 个国家超过 1000 万辆纯电动汽车的销售情况。这份全面的概览显示，全球电动汽车销量增长了 34.7%，到 2023 年售出的汽车中就有 9 辆是纯电动汽车。中国以 626 万辆电动汽车销量位居榜首，其次是欧洲和美国。土耳其和泰国等国家的增长显着，展示了电动汽车革命不可否认的进展。订阅更多见解并加入电动汽车宇宙。 （根据故事文本的 43% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/84948</guid>
+      <pubDate>Wed, 17 Apr 2024 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Privacy Manifest CLI 工具旨在解析 Xcode 项目或 Swift 包以 [...]</title>
+      <link>https://t.me/hn_summary/84947</link>
+      <description><![CDATA[显示 HN：适用于 iOS 应用的隐私清单 CLI 工具 
+Privacy Manifest CLI 工具旨在解析 Xcode 项目或 Swift Packages，以定位对 Apple 所需原因 API 的调用并检测隐私收集的数据框架。它的与众不同之处在于还检查 Apple 提供的第三方 SDK 并使用并发队列来加快解析速度。用户可以安装并运行该工具来分析其代码库，并可以选择显示有关检测到的事件的详细信息。未来的实现可能包括生成 HTML 报告和更新第三方框架列表。但是，不应仅依赖该工具来创建隐私清单文件，因为仍然需要手动验证。]]></description>
+      <guid>https://t.me/hn_summary/84947</guid>
+      <pubDate>Wed, 17 Apr 2024 07:25:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]DeepMind首席执行官Demis Hassabis预测谷歌将在人工智能领域投资超过1000亿美元，[...]</title>
+      <link>https://t.me/hn_summary/84946</link>
+      <description><![CDATA[DeepMind 老板表示，谷歌将向人工智能领域投入超过 100 亿美元
+DeepMind 首席执行官 Demis Hassabis 预测，谷歌将在人工智能领域投资超过 1000 亿美元，超过微软和 OpenAI 等竞争对手。虽然这笔钱将如何使用的具体细节仍不清楚，但谷歌对 Axion CPU 等硬件的关注是显而易见的。 DeepMind 最近的人工智能研究结果好坏参半，其中一些项目并没有被证明非常有用。然而，人工智能在获取社交技能方面已经取得了进展。 Hassabis 强调对强大计算能力的需求，这就是 DeepMind 在 2014 年与 Google 合作的原因。Google 对人工智能的承诺在即将投入使用的 10 亿美元堪萨斯城数据中心等投资中显而易见。]]></description>
+      <guid>https://t.me/hn_summary/84946</guid>
+      <pubDate>Wed, 17 Apr 2024 07:12:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]我们很高兴地宣布 Tailscale SSH 现已全面可用，允许 Tai [...]</title>
+      <link>https://t.me/hn_summary/84945</link>
+      <description><![CDATA[Tailscale SSH 现已全面可用
+我们很高兴地宣布 Tailscale SSH 现已全面上市，允许 Tailscale 通过 SSO、MFA 和密钥轮换等增强的安全功能来管理 tailnet 上的 SSH 连接。这种零信任远程访问解决方案已经成为许多用户的关键组件，提供诸如使用 SCIM 进行用户和组配置以及会话记录以确保合规性等功能。 Tailscale SSH 无需管理额外的硬件或防火墙规则，是 SSH 进程的无缝升级。最近的版本包括 Tailscale SSH 控制台、远程端口转发和用于编辑远程文件的 VS Code 扩展等功能。立即开始使用我们的个人、高级或企业计划。]]></description>
+      <guid>https://t.me/hn_summary/84945</guid>
+      <pubDate>Wed, 17 Apr 2024 07:01:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 csvbase.com 上的“HTTP 长辈的缓存秘密，第 1 部分”中，作者深入研究了 int [...]</title>
+      <link>https://t.me/hn_summary/84944</link>
+      <description><![CDATA[HTTP长辈的缓存秘密，第1部分&lt; br/&gt;
+在 csvbase.com，作者深入研究了 HTTP 中缓存的复杂性。他们探索使用 Cache-Control 标头和 max-age 来防止不必要的文件重新下载。 HTTP/1.1 中引入的 ETag 可以实现高效缓存并避免陈旧数据。重点介绍了 csvbase 所采用的独特方法，即解析上传的 CSV 文件并将其存储在 SQL 数据库中。作者强调了重新验证的重要性，并讨论了不设置缓存最大期限的好处。本文以第 2 部分的预告片结尾，承诺提供有关 ETag 的更多见解。]]></description>
+      <guid>https://t.me/hn_summary/84944</guid>
+      <pubDate>Wed, 17 Apr 2024 06:41:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]COVID-19 大流行带来了一系列奇怪的症状，包括“brai [...]</title>
+      <link>https://t.me/hn_summary/84943</link>
+      <description><![CDATA[研究表明，新冠病毒感染正在导致智商下降和大脑老化
+COVID-19 大流行带来了一系列奇怪的症状，包括导致混乱和健忘等认知问题的“脑雾”。最近的研究表明，新冠病毒感染会导致智商下降和大脑老化，即使是轻微的病例也会导致智商下降三分。该病毒会引起大脑炎症，影响对正常大脑功能至关重要的物质。虽然这种影响可能不是永久性的，但人们担心结构异常和神经功能的变化相当于大脑老化七年。新冠病毒对健康的长期影响是一个主要问题，研究人员将其与西班牙流感后的影响进行了比较。]]></description>
+      <guid>https://t.me/hn_summary/84943</guid>
+      <pubDate>Wed, 17 Apr 2024 06:22:12 GMT</pubDate>
+    </item>
     <item>
       <title>由于专注于我的学士论文而沉寂了一段时间后，我很高兴地宣布 r [...]</title>
       <link>https://t.me/hn_summary/84942</link>
@@ -20,70 +84,6 @@
 《停止表现得像个名人》提供了有关休闲活动的建议，强调为自己享受活动而不是寻求外部认可的重要性。作者鼓励读者专注于掌握技能和探索不同的爱好，而不必担心创建个人品牌或风格。令人惊讶的是，作者建议如果设计不令人愉快，就让应用程序或网站变得丑陋，因为功能更重要。内容还强调了博客的治疗益处以及不专注于从爱好中赚钱的重要性。总体而言，其传达的信息是在活动中寻找乐趣，而不是寻求认可或利润。]]></description>
       <guid>https://t.me/hn_summary/84941</guid>
       <pubDate>Wed, 17 Apr 2024 05:42:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]中国继续补贴致命的芬太尼出口，尽管承诺破解 [...]</title>
-      <link>https://t.me/hn_summary/84940</link>
-      <description><![CDATA[中国继续补贴致命的芬太尼出口
-尽管承诺打击非法行业，中国仍继续补贴致命的芬太尼出口。最近的一份报告显示，中国官员正在向生产芬太尼前体的公司提供经济激励，导致美国致命过量用药的毁灭性激增。中国政府在芬太尼生产中所扮演的角色此前已有记录，有证据表明公司直接向非法市场销售其产品墨西哥的买家。尽管做出了外交努力，中国仍未能执行禁止芬太尼生产的法律，每年导致数万人死亡。报告强调了中国参与芬太尼非法贸易背后复杂的官僚机构和动机。]]></description>
-      <guid>https://t.me/hn_summary/84940</guid>
-      <pubDate>Wed, 17 Apr 2024 05:32:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]OpenJS 警告开源项目维护者有关社会工程师的危险 [...]</title>
-      <link>https://t.me/hn_summary/84939</link>
-      <description><![CDATA[OpenJS：“XZ Utils 网络攻击可能不是孤立事件”
-在最近发生针对该组织的事件后，OpenJS 警告开源项目维护者有关社会工程接管尝试的危险。尝试 XZ Utils 后门攻击可能不是一个孤立的案例，OpenJS 基金会拦截的类似可信接管尝试就证明了这一点。该基金会发布了识别威胁和保护开源项目的提示。安全行业仍然受到 xz-utils 事件的影响，凸显了对开源安全进行系统性改革的必要性。开源包的互连性质意味着即使流行库中的中等漏洞也可能产生重大影响。敦促开发人员审核其软件包以防止恶意依赖。]]></description>
-      <guid>https://t.me/hn_summary/84939</guid>
-      <pubDate>Wed, 17 Apr 2024 04:57:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Show HN：Vignette – 使用 LLM 生成图像和动画（不是扩散等）</title>
-      <link>https://t.me/hn_summary/84938</link>
-      <description><![CDATA[显示 HN：Vignette – 使用 LLM 生成图像和动画（不是扩散）等）
-GitHub 上的项目“Vignette”是一个使用 Claude API 生成图像和动画的工具。它允许用户根据示例提示创建视觉效果并对现有图像进行动画处理。该项目旨在通过专注于图像生成和动画而不使用扩散技术来使自己脱颖而出。用户可以下载代码、安装所需的软件包、添加 Claude API 密钥，然后运行应用程序来尝试不同的提示。未来的工作包括支持图像上传以供参考，以及在后续 API 调用中修改生成的图像。需要注意的是，该项目是 Claude API 功能的演示，并不用于商业用途。]]></description>
-      <guid>https://t.me/hn_summary/84938</guid>
-      <pubDate>Wed, 17 Apr 2024 04:55:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 厌倦了淹没在新闻通讯的海洋中吗？</title>
-      <link>https://t.me/hn_summary/84937</link>
-      <description><![CDATA[显示 HN：LaterOn.email – 让我们的时事通讯再次变得性感&lt; /a&gt;
-厌倦了淹没在新闻通讯的海洋中吗？ LaterOn.email 来拯救世界！使用 @lateron.email 订阅任意数量的新闻通讯，我们将为您完成繁重的工作。我们的人工智能伴侣甚至可以回答您有关内容的任何问题。告别收件箱超载，转而使用每周或每月发送的时尚总结电子邮件。让我们通过 LaterOn.email 让时事通讯再次变得性感起来。 ]]></description>
-      <guid>https://t.me/hn_summary/84937</guid>
-      <pubDate>Wed, 17 Apr 2024 04:54:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特尔的 Meteor Lake iGPU 通过硬件光线追踪技术展示了他们的移动图形雄心 [...]</title>
-      <link>https://t.me/hn_summary/84936</link>
-      <description><![CDATA[Meteor Lake iGPU 上的光线追踪
-英特尔的 Meteor Lake iGPU 继承了 Xe-HPG 的硬件光线追踪功能，展示了他们的移动图形野心。光线跟踪实现涉及一种独特的方法，固定功能硬件处理大部分遍历过程，而着色器程序则专注于启动遍历和处理结果。与 AMD 的 RDNA 3 的比较揭示了不同的方法，英特尔的短堆栈和重启路径可能会减少延迟。在 Meteor Lake 的 iGPU 上分析《赛博朋克 2077》显示了光线追踪对帧渲染时间的影响。英特尔对 L1 缓存的高效利用和 RTA 的快速线程创建凸显了他们对性能优化的关注。 （根据 58% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84936</guid>
-      <pubDate>Wed, 17 Apr 2024 04:53:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>几名谷歌员工在举行静坐抗议这家科技巨头的工作后被捕 [...]</title>
-      <link>https://t.me/hn_summary/84935</link>
-      <description><![CDATA[Google 员工因抗议公司与以色列的合作而被捕&lt; br/&gt;
-几名谷歌员工因静坐抗议这家科技巨头与以色列政府的合作而被捕，导致公司内部因加沙冲突而紧张。抗议者要求谷歌退出与亚马逊签订的价值 12 亿美元的合同，向以色列提供云服务。近几个月来，抗议活动不断升级，工人们因公开反对合同而面临后果。围绕该合同的争议引发了人们对将技术用于军事目的的担忧。亚马逊员工也加入了抗议活动，呼吁调查其产品对侵犯人权行为的影响。]]></description>
-      <guid>https://t.me/hn_summary/84935</guid>
-      <pubDate>Wed, 17 Apr 2024 04:52:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Phantom of the Author-a 是一款人工智能驱动的代笔应用程序，可帮助用户转变他们的想法 [...]</title>
-      <link>https://t.me/hn_summary/84934</link>
-      <description><![CDATA[展示 HN：作者的幻影-a，人工智能驱动的幽灵写作应用
-Phantom of the Author-a是一款人工智能代笔应用程序，帮助用户将自己的想法转化为文学杰作。它支持多种引擎和模型，允许用户在人工智能辅助下生成故事大纲、主题、地点和人物。该应用程序遵循从种子创意到最终故事创作的结构化流程，确保采用自上而下、从头到尾的方法。用户可以在每一步验证和编辑生成的内容。该项目仍在进行中，存在已知的错误，例如节拍刷新和故事加载问题。本地设置包括检查代码、安装依赖项和启动开发服务器。]]></description>
-      <guid>https://t.me/hn_summary/84934</guid>
-      <pubDate>Wed, 17 Apr 2024 04:51:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>加入我们在 Loki 上的合作，这是一种开源事实检查人工智能，正在彻底改变 [...]</title>
-      <link>https://t.me/hn_summary/84933</link>
-      <description><![CDATA[展示 HN：Loki 需要您 – 就开源事实进行协作-检查AI
-与我们一起合作开发 Loki，这是一种开源事实核查人工智能，它正在彻底改变我们打击错误信息的方式。到目前为止，我们的社区支持对我们的进步发挥了重要作用，我们很高兴分享我们即将推出的 Loki 开发计划。请访问我们活跃的开发分支，查看最新更新并为这个创新项目做出贡献。只要我们齐心协力，就能在打击假新闻的斗争中发挥重要作用。]]></description>
-      <guid>https://t.me/hn_summary/84933</guid>
-      <pubDate>Wed, 17 Apr 2024 04:50:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
