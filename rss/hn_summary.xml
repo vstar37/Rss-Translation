@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 17 Apr 2024 08:34:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 15:11:35 GMT</lastBuildDate>
     <item>
-      <title>Perliss 在 www.cs.yale.edu 上的编程警句提供了 92 条发人深省且诙谐的陈述 [...]</title>
-      <link>https://t.me/hn_summary/84950</link>
-      <description><![CDATA[玻璃市的编程警句
-Perliss 的编程警句，位于 www.cs.yale.edu 提供 92 条关于编程的发人深省且诙谐的陈述。从结构数据的重要性到递归的复杂性，每个警句都挑战程序员以不同的方式思考他们的技术。有争议的是，珀利斯认为编写不正确的程序比理解正确的程序更容易，而且优化会阻碍进化。令人惊讶的是，他还触及了编程的哲学方面，并将其与雕刻和双关语进行了比较。这本警句集是任何想要拓展编码艺术视野的程序员的必读之作。 （根据 79% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84950</guid>
-      <pubDate>Wed, 17 Apr 2024 08:34:17 GMT</pubDate>
+      <title>[媒体] GitHub 项目“antirez/zx2040：RP2040 ZX Spectrum 模拟器”是 ZX S 的端口 [...]</title>
+      <link>https://t.me/hn_summary/84999</link>
+      <description><![CDATA[GitHub – antirez/zx2040：RP2040 ZX Spectrum 模拟器 
+GitHub 项目“antirez/zx2040：RP2040 ZX Spectrum 模拟器”是 ZX Spectrum 模拟器到 Raspberry Pico RP2040 的端口，旨在无需键盘即可轻松进行游戏选择和按键映射。它包括 Pico -&gt; Spectrum 键映射、最小 ST77xx 显示驱动程序、视频实时放大/缩小以及疯狂超频以获得更快性能等功能。该项目修改了原始模拟器，以针对 Pico 有限的 RAM 和性能要求进行优化。作者的动机包括对 ZX Spectrum 的怀念和探索 Pico SDK。该项目已获得 MIT 许可，可用于商业用途，但其中包含的版权游戏请谨慎使用。]]></description>
+      <guid>https://t.me/hn_summary/84999</guid>
+      <pubDate>Wed, 17 Apr 2024 15:11:35 GMT</pubDate>
     </item>
     <item>
-      <title>我很高兴与大家分享我的最新项目 - 我创建的自定义光标生成器[...]</title>
-      <link>https://t.me/hn_summary/84949</link>
-      <description><![CDATA[显示 HN：我在 1 周内制作了一个自定义光标生成器
-我很高兴与大家分享我的最新项目 - 我在短短一周内创建的自定义光标生成器！通过 cursumber.com，您可以轻松自定义光标以匹配您的独特的风格和个性。最好的部分？您只需支付 19 美元一次即可无限制地使用此工具。告别无聊的默认光标，迎接个性化的浏览体验。今天就尝试一下，让您的光标脱颖而出！]]></description>
-      <guid>https://t.me/hn_summary/84949</guid>
-      <pubDate>Wed, 17 Apr 2024 08:16:08 GMT</pubDate>
+      <title>在计算机科学领域，图表在表示关系方面发挥着至关重要的作用 [...]</title>
+      <link>https://t.me/hn_summary/84998</link>
+      <description><![CDATA[解决无向图的最小割问题
+在计算机科学领域，图在表示对象之间的关系方面发挥着至关重要的作用。最小割问题，也称为“最小割”，是图论中的一个基本问题，旨在找到最具成本效益的方式来断开网络。该问题在计算机视觉和网络分析等领域有着广泛的应用。在 research.google，我们开发了一种突破性的确定性近线性模型用于解决加权图中最小割问题的算法，在著名的 SODA2024 会议上获得认可。该算法不仅保证了正确答案，而且适用于一般图，标志着算法图论的重大进步。]]></description>
+      <guid>https://t.me/hn_summary/84998</guid>
+      <pubDate>Wed, 17 Apr 2024 15:05:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]电动汽车 (EV) 的成功被严重低估，关键数据 [...]</title>
-      <link>https://t.me/hn_summary/84948</link>
-      <description><![CDATA[电动汽车的成功被严重低估
-电动汽车 (EV) 的成功被严重低估，关键数据往往隐藏在付费墙后面。 EV Universe 旨在提供有关全球电动汽车销售的详细、免费信息，追踪 2023 年 57 个国家超过 1000 万辆纯电动汽车的销售情况。这份全面的概览显示，全球电动汽车销量增长了 34.7%，到 2023 年售出的汽车中就有 9 辆是纯电动汽车。中国以 626 万辆电动汽车销量位居榜首，其次是欧洲和美国。土耳其和泰国等国家的增长显着，展示了电动汽车革命不可否认的进展。订阅更多见解并加入电动汽车宇宙。 （根据故事文本的 43% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/84948</guid>
-      <pubDate>Wed, 17 Apr 2024 08:00:00 GMT</pubDate>
+      <title>[媒体] 隆重推出 Mixtral 8x22B，我们最新的开放模型通过 [...]</title>
+      <link>https://t.me/hn_summary/84997</link>
+      <description><![CDATA[Mixtral 8x22B
+隆重推出 Mixtral 8x22B，这是我们最新的开放模型，以无与伦比的性能和效率彻底改变了 AI 社区。这种稀疏的专家混合模型在 141B 中只有 39B 个有效参数，提供了无与伦比的成本效率。 Mixtral 8x22B 精通多种语言，拥有强大的数学和编码能力，是真正开放的，根据 Apache 2.0 许可证发布，可广泛分发和协作。其多语言功能、优化的推理以及在编码和数学任务中的卓越性能使其有别于其他开放模型。加入 Mistral 社区，探索 La Plateforme 上 Mixtral 8x22B 的无限可能性。]]></description>
+      <guid>https://t.me/hn_summary/84997</guid>
+      <pubDate>Wed, 17 Apr 2024 14:44:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Privacy Manifest CLI 工具旨在解析 Xcode 项目或 Swift 包以 [...]</title>
-      <link>https://t.me/hn_summary/84947</link>
-      <description><![CDATA[显示 HN：适用于 iOS 应用的隐私清单 CLI 工具 
-Privacy Manifest CLI 工具旨在解析 Xcode 项目或 Swift Packages，以定位对 Apple 所需原因 API 的调用并检测隐私收集的数据框架。它的与众不同之处在于还检查 Apple 提供的第三方 SDK 并使用并发队列来加快解析速度。用户可以安装并运行该工具来分析其代码库，并可以选择显示有关检测到的事件的详细信息。未来的实现可能包括生成 HTML 报告和更新第三方框架列表。但是，不应仅依赖该工具来创建隐私清单文件，因为仍然需要手动验证。]]></description>
-      <guid>https://t.me/hn_summary/84947</guid>
-      <pubDate>Wed, 17 Apr 2024 07:25:45 GMT</pubDate>
+      <title>[媒体]领先的芯片制造设备制造商 ASML 因 [...]</title>
+      <link>https://t.me/hn_summary/84996</link>
+      <description><![CDATA[芯片制造工具订单减少，ASML 利润暴跌 40%
+领先的芯片制造设备制造商ASML因订单减少而利润下降40%，一季度中国市场几乎占其销售额的一半。新的出口限制影响了对中国的销售，但 ASML 对未来仍持乐观态度，特别是随着新芯片制造厂在全球范围内的推出。该公司预计下半年业绩将更加强劲，并为 2025 年的成功做好准备。尽管存在潜在的出口限制，但在芯片技术进步和行业趋势的推动下，ASML 预计到 2025 年年收入将达到 423 亿美元。]]></description>
+      <guid>https://t.me/hn_summary/84996</guid>
+      <pubDate>Wed, 17 Apr 2024 14:43:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]DeepMind首席执行官Demis Hassabis预测谷歌将在人工智能领域投资超过1000亿美元，[...]</title>
-      <link>https://t.me/hn_summary/84946</link>
-      <description><![CDATA[DeepMind 老板表示，谷歌将向人工智能领域投入超过 100 亿美元
-DeepMind 首席执行官 Demis Hassabis 预测，谷歌将在人工智能领域投资超过 1000 亿美元，超过微软和 OpenAI 等竞争对手。虽然这笔钱将如何使用的具体细节仍不清楚，但谷歌对 Axion CPU 等硬件的关注是显而易见的。 DeepMind 最近的人工智能研究结果好坏参半，其中一些项目并没有被证明非常有用。然而，人工智能在获取社交技能方面已经取得了进展。 Hassabis 强调对强大计算能力的需求，这就是 DeepMind 在 2014 年与 Google 合作的原因。Google 对人工智能的承诺在即将投入使用的 10 亿美元堪萨斯城数据中心等投资中显而易见。]]></description>
-      <guid>https://t.me/hn_summary/84946</guid>
-      <pubDate>Wed, 17 Apr 2024 07:12:38 GMT</pubDate>
+      <title>[媒体]Tiron 是一款开源自动化工具，旨在成为快速且易于使用的替代工具 [...]</title>
+      <link>https://t.me/hn_summary/84995</link>
+      <description><![CDATA[显示 HN：一种新的开源自动化工具，作为替代品Ansible/盐
+Tiron 是一款开源自动化工具，旨在成为 Ansible 和 Salt 的快速且易于使用的替代品。它是无代理的，使用 SSH 连接到远程计算机，并具有用于任务输出的 TUI。 Tiron 使用 HCL 而不是 YAML 进行配置，预先验证 Runbook 文件的正确性，并通过预先填充任务数据来优化速度。此外，它还提供语言服务器协议 (LSP) 服务器，用于语法突出显示、linting 等。该项目提供了用于安装的快速入门脚本和详细的使用文档。 Tiron 根据 Apache 2.0 许可证获得许可。]]></description>
+      <guid>https://t.me/hn_summary/84995</guid>
+      <pubDate>Wed, 17 Apr 2024 14:41:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我们很高兴地宣布 Tailscale SSH 现已全面可用，允许 Tai [...]</title>
-      <link>https://t.me/hn_summary/84945</link>
-      <description><![CDATA[Tailscale SSH 现已全面可用
-我们很高兴地宣布 Tailscale SSH 现已全面上市，允许 Tailscale 通过 SSO、MFA 和密钥轮换等增强的安全功能来管理 tailnet 上的 SSH 连接。这种零信任远程访问解决方案已经成为许多用户的关键组件，提供诸如使用 SCIM 进行用户和组配置以及会话记录以确保合规性等功能。 Tailscale SSH 无需管理额外的硬件或防火墙规则，是 SSH 进程的无缝升级。最近的版本包括 Tailscale SSH 控制台、远程端口转发和用于编辑远程文件的 VS Code 扩展等功能。立即开始使用我们的个人、高级或企业计划。]]></description>
-      <guid>https://t.me/hn_summary/84945</guid>
-      <pubDate>Wed, 17 Apr 2024 07:01:31 GMT</pubDate>
+      <title>[媒体] 我们的最新版本 Stable Diffusion 3 API 现已在 stable.ai 上提供。</title>
+      <link>https://t.me/hn_summary/84994</link>
+      <description><![CDATA[稳定的 Diffusion 3 API 现已推出
+我们的最新版本 Stable Diffusion 3 API 现已在 stability.ai。我们与 Fireworks AI 合作，为您带来 Stable Diffusion 3 和 Stable Diffusion 3 Turbo，确保顶级性能和可靠性。我们注重安全和负责任的人工智能实践，致力于防止滥用，并与专家合作诚信创新。我们的企业级 API 解决方案可保证 99.9% 的服务可用性，使其成为关键任务操作的理想选择。与我们一起通过稳定扩散 3 释放创造力并激活人类潜力。]]></description>
+      <guid>https://t.me/hn_summary/84994</guid>
+      <pubDate>Wed, 17 Apr 2024 14:38:05 GMT</pubDate>
     </item>
     <item>
-      <title>在 csvbase.com 上的“HTTP 长辈的缓存秘密，第 1 部分”中，作者深入研究了 int [...]</title>
-      <link>https://t.me/hn_summary/84944</link>
-      <description><![CDATA[HTTP长辈的缓存秘密，第1部分&lt; br/&gt;
-在 csvbase.com，作者深入研究了 HTTP 中缓存的复杂性。他们探索使用 Cache-Control 标头和 max-age 来防止不必要的文件重新下载。 HTTP/1.1 中引入的 ETag 可以实现高效缓存并避免陈旧数据。重点介绍了 csvbase 所采用的独特方法，即解析上传的 CSV 文件并将其存储在 SQL 数据库中。作者强调了重新验证的重要性，并讨论了不设置缓存最大期限的好处。本文以第 2 部分的预告片结尾，承诺提供有关 ETag 的更多见解。]]></description>
-      <guid>https://t.me/hn_summary/84944</guid>
-      <pubDate>Wed, 17 Apr 2024 06:41:22 GMT</pubDate>
+      <title>[媒体] Svalboard 是 Datahand 风格键盘的现代版本，设计坚固、简单 [...]</title>
+      <link>https://t.me/hn_summary/84993</link>
+      <description><![CDATA[带有轨迹球和轨迹点的现代 Datahand 风格键盘&lt; br/&gt;
+Svalboard 是 Datahand 风格键盘的现代版本，设计坚固、易于清洁且可维修。与 Datahand 不同，Svalboard 是完全模块化的，使维修和修改变得轻而易举。按键可轻松拆卸进行清洁，您甚至可以在业余爱好级 3D 打印机上制作自己的替换零件或定制零件。这一创新功能使 Svalboard 脱颖而出，为用户提供独特且可定制的体验。]]></description>
+      <guid>https://t.me/hn_summary/84993</guid>
+      <pubDate>Wed, 17 Apr 2024 14:33:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]COVID-19 大流行带来了一系列奇怪的症状，包括“brai [...]</title>
-      <link>https://t.me/hn_summary/84943</link>
-      <description><![CDATA[研究表明，新冠病毒感染正在导致智商下降和大脑老化
-COVID-19 大流行带来了一系列奇怪的症状，包括导致混乱和健忘等认知问题的“脑雾”。最近的研究表明，新冠病毒感染会导致智商下降和大脑老化，即使是轻微的病例也会导致智商下降三分。该病毒会引起大脑炎症，影响对正常大脑功能至关重要的物质。虽然这种影响可能不是永久性的，但人们担心结构异常和神经功能的变化相当于大脑老化七年。新冠病毒对健康的长期影响是一个主要问题，研究人员将其与西班牙流感后的影响进行了比较。]]></description>
-      <guid>https://t.me/hn_summary/84943</guid>
-      <pubDate>Wed, 17 Apr 2024 06:22:12 GMT</pubDate>
+      <title>[媒体] Mixtral-8x22B-Instruct-v0.1 大型语言模型是 Mi [...]</title>
+      <link>https://t.me/hn_summary/84992</link>
+      <description><![CDATA[Mixtral-8x22B-Instruct-v0.1&lt; br/&gt;
+Mixtral-8x22B-Instruct-v0.1 大型语言模型是 Mixtral-8x22B-v0.1 的微调版本。它包括一个 Instruct tokenizer，带有用于函数调用的特殊标记。该模型可以使用 MistralTokenizer 和 AutoModelForCausalLM 运行。该版本还将 HuggingFace 标记器与 Mistral 的标记器进行了比较。 Mistral AI 团队由多元化的人员组成，致力于该项目。争议在于标记器的比较，而独特之处在于包含用于函数调用的特殊标记。]]></description>
+      <guid>https://t.me/hn_summary/84992</guid>
+      <pubDate>Wed, 17 Apr 2024 14:17:45 GMT</pubDate>
     </item>
     <item>
-      <title>由于专注于我的学士论文而沉寂了一段时间后，我很高兴地宣布 r [...]</title>
-      <link>https://t.me/hn_summary/84942</link>
-      <description><![CDATA[River 0.3.0、Waylock 1.0.0、状态更新
-由于专注于我的学士论文而沉寂了一段时间后，我很高兴地宣布发布 River 0.3.0，其中包含重大改进，包括使用 wlroots 场景图 API。 Waylock 1.0.0 现已稳定，带有用于会话锁定通知的新标志。我的网站已使用 Bagatto 和 Janet 进行了改版，提供了更加透明和用户友好的体验。此外，River 已迁移至 Codeberg，以获得更加一致的平台。如果您欣赏我的工作，欢迎捐款。感谢所有贡献者使这些项目成为可能。在我的网站上查看完整的详细信息！]]></description>
-      <guid>https://t.me/hn_summary/84942</guid>
-      <pubDate>Wed, 17 Apr 2024 05:43:58 GMT</pubDate>
+      <title>[媒体]告诉美国</title>
+      <link>https://t.me/hn_summary/84991</link>
+      <description><![CDATA[告诉美国参议院：停止 Risaa 的 FISA 大规模监控扩张&lt; /a&gt;
+美国参议院必须终止 FISA 大规模监控扩张计划 Risaa。第 702 条允许政府监视在美国的外国人，但无辜美国人的通讯却常常陷入交火之中。政府可以在没有搜查令的情况下搜查这些通信，从而导致潜在的滥用行为。 2021 年，FBI 使用第 702 条数据进行了数百万次无证搜查。在国会更新第 702 条之前，必须堵住这一漏洞。立即采取行动，保护您的隐私并阻止政府越权。]]></description>
+      <guid>https://t.me/hn_summary/84991</guid>
+      <pubDate>Wed, 17 Apr 2024 14:11:40 GMT</pubDate>
     </item>
     <item>
-      <title>“停止表现得像名人一样”提供了有关休闲活动的建议，强调了 [...]</title>
-      <link>https://t.me/hn_summary/84941</link>
-      <description><![CDATA[别再表现得像个名人了
-《停止表现得像个名人》提供了有关休闲活动的建议，强调为自己享受活动而不是寻求外部认可的重要性。作者鼓励读者专注于掌握技能和探索不同的爱好，而不必担心创建个人品牌或风格。令人惊讶的是，作者建议如果设计不令人愉快，就让应用程序或网站变得丑陋，因为功能更重要。内容还强调了博客的治疗益处以及不专注于从爱好中赚钱的重要性。总体而言，其传达的信息是在活动中寻找乐趣，而不是寻求认可或利润。]]></description>
-      <guid>https://t.me/hn_summary/84941</guid>
-      <pubDate>Wed, 17 Apr 2024 05:42:55 GMT</pubDate>
+      <title>我们。</title>
+      <link>https://t.me/hn_summary/84990</link>
+      <description><![CDATA[美国到 2050 年，地热容量将增长 1,900%
+世界各国政府正在投资包括地热能在内的清洁能源，以减少对化石燃料的依赖。美国政府已拨款开发地热潜力，解锁增强型地热系统 (EGS) 等新技术，以获取地下深处的热量。雪佛龙、Fervo Energy 和 Mazama Energy 是扩大地热产能的领先项目，预计将使美国地热能产量翻一番。随着地热技术的进步和资金的增加，到 2050 年，地热发电可提供高达 10% 的美国电力，为零排放基荷电力提供了一个有前景的解决方案。可再生能源令人兴奋的发展即将到来。]]></description>
+      <guid>https://t.me/hn_summary/84990</guid>
+      <pubDate>Wed, 17 Apr 2024 13:56:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
