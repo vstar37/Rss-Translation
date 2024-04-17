@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 17 Apr 2024 09:12:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 12:20:01 GMT</lastBuildDate>
+    <item>
+      <title>OpenAPI Generator v7.5.0 发布，带有新的 Scala Cask 服务器生成器</title>
+      <link>https://www.reddit.com/r/programming/comments/1c67bg6/openapi_generator_v750_released_with_a_new_scala/</link>
+      <description><![CDATA[ 由   提交/u/wing328  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c67bg6/openapi_generator_v750_released_with_a_new_scala/</guid>
+      <pubDate>Wed, 17 Apr 2024 11:22:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>8. Unix 和 C 语言的起源</title>
+      <link>https://www.reddit.com/r/programming/comments/1c66b61/8_the_origins_of_unix_and_the_c_language/</link>
+      <description><![CDATA[ 由   提交/u/Sampo  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c66b61/8_the_origins_of_unix_and_the_c_language/</guid>
+      <pubDate>Wed, 17 Apr 2024 10:22:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发人员中橡皮鸭调试有多常见</title>
+      <link>https://www.reddit.com/r/programming/comments/1c65w33/how_common_is_rubber_duck_debugging_among/</link>
+      <description><![CDATA[大家好， 我很好奇有多少开发人员了解橡皮鸭调试技术。你用过橡皮鸭调试过吗？这是一个常见术语还是只是一个小众术语？   由   提交/u/Professional_Try2053   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c65w33/how_common_is_rubber_duck_debugging_among/</guid>
+      <pubDate>Wed, 17 Apr 2024 09:55:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python 中的方法链接：一种优雅编码的技术</title>
+      <link>https://www.reddit.com/r/programming/comments/1c65ddd/method_chaining_in_python_a_technique_for_elegant/</link>
+      <description><![CDATA[ 由   提交/u/wyhjsbyb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c65ddd/method_chaining_in_python_a_technique_for_elegant/</guid>
+      <pubDate>Wed, 17 Apr 2024 09:19:23 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年软件工程师必读的 7 篇技术通讯</title>
       <link>https://www.reddit.com/r/programming/comments/1c6596b/7_mustread_tech_newsletters_for_software/</link>
@@ -21,24 +49,10 @@
     </item>
     <item>
       <title>如何使用 Tailwind CSS 和 Alpinejs 创建图片库</title>
-      <link>https://www.reddit.com/r/programming/comments/1c651vu/how_to_create_a_image_gallery_with_tailwind_css/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建图像画廊[评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c651vu/how_to_create_a_image_gallery_with_tailwind_css/</guid>
-      <pubDate>Wed, 17 Apr 2024 08:57:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Tailwind CSS 和 Alpinejs 创建图片库</title>
       <link>https://www.reddit.com/r/programming/comments/1c651qw/how_to_create_a_image_gallery_with_tailwind_css/</link>
       <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建图像画廊[评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c651qw/how_to_create_a_image_gallery_with_tailwind_css/</guid>
       <pubDate>Wed, 17 Apr 2024 08:57:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>将应用程序上传到 App Store Connect</title>
-      <link>https://www.reddit.com/r/programming/comments/1c64rm2/upload_app_to_app_store_connect/</link>
-      <description><![CDATA[您好，我不是移动开发人员，但需要将应用程序上传到 App Store。我遇到资产验证失败 (90482) 的问题。无效的可执行文件。可执行文件“.../frameworks/...”包含位码。我可以知道如何解决这个问题吗？   由   提交/u/shujiun25  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c64rm2/upload_app_to_app_store_connect/</guid>
-      <pubDate>Wed, 17 Apr 2024 08:37:41 GMT</pubDate>
     </item>
     <item>
       <title>在几分钟内找到并修复 LLM 越狱问题</title>
@@ -69,7 +83,7 @@
       <pubDate>Wed, 17 Apr 2024 06:10:40 GMT</pubDate>
     </item>
     <item>
-      <title>实时音频检查 (Unity)</title>
+      <title>实时音频检查（Unity）</title>
       <link>https://www.reddit.com/r/programming/comments/1c62g3u/realtime_audio_check_unity/</link>
       <description><![CDATA[ 由   提交/u/kingIndian831   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c62g3u/realtime_audio_check_unity/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/ivan_kurchenko   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c5zxw1/exploring_stackoverflow_tags_trends/</guid>
       <pubDate>Wed, 17 Apr 2024 03:36:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTTP/2 和 HTTP/3 解释</title>
-      <link>https://www.reddit.com/r/programming/comments/1c5zc37/http2_and_http3_explained/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c5zc37/http2_and_http3_explained/</guid>
-      <pubDate>Wed, 17 Apr 2024 03:05:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何加入新的代码库</title>
-      <link>https://www.reddit.com/r/programming/comments/1c5vlyu/how_to_onboard_to_a_new_codebase/</link>
-      <description><![CDATA[ 由   提交/u/EntreEden  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c5vlyu/how_to_onboard_to_a_new_codebase/</guid>
-      <pubDate>Wed, 17 Apr 2024 00:05:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
