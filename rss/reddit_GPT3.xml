@@ -4,7 +4,7 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Thu, 18 Apr 2024 00:47:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 03:11:41 GMT</lastBuildDate>
     <item>
       <title>我想我稍微破坏了 GPT</title>
       <link>https://www.reddit.com/r/GPT3/comments/1c5oanf/i_think_i_broke_gpt_a_little/</link>
@@ -29,7 +29,7 @@
     <item>
       <title>GPT3.5 API JSON 响应</title>
       <link>https://www.reddit.com/r/GPT3/comments/1c3xjuv/gpt35_api_json_response/</link>
-      <description><![CDATA[      我在项目中使用 GPT API，并将响应指定为 JSON 格式。一旦我将它存储在数据库中并检索它，每个字母都会被返回，以便在 JSON 对象中拥有其单独的索引。 我该如何解决这个问题？ 这是我指定格式的提示 “仅提供遵循此格式且​​无偏差的符合 RFC8259 的 JSON 响应。”  然后我给了它一个关于响应格式的示例 这是我在将 json 存储在数据库后打印出来时得到的结果 https://preview.redd.it /xuumh11c1huc1.png?width=1286&amp;format=png&amp;auto=webp&amp;s=36a6b80715476092ad59a13b1806746502b410c4   由   提交 /u/StrangePercentage340   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      我正在为我的项目使用 GPT API，并且我将响应指定为 JSON 格式。一旦我将其存储在数据库中并检索它，每个字母都会返回在 JSON 对象中具有其单独的索引。 我该如何解决这个问题？ 这是我在提示中指定格式的部分 “仅提供遵循此格式的符合 RFC8259 的 JSON 响应，无偏差。”  然后我给了它一个关于响应格式的例子 这是我将 json 存储在数据库后打印出来时得到的结果 https://preview.redd.it/xuumh11c1huc1.png?width=1286&amp;format=png&amp;auto=webp&amp;s=36a6b80715476092ad59a13b1806746502b410c4    由    /u/StrangePercentage340  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1c3xjuv/gpt35_api_json_response/</guid>
       <pubDate>Sun, 14 Apr 2024 16:28:33 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>MistralAI 8x22B 与 DBRX 指令； Gemini 1.5 Pro 与 GPT-4-Turbo 视觉</title>
       <link>https://www.reddit.com/r/GPT3/comments/1c1pujw/mistralai_8x22b_vs_dbrx_instruct_gemini_15_pro_vs/</link>
-      <description><![CDATA[       由   提交/u/gorimur  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[    /u/gorimur   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1c1pujw/mistralai_8x22b_vs_dbrx_instruct_gemini_15_pro_vs/</guid>
       <pubDate>Thu, 11 Apr 2024 20:47:55 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>我正在使用 GPT 3.5，但它说我达到了我不使用的 GPT 4 的使用上限</title>
       <link>https://www.reddit.com/r/GPT3/comments/1c0u7oa/i_am_using_gpt_35_but_it_says_i_reached_usage_cap/</link>
-      <description><![CDATA[       由   提交 /u/Goldfish-Owner   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由    /u/Goldfish-Owner  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1c0u7oa/i_am_using_gpt_35_but_it_says_i_reached_usage_cap/</guid>
       <pubDate>Wed, 10 Apr 2024 19:30:04 GMT</pubDate>
     </item>
