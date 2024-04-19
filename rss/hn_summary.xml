@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 19 Apr 2024 08:17:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 15:09:08 GMT</lastBuildDate>
     <item>
-      <title>[媒体]Sara Hendren 探索建筑和设计中“限制美德”的概念，嗨 [...]</title>
-      <link>https://t.me/hn_summary/85309</link>
-      <description><![CDATA[城市和限制美德
-Sara Hendren 探索了建筑和设计中“限制美德”的概念，重点介绍了像法鲁咖啡馆和圣保罗教区这样的空间，这些空间强制节制和满足，以创造一种不同的自由。她将此与“治疗性自由主义”的理念进行了对比，“治疗性自由主义”优先考虑自我完善和无尽的选择，导致一种平庸的追求快乐的文化。亨德伦呼吁重新关注设计的限制，以创造丰富、特定的空间，平衡约束和自由。她还分享了她的纪录片和即将推出的项目的最新动态，反思了最近的经历和灵感。]]></description>
-      <guid>https://t.me/hn_summary/85309</guid>
-      <pubDate>Fri, 19 Apr 2024 08:17:12 GMT</pubDate>
+      <title>在本文中，作者挑战了 Copyleft 许可证更 [...]</title>
+      <link>https://t.me/hn_summary/85346</link>
+      <description><![CDATA[Copyleft 许可证不是“限制性的”
+在本文中，作者对 Copyleft 许可证比宽松许可证更具“限制性”这一常见误解提出了质疑。他们认为 Copyleft 许可证实际上保障了用户的权利和自由，而宽容许可证可能只保护精神权利。作者使用不同许可证中的义务和限制的例子来说明这一点。他们还将软件自由与社会自由进行了比较，强调义务对于确保真正自由的重要性。最终，作者认为 Copyleft 许可证通过施加导致更大自由的义务，实际上比宽容许可证更自由。]]></description>
+      <guid>https://t.me/hn_summary/85346</guid>
+      <pubDate>Fri, 19 Apr 2024 15:09:08 GMT</pubDate>
     </item>
     <item>
-      <title>什么是 Chrome 标志？</title>
-      <link>https://t.me/hn_summary/85308</link>
-      <description><![CDATA[什么是 Chrome 标志？
-Chrome 标志是一种激活默认情况下不可用的实验性浏览器功能的方法。例如，画中画视频功能在向所有用户推出之前先在旗帜后面进行了测试。虽然对开发人员和技术爱好者很有用，但设置标志可能会损害安全和隐私。可以从 chrome://flags 页面或通过命令行标志设置标志，但建议谨慎。 Chrome 设置和标志有不同的用途，原始试验允许开发人员大规模测试新功能。总体而言，Chrome 标志提供了一种探索和测试新技术的方法，但用户应谨慎行事。]]></description>
-      <guid>https://t.me/hn_summary/85308</guid>
-      <pubDate>Fri, 19 Apr 2024 07:07:45 GMT</pubDate>
+      <title>[媒体]台积电正在扩大其海外芯片生产，在德国、日本和美国设有晶圆厂</title>
+      <link>https://t.me/hn_summary/85345</link>
+      <description><![CDATA[台积电将对在台湾以外（包括美国）制造芯片收取溢价晶圆厂
+台积电正在将其芯片生产扩大到海外，在德国、日本和美国设有晶圆厂。不过，由于成本较高，该公司将对台湾以外制造的芯片收取溢价。此举可能会增加美国芯片设计者的生产成本，但他们可能会将这些成本转嫁给某些市场。台积电计划通过战略定价、与政府合作以及利用其制造技术领先地位来控制成本差距。不同地点的产量是否相似还有待观察。这一备受争议的举动凸显了半导体行业全球化生产的挑战。]]></description>
+      <guid>https://t.me/hn_summary/85345</guid>
+      <pubDate>Fri, 19 Apr 2024 15:01:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Routine 是一家 YC W21 初创公司，正在为他们的下一个项目招聘 OCaml 软件工程师 - [...]</title>
-      <link>https://t.me/hn_summary/85307</link>
-      <description><![CDATA[例程 (YC W21) 正在招聘 OCaml 软件工程师：现场 (巴黎）或远程
-Routine 是一家 YC W21 初创公司，正在为其下一代工作操作系统招聘 OCaml 软件工程师。他们正在寻找具有函数式编程知识和可扩展系统经验的后端工程师。该团队总部位于巴黎，但欢迎远程候选人申请。这个机会提供了在可定制和以数据为中心的平台上工作的独特机会。了解更多信息并申请 https://base.routine.co/jobs 或联系apply@routine.co。加入塑造工作操作系统未来的团队。]]></description>
-      <guid>https://t.me/hn_summary/85307</guid>
-      <pubDate>Fri, 19 Apr 2024 07:00:39 GMT</pubDate>
+      <title>由于油门踏板存在缺陷，特斯拉已召回所有 Cyber​​truck [...]</title>
+      <link>https://t.me/hn_summary/85344</link>
+      <description><![CDATA[特斯拉因油门踏板缺陷召回所有赛博卡车
+由于油门踏板存在缺陷，可能导致意外加速，特斯拉已召回所有 Cyber​​truck。该问题与组装过程中使用的润滑剂有关，已促使更换或返工受影响的踏板。尽管Cyber​​truck存在令人尴尬的设计和性能问题，但特斯拉已采取措施解决该问题并确保客户的安全。虽然目前还没有人员受伤的报告，但此次召回凸显了特斯拉及其首席执行官埃隆·马斯克在电动汽车市场上持续面临的挑战。]]></description>
+      <guid>https://t.me/hn_summary/85344</guid>
+      <pubDate>Fri, 19 Apr 2024 14:33:49 GMT</pubDate>
     </item>
     <item>
-      <title>在我们的互动网站上探索宇宙的规模，您可以在其中单击物体 [...]</title>
-      <link>https://t.me/hn_summary/85306</link>
-      <description><![CDATA[宇宙规模
-在我们的互动网站上探索宇宙的规模，您可以点击物体来了解更多关于可见和不可见世界的广阔范围。使用滚动条放大和缩小，您会对宇宙令人难以置信的规模感到惊讶。这种体验旨在激发好奇心并了解我们世界的奇迹。现在就开始探索吧，准备好对我们日常感知之外的事物的巨大程度感到惊讶吧。]]></description>
-      <guid>https://t.me/hn_summary/85306</guid>
-      <pubDate>Fri, 19 Apr 2024 06:59:35 GMT</pubDate>
+      <title>[媒体]谷歌最近解雇了 28 名抗议以色列政府斥资 12 亿美元的员工 [...]</title>
+      <link>https://t.me/hn_summary/85343</link>
+      <description><![CDATA[我与一名因抗议 $1.2B 以色列合同而被解雇的 Google 员工进行了交谈&lt; /a&gt;
+谷歌最近解雇了 28 名员工，他们抗议以色列政府价值 12 亿美元的 Nimbus 项目合同，该项目为以色列国防部提供云计算服务。哈桑·易卜拉欣 (Hasan Ibraheem) 是被解雇的员工之一，也是“无技术种族隔离”组织者，他谈到了抗议活动以及随后的解雇。许多人认为解雇是一种威胁，解雇的不分青红皂白的性质，包括那些没有直接参与抗议的人，引发了争议。尽管发生了解雇事件，易卜拉欣认为抗议活动成功地提高了人们的认识，并希望其他科技工作者能够继续公开反对有争议项目的共谋行为。 （根据 89% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/85343</guid>
+      <pubDate>Fri, 19 Apr 2024 14:29:43 GMT</pubDate>
     </item>
     <item>
-      <title>VoRS 是一种简单且用户友好的 VoIP 解决方案，可作为 com [...]</title>
-      <link>https://t.me/hn_summary/85305</link>
-      <description><![CDATA[VoRS：Mumble 的 Vo(IP) 简单替代方案 
-VoRS 是一种简单且用户友好的 VoIP 解决方案，可作为更复杂的 Mumble 的替代方案。虽然基于 SIP 和 WebRTC 的解决方案复杂且臃肿，但 VoRS 为语音聊天提供了简单易用的选项。 VoRS 注重简单性和便利性，无需 GUI，而是提供实时刷新的 TUI，以实现无缝的用户体验。此外，VoRS 是受 GNU Affero GPLv3 许可的 Copyleft 自由软件，使其可供所有 POSIX 兼容系统访问。告别不必要的复杂性，使用 VoRS 满足您的所有 VoIP 需求。]]></description>
-      <guid>https://t.me/hn_summary/85305</guid>
-      <pubDate>Fri, 19 Apr 2024 06:43:27 GMT</pubDate>
+      <title>[媒体] Bjarne Stroustrup 的《编程：使用 C++ 的原理与实践（第 3 版）》[...]</title>
+      <link>https://t.me/hn_summary/85342</link>
+      <description><![CDATA[Stroustrup 的《编程：使用 C++ 的原理与实践》第三版
+Bjarne Stroustrup 的《编程：使用 C++ 的原理和实践（第 3 版）》是一本针对初学者和经验丰富的程序员的综合指南。此更新版本侧重于基本编程概念和技术，涵盖过程编程、面向对象编程和泛型编程。 Stroustrup 是 C++ 的发明者，为使用当代 C++20 和 C++23 编写高效且可维护的代码提供了坚实的基础。本书专为自学或课堂使用而设计，重点关注现实世界编程所需的实用技能。一个独特的功能是在图形/GUI 章节中使用 Qt 来实现可移植性。此版本更加简洁，有专门章节可供参考。]]></description>
+      <guid>https://t.me/hn_summary/85342</guid>
+      <pubDate>Fri, 19 Apr 2024 14:17:35 GMT</pubDate>
     </item>
     <item>
-      <title>Supabase Storage 现在是一个与 S3 兼容的存储提供商，满足了高度要求的功能。</title>
-      <link>https://t.me/hn_summary/85304</link>
-      <description><![CDATA[Supabase 存储：现已支持 S3 协议
-Supabase Storage 现在是一个与 S3 兼容的存储提供商，满足了高度要求的功能。可断点上传现已普遍可用，由 TUS 协议提供支持。 S3 协议与现有 API 兼容，提供管理文件的灵活性。身份验证选项包括标准访问密钥和具有行级安全性的用户范围凭据。 S3 协议的支持允许连接到各种第三方工具进行备份和迁移。数据工程师可以利用 S3 与 ClickHouse 和 Spark 等流行工具的兼容性。分段上传和跨存储桶传输等高级功能增强了存储体验。该平台还拥有标准化的错误代码和多租户迁移，以提高性能。]]></description>
-      <guid>https://t.me/hn_summary/85304</guid>
-      <pubDate>Fri, 19 Apr 2024 06:29:19 GMT</pubDate>
+      <title>在 4 月 18 日的最新更新中，解决晶格问题的量子算法已经步入正轨 [...]</title>
+      <link>https://t.me/hn_summary/85341</link>
+      <description><![CDATA[解决格子问题的量子算法 - 4 月 18 日更新 
+在 4 月 18 日的最新更新中，格子问题的量子算法遇到了障碍，在算法的第 9 步中发现了一个错误。作者 Chenyi Lei 承认了该错误，并感谢 Hongxun Wu 和 Thomas Vidick 发现了该错误。这意味着用多项式模噪声比求解 LWE 的多项式时间量子算法的主张不再有效。尽管遇到了这一挫折，该论文仍然保持不变，希望复高斯和加窗 QFT 等概念仍然可以在量子计算或从不同角度研究 LWE 方面具有潜在的应用。]]></description>
+      <guid>https://t.me/hn_summary/85341</guid>
+      <pubDate>Fri, 19 Apr 2024 14:13:29 GMT</pubDate>
     </item>
     <item>
-      <title>雇主急切地用自动化和技术取代工人，导致许多员工[...]</title>
-      <link>https://t.me/hn_summary/85303</link>
-      <description><![CDATA[希望我们都注意到雇主的舌头欲望替换所有工人
-雇主急切地用自动化和技术取代工人，这让许多员工对自己的工作保障感到不确定。机器替代工人的趋势正在兴起，我们必须关注劳动力的这种转变。雇主对自动化任务的强烈渴望是显而易见的，对于工人来说，适应和提高技能以在不断变化的就业市场中保持领先地位至关重要。保持信息灵通并积极主动地驾驭不断变化的工作环境。 #futureofwork #automation #jobsecurity。]]></description>
-      <guid>https://t.me/hn_summary/85303</guid>
-      <pubDate>Fri, 19 Apr 2024 06:25:13 GMT</pubDate>
+      <title>[媒体]在灾难性地推出 Gemini AI 后，谷歌因其 [...]</title>
+      <link>https://t.me/hn_summary/85340</link>
+      <description><![CDATA[我们是一个营业场所
+在灾难性地推出 Gemini AI 后，谷歌在其原则上面临着内部混乱。一群员工占领了首席执行官办公室，抗议谷歌向以色列提供云服务，但很快因扰乱业务运营而被解雇。随后，谷歌效仿 Coinbase 等公司，明确表示政治在工作场所没有立足之地。此举标志着企业界正在转向将业务置于激进主义之上，标志着在消除工作场所的破坏性行为方面取得了进展。现在是所有公司宣布“这是一个营业场所”的时候了。]]></description>
+      <guid>https://t.me/hn_summary/85340</guid>
+      <pubDate>Fri, 19 Apr 2024 13:56:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]三星正在为高管实施每周工作六天的政策，以解决财务问题 [...]</title>
-      <link>https://t.me/hn_summary/85302</link>
-      <description><![CDATA[三星将高管每周工作六天，以“注入一种感觉”危机”
-三星正在为高管实施每周工作六天的政策，以解决财务困境和科技行业日益激烈的竞争。此举旨在营造紧迫感，加大应对挑战的力度。尽管面临严峻的经济形势和来自 SK 海力士等竞争对手的激烈竞争，但三星已显示出好转迹象，实现五个季度以来的首次盈利。虽然各个部门的高管一直自愿每周工作六天，但现在对于三星电子等主要子公司来说，新政策将是强制性的。这一大胆的决定反映了三星从最近的财务挫折中恢复过来的决心。]]></description>
-      <guid>https://t.me/hn_summary/85302</guid>
-      <pubDate>Fri, 19 Apr 2024 06:01:03 GMT</pubDate>
+      <title>DuckDuckGo AI 聊天是 DuckDuckGo 搜索引擎上的一项独特功能，允许用户 [...]</title>
+      <link>https://t.me/hn_summary/85339</link>
+      <description><![CDATA[DuckDuckGo人工智能聊天
+DuckDuckGo AI Chat 是 DuckDuckGo 搜索引擎上的一项独特功能，允许用户与人工智能聊天机器人进行交互。该聊天机器人可以帮助回答问题、提供信息，甚至进行随意的对话。通过提供这种人工智能聊天选项，DuckDuckGo 为用户提供了更加个性化和交互式的搜索体验。这是增强用户参与度并使网络搜索变得更加愉快的巧妙方法。单击链接亲自尝试一下！]]></description>
+      <guid>https://t.me/hn_summary/85339</guid>
+      <pubDate>Fri, 19 Apr 2024 13:54:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国</title>
-      <link>https://t.me/hn_summary/85301</link>
-      <description><![CDATA[美国制裁将中国变成传统芯片巨头
-美国对中国半导体出口的制裁无意中让中国变成了传统芯片强国，2024年第一季度产量增长了40%。中国专注于不受贸易限制的成熟芯片，导致产量激增在产量方面，该国有可能主导全球传统芯片生产。在国家的大力支持和自给自足的推动下，到2027年，中国的产能预计将达到全球市场份额的39%。然而，中国仍然严重依赖芯片进口，缺乏在尖端工艺上竞争的技术节点。]]></description>
-      <guid>https://t.me/hn_summary/85301</guid>
-      <pubDate>Fri, 19 Apr 2024 05:56:58 GMT</pubDate>
+      <title>经过一次海滩之旅和一次免下车洗车后，Tik Tok 用户 @captian.ad 的 Tesla Cyber​​ [...]</title>
+      <link>https://t.me/hn_summary/85338</link>
+      <description><![CDATA[驾车式洗车对于特斯拉 Cyber​​truck 来说太过分了
+在去海滩和驾车洗车后，Tik Tok 用户 @captian.ad 的 Tesla Cyber​​truck 神秘地失去了反应，变成了他车里的一个巨大的镇纸。车库。尽管遵循了工厂重启程序，卡车仍然处于停电状态，无法运行几个小时。在联系特斯拉后，卡车终于在一夜之间重新启动，这让车主很困惑，为什么它会出现故障。该事件凸显了遵循 Cyber​​truck 手动说明的重要性，包括使用“洗车模式”来防止损坏。这个警示故事提醒 Cyber​​truck 车主在清洗车辆时要小心谨慎，以避免意外停机。]]></description>
+      <guid>https://t.me/hn_summary/85338</guid>
+      <pubDate>Fri, 19 Apr 2024 13:29:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]亚马逊在短短两年内迅速建立了无与伦比的电动汽车充电网络，拥有超过 [...]</title>
-      <link>https://t.me/hn_summary/85300</link>
-      <description><![CDATA[亚马逊如何在短短两年内建立无与伦比的电动汽车充电网络
-亚马逊在短短两年内迅速建立了无与伦比的电动汽车充电网络，在美国 120 个仓库安装了超过 17,000 个充电器。这使得亚马逊成为该国最大的私人电动汽车充电基础设施运营商。该公司向电动送货车辆的转型是减少碳排放的关键一步，Rivian 货车配备了 309 个西门子充电器。尽管亚马逊取得了重大进展，但在长途货运和其他排放量大的业务脱碳方面仍然面临挑战。尽管存在初始成本和物流障碍，但该公司对电动汽车和可再生能源的投资表明了对可持续发展的承诺。]]></description>
-      <guid>https://t.me/hn_summary/85300</guid>
-      <pubDate>Fri, 19 Apr 2024 05:50:51 GMT</pubDate>
+      <title>[媒体]特斯拉因加速器故障被勒令召回近 4,000 辆 Cyber​​truck [...]</title>
+      <link>https://t.me/hn_summary/85337</link>
+      <description><![CDATA[特斯拉因加速器故障而被勒令召回近 4k 辆赛博卡车 
+由于加速踏板故障可能导致踏板被卡住，特斯拉已被勒令召回近 4,000 辆 Cyber​​truck。这给该公司带来了一系列坏消息，包括裁员和汽车交付量下降。以其未来主义设计而闻名的 Cyber​​truck 面临着安全性、可靠性甚至不锈钢车身锈斑的审查。一名司机在社交媒体上曝光了这一问题，引发了召回。特斯拉将免费更换或返工油门踏板总成，解决制造过程中残留润滑油造成的问题。]]></description>
+      <guid>https://t.me/hn_summary/85337</guid>
+      <pubDate>Fri, 19 Apr 2024 13:14:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
