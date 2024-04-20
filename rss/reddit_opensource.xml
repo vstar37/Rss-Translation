@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 20 Apr 2024 00:49:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 03:14:11 GMT</lastBuildDate>
+    <item>
+      <title>具有代理工作流程的 Github 项目模板</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c8eyf8/a_github_project_template_with_agentic_workflows/</link>
+      <description><![CDATA[我制作了一个名为 智能项目附带人工智能工作流程：  自动格式化和标记新问题 检查新 PR 的常见问题、代码质量、格式等 生成代码的工作流程 运行任意任务的工作流程 询问有关代码库的问题的工作流程  &lt; p&gt;您还可以在问题/PR 评论中使用“/pilot”与 AI 代理交谈。 让我知道您的想法！   由   提交 /u/stellarcitizen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c8eyf8/a_github_project_template_with_agentic_workflows/</guid>
+      <pubDate>Sat, 20 Apr 2024 02:29:59 GMT</pubDate>
+    </item>
     <item>
       <title>圣经经文参考图</title>
       <link>https://www.reddit.com/r/opensource/comments/1c88lie/bible_verses_refference_graph/</link>
-      <description><![CDATA[大家好。我正在寻找一个 Excel 列表，其中包含每节经文及其中的参考文献。我想用参考创建一个布尔矩阵，然后用游戏引擎将其可视化为 3D。我想要一张圣经参考文献的地图。任何人都知道谁做过这件事，或者也许 smbd 有一个包含每节经文和参考文献的数据库？谢谢！   由   提交/u/Wandering_Wonderer28   [链接] [评论]]]></description>
+      <description><![CDATA[大家好。我正在寻找一个 Excel 列表，其中包含每节经文及其中的参考文献。我想用参考创建一个布尔矩阵，然后用游戏引擎将其可视化为 3D。我想要一张圣经参考文献的地图。任何人都知道谁做过这件事，或者也许 smbd 有一个包含每节经文和参考文献的数据库？谢谢！   由   提交/u/Wandering_Wonderer28  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c88lie/bible_verses_refference_graph/</guid>
       <pubDate>Fri, 19 Apr 2024 21:32:33 GMT</pubDate>
     </item>
@@ -20,7 +27,7 @@
       <pubDate>Fri, 19 Apr 2024 17:48:06 GMT</pubDate>
     </item>
     <item>
-      <title>从您的个人资料中以 YAML 格式自动生成各种格式的简历</title>
+      <title>从您的 YAML 格式的个人资料中自动生成各种格式的简历</title>
       <link>https://www.reddit.com/r/opensource/comments/1c7vkm5/automatic_generation_of_cvs_in_various_formats/</link>
       <description><![CDATA[       由   提交/u/rybakit  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c7vkm5/automatic_generation_of_cvs_in_various_formats/</guid>
@@ -57,14 +64,14 @@
     <item>
       <title>ReExt React 组件库的 npm 包泄露了 Git 凭证</title>
       <link>https://www.reddit.com/r/opensource/comments/1c7hy9k/npm_package_for_reext_react_components_library/</link>
-      <description><![CDATA[   /u/ossreleasefeed  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由   提交/u/ossreleasefeed  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c7hy9k/npm_package_for_reext_react_components_library/</guid>
       <pubDate>Thu, 18 Apr 2024 23:24:41 GMT</pubDate>
     </item>
     <item>
       <title>寻找开源交付管理解决方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1c7hc51/looking_for_opensource_delivery_management/</link>
-      <description><![CDATA[我正在寻找用于交付管理的开源工具。我们的小型仓库公司需要提供实时交货更新，包括拣选、装载、运输中和交付等阶段。我们还希望司机扫描包裹或文件以更新状态。还需要包括签名和照片等交付证明选项。 有人推荐适合这些需求的软件吗？如果可以集成到odoo中就好了。甚至更好。这似乎是许多小型运输公司都会使用的东西。分享的任何建议或经验都会有很大帮助！ 谢谢！   由   提交/u/conroyke56  [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找用于交付管理的开源工具。我们的小型仓库公司需要提供实时交货更新，包括拣选、装载、运输中和交付等阶段。我们还希望司机扫描包裹或文件以更新状态。还需要包括签名和照片等交付证明选项。 有人推荐适合这些需求的软件吗？如果可以集成到odoo中就好了。甚至更好。这似乎是许多小型运输公司都会使用的东西。分享的任何建议或经验都会有很大帮助！ 谢谢！   由   提交/u/conroyke56   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c7hc51/looking_for_opensource_delivery_management/</guid>
       <pubDate>Thu, 18 Apr 2024 22:58:02 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>如果我经常提交，在 GitHub 上找到我的存储库会更容易吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1c7ax61/will_it_be_easier_to_find_my_repo_on_github_if_i/</link>
-      <description><![CDATA[你好， 我最近开源了我的语言学习门户项目。问题是我有我的旧私人仓库，我每天都会对其进行开发。然后是公共开源存储库，我只向其中提交了带有生产代码的里程碑。  如果我将日常开发完全切换到公共仓库，其他人是否更有可能在 GitHub 上找到它？  谢谢。   由   提交/u/tcoil_443   [链接] [评论]]]></description>
+      <description><![CDATA[你好， 我最近开源了我的语言学习门户项目。问题是我有我的旧私人仓库，我每天都会对其进行开发。然后是公共开源存储库，我只向其中提交了带有生产代码的里程碑。  如果我将日常开发完全切换到公共仓库，其他人是否更有可能在 GitHub 上找到它？  谢谢。   由   提交/u/tcoil_443  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c7ax61/will_it_be_easier_to_find_my_repo_on_github_if_i/</guid>
       <pubDate>Thu, 18 Apr 2024 18:39:12 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我的意思是那些不显眼的东西，它们可以在后台运行，而桌面上没有任何指示。首选开源。   由   提交 /u/General_Riju   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c79ynn/recommendations_for_hidden_screen_recorders_for/</guid>
       <pubDate>Thu, 18 Apr 2024 18:01:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们正在建立我们的开源公司作为另一个项目的分支</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c78tq6/were_building_our_open_source_company_as_a_fork/</link>
-      <description><![CDATA[ 由   提交 /u/Rizz-Alpaca   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c78tq6/were_building_our_open_source_company_as_a_fork/</guid>
-      <pubDate>Thu, 18 Apr 2024 17:15:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
