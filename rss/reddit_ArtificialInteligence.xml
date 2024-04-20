@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 20 Apr 2024 09:10:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 12:18:00 GMT</lastBuildDate>
+    <item>
+      <title>人工智能新闻</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c8mb7d/ai_news/</link>
+      <description><![CDATA[所有最新的人工智能新闻 -  Meta 发布了最新模型 Llama 3，击败了 free claude 和 claude。与 Gemini 1.5 pro 相当 微软的 VASA-1 让静态照片栩栩如生 (https://www.microsoft.com/en-us/research/project/vasa-1/)  Hugging Face 发布了测试健康任务生成人工智能的基准 Nothing 推出集成 ChatGPT 的新款耳机 Boston Dynamics 推出新款 Atlas 机器人  更多人工智能新闻订阅   由   提交 /u/ArFiction   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c8mb7d/ai_news/</guid>
+      <pubDate>Sat, 20 Apr 2024 10:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>将法学硕士融入企业高管生产力的最佳高管培训/认证？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c8l5bn/best_executive_training_certification_for_llm/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[ 由   提交 /u/enoumen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c86vnw/a_daily_chronicle_of_ai_innovations_april_19_2024/</guid>
       <pubDate>Fri, 19 Apr 2024 20:22:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>从聊天机器人到代理——有人能够与操作系统制造商长期竞争吗？ （微软谷歌/安卓、苹果）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c86q82/chatbots_to_agents_will_anyone_be_able_to_compete/</link>
-      <description><![CDATA[过去几个月，我一直在个人和工作中大量使用所有著名的聊天机器人。目前我的首选工具是 Perplexity.ai Pro 设置为使用 Claude 3 Opus（有时也使用 GPT-4-Turbo）。 我认为自然的下一个演变是聊天机器人能够告诉你一些事情并实际做一些事情。本质上是将 Google Assistant 与 Google Gemini 合并。目前，在 Android 上运行的 Gemini 无法控制您家中的智能设备，例如 Google Assistant。 Google Assistant 太愚蠢了，除了重复网页之外，无法回答很多问题。 但我在想，如果最终人工智能除了提供信息之外还能为你做事，控制设备，操作系统的制造商（微软 Windows、谷歌 Android 和苹果 iOS）是否拥有巨大的优势，因为他们的人工智能工具可以更紧密地嵌入到操作系统中？ 我知道有IFTTT 和 SmartThings 等应用程序可以控制 Google Home 设备，但它们仍然要求您授予其访问您的 Google 帐户的权限。 在我看来，像 Perplexity、OpenAI (ChatGPT)、Anthropic (Claude) 这样的公司或 Meta (Llama) 可能会长期处于不利地位，因为它们本质上是“搭载附加组件”，而不是与您的计算机或手机操作系统进行更深层次的无缝集成。需要某种外部链接到您的 Microsoft、Apple 或 Google 帐户的应用程序。即便如此，操作系统制造商似乎仍然比任何第 3 方应用程序拥有更多对某些功能的低级访问权限。   由   提交 /u/BeingBalanced   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c86q82/chatbots_to_agents_will_anyone_be_able_to_compete/</guid>
-      <pubDate>Fri, 19 Apr 2024 20:16:19 GMT</pubDate>
     </item>
     <item>
       <title>Meta新AI“冒充人类”？</title>
