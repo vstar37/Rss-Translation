@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
-    <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Sat, 20 Apr 2024 06:14:35 GMT</lastBuildDate>
+    <description>一个致力于音乐的社区，从最少的事情中获得最大的收益。老游戏风格的音乐，例如C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD等。</description>
+    <lastBuildDate>Sat, 20 Apr 2024 09:10:50 GMT</lastBuildDate>
+    <item>
+      <title>恶魔城 SotN - 血缘关系（8 位、Gameboy、hUGETracker）</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1c8ktyc/castlevania_sotn_blood_relations_8bit_gameboy/</link>
+      <description><![CDATA[       由   提交 /u/M-2-M   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1c8ktyc/castlevania_sotn_blood_relations_8bit_gameboy/</guid>
+      <pubDate>Sat, 20 Apr 2024 08:19:54 GMT</pubDate>
+    </item>
     <item>
       <title>我使 YM2414 向后兼容 Genesis（封面）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1c89e7w/i_made_the_ym2414_backwards_compatible_with_the/</link>
@@ -34,7 +41,7 @@
       <pubDate>Fri, 19 Apr 2024 19:46:40 GMT</pubDate>
     </item>
     <item>
-      <title>[NES] 告诉我们你是谁 - 我正在制作的角色扮演游戏的角色创建屏幕的原创作品！</title>
+      <title>[NES] 告诉我们你是谁 - 我正在制作的 RPG 角色创建屏幕的原创作品！</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1c83w6b/nes_tell_us_who_you_are_an_original_composition/</link>
       <description><![CDATA[    /u/BynaryFission   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1c83w6b/nes_tell_us_who_you_are_an_original_composition/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>HDSQ - Tau // Fakebit // 与原始 MIDI 一样准确</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1c74igz/hdsq_tau_fakebit_accurate_with_original_midi/</link>
-      <description><![CDATA[        由    /u/Gallium-Gonzollium 提交   [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交 /u/Gallium-Gonzollium   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1c74igz/hdsq_tau_fakebit_accurate_with_original_midi/</guid>
       <pubDate>Thu, 18 Apr 2024 14:18:34 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[舒适 - 新鲜翅膀 https://open.s potify.com/track/2bafTxCQIIdJ6U3cMqfHtF?si=p8fGM4LdQuuljc6QFt1Gig&amp;context=spotify%3Aalbum %3A7MWHdsCbjzTdiyUDxN57Ki &lt; !-- SC_ON --&gt;  由   提交 /u/NoJuggernaut291   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1c6fneb/something_cozy/</guid>
       <pubDate>Wed, 17 Apr 2024 17:22:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>GINKO ULTRA 的 Killfrost Ritual（现场表演）</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1c6bh1q/killfrost_ritual_by_ginko_ultra_field_performance/</link>
-      <description><![CDATA[      由 GINKO ULTRA 作曲/演奏/录制  &lt; !-- SC_ON --&gt;  由   提交 /u/GINKO-ULTRA-3000   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1c6bh1q/killfrost_ritual_by_ginko_ultra_field_performance/</guid>
-      <pubDate>Wed, 17 Apr 2024 14:34:47 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -3,8 +3,22 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、人工智能在商业中的应用、人工智能如何影响我们的生活、未来会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 20 Apr 2024 06:13:22 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Sat, 20 Apr 2024 09:10:02 GMT</lastBuildDate>
+    <item>
+      <title>将法学硕士融入企业高管生产力的最佳高管培训/认证？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c8l5bn/best_executive_training_certification_for_llm/</link>
+      <description><![CDATA[作为一名高级经理，使用 LLM（例如 Chat GPT/Claude/Mistral）来提高生产力/工作的最佳培训/认证是什么？   由   提交 /u/Both_Meringue_603   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c8l5bn/best_executive_training_certification_for_llm/</guid>
+      <pubDate>Sat, 20 Apr 2024 08:41:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能在自然灾害方面的应用</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c8j29v/ai_on_natural_disaster/</link>
+      <description><![CDATA[Reddit 用户大家好，我正在研究人工智能对自然灾害的影响（缓解、复原力、预警系统等......）我很乐意如果您知道任何团队、人工智能或...正在处理此相关事宜，请提供您的意见   由   提交 /u/sasankhatibi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c8j29v/ai_on_natural_disaster/</guid>
+      <pubDate>Sat, 20 Apr 2024 06:22:23 GMT</pubDate>
+    </item>
     <item>
       <title>每日一分钟人工智能新闻 4/19/2024</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c8fhvw/oneminute_daily_ai_news_4192024/</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[ 由   提交 /u/lordpermaximum   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c8fay1/voting_fraud_and_manipulation_are_going_on_in_the/</guid>
       <pubDate>Sat, 20 Apr 2024 02:47:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>在人工智能中模拟人类思维：我们真正在模仿谁，这会导致偏见吗</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c8e4xj/modeling_human_thought_in_ai_who_are_we_really/</link>
-      <description><![CDATA[我一直在研究人工智能的基础知识，最近了解了强化学习、监督学习和无监督学习。据我了解，我们正在尝试训练人工智能使用神经网络像人类一样处理思想。然而，我很好奇我们引用的是哪个特定的人类模型，因为有数十亿个独特的个体，每个人都有不同的经历和处理思想的方式。那么，我们到底想模仿谁来建模这个人工智能呢？另外，人工智能是否会存在政治偏见，因为它是根据人类数据进行训练的？如果是的话，那会是什么？ （我是一名即将入学的计算机科学一年级学生，对人工智能非常感兴趣，机器学习和深度学习，我完全是新手。）   由   提交 /u/untitledslice   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c8e4xj/modeling_human_thought_in_ai_who_are_we_really/</guid>
-      <pubDate>Sat, 20 Apr 2024 01:47:12 GMT</pubDate>
     </item>
     <item>
       <title>有没有类似摇头娃娃图片的网站？</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[过去几个月，我一直在个人和工作中大量使用所有著名的聊天机器人。目前我的首选工具是 Perplexity.ai Pro 设置为使用 Claude 3 Opus（有时也使用 GPT-4-Turbo）。 我认为自然的下一个演变是聊天机器人能够告诉你一些事情并实际做一些事情。本质上是将 Google Assistant 与 Google Gemini 合并。目前，在 Android 上运行的 Gemini 无法控制您家中的智能设备，例如 Google Assistant。 Google Assistant 太愚蠢了，除了重复网页之外，无法回答很多问题。 但我在想，如果最终人工智能除了提供信息之外还能为你做事，控制设备，操作系统的制造商（微软 Windows、谷歌 Android 和苹果 iOS）是否拥有巨大的优势，因为他们的人工智能工具可以更紧密地嵌入到操作系统中？ 我知道有IFTTT 和 SmartThings 等应用程序可以控制 Google Home 设备，但它们仍然要求您授予其访问您的 Google 帐户的权限。 在我看来，像 Perplexity、OpenAI (ChatGPT)、Anthropic (Claude) 这样的公司或 Meta (Llama) 可能会长期处于不利地位，因为它们本质上是“搭载附加组件”，而不是与您的计算机或手机操作系统进行更深层次的无缝集成。需要某种外部链接到您的 Microsoft、Apple 或 Google 帐户的应用程序。即便如此，操作系统制造商似乎仍然比任何第 3 方应用程序拥有更多对某些功能的低级访问权限。   由   提交 /u/BeingBalanced   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c86q82/chatbots_to_agents_will_anyone_be_able_to_compete/</guid>
       <pubDate>Fri, 19 Apr 2024 20:16:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个工具来制作病毒式人工智能名人视频！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c825nf/i_made_a_tool_to_make_viral_ai_celebrity_videos/</link>
-      <description><![CDATA[嘿大家，最近开发了这个工具来生成您在 tiktok 和 instagram 上看到的病毒式 AI 名人视频，完全免费试用！  （塞缪尔·杰克逊的一个不如其他人好，很快就会添加更多名人:)） https://www.clipmove.com/celebrity-ai-voice-generator    ;由   提交 /u/TernaryJimbo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c825nf/i_made_a_tool_to_make_viral_ai_celebrity_videos/</guid>
-      <pubDate>Fri, 19 Apr 2024 17:07:39 GMT</pubDate>
     </item>
     <item>
       <title>Meta新AI“冒充人类”？</title>
