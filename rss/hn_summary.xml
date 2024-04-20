@@ -4,86 +4,87 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 19 Apr 2024 21:04:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 06:12:54 GMT</lastBuildDate>
     <item>
-      <title>[媒体]为了满足 Android 设备上对更高质量视频日益增长的需求，Goog [...]</title>
-      <link>https://t.me/hn_summary/85407</link>
-      <description><![CDATA[YouTube 默认转向 AV1，这让一些 Android 用户感到沮丧&lt; /a&gt;
-为了满足 Android 设备上对更高质量视频日益增长的需求，Google 通过名为“libdav1d”的新解码器引入了对 AV1 编解码器的支持。虽然此更新为许多 Android 手机带来了改进的编解码器支持，但 YouTube 已决定默认使用新的解码器，这引起了一些用户对由于缺乏硬件加速支持而可能产生的电池影响的担忧。在此之前，Netflix 在 2020 年也做出了类似决定，将 AV1 设为 Android 设备上流媒体的新标准。随着用户适应这一变化，围绕 YouTube 决定的争议最终可能会平息。]]></description>
-      <guid>https://t.me/hn_summary/85407</guid>
-      <pubDate>Fri, 19 Apr 2024 21:04:13 GMT</pubDate>
+      <title>[媒体]经过深思熟虑，我们做出了关闭《邮报新闻》的艰难决定[...]</title>
+      <link>https://t.me/hn_summary/85471</link>
+      <description><![CDATA[我们将在未来几周内关闭发布新闻
+经过深思熟虑，我们做出了在未来几周内关闭《邮报新闻》的艰难决定。我们要感谢忠实读者多年来的支持。这个决定并不是轻易做出的，但我们相信这是我们公司前进的最佳行动方针。我们很高兴有机会为我们的社区服务并向读者提供新闻和信息。我们感谢您在此过渡期间的理解。感谢您成为《华盛顿邮报》大家庭的一员。]]></description>
+      <guid>https://t.me/hn_summary/85471</guid>
+      <pubDate>Sat, 20 Apr 2024 06:12:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国环保署第三次允许在全国范围内销售更高浓度的乙醇 [...]</title>
-      <link>https://t.me/hn_summary/85406</link>
-      <description><![CDATA[美国环保局再次允许夏季销售高乙醇汽油混合物
-由于全球冲突影响燃料供应，美国环保局连续第三个夏天允许在全国范围内销售更高比例的乙醇。这一决定受到了中西部生物燃料行业和政界人士的赞扬，他们认为乙醇对农民、消费者和环境都有好处。然而，环保人士对乙醇生产中碳排放量增加表示担忧。更高的混合比例预计消费者的成本将低于目前 10% 的混合比例，并且已被批准用于较新的车辆。这项临时豁免是为了应对持续的全球冲突和美国炼油能力的下降。]]></description>
-      <guid>https://t.me/hn_summary/85406</guid>
-      <pubDate>Fri, 19 Apr 2024 20:51:06 GMT</pubDate>
+      <title>[媒体]Zilog 宣布终止一系列 Z80 产品的生命周期，其中包括 Z84C00 [...]</title>
+      <link>https://t.me/hn_summary/85470</link>
+      <description><![CDATA[Z80 CPU 和外设已停产
+Zilog 宣布终止一系列 Z80 产品的生命周期，包括 Z84C00 系列和 Z84C10 MPU 等外设。这标志着自 1976 年以来一直存在的 Z80 时代的结束。爱好者和复古系统爱好者需要在 2024 年 6 月 14 日之前备货，因为这些组件将不再可用。然而，eZ80 仍将生产，以确保 Z80 架构的传统得以延续。虽然未来构建基于 Z80 的系统可能会更加困难，但 Z80、6502 和 8051 架构的时代将会持续下去。]]></description>
+      <guid>https://t.me/hn_summary/85470</guid>
+      <pubDate>Sat, 20 Apr 2024 05:49:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Mozilla 终于开始在 Linu 上为 Firefox 提供官方 ARM64/AArch64 二进制文件 [...]</title>
-      <link>https://t.me/hn_summary/85405</link>
-      <description><![CDATA[Mozilla 开始提供 Firefox ARM64 Linux 二进制文件
-Mozilla 终于开始为 Linux 上的 Firefox 提供官方 ARM64/AArch64 二进制文件，这是用户期待已久的举动。虽然 Firefox 已在 AArch64 Linux 和 Windows ARM64 上可用，但 Linux ARM64 构建已留给第三方。 Mozilla 开始针对 ARM64 构建 Firefox Nightly，并计划在全面测试后扩展到发布版本和 ESR 版本。我们鼓励用户下载并测试新的 ARM64 Firefox Nightly 二进制文件，以帮助提高稳定性和可靠性。这标志着 ARM64 上的 Firefox 向前迈出了重要一步，尽管有些人可能认为它早就该发生了。]]></description>
-      <guid>https://t.me/hn_summary/85405</guid>
-      <pubDate>Fri, 19 Apr 2024 20:49:01 GMT</pubDate>
+      <title>[媒体] 在我的 25 年工程职业回顾中，我反思了我的选择和经历 [...]</title>
+      <link>https://t.me/hn_summary/85469</link>
+      <description><![CDATA[我的25年工程生涯回顾
+在我的 25 年工程职业生涯回顾中，我反思了塑造我的旅程的选择和经历。从对抗拖延和竞争到拥抱协作和日记，我为有抱负的工程师分享了宝贵的见解。我强调了设定明确目标、养成阅读习惯和寻求指导的重要性，并为应对工程职业的复杂性提供了实用的建议。我强调工作与生活平衡、人际网络和个人成长的重要性，鼓励读者从错误中吸取教训，努力不断进步。和我一起踏上这段反省之旅，探索四分之一个世纪以来在工程领域学到的经验教训和获得的智慧。 （根据 91% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/85469</guid>
+      <pubDate>Sat, 20 Apr 2024 05:48:40 GMT</pubDate>
     </item>
     <item>
-      <title>告诉 HN：有没有想过申请 YC？</title>
-      <link>https://t.me/hn_summary/85404</link>
-      <description><![CDATA[告诉 HN：有没有想过申请 YC？这个周末做S24
-您正在考虑申请 Y Combinator 吗？不要犹豫，这个周末就为即将到来的 S24 批次做吧。如果您曾经怀疑过自己的资格或认为现在还为时过早，请再想一想。 YC 正在寻找能够学习和成长的潜在创始人，无论他们处于旅程的哪个阶段。申请过程很简单，奖励可以改变生活。不要让自我怀疑阻碍你。抓住机会，在周一之前提交您的申请，看看这个机会可以带您去哪里。 YC 就像蛇梯游戏中的梯子，看不到蛇。立即申请，看看它会带您走向何方。]]></description>
-      <guid>https://t.me/hn_summary/85404</guid>
-      <pubDate>Fri, 19 Apr 2024 20:47:57 GMT</pubDate>
+      <title>[媒体]该项目是为开发人员编写的通知基础设施 API 列表，位于 [...]</title>
+      <link>https://t.me/hn_summary/85468</link>
+      <description><![CDATA[显示 HN：为开发者提供的通知基础设施 API 编译列表
+该项目是为开发人员整理的通知基础设施 API 列表，包括 courier 等平台。 com，engagespot.co，knock.app 和 novu.com。它还包括实时 API 提供商，例如 ically.com 和 pusher.com，营销传播提供商，例如 braze.com 和 customer.io，推送通知 API，例如 firebase.google.com 和 pushengage.com，聊天 API，例如 comechat.com 和 sendbird.com，电子邮件 API，如 mailgun.com 和 sendgrid.com，以及 AMQP 提供商，例如 cloudamqp.com 和 aws.amazon.com/amazon-mq。作者旨在为开发者提供支持 API 集成的通知基础设施提供商的完整列表，以便于与其应用程序轻松集成。]]></description>
+      <guid>https://t.me/hn_summary/85468</guid>
+      <pubDate>Sat, 20 Apr 2024 05:40:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Greptile 是管理 Git 存储库的游戏规则改变者。</title>
-      <link>https://t.me/hn_summary/85403</link>
-      <description><![CDATA[通过 Web UI 询问有关 Git 存储库的问题&lt; br /&gt;
-Greptile 是管理 Git 存储库的游戏规则改变者。我对我的 Github 存储库提出问题并用简单的英语获得清晰、简洁的答案是多么容易感到震惊。但真正让我印象深刻的是它能够生成美人鱼图来帮助我更好地理解代码结构。对于任何希望简化开发流程并深入了解项目的人来说，该工具都是必备工具。在 greptile.com 上查看，看看它能带来什么改变适合您的工作流程。]]></description>
-      <guid>https://t.me/hn_summary/85403</guid>
-      <pubDate>Fri, 19 Apr 2024 20:43:52 GMT</pubDate>
+      <title>[媒体] 该项目是 Windows 95 经典纸牌游戏的忠实翻拍，旨在 [...]</title>
+      <link>https://t.me/hn_summary/85467</link>
+      <description><![CDATA[纸牌：Windows 95 原版的正宗翻拍&lt; br /&gt;
+该项目是对 Windows 95 中经典纸牌游戏的忠实重制，旨在保留原始游戏体验并修复一些小错误。作者花费了大量的精力来复制原版游戏的所有设定和动画，使其尽可能接近原作。该项目因注重真实性和对细节的关注而与众不同，作者对他们的娱乐表达了自豪。该项目花了一年多的时间才完成，尽管 Java Swing 遇到了一些挑战，但作者还是表达了对这个过程的喜爱。]]></description>
+      <guid>https://t.me/hn_summary/85467</guid>
+      <pubDate>Sat, 20 Apr 2024 04:46:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 经过深思熟虑，我做出了退出我的 invo 的艰难决定 [...]</title>
-      <link>https://t.me/hn_summary/85402</link>
-      <description><![CDATA[Moxie：我不再参与 Signal 
-经过深思熟虑，我做出了退出 Signal 的艰难决定。虽然我很感激有机会成为这样一个创新平台的一部分，但我觉得现在是我追求其他事业的时候了。我对未来感到兴奋，并感谢 Signal 社区的支持。感谢您的理解。 #Moxie #Signal #NewBeginnings]]></description>
-      <guid>https://t.me/hn_summary/85402</guid>
-      <pubDate>Fri, 19 Apr 2024 20:42:49 GMT</pubDate>
+      <title>[媒体]以色列一直处于在冲突中使用面部识别技术的最前沿[...]</title>
+      <link>https://t.me/hn_summary/85466</link>
+      <description><![CDATA[以色列在加沙及其他地区使用面部识别系统&lt; br /&gt;
+以色列一直处于在冲突地区（尤其是加沙）使用面部识别技术的最前沿。该国开发了多种系统，如红狼、蓝狼和狼群，用于扫描和拘留涉嫌与哈马斯有联系的巴勒斯坦人。士兵们被激励通过游戏化系统收集尽可能多的生物识别数据，从而导致非人化和任意限制。这些系统缺乏问责制和准确性，引发了人们对侵犯人权行为的担忧。尽管存在已知的不准确之处，以色列政府仍然依赖这些技术，利用人工智能来逃避责任。在冲突地区使用面部识别会引发严重的道德和法律问题。]]></description>
+      <guid>https://t.me/hn_summary/85466</guid>
+      <pubDate>Sat, 20 Apr 2024 04:19:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在本文中，我们探讨了如何利用 Google AI Studi 的多模式功能 [...]</title>
-      <link>https://t.me/hn_summary/85401</link>
-      <description><![CDATA[Gemini 1.5 Pro 和 Google AI Studio 入门 
-在本文中，我们将探讨如何利用 Google AI Studio 1.5 Pro 的多模式功能。一个突出的功能是能够处理各种文件类型，如图像、视频、音频和 Google Drive 文件，使开发人员能够有效地测试想法和排除故障。例如，通过将聊天提示与视频相结合进行摘要，模型可以分析视频内容并提供摘要。这种独特的功能使 Google AI Studio 与 OpenAI 等其他 AI Playgrounds 区分开来，为交互式和动态 AI 项目开辟了新的可能性。立即探索 Gemini 1.5 Pro 和 Google AI Studio 的潜力！]]></description>
-      <guid>https://t.me/hn_summary/85401</guid>
-      <pubDate>Fri, 19 Apr 2024 20:33:43 GMT</pubDate>
+      <title>询问 HN：是什么让您禁用广告拦截器？</title>
+      <link>https://t.me/hn_summary/85465</link>
+      <description><![CDATA[询问 HN：是什么让您禁用广告拦截器？ 
+标题：询问 HN：是什么让您禁用广告拦截器？
+您是否厌倦了广告拦截器和网站之间要求您将其列入白名单的持续斗争？许多人认为，如果没有广告拦截器，互联网几乎无法使用，但有例外吗？分享您在广告拦截器上列入白名单的网站（如果有）。令人惊讶的是，作者承认没有任何人被列入白名单。加入 news.ycombinator.com 上的讨论，分享您的想法对这场正在进行的辩论的想法。]]></description>
+      <guid>https://t.me/hn_summary/85465</guid>
+      <pubDate>Sat, 20 Apr 2024 04:05:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]克里姆林宫支持的行为者正在加紧努力，在美国之前传播虚假信息 [...]</title>
-      <link>https://t.me/hn_summary/85400</link>
-      <description><![CDATA[克里姆林宫支持的行为者在美国大选前散布虚假信息 
-克里姆林宫支持的行为者正在美国大选前加紧传播虚假信息，重点是减少对乌克兰的支持并播下国内分裂的种子。微软分析师发现了几个与俄罗斯政府有关联的独特的以影响力为目的的组织参与了这些活动。这些团体在这个选举周期中不太活跃，可能是因为初选季节竞争较少。最多产的组织与俄罗斯总统政府有关，凸显了俄罗斯影响力活动的集权性质。这些演员以英语观众为目标，推动对乌克兰及其总统的负面描述。这些策略包括通过受控网站网络传播虚假新闻文章。]]></description>
-      <guid>https://t.me/hn_summary/85400</guid>
-      <pubDate>Fri, 19 Apr 2024 20:21:36 GMT</pubDate>
+      <title>[媒体] 在 Zed 系列可扩展语言支持的第一部分中，@maxdeviant 和 th [...]</title>
+      <link>https://t.me/hn_summary/85464</link>
+      <description><![CDATA[Zed 中的可扩展语言支持
+在 Zed 可扩展语言支持系列的第一部分中，@maxdeviant 和作者开始了一个使 Zed 可扩展的项目，重点关注语言支持。他们集成了用于基于语法的分析的 Tree-sitter 和用于语义理解的语言服务器协议。分布式 Tree-sitter 解析器的挑战催生了使用 WebAssembly 的独特解决方案，结合了本机代码和 wasm 代码以确保安全性和性能。 Tree-sitter 库中添加了新的 API 以支持这种方法。 Zed 社区很快就接受了该功能，提供了 67 种语言扩展。在Zed的扩展系统中成功使用wasm为未来的发展奠定了基础。]]></description>
+      <guid>https://t.me/hn_summary/85464</guid>
+      <pubDate>Sat, 20 Apr 2024 03:54:48 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌以前的座右铭“不作恶”是该公司企业行为准则的重要组成部分。</title>
-      <link>https://t.me/hn_summary/85399</link>
-      <description><![CDATA[不作恶 (Google)
-谷歌以前的座右铭“不作恶”是该公司企业行为准则的重要组成部分。这是 Google 员工 Paul Buchheit 在 2000 年代初期提出的建议，旨在将 Google 与竞争对手区分开来。这句座右铭后来被纳入谷歌 2004 年的 IPO 招股说明书中。然而，随着时间的推移，这句座右铭的含义和相关性受到质疑，批评者用它来强调谷歌有争议的行为，例如避税。 2021 年，三名谷歌前员工甚至提起诉讼，声称谷歌因公开反对不道德行为而解雇他们，违反了自己的座右铭。 （根据 85% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/85399</guid>
-      <pubDate>Fri, 19 Apr 2024 20:15:31 GMT</pubDate>
+      <title>[媒体] 鼓机已经改变了音乐制作的游戏规则，但是如果我们将 [...]</title>
+      <link>https://t.me/hn_summary/85463</link>
+      <description><![CDATA[一款看起来像 Teenage Engineering 的虚拟鼓机
+鼓机已经改变了音乐制作的游戏规则，但如果我们将这种乐趣带入 Web 开发呢？ Toddle.dev 引入了 Web Media，这是一个允许您控制的包媒体播放，非常适合创建虚拟鼓机。这款鼓机的灵感来自 Teenage Engineering，可让您调整节拍、音量并分享您的创作。完全内置于 toddle 中，无需自定义 JavaScript，可以轻松使用节拍按钮、速度旋钮以及不同鼓组部件的选项。您甚至可以分享您的节拍或复制 URL 来展示您的创作。让您的创造力尽情发挥，创造出超越基本网络应用程序的独特内容。]]></description>
+      <guid>https://t.me/hn_summary/85463</guid>
+      <pubDate>Sat, 20 Apr 2024 03:44:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]英特尔在 14A 节点上下了重注，旨在通过其处理器赢得客户 [...]</title>
-      <link>https://t.me/hn_summary/85398</link>
-      <description><![CDATA[英特尔 14A 魔弹：定向自组装 (DSA)
-英特尔在14A节点上下了很大的赌注，旨在通过其工艺技术赢得客户。使高数值孔径光刻变得经济的关键在于定向自组装（DSA），这是一种能够大幅降低光刻成本的灵丹妙药。 DSA 利用嵌段共聚物在光刻引导下自组装成精确的图案。这项创新技术有可能彻底改变芯片制造，但十多年来一直停留在研究阶段。英特尔采用 DSA 可以给他们带来竞争优势，但也存在风险。这对行业的影响是巨大的，潜在的应用不仅仅局限于前沿逻辑的关键层。]]></description>
-      <guid>https://t.me/hn_summary/85398</guid>
-      <pubDate>Fri, 19 Apr 2024 20:14:25 GMT</pubDate>
+      <title>[媒体]大卫·辛克莱 (David Sinclair) 是一位著名的生物黑客、哈佛大学教授，他在 [...]</title>
+      <link>https://t.me/hn_summary/85462</link>
+      <description><![CDATA[生物黑客运动中的内战
+著名生物黑客、哈佛大学教授戴维·辛克莱（David Sinclair）宣扬衰老是一种可以治疗的疾病的观点，在这场运动中引发了争议。尽管他具有影响力且外表年轻，但前同事仍因其可疑的补充剂和声称而谴责他是“万金油推销员”。生物黑客界曾经被视为长寿之路，但现在对辛克莱的方法及其研究的有效性存在分歧。布拉德·斯坦菲尔德博士和彼得·阿提亚博士等批评家认为，辛克莱对自噬和禁食的关注可能不会带来长期好处，甚至可能有害。由于生物黑客运动正在努力应对内部冲突和医学界的怀疑，生物黑客的未来仍然不确定。]]></description>
+      <guid>https://t.me/hn_summary/85462</guid>
+      <pubDate>Sat, 20 Apr 2024 03:27:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
