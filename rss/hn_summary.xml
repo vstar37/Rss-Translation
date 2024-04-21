@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 21 Apr 2024 03:11:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 08:30:46 GMT</lastBuildDate>
     <item>
-      <title>[媒体]为什么一些领先的地质学家拒绝“人类世”这个术语？</title>
-      <link>https://t.me/hn_summary/85601</link>
-      <description><![CDATA[为什么一些领先的地质学家拒绝“人类世”一词？
-2000 年代初，地质学家 Paul Crutzen 创造了“人类世”一词来描述当前的地质时代，其标志是人类活动改变了地球。尽管最初遭到抵制，这一概念还是获得了关注，人类影响的证据可能会保留在未来的岩石中。由于二战后资源消耗急剧加速，人类世工作组提出了1950年左右的开始日期。加拿大克劳福德湖的金钉被认为是人类世开始的标志。关于正式承认人类世为地质时代的争论在地层学家中仍在继续。]]></description>
-      <guid>https://t.me/hn_summary/85601</guid>
-      <pubDate>Sun, 21 Apr 2024 03:11:15 GMT</pubDate>
+      <title>每个人都有 JavaScript，对吧？</title>
+      <link>https://t.me/hn_summary/85620</link>
+      <description><![CDATA[每个人都有 JavaScript，对吧？
+当谈到 JavaScript 时，网络充满了惊喜。从阻止脚本的公司防火墙到干扰下载的 ISP，有许多因素会影响您的 JavaScript 是否适用于所有用户。人们仍然关闭 JavaScript，浏览器扩展可能会意外地改变 DOM。 CDN 可能会出现停机，而且并非所有浏览器都支持您编写的 JavaScript。关键是要为任何场景做好准备，并接受渐进式增强，以确保您的 Web 应用程序适合每个人，无论他们的 JavaScript 状态如何。]]></description>
+      <guid>https://t.me/hn_summary/85620</guid>
+      <pubDate>Sun, 21 Apr 2024 08:30:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]制药巨头拜耳正在通过消除 [...]</title>
-      <link>https://t.me/hn_summary/85600</link>
-      <description><![CDATA[制药巨头拜耳正在摆脱老板
-制药巨头拜耳正在重组公司结构，取消中层管理人员，并削减庞大的规则手册，以节省数十亿美元的资金。首席执行官比尔·安德森 (Bill Anderson) 相信此举将赋予员工权力并简化决策。虽然有些人认为这是一种大胆和创新的方法，但另一些人则认为这是一种削减成本的措施，这在企业界并不是全新的。由于公司因收购孟山都公司而面临财务挑战和法律纠纷，安德森希望这一彻底的革新将为拜耳带来大量节省和更光明的未来。]]></description>
-      <guid>https://t.me/hn_summary/85600</guid>
-      <pubDate>Sun, 21 Apr 2024 03:04:10 GMT</pubDate>
+      <title>h5ai 是一个用于 HTTP Web 服务器的现代文件索引器，可增强 di [...]</title>
+      <link>https://t.me/hn_summary/85619</link>
+      <description><![CDATA[h5ai – 现代 HTTP Web 服务器索引
+h5ai 是一个用于 HTTP Web 服务器的现代文件索引器，它通过吸引人的显示、不同的视图、面包屑和树状概述来增强目录的浏览体验。它最初是为 Apache 服务器设计的，现在也支持其他 Web 服务器。通过可选的扩展和配置选项，用户可以使用文件排序、本地化、缩略图等功能自定义目录列表。安装非常简单，需要 PHP 7.0+ 并与 Apache httpd、lighttpd 和 nginx 兼容。但是，需要注意一些限制和安全注意事项。自定义安装选项允许用户将 h5ai 放置在任何子目录中以增加灵活性。]]></description>
+      <guid>https://t.me/hn_summary/85619</guid>
+      <pubDate>Sun, 21 Apr 2024 08:25:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Rust for JavaScript Developers (2019) 是 www.codegram.com 上的一篇文章，探讨了 [...]</title>
-      <link>https://t.me/hn_summary/85599</link>
-      <description><![CDATA[Rust 面向 JavaScript 开发人员（2019）
-Rust for JavaScript Developers (2019) 是 www.codegram.com 上的帖子 探索了 Web 开发人员从 JavaScript 过渡到 Rust 的旅程。这篇文章强调了两种语言之间的主要区别，例如 Rust 严格的类型系统和所有权概念。它还深入研究了 Rust 中的不变性、所有权和结构等基本主题。这篇文章强调了 Rust 的多功能性，展示了它在 Web 开发、游戏开发和机器学习方面的潜力。最有趣的方面是 Rust 与 WebAssembly 的兼容性，允许开发人员将 Rust 代码与现有 JavaScript 项目无缝集成。这篇文章鼓励 JavaScript 开发人员尝试 Rust，并提供进一步学习的资源。]]></description>
-      <guid>https://t.me/hn_summary/85599</guid>
-      <pubDate>Sun, 21 Apr 2024 03:03:06 GMT</pubDate>
+      <title>[媒体]社交媒体巨头 X 拒绝遵守电子安全专员的要求 [...]</title>
+      <link>https://t.me/hn_summary/85618</link>
+      <description><![CDATA[澳大利亚“不会被埃隆·马斯克欺负” 
+社交媒体巨头 X 拒绝遵守电子安全专员的要求，删除涉及韦克利刺伤事件的内容，这促使其所有者埃隆·马斯克称该专员为“澳大利亚审查委员”。政府部长们准备在法庭上打架，因为 X 因未删除与悉尼主教 Mar Mari Emmanuel 被刺伤相关的内容而面临每日 785,000 澳元的罚款。电子安全专员正在考虑采取进一步的监管行动，而 X 则辩称该命令不属于澳大利亚法律的范围，并威胁言论自由。政治领导人立场坚定，联邦政府部长马克·巴特勒表示澳大利亚不会被马斯克这样的科技亿万富翁欺负。]]></description>
+      <guid>https://t.me/hn_summary/85618</guid>
+      <pubDate>Sun, 21 Apr 2024 07:42:24 GMT</pubDate>
     </item>
     <item>
-      <title>众议院投票禁止 TikTok 在美国上市</title>
-      <link>https://t.me/hn_summary/85598</link>
-      <description><![CDATA[众议院投票禁止 TikTok 在美国销售
-众议院通过了一项法案，如果 TikTok 的中国所有者不出售该应用程序，该法案可能会导致美国全国范围内禁止 TikTok。这项措施附加在支持乌克兰和以色列的对外援助法案中，拜登总统表示赞成。 TikTok 谴责该法案是对言论自由的攻击。尽管没有公开证据表明中国政府进行了干预，但对宣传和间谍活动的担忧加剧了镇压行动。关于潜在买家实际会收购什么仍存在疑问，因为 TikTok 的算法归字节跳动所有，出售它需要获得中国的批准。该法案给 TikTok 一年的时间寻找买家，但专家对能否成功出售表示怀疑。]]></description>
-      <guid>https://t.me/hn_summary/85598</guid>
-      <pubDate>Sun, 21 Apr 2024 02:48:59 GMT</pubDate>
+      <title>该博客讨论了编译器的缓慢发展以及自我改进技术的需求 [...]</title>
+      <link>https://t.me/hn_summary/85617</link>
+      <description><![CDATA[免费使用它们的数据流分析和编译器优化
+该博客讨论了编译器的缓慢发展以及自我改进技术以跟上 GPU 和其他平台快速创新的需求。它引入了超级优化和泛化作为自动化编译器优化过程的方法。重点是数据流分析，例如整数范围分析和已知位，以及在生产编译器中实现它们的挑战。该博客建议自动创建数据流传输函数并优化数据流事实以驱动编译器优化。目标是弥合编译器实现和数学基础之间的差距，以实现更高效、更精确的编译器优化。]]></description>
+      <guid>https://t.me/hn_summary/85617</guid>
+      <pubDate>Sun, 21 Apr 2024 07:26:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]三星正在为其高管实施每周六天的工作制，以应对较低的PE [...]</title>
-      <link>https://t.me/hn_summary/85597</link>
-      <description><![CDATA[三星要求其高管每周工作 6 天以“注入”危机感&#39;
-三星正在为其高管实行每周六天的工作制，以应对业绩下滑和经济不确定性。此举被视为注入危机意识、推动全力应对挑战的一种方式。虽然一些高管自愿每周工作六天，但这一规定现在将适用于三星各个部门的高管。这一决定违背了缩短工作周的全球趋势，冰岛和英国等国家已经看到了这种模式的积极成果。然而，在韩国，政府一直在推动延长每周工作时间，年轻一代的抗议促使人们重新考虑每周 69 小时工作时间的提议。]]></description>
-      <guid>https://t.me/hn_summary/85597</guid>
-      <pubDate>Sun, 21 Apr 2024 02:20:47 GMT</pubDate>
+      <title>[媒体]快餐已经自动化？</title>
+      <link>https://t.me/hn_summary/85616</link>
+      <description><![CDATA[快餐已经实现自动化了吗？
+在曼哈顿的一家快餐休闲餐厅 Kernel，机器人与人类员工一起精确、快速地准备纯素餐点。创始人史蒂夫·埃尔斯 (Steve Ells) 相信自动化将彻底改变快餐行业，以更低的成本提供更快、更准确的服务。纯素食菜单由中央厨房的厨师精心制作，并由餐厅的一个小团队组装。虽然自动化提高了效率，但食品质量仍然依赖于人类的专业知识。 Kernel 将高科技自动化与美食烹饪技巧相结合的独特方法使其在不断发展的快餐领域中脱颖而出。]]></description>
+      <guid>https://t.me/hn_summary/85616</guid>
+      <pubDate>Sun, 21 Apr 2024 07:25:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]该网站探索非常规的 N 轮车辆，重点关注那些拥有一个、两个 [...]</title>
-      <link>https://t.me/hn_summary/85596</link>
-      <description><![CDATA[N轮车辆
-该网站探索非传统的 N 轮车辆，重点关注一轮、两轮和三轮车辆。它展示了独特的设计，如单轮坦克和单轮基伦海峡拖拉机。该页面还介绍了像布莱恩特双轮这样的双轮，它可以容纳多人，并有一个用于转向的舵。此外，它还重点介绍了 A C Sociable 和德国 Phanomobil 等三轮汽车，提供历史背景和技术细节。展出的车辆系列挑战了传统的汽车设计和功能概念，让人们一睹实验性交通世界的风采。 （根据故事文本的 8% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/85596</guid>
-      <pubDate>Sun, 21 Apr 2024 02:16:43 GMT</pubDate>
+      <title>[媒体]在美国的中国学生和研究人员面临着越来越多的审讯和部门 [...]</title>
+      <link>https://t.me/hn_summary/85615</link>
+      <description><![CDATA[在美中国学生讲述“令人心寒”的审讯和驱逐
+尽管持有有效的科学研究签证，在美国的中国学生和研究人员在机场面临着越来越多的审讯和驱逐出境。中国驻华盛顿大使馆报告称，自 2021 年 7 月以来，已有 70 多名学生被驱逐出境，自 2023 年 11 月以来案件数量不断增加。这些拒绝似乎与美国 2020 年针对与中国军民融合战略有关的中国研究生的规定有关。这种情况对中国科学家产生了“寒蝉效应”，实验陷入停滞，未来计划也被打破。审查力度加大之际，中美人文交流紧张，引发了人们对科学合作的担忧。]]></description>
+      <guid>https://t.me/hn_summary/85615</guid>
+      <pubDate>Sun, 21 Apr 2024 06:23:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：仇恨者如何一夜之间将明塔瓦的时间表加快了一年</title>
-      <link>https://t.me/hn_summary/85595</link>
-      <description><![CDATA[仇恨者如何一夜之间将[门塔瓦的时间表缩短一年]( https://news.ycombinator.com/item?id=40101518)
-标题：仇恨者如何一夜之间将明塔瓦的时间表加快一年
-
-在 Mentava，我们正在悄悄建立一家教育技术初创公司，计划在一年内推出。然后，一位直言不讳的批评者艾米丽米尔斯攻击了我们加速学习的使命。她的推文引起了巨大反响，家长们在我们的软件问世之前就预先付费了。一夜之间，我们加快了发布速度，手动将客户输入我们的数据库并提交到 App Store。尽管出现了一些问题，我们还是在不到一周的时间内上线了。感谢艾米丽，我们找到了热情的观众和新的目标感。有时，意想不到的批评可能因祸得福。]]></description>
-      <guid>https://t.me/hn_summary/85595</guid>
-      <pubDate>Sun, 21 Apr 2024 01:27:27 GMT</pubDate>
+      <title>[媒体] 在博客文章“编程主要是思考”中，作者挑战了常见的 mi [...]</title>
+      <link>https://t.me/hn_summary/85614</link>
+      <description><![CDATA[编程主要是思考
+在博客文章“编程主要是思考”中，作者挑战了“编程主要是打字”这一常见的误解。通过非正式的民意调查和观察，作者得出的结论是，编程实际上是 11/12 的思考，而只是 1/12 的打字。这篇文章深入探讨了编程的智力本质，强调了在此过程中决策、解决问题和协作的重要性。作者强调需要优化思维过程，而不是仅仅关注打字速度。这种独特的视角揭示了编程工作的真正本质，并鼓励读者思考如何提高自己在该领域的思维能力。]]></description>
+      <guid>https://t.me/hn_summary/85614</guid>
+      <pubDate>Sun, 21 Apr 2024 06:22:50 GMT</pubDate>
     </item>
     <item>
-      <title>此 PDF 讨论了可编写脚本的操作系统的概念，用户可以在其中编写其 k [...]</title>
-      <link>https://t.me/hn_summary/85594</link>
-      <description><![CDATA[使用 Lua 编写脚本的操作系统 [pdf](https://news .ycombinator.com/item?id=40086027)
-本 PDF 讨论了可编写脚本的操作系统的概念，用户可以编写内核脚本来满足特定要求。论文提出了可脚本化操作系统的思想，将脚本开发应用于可扩展操作系统。它引入了一个使用 Lua 的内核脚本环境来动态扩展 Linux 和 NetBSD 操作系统，以实现 CPU 频率缩放和网络数据包过滤。本文探讨了将系统编程语言与脚本语言结合起来进行应用程序定制的好处。它还讨论了内核脚本编写的挑战和可能性，并提供了如何增强操作系统灵活性和性能的示例。 （根据故事文本的 22% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/85594</guid>
-      <pubDate>Sun, 21 Apr 2024 01:15:18 GMT</pubDate>
+      <title>[媒体] Thetawave 是一款使用 Rust 和 Bevy 引擎创建的基于物理的太空射击游戏。</title>
+      <link>https://t.me/hn_summary/85613</link>
+      <description><![CDATA[Thetawave：一款基于物理的太空射击游戏，由 Rust 和Bevy工程师
+Thetawave 是一款基于物理的太空射击游戏，使用 Rust 和 Bevy 引擎创建。它具有程序生成的关卡、多样化的敌人和独特的角色。该项目是开源的，允许社区的协作和贡献来塑造其发展。玩家可以参与游戏和发展，使用能量提升、特殊能力和独特的机制，比如通过让货运小怪到达竞技场底部来治愈防御栏。该项目的独特之处在于强调社区参与和成长，贡献者团队致力于游戏的各个方面，包括视觉效果、编程和声音设计。]]></description>
+      <guid>https://t.me/hn_summary/85613</guid>
+      <pubDate>Sun, 21 Apr 2024 05:38:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]法兰德斯神经电子研究中心的新研究挑战了传统观点[...]</title>
-      <link>https://t.me/hn_summary/85593</link>
-      <description><![CDATA[新研究表明脊髓可以学习和记忆
-法兰德斯神经电子研究中心的新研究挑战了脊髓的传统观点，揭示了它可以独立学习和记忆运动。这项开创性的研究表明，脊髓神经元可以在没有大脑输入的情况下适应和回忆学到的行为。研究人员发现了两个介导运动学习和记忆的特定神经元群，将该过程比作脊髓内的接力赛。这些发现为脊髓回路如何有助于运动掌握提供了新的线索，并可能彻底改变脊髓损伤患者的康复策略。这项发表在《科学》杂志上的研究强调了脊髓卓越的可塑性及其在运动学习和记忆中的潜在作用。]]></description>
-      <guid>https://t.me/hn_summary/85593</guid>
-      <pubDate>Sun, 21 Apr 2024 00:14:50 GMT</pubDate>
+      <title>[媒体]美国</title>
+      <link>https://t.me/hn_summary/85612</link>
+      <description><![CDATA[如何修复美国的航空系统
+美国航空系统正面临危机，由于地面雷达系统过时和空中交通管制员精疲力竭，险些发生的事故不断增加。最近在德克萨斯州奥斯汀发生的事件，一名联邦快递飞行员不得不指示西南航空飞行员中止起飞，凸显了地面雷达和控制器分离逻辑的缺乏。保罗·里纳尔迪和多萝西·罗宾等专家对这些问题进行了讨论，显然需要采取紧急行动，在重大灾难发生之前实现航空系统的现代化和改进。收听 On Point，深入了解如何修复美国的航空系统。 （根据故事文本的 28% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/85612</guid>
+      <pubDate>Sun, 21 Apr 2024 05:22:27 GMT</pubDate>
     </item>
     <item>
-      <title>Stuart Parkin 是一位著名的科学家和工程师，他凭借他的 [...]</title>
-      <link>https://t.me/hn_summary/85592</link>
-      <description><![CDATA[Stuart Parkin 彻底改变了磁盘驱动器存储
-Stuart Parkin 是一位著名的科学家和工程师，他在自旋电子学方面的开创性工作彻底改变了磁盘驱动器存储。他的创新技术利用电子的磁性和电荷来改进电子设备，使它们更加节能并能够存储大量数据。 Parkin 从 IBM 到马克斯普朗克研究所的旅程展示了他对基础科学的奉献精神以及对世界技术的影响。他对了解自然世界和推动技术前沿的热情凸显了科学和工程在解决全球挑战中的重要性。 Parkin 的贡献为在以数据为中心的世界中增加获取知识铺平了道路。]]></description>
-      <guid>https://t.me/hn_summary/85592</guid>
-      <pubDate>Sun, 21 Apr 2024 00:13:46 GMT</pubDate>
+      <title>[媒体]这项研究探讨了睡眠时间与 2 型糖尿病风险之间的关系 [...]</title>
+      <link>https://t.me/hn_summary/85611</link>
+      <description><![CDATA[睡眠时间和 2 型糖尿病风险
+这项研究调查了睡眠时间与 2 型糖尿病风险之间的关系，研究结果来自澳大利亚、美国、德国和日本等多个国家。有争议的是，一些研究表明较短的睡眠时间可能会增加患糖尿病的风险，而另一些研究则显示出相互矛盾的结果。令人惊讶的是，来自日本的研究发现，有糖尿病家族史的人，睡眠时间较短，患糖尿病的风险较低。这些发现突显了睡眠与糖尿病风险之间的复杂关系，其中年龄、体重指数和生活习惯等因素发挥了作用。]]></description>
+      <guid>https://t.me/hn_summary/85611</guid>
+      <pubDate>Sun, 21 Apr 2024 05:10:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
