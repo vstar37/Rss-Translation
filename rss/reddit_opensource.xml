@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 21 Apr 2024 09:12:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 12:20:39 GMT</lastBuildDate>
+    <item>
+      <title>完全转向开源有什么好处</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c9g36u/what_are_the_benefits_of_switching_fully_to/</link>
+      <description><![CDATA[所以有一段时间，我一直在想在我主要用于工作的旧笔记本电脑上安装 Linux，并用开源软件替换所有付费软件。这样的解决方案有什么好处？   由   提交/u/Azazo8  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c9g36u/what_are_the_benefits_of_switching_fully_to/</guid>
+      <pubDate>Sun, 21 Apr 2024 11:56:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>xz 式攻击继续针对开源维护者</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c9fpjd/xzstyle_attacks_continue_to_target_opensource/</link>
+      <description><![CDATA[   /u/wiki_me  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c9fpjd/xzstyle_attacks_continue_to_target_opensource/</guid>
+      <pubDate>Sun, 21 Apr 2024 11:34:04 GMT</pubDate>
+    </item>
     <item>
       <title>Android 的开源 Google 地图替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1c9da1x/open_source_google_maps_alternatives_for_android/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我制作了一个名为 智能项目附带人工智能工作流程：  自动格式化和标记新问题 检查新 PR 的常见问题、代码质量、格式等 生成代码的工作流程 运行任意任务的工作流程 询问有关代码库的问题的工作流程  &lt; p&gt;您还可以在问题/PR 评论中使用“/pilot”与 AI 代理交谈。 让我知道您的想法！   由   提交 /u/stellarcitizen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c8eyf8/a_github_project_template_with_agentic_workflows/</guid>
       <pubDate>Sat, 20 Apr 2024 02:29:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>圣经经文参考图</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c88lie/bible_verses_refference_graph/</link>
-      <description><![CDATA[大家好。我正在寻找一个 Excel 列表，其中包含每节经文及其中的参考文献。我想用参考创建一个布尔矩阵，然后用游戏引擎将其可视化为 3D。我想要一张圣经参考文献的地图。任何人都知道谁做过这件事，或者也许 smbd 有一个包含每节经文和参考文献的数据库？谢谢！   由   提交/u/Wandering_Wonderer28   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c88lie/bible_verses_refference_graph/</guid>
-      <pubDate>Fri, 19 Apr 2024 21:32:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>取代 Redis 的竞赛</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c834xc/the_race_to_replace_redis/</link>
-      <description><![CDATA[ 由   提交 /u/CrankyBear   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c834xc/the_race_to_replace_redis/</guid>
-      <pubDate>Fri, 19 Apr 2024 17:48:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
