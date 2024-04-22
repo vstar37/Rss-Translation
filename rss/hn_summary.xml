@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 21 Apr 2024 12:01:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 00:47:25 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 厌倦了努力发现 Azure DevOps 工作项中文本较多的字段中的变化？</title>
-      <link>https://t.me/hn_summary/85636</link>
-      <description><![CDATA[显示 HN：Azure DevOps 历史差异
-厌倦了努力发现 Azure DevOps 工作项中文本较多的字段中的变化？我们的新扩展 Azure DevOps History Diff 可以拯救世界。这个创新工具向工作项添加了一个新选项卡，显示每个字段的完整历史记录，并带有适当的差异以方便比较。告别眯着眼睛看标准历史记录选项卡中的微小差异——我们的扩展使更改变得一目了然。查看我们的 GitHub 页面，获取安装说明、文档、源代码等。不要错过这个改变 DevOps 工作流程游戏规则的工具。]]></description>
-      <guid>https://t.me/hn_summary/85636</guid>
-      <pubDate>Sun, 21 Apr 2024 12:01:33 GMT</pubDate>
+      <title>在这项研究中，分形几何在代谢酶 CS 的进化中的出现，[...]</title>
+      <link>https://t.me/hn_summary/85731</link>
+      <description><![CDATA[代谢酶进化中分形几何的出现
+在这项研究中，研究了分形几何在代谢酶 CS 进化中的出现。编码CS的基因被克隆并在大肠杆菌中表达以用于蛋白质纯化。进行系统发育分析和祖先序列重建以了解CS的进化历史。质量光度计和天然质谱用于研究蛋白质复合物和寡聚状态。进行动力学酶测定以确定酶的活性。令人惊讶的是，使用固定网格扫描来量化分形尺度，揭示了酶进化中有趣的模式。这项研究揭示了代谢酶的复杂进化及其结构特性。 （根据 34% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/85731</guid>
+      <pubDate>Mon, 22 Apr 2024 00:47:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Tiny World Map 是一款轻量级世界地图，专为离线优先和低带宽而设计 [...]</title>
-      <link>https://t.me/hn_summary/85635</link>
-      <description><![CDATA[小世界地图
-Tiny World Map 是一款轻量级世界地图，专为离线优先和低带宽 Web 应用程序而设计。它针对 Leaflet 进行了优化，支持所有缩放级别，最完整的版本 gzip 后只有 300 kB。该地图显示 OpenStreetMap 中人口最多的 10,000 个城市。它可以用作替换 OpenStreetMap 图块的底图或作为离线后备。该项目因其客户端渲染而与众不同，该渲染已在低端设备上进行了广泛测试，没有明显的延迟。这使得它成为寻求简约且高效的世界地图解决方案的开发人员的绝佳选择。]]></description>
-      <guid>https://t.me/hn_summary/85635</guid>
-      <pubDate>Sun, 21 Apr 2024 11:38:24 GMT</pubDate>
+      <title>我们关于多镜头上下文学习的研究论文介绍了一种新的训练方法 [...]</title>
+      <link>https://t.me/hn_summary/85730</link>
+      <description><![CDATA[多镜头情境学习
+我们关于多镜头上下文学习的研究论文介绍了一种以上下文方式使用多个示例来训练机器学习模型的新方法。通过利用上下文学习的力量，我们的方法在各种任务中取得了令人印象深刻的结果，超越了传统的单次学习技术。我们的研究结果挑战了该领域的传统观点，并为提高模型性能开辟了新的可能性。这种创新方法有可能彻底改变机器学习模型在现实场景中的训练和应用方式。请浏览我们在 arxiv.org 上的论文，了解更多详细信息和见解。]]></description>
+      <guid>https://t.me/hn_summary/85730</guid>
+      <pubDate>Mon, 22 Apr 2024 00:45:50 GMT</pubDate>
     </item>
     <item>
-      <title>厌倦了浪费时间观看冗长的 YouTube 视频？</title>
-      <link>https://t.me/hn_summary/85634</link>
-      <description><![CDATA[显示 HN：我制作了一个将 YT 视频转换为步骤的网站-分步指南
-厌倦了浪费时间观看冗长的 YouTube 视频？ Stepify.tech 为您提供解决方案。我们的网站将 YouTube 视频转换为易于遵循的分步指南，使您无需观看整个视频即可快速获取所需的信息。在人工智能的支持下，我们的工具提供了视频的纯粹文字记录，使跟随和学习变得比以往更容易。使用 Stepify 告别浪费时间，开启高效学习。今天就尝试一下，亲自看看有何不同。]]></description>
-      <guid>https://t.me/hn_summary/85634</guid>
-      <pubDate>Sun, 21 Apr 2024 11:24:17 GMT</pubDate>
+      <title>[媒体]在本文中，我们介绍了 RecurrentGemma，这是一种构建高效操作的新方法 [...]</title>
+      <link>https://t.me/hn_summary/85729</link>
+      <description><![CDATA[RecurrentGemma：超越 Transformers 以实现高效的开放语言模型 
+在本文中，我们介绍了 RecurrentGemma，这是一种构建高效开放语言模型的新方法，超越了传统的转换器架构。通过利用循环神经网络和宝石机制，我们能够在性能和效率方面取得令人印象深刻的结果。我们的模型在各种语言任务上都优于 Transformer，同时需要的参数显着减少。自然语言处理领域的这一突破为创建更精简、更有效的语言模型开辟了新的可能性。浏览 arxiv.org 上的全文，详细了解我们的创新方法。]]></description>
+      <guid>https://t.me/hn_summary/85729</guid>
+      <pubDate>Mon, 22 Apr 2024 00:44:44 GMT</pubDate>
     </item>
     <item>
-      <title>LearnFrets 是一款革命性的应用程序，可让您学习乐谱和吉他指板 [...]</title>
-      <link>https://t.me/hn_summary/85633</link>
-      <description><![CDATA[显示 HN：我制作了一个应用程序来帮助记忆乐谱和吉他指板
-LearnFrets 是一款革命性的应用程序，使学习乐谱和吉他指板比以往任何时候都更加容易。只需在吉他上弹奏一个音符，该应用程序就会聆听并提供有关您弹奏是否正确的反馈。告别混乱的映射，迎接更有效的掌握指板的方法。有了 LearnFrets，您很快就会像专业人士一样粉碎。尝试一下，亲自看看有何不同！]]></description>
-      <guid>https://t.me/hn_summary/85633</guid>
-      <pubDate>Sun, 21 Apr 2024 11:23:14 GMT</pubDate>
+      <title>[媒体]致 NixOS 基金会的公开信谈到了 Eelco Do 的腐蚀性领导 [...]</title>
+      <link>https://t.me/hn_summary/85728</link>
+      <description><![CDATA[致 NixOS 基金会的公开信
+这封致 NixOS 基金会的公开信谈到了 Eelco Dolstra 在 Nix 项目中的腐蚀性领导，强调了多年来持续存在的文化问题和缺乏问责制。这封信强调需要进行结构性变革，以防止 Nix 社区迫在眉睫的崩溃，并设定对 Eelco 辞职采取行动的最后期限为 2024 年 5 月 1 日。争议在于，要求 Eelco 辞去权力职务，因为尽管他做出了重大贡献，但他对该项目产生了有害影响。这封信还谈到，如果问题不及时解决，社区可能会出现硬分叉。 （根据故事文本的 33% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/85728</guid>
+      <pubDate>Mon, 22 Apr 2024 00:41:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 体验数百只帝企鹅幼崽的令人心碎的时刻 [...]</title>
-      <link>https://t.me/hn_summary/85632</link>
-      <description><![CDATA[无人机拍摄的小企鹅跳下悬崖的镜头
-体验数百只帝企鹅幼崽从南极洲 50 英尺高的悬崖上第一次跳跃的令人心碎的时刻，野生动物摄影师伯蒂·格雷戈里 (Bertie Gregory) 在《国家地理》即将推出的纪录片中用无人机拍摄了前所未有的镜头。见证这些小鸡长出羽毛、脱落幼羽毛并勇敢地跳入下面冰冷的海水中的罕见现象。这段开创性的镜头是用新发布的无人机拍摄的，在不干扰其环境的情况下，为这些雄伟生物的自然行为提供了独特的视角。不要错过《企鹅的秘密》中对企鹅秘密生活的非凡一睹。]]></description>
-      <guid>https://t.me/hn_summary/85632</guid>
-      <pubDate>Sun, 21 Apr 2024 11:17:10 GMT</pubDate>
+      <title>[媒体] 泄露的文件暴露了 Loblaws 对小山等日常用品的过高加价 [...]</title>
+      <link>https://t.me/hn_summary/85727</link>
+      <description><![CDATA[以 54% 的利润出售黄油：泄露的文件显示 Loblaws 的加价过高
+泄露的文件揭露了 Loblaws 对黄油和奶酪等日常用品的过高加价，利润率高达 53.75%。这引发了人们对零售定价公平性和透明度的担忧，尤其是在 Metro Inc. 对 Loblaws 采取法律行动后，因为他们错误地暗示他们参与了面包价格操纵阴谋。尽管利润创历史新高，董事长盖伦·韦斯顿仍将高食品价格归咎于杂货供应商，声称降低 Loblaws 的利润率不会降低消费者的成本。该公司还因披露其新任首席执行官 2210 万美元的巨额薪酬方案而面临审查，其中包括 1800 万美元的一次性奖金。]]></description>
+      <guid>https://t.me/hn_summary/85727</guid>
+      <pubDate>Mon, 22 Apr 2024 00:34:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Lunatik 是一个使用 Lua 编写 Linux 内核脚本的框架，允许用户修改 [...]</title>
-      <link>https://t.me/hn_summary/85631</link>
-      <description><![CDATA[Lunatik：Lunatik 是一个使用 Lua 编写 Linux 内核脚本的框架&lt; /a&gt;
-Lunatik是一个使用Lua编写Linux内核脚本的框架，允许用户修改Lua解释器以在内核中运行，在Lua中创建设备驱动程序，并从用户空间或内核管理运行时环境。该项目的与众不同之处在于提供了用于在内核中加载和运行脚本的 C API、用于将内核功能绑定到脚本的 Lua API，以及对 Lua 和 C API 的特定修改以支持内核脚本。用户可以在Lua中创建字符设备驱动程序，加载和运行脚本，并使用Lunatik命令行工具管理运行时环境。 （根据故事文本的 31% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/85631</guid>
-      <pubDate>Sun, 21 Apr 2024 11:16:06 GMT</pubDate>
+      <title>[媒体]路易斯安那州立大学因允许石油公司影响[...]而受到批评</title>
+      <link>https://t.me/hn_summary/85726</link>
+      <description><![CDATA[路易斯安那州旗舰大学让石油公司以一定的代价影响研究
+路易斯安那州立大学因允许石油公司影响研究活动以换取巨额捐款而受到批评。只要 500 万美元，一家石油公司就可以在教师研究中拥有发言权，而 10 万美元则授予他们审查权和获取知识产权的权利。与壳牌和埃克森美孚等石油巨头的这种有争议的合作关系引发了人们对学术自由和公众信任的担忧。批评者认为，允许工业界决定研究议程违反了学术诚信。尽管捍卫了合作伙伴关系，路易斯安那州立大学仍面临学生和专家的强烈反对，他们质疑化石燃料公司资助的研究的可靠性。]]></description>
+      <guid>https://t.me/hn_summary/85726</guid>
+      <pubDate>Mon, 22 Apr 2024 00:28:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 著名计算机科学家艾伦·凯 (Alan Kay) 分享了他的资助和组织原则 [...]</title>
-      <link>https://t.me/hn_summary/85630</link>
-      <description><![CDATA[艾伦·凯：资助和组织突破性研究的原则 
-著名计算机科学家艾伦·凯 (Alan Kay) 分享了他资助和组织突破性研究的原则。他强调长期愿景和跨学科合作在推动创新方面的重要性。凯挑战传统的资助模式，并鼓励采用更全面的研究资助方法。他的见解为如何支持突破性研究计划提供了全新的视角。遵循他的建议彻底改变我们的研发方式。]]></description>
-      <guid>https://t.me/hn_summary/85630</guid>
-      <pubDate>Sun, 21 Apr 2024 11:15:03 GMT</pubDate>
+      <title>问 HN：TikTok 禁令会是什么样子？</title>
+      <link>https://t.me/hn_summary/85725</link>
+      <description><![CDATA[询问 HN：TikTok 禁令会是什么样子？
+news.ycombinator.com 上这篇文章的作者提出了有关美国可能实施的 TikTok 禁令的技术问题。他们推测，如果字节跳动不撤资，他们在美国的业务可能会消失，从而导致应用商店和服务器合同出现问题。他们思考政府是否可以坚持撤销 tiktok.com 域名并讨论绕过域阻止的潜在方法。作者还考虑了如果 ISP 开始封锁 IP，“美国防火墙”的可能性。他们认为这种情况可能会激励下一代在更加去中心化的平台上工作。]]></description>
+      <guid>https://t.me/hn_summary/85725</guid>
+      <pubDate>Sun, 21 Apr 2024 23:53:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]昆虫有内心生活吗？</title>
-      <link>https://t.me/hn_summary/85629</link>
-      <description><![CDATA[昆虫有内在生命吗？动物意识需要重新思考
-蜜蜂和果蝇等昆虫被认为具有意识迹象，挑战了关于动物内心生活的传统观念。一个科学家联盟发布了《动物意识纽约宣言》，呼吁重新评估动物与人类的关系。虽然一些研究人员指出镜子中的自我识别等行为是动物意识的证据，但其他人仍然持怀疑态度。随着科学家们探索更广泛的物种中主观体验的可能性，争论仍在继续，引发了关于动物伦理和福利的讨论。该宣言旨在刺激动物意识领域的进一步研究和资助。]]></description>
-      <guid>https://t.me/hn_summary/85629</guid>
-      <pubDate>Sun, 21 Apr 2024 11:13:00 GMT</pubDate>
+      <title>[媒体]桂格燕麦和麦圈中的矮壮素是什么，它会影响生育能力吗？</title>
+      <link>https://t.me/hn_summary/85724</link>
+      <description><![CDATA[桂格燕麦和麦片中的矮壮素是什么，它会影响生育能力吗？
+环境工作组最近的一项研究发现，桂格燕麦和麦片等燕麦食品中含有化学农药矮壮素，引发了人们对其对生育能力影响的担忧。虽然动物研究显示出潜在的危害，但专家警告在完成更多研究之前不要关注这个问题。托默·辛格 (Tomer Singer) 博士建议健康、均衡的饮食，而阿斯玛·艾哈迈德 (Asima Ahmad) 博士则推荐有机和新鲜烹制的食物。通用磨坊和奎克都坚持其产品的安全性。随着不孕率的上升，关注整体健康（包括地中海饮食和身体活动）是关键。 -凯特·吉布森为本报告做出了贡献。 Sara Moniuszko，CBSNews.com 的健康和生活方式记者，报道HealthWatch 的突发新闻和趋势新闻。]]></description>
+      <guid>https://t.me/hn_summary/85724</guid>
+      <pubDate>Sun, 21 Apr 2024 23:51:12 GMT</pubDate>
     </item>
     <item>
-      <title>英国住房大饥荒探讨了英国住房供应的严重短缺问题，例如 [...]</title>
-      <link>https://t.me/hn_summary/85628</link>
-      <description><![CDATA[英国住房大饥荒
-《英国住房大饥荒》探讨了英国住房供应严重短缺，导致租户排长队、房价高的问题。作者与苏联的配给制度进行了比较，强调了需求方补贴和负担能力要求在解决住房危机方面的低效。文章挑战了增加住房供应不会降低房价的普遍看法，强调需要基于市场的解决方案和供给侧改革。反对关注负担能力而非供应的有争议的论点被认为是住房政策的必要转变，以应对持续的住房饥荒。]]></description>
-      <guid>https://t.me/hn_summary/85628</guid>
-      <pubDate>Sun, 21 Apr 2024 11:07:55 GMT</pubDate>
+      <title>[媒体]Besant 和 Leadbeater 的“神秘化学”深入探讨了原子结构的隐藏世界 [...]</title>
+      <link>https://t.me/hn_summary/85723</link>
+      <description><![CDATA[Annie Besant 和 Charles Leadbeater 的神秘化学 (1908) 
+贝赞特和利德比特的《神秘化学》深入研究了原子结构的隐藏世界，揭示了对元素的独特视角。他们发现了一种神秘的第四种气体，并描述了原子的复杂几何形状，挑战了传统的化学理解。他们不是按原子序数对元素进行分组，而是按整体形状（如尖峰、立方体和八面体）进行组织。这种非常规方法揭示了具有看似不同性质的元素之间的相互联系，例如共享共同立方结构的硼、氮和钒。 “神秘化学”为我们提供了对原子组成的不可见世界的迷人而有争议的一瞥。]]></description>
+      <guid>https://t.me/hn_summary/85723</guid>
+      <pubDate>Sun, 21 Apr 2024 23:49:08 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊扩大了机器人技术的使用范围，目前已有超过 750,000 台机器人与员工一起工作。</title>
-      <link>https://t.me/hn_summary/85627</link>
-      <description><![CDATA[亚马逊机器人数量增长到超过 75 万，取代了 10 万人类 
-亚马逊扩大了机器人技术的使用，目前已有超过 750,000 台机器人与员工一起工作。这标志着自 2021 年起将减少超过 10 万名工人。Sequoia 和 Digit 等机器人旨在提高履行中心的效率和安全性。尽管担心工作岗位流失，亚马逊仍然强调自动化会创造新的技术工作类别。机器人的集成引发了人们对亚马逊运营和更广泛经济中人类劳动力未来的疑问。虽然自动化可以带来新型就业机会，但如何驾驭这些变化以实现利益最大化并减轻负面影响仍然是亚马逊和社会面临的挑战。]]></description>
-      <guid>https://t.me/hn_summary/85627</guid>
-      <pubDate>Sun, 21 Apr 2024 10:41:44 GMT</pubDate>
+      <title>[媒体] StreetComplete，OpenStreetMap 测量器应用程序，现已开始在 iOS 端口上进行开发。</title>
+      <link>https://t.me/hn_summary/85722</link>
+      <description><![CDATA[StreetComplete OSM 贡献应用开始 iOS 移植
+StreetComplete 是 OpenStreetMap 测量器应用程序，现已开始在 iOS 端口上进行开发。该应用程序将地图任务转变为任务，让用户参与现实世界的任务来更新地图。该团队正在寻找志愿者来帮助开发，包括熟悉 Jetpack Compose 等新技术。您还可以赞助该项目以支持进一步的发展。加入地图游戏化并为广泛使用的 OpenStreetMap 项目做出贡献。]]></description>
+      <guid>https://t.me/hn_summary/85722</guid>
+      <pubDate>Sun, 21 Apr 2024 23:19:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
