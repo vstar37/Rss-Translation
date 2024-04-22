@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 22 Apr 2024 09:12:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 12:20:34 GMT</lastBuildDate>
+    <item>
+      <title>今天的提示，稍后谢谢我。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ca860s/tip_of_the_day_thank_me_later/</link>
+      <description><![CDATA[让ai做任何事。告诉：最后，写下完美的提示，让你复制粘贴，继续做任何事情。 De nada。    ;由   提交 /u/exitcactus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ca860s/tip_of_the_day_thank_me_later/</guid>
+      <pubDate>Mon, 22 Apr 2024 11:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个使用Python处理Excel的AI工具。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ca6swn/i_created_an_ai_tool_for_useing_python_to_process/</link>
+      <description><![CDATA[嗨，我是 Owen，我开发了一个用于数据处理的 AI 工具。 我花费了大量资金处理来自大量 Excel 文件的日常数据的时间，这需要我编写大量 Python 代码。 我一直在使用 GitHub Copilot 来协助完成此任务，但我正在探索消除编写需要的方法手动编码。 因此，我开发了一个人工智能，可以生成用于数据处理的Python代码。我还创建了一个 Python 运行时环境来执行此代码。 该工具称为 Tipis AI，您可以在这里找到它：https ://tipis.ai 定价 10 美元起。 受众 任何人都需要处理 Excel、PDF 等类型的数据。 优点 您可以执行复杂的计算和使用自然语言描述对文件进行摘要，无需掌握复杂的Python知识。 如果您对数据处理方面的AI有任何建议，请告诉我，我可能会将它们包含在这个产品中。我是对代码生成非常感兴趣。   由   提交 /u/smallSohoSolo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ca6swn/i_created_an_ai_tool_for_useing_python_to_process/</guid>
+      <pubDate>Mon, 22 Apr 2024 09:56:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何为使用 AWS Bedrock + invoke_agent 函数构建的 AI 聊天机器人设置 LLM 温度、模型 ARN 和 AWS 知识库</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ca6lrm/how_to_set_the_llm_temperature_model_arn_and_aws/</link>
+      <description><![CDATA[大家好，我指的是下面有关 AWS Bedrock 的“invoke_agent”的文档功能： https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/bedrock-agent-runtime/client/invoke\_agent.html 在“ “回应”变量，如何指定 LLM 温度、模型 ARN 和 AWS 知识库？ 非常感谢对此的任何帮助。非常感谢！   由   提交/u/redd-dev  /u/redd-dev  reddit.com/r/ArtificialInteligence/comments/1ca6lrm/how_to_set_the_llm_Temperature_model_arn_and_aws/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ca6lrm/how_to_set_the_llm_temperature_model_arn_and_aws/</guid>
+      <pubDate>Mon, 22 Apr 2024 09:42:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用生成式人工智能的多代理代码审查系统</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ca6juq/multiagent_code_review_system_using_generative_ai/</link>
+      <description><![CDATA[本教程解释了如何使用多代理编排来构建一个自动代码审查系统，在该系统中，编码员和审阅者可以返回并查看代码。不断提高代码质量，直到所有问题自动解决：https://youtu.be/pdnT3yLk70c?si=TUrV50BlNu7UStoI&lt; /p&gt;   由   提交/u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ca6juq/multiagent_code_review_system_using_generative_ai/</guid>
+      <pubDate>Mon, 22 Apr 2024 09:38:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>扩展生成式人工智能的策略</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ca6aih/strategies_for_scaling_generative_ai/</link>
+      <description><![CDATA[要成功大规模部署生成式人工智能，公司应该拥有合适的人员实践、强大的框架和创新思维。 &lt; p&gt;链接：https://www.infosys.com/iki/perspectives/scaling-generative- ai.html ​   由   提交 /u/insane_ravager   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ca6aih/strategies_for_scaling_generative_ai/</guid>
+      <pubDate>Mon, 22 Apr 2024 09:21:11 GMT</pubDate>
+    </item>
     <item>
       <title>我的顶级人工智能写作工具体验</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ca5pqh/my_top_ai_writing_tool_experience/</link>
@@ -41,13 +76,6 @@
       <pubDate>Mon, 22 Apr 2024 06:56:23 GMT</pubDate>
     </item>
     <item>
-      <title>总结网站</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ca45it/summarize_website/</link>
-      <description><![CDATA[审查文档、挑选嵌入链接，然后给出该网站的 5 行摘要的最佳 AI 工具是什么？   由   提交/u/Danalmour   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ca45it/summarize_website/</guid>
-      <pubDate>Mon, 22 Apr 2024 06:53:28 GMT</pubDate>
-    </item>
-    <item>
       <title>每日一分钟人工智能新闻 4/21/2024</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ca1w6y/oneminute_daily_ai_news_4212024/</link>
       <description><![CDATA[ 比特币矿工升级电力中心并进入人工智能领域，为减半后收入大幅削减做好准备。[1]&lt; /li&gt; Databricks 是一家统一数据分析提供商，推出了 DBRX，这是一个旨在实现企业人工智能 (AI) 民主化的先锋平台。 DBRX 完全基于 Databricks 构建，允许企业打造定制的高性能大型语言模型 (LLM)，将其从对封闭模型的依赖中解放出来。[2] 中国科技公司联想 BBC 在人工智能领域投资 600 万英镑，以帮助转变其教育服务。[4]  来源包括： https://bushaicave.com/2024/04/21/4-21-2024/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
@@ -62,39 +90,11 @@
       <pubDate>Mon, 22 Apr 2024 02:11:08 GMT</pubDate>
     </item>
     <item>
-      <title>电影中人工智能和虚拟现实的使用调查</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c9ynl2/survey_on_use_of_ai_and_virtual_reality_within/</link>
-      <description><![CDATA[大家好，我是加州州立大学北岭分校的一名学生，正在进行一项关于公众对使用人工智能和 VR 技术创建互动的接受度的研究/电影中的沉浸式体验，模糊了视频游戏和电影之间的界限。如果您有几分钟的空闲时间，如果您能完成调查，这将是一个巨大的帮助  由   提交/u/Saucy_Sloth  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c9ynl2/survey_on_use_of_ai_and_virtual_reality_within/</guid>
-      <pubDate>Mon, 22 Apr 2024 01:39:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snippy：一个带眼睛的开源人工智能助手</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c9vbob/snippy_an_open_source_ai_assistant_with_eyes/</link>
-      <description><![CDATA[最近，每个人都在寻找使用 LLM 更快构建事物的方法。但对于大多数人来说，使用 ChatGPT 等工具意味着在不同工具之间来回粘贴文本。我们已经看到了一些与 VS Code 等工具更好的集成，但仍然有大量工具可以让 LLM 发挥作用，但只是没有“粘合剂”将其连接到您的应用程序。 我们认为让人工智能助手“监视”你正在做的事情可以解决其中一些问题。我们使用开源 Rust 库/构建块构建了一个新的屏幕共享 GPT 助手，我们将其称为 Snippy！ Snippy 是 MIT 或 Apache-2.0 下的一个早期实验和开源项目，请查看该帖子并亲自尝试一下！ 博客文章了解更多信息：https://www.timdbg.com/posts/snippy-assistant-with-eyes/ OSS代码：https://github.com/AugmendTech/snippy    ;由   提交/u/diamondbishop  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c9vbob/snippy_an_open_source_ai_assistant_with_eyes/</guid>
-      <pubDate>Sun, 21 Apr 2024 22:56:22 GMT</pubDate>
-    </item>
-    <item>
       <title>我们正在通过算法破坏经济吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c9n01k/are_we_breaking_the_economy_via_algorithms/</link>
       <description><![CDATA[这个假设在我脑海里已经有一段时间了。因此，我决定制作一个视频来表达我对这个主题的想法，这需要在制作视频之前对这个主题进行一些进一步的研究。我现在基本上相信，我们可能正朝着算法驱动的潜在经济崩溃前进。它就是“算法完美风暴”。三个要素结合起来构成了这场完美的风暴：  算法存在新近度偏差问题。这是内置的、固有的。他们不关心 2000 年前的数据，或者 100 年前的数据，甚至真正的 20 年前的数据。他们想要尽可能最新的数据，最新的数据远远优于人工智能领域的旧数据，而且这是不可变的。如果人工智能有自己的物理定律，这就是其中之一。  整个经济部门和各个领域都受到大规模整合的推动，达到了历史上前所未有的水平。几个完整的行业基本上是由少数参与者经营和控制的。这意味着只需要极少数的参与者，全部采用相同的方法，就能对规模产生巨大影响。  整个投资者阶层开始将他们的整个投资组合转向算法以及整个行业。投资房地产就是一个完美的例子，收益之星。如果您对投资房地产有所了解，您就会知道什么是收益之星。你的房东不是决定你租金价格的人，而是这个算法。   这就是所有这一切的固有问题，而且非常棘手：根据任何在这些数据集上训练的算法，经济崩溃基本上不会发生在第一世界国家。在任何情况下。否则它需要哪些可能的数据来支持任何事情？大萧条？它没有撕裂。对于人工智能来说，那是恐龙时代，只要避免特定原因，这种情况就不会再发生了。这些模型永远只会抬高价格，直到整个经济突然跌落悬崖。模特们不会预见到它的到来！  TL;DR：您也可以观看此视频https://youtu.be/hPIF31bpKUc &lt; /p&gt;   由   提交/u/Certain_End_5192   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c9n01k/are_we_breaking_the_economy_via_algorithms/</guid>
       <pubDate>Sun, 21 Apr 2024 17:08:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Groq 上的 Llama 3 速度极快，感觉不真实</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c9l23s/llama_3_on_groq_is_blazing_fast_it_feels_unreal/</link>
-      <description><![CDATA[让我绕个弯，Perplexity AI 的搜索结果和速度给我留下了深刻的印象。但过去总是感觉任何人都可以做到这一点，将 API 与 Google 搜索或 Bing 或其他一些搜索 API 连接起来，获取用户查询的热门搜索结果，然后要求模型总结内容以回答用户查询。但 Perplexity 获取搜索结果并开始生成内容的速度是相当不真实的。尽管它们可能会缓存用户查询的搜索结果，并且可能有一个从缓存或其他东西中检索的机制，但周转时间相当短，而且速度快得惊人。我一直在尝试使用重新创建相同的内容GPT-4-Turbo、Claude Opus（查询分解/规划）、Mistral 和 Groq。但我的反应速度与困惑的程度相去甚远。我使用 Playwright 来抓取搜索结果并使用不同的模型来避免速率限制和回退。使用查询计划，以便我可以证明最终回复中的延迟是合理的：D。但对于每个查询，平均需要 20 到 22 秒才能给出完整的响应。我尝试了所有能做的事情，但还是无法接近 10 秒，然后我就放弃了这个想法。您可以在这里查看我的实验：https://github.com/vatsalsaglani/rumage-ai-search&lt;但随着最近 Llama 3 的发布及其在 Groq LPU 接口上的可用性，生成速度相当高，约为每秒 790 到 800 个令牌。我再次想到尝试一下已经放弃的项目。但这次我想将其保留在一个特定的用例中，而不是整个搜索用例。我采用了新闻搜索用例，使用 Newsdata.io 中的免费新闻搜索 API 来获取热门新闻，然后在 Groq 上使用 Llama 3 80B 总结输出。令我惊叹的是，结果快得惊人。完整的响应时间不到 5 秒。这次我没有使用查询计划或任何其他繁重的提示工程技术，只是保持提示简单，并要求模型总结提取的内容（如果没有其他相关内容）。我在这里记录了我的实验：https://thevatsalsaglani.medium.com/ llama-3-groq-is-the-ai-heaven-337b6afeced3   由   提交/u/thevatsalsaglani   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c9l23s/llama_3_on_groq_is_blazing_fast_it_feels_unreal/</guid>
-      <pubDate>Sun, 21 Apr 2024 15:45:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>社交媒体“影响者”</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c9kgvk/social_media_influencers/</link>
-      <description><![CDATA[今天我注意到 X 拥有大量针对人工智能领域的“影响者”帐户。但这些有影响力的账户无助于推动事实，而是耸人听闻，他们将炒作推向了逻辑，我刚刚意识到，他们正在寻求参与——不是讨论推动想法前进的智力参与，而是在内部形成和巩固部落主义的争论节日。 作为人工智能、机器学习和深度学习领域的新手 - 我必须尝试每天阅读以获取知识，这样我就可以跟随开发人员并了解正在做什么和社交媒体是知识获取阶段的重要组成部分，但它变得极其模糊和混乱，“影响者”的声音比实际的技术开发人员和生产者更大（也更有偏见）。所以，但这更多的是敲响了警钟，因为恕我直言，这些“影响者”造成的损害大于伤害。   由   提交/u/4A_44_48   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c9kgvk/social_media_influencers/</guid>
-      <pubDate>Sun, 21 Apr 2024 15:21:31 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
