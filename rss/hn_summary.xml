@@ -4,87 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 23 Apr 2024 00:42:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 06:04:32 GMT</lastBuildDate>
     <item>
-      <title>[媒体]Helios-NG 项目是一个用于多核 CPU 的大规模并行操作系统，具有 [...]</title>
-      <link>https://t.me/hn_summary/85902</link>
-      <description><![CDATA[Helios-NG：用于多核 CPU 的大规模并行操作系统
-Helios-NG 项目是一个用于多核 CPU 的大规模并行操作系统，重点是通过名为 Sköll 和 Hati 的阶段捕捉太阳和月亮。最终目标 Ragnarök 暗示了 Helios 在 x86 或 ARM 平台上的潜在重生。该项目还关注用于主机和 Helios 系统之间通信的服务器组件。制定了粗略的时间表后，该项目等待 GitHub 上的活跃分叉继续推进，提供一个包含 150 多个帖子供探索的消磨时间的页面。]]></description>
-      <guid>https://t.me/hn_summary/85902</guid>
-      <pubDate>Tue, 23 Apr 2024 00:42:48 GMT</pubDate>
+      <title>[媒体]Linus Torvalds 分享了他为他的工作开发刺绣文件转换器的经验 [...]</title>
+      <link>https://t.me/hn_summary/85939</link>
+      <description><![CDATA[Linus Torvalds，著名刺绣文件转换器开发者&lt; br /&gt;
+Linus Torvalds 分享了他为妻子的新绣花机开发绣花文件转换器的经验。他为机器使用的“PES”格式创建了一个缩略图，使他的妻子更容易查看和传输设计。托瓦尔兹批评刺绣机缺乏文档、糟糕的固件和疯狂的界面。他还提供了转换器的 git 源代码树的链接。尽管面临挑战，Torvalds 仍展示了他的技术技能和改善刺绣文件处理用户体验的决心。]]></description>
+      <guid>https://t.me/hn_summary/85939</guid>
+      <pubDate>Tue, 23 Apr 2024 06:04:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]谷歌发布了一本名为“提示指南101”的新手册，帮助用户创建e [...]</title>
-      <link>https://t.me/hn_summary/85901</link>
-      <description><![CDATA[释放 Gemini 的全部潜力：Google 发布官方“提示指南”
-谷歌发布了一本名为《提示指南101》的新手册，帮助用户在Workspace中为Gemini创建有效的提示。该指南强调了在制作提示时考虑角色、任务、背景和格式的重要性。它还表明，长度约为 21 个单词的提示往往是最成功的。该手册为各种职业提供了技巧，并提供了额外的建议，例如将任务分解为单独的提示、对特定结果给出限制、分配创造力的角色、寻求反馈、考虑语气以及改进提示以获得更好的结果。用户可以下载该指南以获取更深入的信息。]]></description>
-      <guid>https://t.me/hn_summary/85901</guid>
-      <pubDate>Tue, 23 Apr 2024 00:34:10 GMT</pubDate>
+      <title>[媒体]美国</title>
+      <link>https://t.me/hn_summary/85938</link>
+      <description><![CDATA[美国参议院和拜登可耻地更新并扩大了 FISA 第 702 条
+美国参议院和拜登总统可耻地更新并扩大了 FISA 第 702 条，允许对无辜美国人的通信进行大规模监视和未经授权的搜查。 《美国情报与安全改革法案》除了改革第702条外，什么都做，大大扩大了政府的权力。这种扩张包括迫使更多的人和提供者协助进行监视，可能会接触到任何有权使用电子通信的人。该法案还允许对禁毒进行监视，并对移民和寻求庇护者进行审查，但存在歧视的风险。尽管受到公民自由倡导者的反对，国会还是给予国家安全局和联邦调查局自由行动的权力，无视对美国人的保护。这一令人震惊的逆转凸显了加强对隐私权的监督和保护的必要性。]]></description>
+      <guid>https://t.me/hn_summary/85938</guid>
+      <pubDate>Tue, 23 Apr 2024 05:52:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Gulick 等人的一项新研究。</title>
-      <link>https://t.me/hn_summary/85900</link>
-      <description><![CDATA[一百万年没有发生大型滑坡
-Gulick 等人的一项新研究。深入研究了阿拉斯加湾有记录的第六大巨型滑坡，该滑坡发生在大约 120 万年前。这次由地震活动引发的极端水下事件的面积至少为16,124平方公里。研究人员认为，中更新世过渡在滑坡中发挥了作用，沉积物的堆积和通量导致了斜坡不稳定。令人惊讶的是，自那以后，由于沉积物通量的变化和地震加强，再也没有发生过相同规模的巨型滑坡。这项研究揭示了导致这些大规模水下事件的复杂相互作用。]]></description>
-      <guid>https://t.me/hn_summary/85900</guid>
-      <pubDate>Tue, 23 Apr 2024 00:33:07 GMT</pubDate>
+      <title>[媒体]拉斯维加斯和洛杉矶之间耗资 120 亿美元的高铁线路正在建设中，预计 [...]</title>
+      <link>https://t.me/hn_summary/85937</link>
+      <description><![CDATA[拉斯维加斯之间价值 120 亿美元的高速铁路线动工和洛杉矶
+拉斯维加斯和洛杉矶之间耗资 120 亿美元的高铁线路正在建设中，这将是美国第一条真正的高铁。该项目的列车时速达到 186 英里/小时，与日本新干线相当，计划于 2028 年投入运营。在拜登政府的支持下，该公司计划每年提供 1100 万趟单程列车，将穿越莫哈韦沙漠的旅行时间缩短至仅 100 万趟。两个多小时。该项目获得了 30 亿美元拨款并获准出售 25 亿美元债券，预计将创造数千个工会就业岗位，并减少两座城市之间的交通拥堵。]]></description>
+      <guid>https://t.me/hn_summary/85937</guid>
+      <pubDate>Tue, 23 Apr 2024 05:51:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 欢迎来到 Krazam OS，MMX2 和 FaceGoog, Inc.</title>
-      <link>https://t.me/hn_summary/85899</link>
-      <description><![CDATA[Krazam操作系统
-欢迎使用 Krazam OS，MMX2 和 FaceGoog, Inc. 合作为您带来尖端功能，让利益相关者感到满意。我们的昼夜节律技术可确保最佳性能，而我们的团队则孜孜不倦地工作以创造价值。感谢 98.css 和我们的开源朋友的支持。认识一下我们专业的网站团队，包括 Gooch Lawrence、Kurt Schoenfeld 等。按 ENTER 键不执行任何操作，沉浸在 Krazam OS 的世界中。]]></description>
-      <guid>https://t.me/hn_summary/85899</guid>
-      <pubDate>Mon, 22 Apr 2024 23:56:54 GMT</pubDate>
+      <title>[媒体] 嘿嘿！</title>
+      <link>https://t.me/hn_summary/85936</link>
+      <description><![CDATA[显示 HN：我正在构建一个 wappalyzer/builtwith 替代方案
+嘿！令人兴奋的消息 - 我们的搜索功能现已进入测试版！我们最近于 4 月 22 日添加了超过 100,000 个域名，因此您现在可以搜索 100 个最常用的供应商。请记住，目前的计数限制为 100 条记录，但不用担心，我们很快就会通过付费级别选项进行升级。注册以在限制增加时收到通知。查看 tagstack.io，了解 Wappalyzer 和BuiltWith 的新替代方案。 ]]></description>
+      <guid>https://t.me/hn_summary/85936</guid>
+      <pubDate>Tue, 23 Apr 2024 05:24:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Cubic Life 是一个元胞自动机引擎，以 3D 形式模拟康威的生命游戏。</title>
-      <link>https://t.me/hn_summary/85898</link>
-      <description><![CDATA[立方体生命：康威的 3D 生命游戏&lt; br /&gt;
-Cubic Life 是一个元胞自动机引擎，以 3D 形式模拟康威的生命游戏。它提供无限网格、3D 模拟以及用于自定义规则和行为的灵活架构。与传统的 2D 实现不同，Cubic Life 允许更复杂的模式和交互。该引擎包括用于实时观察新兴模式和动态的可视化工具，用户可以调整参数以进行定制模拟。它是跨平台的并且易于扩展。 Cubic Life 由 M. Sami Gürpınar 开发，已获得 MIT 许可。]]></description>
-      <guid>https://t.me/hn_summary/85898</guid>
-      <pubDate>Mon, 22 Apr 2024 23:52:49 GMT</pubDate>
+      <title>[媒体]您是一位想要扩大影响力的博主吗？</title>
+      <link>https://t.me/hn_summary/85935</link>
+      <description><![CDATA[展示 HN：博主，立即成为播客
+您是一位想要扩大影响力的博主吗？使用 AnytoSpeech，您可以轻松地将书面文章变成播客剧集。只需输入来自 Good Good Good 和 Our World in Data 等来源的最多 5 篇文章即可创建回顾集。从风力涡轮机制成的创新自行车棚到唐氏综合症患者承担能力的重要性，有很多主题值得探索。深入研究有关女性政治进步的数据，并与全新受众分享您的见解。使用 AnytoSpeech 立即转变您的内容并成为播客。]]></description>
+      <guid>https://t.me/hn_summary/85935</guid>
+      <pubDate>Tue, 23 Apr 2024 05:23:05 GMT</pubDate>
     </item>
     <item>
-      <title>2004 年，Google 的招聘活动要求应聘者找到第一个 10 位素数 [...]</title>
-      <link>https://t.me/hn_summary/85897</link>
-      <description><![CDATA[查找 e 的数字中的第一个 10 位素数 (2017) 
-2004 年，Google 的招聘活动要求应聘者找到 e 数字中的前 10 位素数，最后进行了编程练习。 www.hanshq.net 上的帖子探讨了不同的方法解决问题，从 Perl 的单行代码到复杂的算术技术。使用 Perl 搜索 e 的 200 万位数字，可以找到令人惊讶的解决方案 7427466391。这篇文章还深入研究了使用泰勒定理和二分搜索来计算 e 的极端精度，强调了使用 GMP 的任意精度浮点函数进行精确计算。该项目的代码可在 eprime.c 中找到。 （根据故事文本的 16% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/85897</guid>
-      <pubDate>Mon, 22 Apr 2024 23:30:39 GMT</pubDate>
+      <title>[媒体] GitHub 上的项目“bench-bintext-codecs”提供了二进制到文本 cod 的基准 [...]</title>
+      <link>https://t.me/hn_summary/85934</link>
+      <description><![CDATA[显示 HN：Go 中 UUID bintext 编解码器的基准 
+GitHub 上的项目“bench-bintext-codecs”提供了 Go 中二进制到文本编解码器的基准，特别关注编码器/解码器。作者探索了实体/资源的 k 可排序、唯一 ID 的不同实现，并对它们进行了性能优势基准测试。虽然这对于大多数应用程序来说可能不是瓶颈，但它是一种有趣的探索。作者还提到了未来除了 UUID 之外还可能对其他值进行基准测试。提供了各种编码方式的基准测试结果，允许用户自行运行基准测试进行比较。]]></description>
+      <guid>https://t.me/hn_summary/85934</guid>
+      <pubDate>Tue, 23 Apr 2024 05:22:01 GMT</pubDate>
     </item>
     <item>
-      <title>保护记者委员会 (CPJ) 最近的报告显示，以色列已将 [...]</title>
-      <link>https://t.me/hn_summary/85896</link>
-      <description><![CDATA[报告发现，以色列与伊朗并列 2023 年监禁记者人数最多的国家
-保护记者委员会 (CPJ) 最近的报告显示，以色列与伊朗并列为 2023 年监禁记者人数最多的国家之一。这是以色列首次跻身监禁记者人数最多的国家之列，自去年 10 月以来已拘留了 20 多名记者7. 据称，许多逮捕是由于社交媒体活动造成的，引发了争议和担忧。像阿拉·里马维这样的记者成为了攻击目标，其中一些人在没有受到指控的情况下面临行政拘留。保护记者委员会的报告还强调，自 10 月 7 日以来，以色列至少杀害了 97 名记者和媒体工作者。对记者的镇压被视为试图掩盖加沙发生的事件，促使人们呼吁独立媒体采访。]]></description>
-      <guid>https://t.me/hn_summary/85896</guid>
-      <pubDate>Mon, 22 Apr 2024 23:23:33 GMT</pubDate>
+      <title>介绍 LLM 实验室 – 一个用户友好的界面，可让您测试三种语言模型 [...]</title>
+      <link>https://t.me/hn_summary/85933</link>
+      <description><![CDATA[显示 HN：LLM 实验室 – 并行测试 3 个 LLM 的 UI&lt; /a&gt;
+隆重推出 LLM 实验室 – 一个用户友好的界面，可让您同时测试三种语言模型 (LLM)。通过法学硕士实验室，您可以轻松比较不同法学硕士的表现，并选择最适合您需求的法学硕士。只需使用您的 Google 帐户登录即可访问这个强大的工具。访问 labs.fprime.ai 简化您的 LLM 测试流程并做出明智的决定。体验与法学硕士实验室并行测试多个法学硕士的便利和高效。]]></description>
+      <guid>https://t.me/hn_summary/85933</guid>
+      <pubDate>Tue, 23 Apr 2024 05:20:58 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：HN 上的所有垃圾邮件机器人是怎么回事？</title>
-      <link>https://t.me/hn_summary/85895</link>
-      <description><![CDATA[问 HN：HN 上的垃圾邮件机器人是怎么回事？&lt; /a&gt;
-标题：问 HN：HN 上的垃圾邮件机器人是怎么回事？
-最近，我注意到 HN 上发布想要人工智能女友的机器人账户显着增加。这是一次协同攻击还是只是一个奇怪的巧合？更重要的是，拥有一个人工智能女友真的是一个现实的概念吗？加入讨论并分享您对这一有争议且令人惊讶的趋势的看法。]]></description>
-      <guid>https://t.me/hn_summary/85895</guid>
-      <pubDate>Mon, 22 Apr 2024 23:16:27 GMT</pubDate>
+      <title>[媒体] 无线充电很方便，但效率高吗？</title>
+      <link>https://t.me/hn_summary/85932</link>
+      <description><![CDATA[无线充电：交易高效便捷
+无线充电虽然方便，但高效吗？与有线充电相比，无线充电过程会带来额外的能量损失，需要多次从交流电到直流电的转换。集肤效应和线圈对准等因素会影响效率，即使设备充满电后，无线充电器也会消耗电力。 Qi2 标准旨在改善与磁环的对齐，但总体而言，无线充电的效率低于有线充电。针对有线基线的测试显示了功耗和温度的差异，凸显了无线充电便利性和效率之间的权衡。 （根据故事文本的 53% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/85932</guid>
+      <pubDate>Tue, 23 Apr 2024 05:19:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Apple Hugs：人类高斯 Splats (CVPR 2024) 是一个提供参考效果的项目 [...]</title>
-      <link>https://t.me/hn_summary/85894</link>
-      <description><![CDATA[苹果拥抱：人类高斯斑点 (CVPR 2024) 
-Apple Hugs：人类高斯 Splats (CVPR 2024) 是一个为 HUGS 提供参考实现的项目，HUGS 是一个使用神经辐射场从单个视频重建背景场景和可动画人物的系统。它提供了有关设置系统、准备数据集和模型、以不同模式训练系统以及评估结果的说明。该项目的独特之处在于提供了一种独特的方法来从视频中重建场景和人物，提供预训练模型，并提供训练模式的灵活性。它由 Muhammed Kocabas、Jen-Hao Rick Chang、James Gabriel、Oncel Tuzel 和 Anurag Ranjan 在 IEEE 计算机视觉和模式识别 (CVPR) 2024 上展示。]]></description>
-      <guid>https://t.me/hn_summary/85894</guid>
-      <pubDate>Mon, 22 Apr 2024 23:12:23 GMT</pubDate>
+      <title>[媒体] 厌倦了手动收集状态更新？</title>
+      <link>https://t.me/hn_summary/85931</link>
+      <description><![CDATA[显示 HN：在 3 分钟内设置自动状态更新收集
+厌倦了手动收集状态更新？使用 Loom，您只需 3 分钟即可设置自动状态更新收集。告别不断与团队成员联系的麻烦 - Loom 会为您完成这项工作。只需输入您的偏好，然后让 Loom 完成剩下的工作。不再浪费时间或错过更新。立即访问 www.loom.com 尝试一下。&lt; br/&gt;]]></description>
+      <guid>https://t.me/hn_summary/85931</guid>
+      <pubDate>Tue, 23 Apr 2024 05:18:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站 www.franken-ui.dev 提供了 HTML 优先、与框架无关的实现 [...]</title>
-      <link>https://t.me/hn_summary/85893</link>
-      <description><![CDATA[shadcn/UI 的 HTML 优先、与框架无关的实现 – Franken /UI
-网站 www.franken-ui.dev 提供shadcn/UI 的 HTML 优先、与框架无关的实现，称为 Franken/UI。这种独特的方法允许灵活性和定制，而无需绑定到特定的框架。争议在于这种方法是否更有效，或者是否增加了不必要的复杂性。作者威廉邀请读者参加会议讨论该项目并分享其成功的想法。这种积极主动的方法凸显了协作和沟通在实现项目目标中的重要性。]]></description>
-      <guid>https://t.me/hn_summary/85893</guid>
-      <pubDate>Mon, 22 Apr 2024 22:46:10 GMT</pubDate>
+      <title>[媒体]DolphinRadar 是您的终极 Instagram 活动跟踪器，让您安全且 [...]</title>
+      <link>https://t.me/hn_summary/85930</link>
+      <description><![CDATA[展示 HN：利用 Dolphinradar 进行 AI 驱动的 Instagram 跟踪 
+DolphinRadar 是您的终极 Instagram 活动跟踪器，可让您安全、准确地监控您感兴趣的帐户的活动，而不会损害隐私。 DolphinRadar 具有跟踪喜欢的照片、最近关注和取消关注、热门互动和内容标签等功能，可以提供有关他人情绪和兴趣的宝贵见解。 DolphinRadar 的与众不同之处在于它能够帮助您更好地了解他人，同时保持匿名。只需添加您想要跟踪的帐户，即可立即开始获得有价值的见解。使用 DolphinRadar 探索 AI 支持的 Instagram 跟踪的强大功能。]]></description>
+      <guid>https://t.me/hn_summary/85930</guid>
+      <pubDate>Tue, 23 Apr 2024 05:17:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
