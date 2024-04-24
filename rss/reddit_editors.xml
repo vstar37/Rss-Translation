@@ -4,7 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 23 Apr 2024 21:10:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 00:48:37 GMT</lastBuildDate>
     <item>
       <title>对于这么差的电脑，我应该使用什么索尼维加斯？</title>
       <link>https://www.reddit.com/r/editors/comments/1cbdhlp/what_sony_vegas_should_i_use_for_a_pc_this_bad/</link>
@@ -83,13 +83,6 @@
       <pubDate>Tue, 23 Apr 2024 12:11:23 GMT</pubDate>
     </item>
     <item>
-      <title>我如何将时间线从 Premiere 发送到 Da Vinci with Everything</title>
-      <link>https://www.reddit.com/r/editors/comments/1cb2qwc/how_can_i_send_timeline_from_premiere_to_da_vinci/</link>
-      <description><![CDATA[我已经思考这个问题很长时间了，但是该死的，从来没有一个令人满意的答案。我想知道这是否真的不可能或者是否是某种绝密。我不习惯使用 Davinci，所以我的所有效果都是在 Premiere 中完成的，但我想在 Davinci 中进行最终的颜色分级。 当我尝试使用 XML、EDL、AAF 格式执行此操作时，视频文件已转移，但仅此而已。看在上帝的份上，请给我一个解决方案，以便我可以返回 Premiere Pro，并使用分层时间线、所有效果以及带有颜色分级素材的过渡。 （是的，可以选择在编辑之前对原始文件进行颜色分级，然后以 ProRes 形式再次渲染它们，但我更喜欢根据编辑进度进行详细的颜色分级。）   由   提交 /u/Ornery-Relative-8052   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cb2qwc/how_can_i_send_timeline_from_premiere_to_da_vinci/</guid>
-      <pubDate>Tue, 23 Apr 2024 11:58:31 GMT</pubDate>
-    </item>
-    <item>
       <title>在 Mac 上的 Premiere 上编辑 Pores Raw 时，是否需要下载 Prores Raw Decoder？</title>
       <link>https://www.reddit.com/r/editors/comments/1cb1yjn/do_i_need_to_download_prores_raw_decoder_when/</link>
       <description><![CDATA[我以前从未剪辑过 Prores Raw，我只是想检查一下在 Mac 上的 Premiere 中进行编辑时是否不需要 Prores RAW 编码器。我已经看到了适用于 Windows 的下载文件，但没有适用于 mac 的选项？   由   提交/u/Fantastic_Flounder96   [链接] [评论]]]></description>
@@ -109,6 +102,13 @@
       <description><![CDATA[是的，所以我有点搞砸了一次采访，好吧……我从中吸取了教训。我的 XT4 上肯定不会再使用面部检测进行自动对焦。不过，如果我无法重做整个拍摄，我会尽力至少看看我有什么选择。 任何有用的建议都会受到赞赏。  谢谢。   由   提交/u/balazshorvath   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cazm4w/how_to_cure_focus_breathing_in_post/</guid>
       <pubDate>Tue, 23 Apr 2024 08:43:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>从手机（android）访问框架io？</title>
+      <link>https://www.reddit.com/r/editors/comments/1caz7n3/frame_io_access_from_phone_android/</link>
+      <description><![CDATA[我看到有一个 IOs 应用程序存在，但我没有任何 Apple 产品，所以无法测试它 我使用 S5iiX 进行拍摄，并且希望通过 Lumix 和 Frame io 之间的新合作轻松地从手机访问我的rush   由   提交 /u/unecomplette   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1caz7n3/frame_io_access_from_phone_android/</guid>
+      <pubDate>Tue, 23 Apr 2024 08:13:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

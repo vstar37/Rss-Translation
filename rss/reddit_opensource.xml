@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 23 Apr 2024 21:11:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 00:49:17 GMT</lastBuildDate>
+    <item>
+      <title>go Between：“Сloud 时代的现代简约负载均衡器”</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cbh9ee/gobetween_modern_minimalistic_load_balancer_for/</link>
+      <description><![CDATA[       由   提交/u/unquietwiki  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cbh9ee/gobetween_modern_minimalistic_load_balancer_for/</guid>
+      <pubDate>Tue, 23 Apr 2024 21:58:06 GMT</pubDate>
+    </item>
     <item>
       <title>java 初学者开源项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1cbfnbw/beginner_opensource_project_in_java/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>我应该如何许可我的第一个使用第三方库的 github 项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cb1em6/how_should_i_license_my_first_github_project_that/</link>
-      <description><![CDATA[嗨，我正在 Kotlin 中开发一个简单的密码管理器应用程序，用户可以上传照片以将其用作密码的图标。我已经编写了所有代码，但使用了一个使用 Apache 2.0 许可证的库 (Canhub/Android-Image-Cropper)。我的项目只是用于一个学校项目，但是我想让我的源代码免费以他们想要的任何方式使用（我不打算更新它），所以我想我会使用 apache 许可证，但是，我应该如何归因图像裁剪器的作者？请记住，我没有修改他们的代码，也没有发布他们的实际包，而是在 gradle 实现中。 当涉及到 git 和软件许可时，我完全是个菜鸟。帮助将不胜感激。   由   提交/u/Agus__02   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我正在用 Kotlin 开发一个简单的密码管理器应用，让用户上传照片以将其用作密码图标。我已经编写了所有代码，但使用了一个使用 Apache 2.0 许可证的库（Canhub/Android-Image-Cropper）。我的项目只是一个学校项目，但我想让我的源代码可以以任何方式免费使用（我不打算更新它），所以我想我会使用 apache 许可证，但是，我应该如何归属图像裁剪器的作者？请记住，我没有修改他们的代码，我也没有发送他们的实际软件包，而是在 gradle 实现中。 在 git 和软件许可方面，我完全是个菜鸟，任何帮助都将不胜感激。    提交人    /u/Agus__02   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cb1em6/how_should_i_license_my_first_github_project_that/</guid>
       <pubDate>Tue, 23 Apr 2024 10:43:46 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Mon, 22 Apr 2024 20:18:31 GMT</pubDate>
     </item>
     <item>
-      <title>您认为哪个文档具有最好的 UI/UX？寻找灵感。</title>
+      <title>您认为哪个文档具有最佳的 UI/UX？寻找灵感。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cadk6n/which_documentation_you_feel_has_the_best_ui_ux/</link>
       <description><![CDATA[ 由   提交 /u/Only_Piccolo5736   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cadk6n/which_documentation_you_feel_has_the_best_ui_ux/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[我不明白 GPL 许可证中的“可用于非商业用途”或“免费用于非商业用途”部分。我实际上可以围绕 GPL 软件并与 GPL 软件一起构建我的产品，还是应该提供从外部源下载它们的链接？智能手机通常搭载 Android，那么“免费用于非商业用途”是什么意思？   由   提交/u/Honest-Word-7890   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ca3kqh/is_it_legit_to_sell_and_ship_my_hardware_and/</guid>
       <pubDate>Mon, 22 Apr 2024 06:16:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Onenote 的开源替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c9v6qv/opensource_replacement_for_onenote/</link>
-      <description><![CDATA[3年前，这个帖子被删除了，因为当时我没有足够的业力。 （这是我在这个帐户上的第一篇文章）但最近我再次面临同样的问题，因为当时我没有真正找到解决方案。 原始帖子：嗨，我是目前我的笔记本上使用的是win 10，我非常喜欢在触摸屏上使用onenote。现在我也在考虑通过卸载Windows来升级我的笔记本并使用ubuntu。 OneNote 有合适的替代品吗？    由   提交 /u/phrandsisgo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c9v6qv/opensource_replacement_for_onenote/</guid>
-      <pubDate>Sun, 21 Apr 2024 22:50:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
