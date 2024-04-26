@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 21:13:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 00:49:44 GMT</lastBuildDate>
+    <item>
+      <title>我们勉强避开的 XZ 后门位置很可怕。似乎这种供应链攻击仍然是可能的，开发人员不会/不能彻底、持续地评估他们使用的库。有没有一个整体的方案来解决这个问题？有人在做这方面的工作吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cd59oj/the_xz_backdoor_situ_we_narrowly_avoided_is_scary/</link>
+      <description><![CDATA[ 由   提交/u/ScruffyLineout   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cd59oj/the_xz_backdoor_situ_we_narrowly_avoided_is_scary/</guid>
+      <pubDate>Thu, 25 Apr 2024 22:50:42 GMT</pubDate>
+    </item>
     <item>
       <title>使用 CrabGrab 构建您自己的开源、跨平台 Loom 替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1cd2451/build_your_own_open_source_crossplatform_loom/</link>
@@ -34,13 +41,6 @@
       <pubDate>Thu, 25 Apr 2024 16:43:28 GMT</pubDate>
     </item>
     <item>
-      <title>Fedora 40 和 Ubuntu 24.04 - 如何安装和使用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ccumhj/fedora_40_and_ubuntu_2404_how_to_install_and_use/</link>
-      <description><![CDATA[       由   提交 /u/nmariusp   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ccumhj/fedora_40_and_ubuntu_2404_how_to_install_and_use/</guid>
-      <pubDate>Thu, 25 Apr 2024 15:19:35 GMT</pubDate>
-    </item>
-    <item>
       <title>🚀 发布：自动化文档</title>
       <link>https://www.reddit.com/r/opensource/comments/1ccmw5h/release_automated_documentation/</link>
       <description><![CDATA[您好 Reddit， 我很高兴向您介绍自动化文档。该工具记录访问过的网站、剪贴板更改、活动窗口和键入的文本 - 所有这些都组织成 Markdown 文件以便于查看。 主要功能：  自动记录网站和剪贴板数据 监视活动窗口并记录击键 输出到 Markdown，以实现简单明了  非常适合任何希望自动化文档编写的人。我计划通过 Ollama 增强其功能以获取更详细的说明，请继续关注！ 在此处下载： https://github.com/tilltmk/automated-documentation  非常感谢您的反馈和贡献。    由   提交 /u/tilltmk   [链接] [评论]]]></description>
@@ -64,7 +64,7 @@
     <item>
       <title>ScrumMD：我的 GPL CLI 工具，用于使用 Markdown 格式的卡片管理 Scrum</title>
       <link>https://www.reddit.com/r/opensource/comments/1cceoxr/scrummd_my_gpl_cli_tool_for_managing_scrum_with/</link>
-      <description><![CDATA[       由   提交 /u/thelochok   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        由    /u/thelochok  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cceoxr/scrummd_my_gpl_cli_tool_for_managing_scrum_with/</guid>
       <pubDate>Thu, 25 Apr 2024 00:48:04 GMT</pubDate>
     </item>
