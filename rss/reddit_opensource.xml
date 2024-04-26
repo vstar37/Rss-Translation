@@ -4,14 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 26 Apr 2024 15:13:38 GMT</lastBuildDate>
-    <item>
-      <title>我们正计划如何用人工智能建设更美好的明天！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cdnwvj/how_we_are_planning_on_building_a_better_tomorrow/</link>
-      <description><![CDATA[ 由   提交 /u/unknownstudentoflife   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cdnwvj/how_we_are_planning_on_building_a_better_tomorrow/</guid>
-      <pubDate>Fri, 26 Apr 2024 15:12:22 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Apr 2024 18:15:07 GMT</lastBuildDate>
     <item>
       <title>Just Open-Sourced AppUpdater，一个 Mac 应用程序静默更新框架，作为 Sparkle 的轻量级替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1cdmjfc/just_opensourced_appupdater_a_mac_app_silent/</link>
@@ -41,7 +34,7 @@
       <pubDate>Fri, 26 Apr 2024 11:46:45 GMT</pubDate>
     </item>
     <item>
-      <title>💡什么是对开源的贡献，什么不是</title>
+      <title>💡对开源的贡献是什么，不是什么</title>
       <link>https://www.reddit.com/r/opensource/comments/1cdj8j0/what_contributing_to_opensource_is_and_what_it/</link>
       <description><![CDATA[ 由   提交/u/suchdevblog   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cdj8j0/what_contributing_to_opensource_is_and_what_it/</guid>
@@ -90,9 +83,9 @@
       <pubDate>Fri, 26 Apr 2024 02:35:06 GMT</pubDate>
     </item>
     <item>
-      <title>我们勉强避开的 XZ 后门位置很可怕。似乎这种供应链攻击仍然是可能的，开发人员不会/不能彻底、持续地评估他们使用的库。有没有一个整体的方案来解决这个问题？有人在做这方面的工作吗？</title>
+      <title>我们侥幸躲过 XZ 后门的情况令人恐惧。看来这种供应链攻击仍然可能发生，而开发人员没有/无法彻底和持续地评估他们使用的库。有没有一个解决这个问题的总体计划？有人在做这件事吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cd59oj/the_xz_backdoor_situ_we_narrowly_avoided_is_scary/</link>
-      <description><![CDATA[ 由   提交/u/ScruffyLineout   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/ScruffyLineout  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cd59oj/the_xz_backdoor_situ_we_narrowly_avoided_is_scary/</guid>
       <pubDate>Thu, 25 Apr 2024 22:50:42 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[大家好，我很高兴地说，我们的开源项目 keyshade 获得了第一个赞助商，它是面向开发人员的配置管理工具。我们已经磨练了近4个月的开发时间，感谢匿名赞助商对我们道德的提升。感谢所有为我们的项目做出贡献的贡献者。  我们非常感谢为确保配置共享安全而做出的任何形式的贡献。如果您想成为 keyshade 家族的一员，并希望我们更快地交付项目，请为 keyshade.xyz 做出贡献来帮助我们.   由   提交/u/kriptonian_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cd15mk/guess_who_just_landed_their_first_sponsor_for_our/</guid>
       <pubDate>Thu, 25 Apr 2024 20:04:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Burr 构建电子邮件助手</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ccxu20/building_an_email_assistant_with_burr/</link>
+      <description><![CDATA[    /u/benizzy1   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ccxu20/building_an_email_assistant_with_burr/</guid>
+      <pubDate>Thu, 25 Apr 2024 18:01:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
