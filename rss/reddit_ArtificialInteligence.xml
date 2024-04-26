@@ -4,20 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 26 Apr 2024 12:19:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:12:12 GMT</lastBuildDate>
+    <item>
+      <title>GPT4 提示 Dalle-3：深度图像创建</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdnc7u/gpt4_prompts_for_dalle3_deep_image_creation/</link>
+      <description><![CDATA[ 由   提交/u/No-Transition3372   /u/No-Transition3372 reddit.com/gallery/1cdnbsl&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdnc7u/gpt4_prompts_for_dalle3_deep_image_creation/</guid>
+      <pubDate>Fri, 26 Apr 2024 14:49:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>针对 GPT-Teams 和 GPT Enterprise 的新 GPT4 提示</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdma0t/new_gpt4_prompts_for_gptteams_and_gpt_enterprise/</link>
+      <description><![CDATA[ 由   提交/u/No-Transition3372   /u/No-Transition3372 reddit.com/gallery/1cdm9et&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdma0t/new_gpt4_prompts_for_gptteams_and_gpt_enterprise/</guid>
+      <pubDate>Fri, 26 Apr 2024 14:05:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>AD用AI克隆boss的声音</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdk1bw/ad_used_ai_to_clone_bosss_voice/</link>
+      <description><![CDATA[这个故事很疯狂。我想我们会继续看到这样的事情。作为一名 IT 人员，我不确定如果这种情况发生在我们的高层管理人员身上，我该如何做好准备。  https:// www.thebaltimorebanner.com/education/k-12-schools/eric-eiswert-ai-audio-baltimore-county-YBJNJAS6OZEE5OQVF5LFOFYN6M/   &amp;# 32；由   提交/u/baconisgooder  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdk1bw/ad_used_ai_to_clone_bosss_voice/</guid>
+      <pubDate>Fri, 26 Apr 2024 12:24:19 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Kinesis Video Streams 和 SageMaker 进行实时对象检测</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdi3k2/realtime_object_detection_with_kinesis_video/</link>
       <description><![CDATA[想象一个系统，可以在实时视频源中发生对象时识别它们。使用 Amazon 的 Kinesis Video Streams 和 SageMaker 就可以实现这一强大的功能。Kinesis 充当数据管道，摄取实时视频流。 SageMaker 是机器学习的强大引擎，它使用经过训练的对象检测模型来分析视频帧。结果？实时洞察视频源中发生的情况。该系统非常适合安全监控、流量分析甚至工业自动化等应用。 https://www.seaflux.tech/blogs/live-recognition-system-using-Kinesis-and-SageMaker   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdi3k2/realtime_object_detection_with_kinesis_video/</guid>
       <pubDate>Fri, 26 Apr 2024 10:39:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>NLP 平台对决：Google、AWS、IBM、Azure</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdi1je/nlp_platform_showdown_google_vs_aws_vs_ibm_vs/</link>
-      <description><![CDATA[需要将文本转化为见解？顶级云平台提供 NLP 工具，但哪个才是至高无上的？以下是一个快速比较：  Google Cloud：尖端人工智能，非常适合高性能项目。 AWS Comprehend：易于使用的套件，非常适合初学者. Azure 文本分析：与其他 Azure 服务完美集成。 IBM Watson：为特定行业提供专门的解决方案。  考虑您的项目选择您的冠军的需求、预算和云偏好。请记住，这只是一个起点！ https： //www.seaflux.tech/blogs/where-to-build-your-own-AI-assistant   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdi1je/nlp_platform_showdown_google_vs_aws_vs_ibm_vs/</guid>
-      <pubDate>Fri, 26 Apr 2024 10:35:27 GMT</pubDate>
     </item>
     <item>
       <title>中国人工智能进展</title>
@@ -27,23 +41,16 @@
       <pubDate>Fri, 26 Apr 2024 10:25:58 GMT</pubDate>
     </item>
     <item>
-      <title>BrainChat AI - 一个适用于所有 LLM 聊天的单一产品 - 第一个产品演示</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdgfqf/brainchat_ai_one_single_for_all_your_llms_chats/</link>
-      <description><![CDATA[嘿，我正在构建 BrainChat.ai，以便人们可以使用来自单个帐户的 ChatGPT、Claude、Gemini、Mistral 和其他法学硕士。 这是第一个产品演示。我希望您喜欢它:)  请告诉我您的想法以及您是否有任何反馈或功能请求。下周我将分享更多演示。  https://app.usebubbles.com/fCevH4y8jYirG7j88DgSWm/brain -chat-ai-first-product-demo ​ 想要获得下一个视频产品演示吗？在 BrainChat 网站上免费注册。    由   提交 /u/ramst   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdgfqf/brainchat_ai_one_single_for_all_your_llms_chats/</guid>
-      <pubDate>Fri, 26 Apr 2024 08:46:58 GMT</pubDate>
-    </item>
-    <item>
       <title>埃隆·马斯克 (Elon Musk) 希望将特斯拉的车队转变为人工智能 AWS——这可行吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdg0bq/elon_musk_wants_to_turn_teslas_fleet_into_aws_for/</link>
-      <description><![CDATA[&#39;在昨晚与投资者举行的财报电话会议上，埃隆·马斯克 (Elon Musk) 抛出了一个前所未有的深夜宿舍想法：如果 AWS 会怎样？ ，但是对于特斯拉呢？&#39;喜欢在财报电话会议上滔滔不绝的马斯克将数百万辆闲置特斯拉汽车未使用的计算能力与亚马逊的云服务业务进行了比较。他沉思道，如果它们只是坐在那里，为什么不充分利用它们来运行人工智能模型呢？ （另外，你有没有真正看过你的手？不，我的意思是真的看过吗？）“当汽车不动时，就有可能实际运行分布式推理，”马斯克说。 “如果你想象未来可能会有 1 亿辆特斯拉车队，平均而言，它们可能拥有一千瓦的推理计算能力。这是 100 吉瓦的推理计算，分布在世界各地。”  https://www.theverge.com /24139142/elon-musk-tesla-aws-distributed-compute-network-ai   由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
+      <description><![CDATA[&#39;在昨晚与投资者举行的财报电话会议上，埃隆·马斯克 (Elon Musk) 抛出了一个前所未有的深夜宿舍想法：如果 AWS 会怎样？ ，但是对于特斯拉呢？&#39;喜欢在财报电话会议上滔滔不绝的马斯克将数百万辆闲置特斯拉汽车未使用的计算能力与亚马逊的云服务业务进行了比较。他沉思道，如果它们只是坐在那里，为什么不充分利用它们来运行人工智能模型呢？ （另外，你有没有真正看过你的手？不，我的意思是真的看过吗？）“当汽车不动时，就有可能实际运行分布式推理，”马斯克说。 “如果你想象未来可能会有 1 亿辆特斯拉的车队，平均而言，它们可能拥有一千瓦的推理计算能力。这是 100 吉瓦的推理计算，分布在世界各地。”  https://www.theverge.com /24139142/elon-musk-tesla-aws-distributed-compute-network-ai   由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdg0bq/elon_musk_wants_to_turn_teslas_fleet_into_aws_for/</guid>
       <pubDate>Fri, 26 Apr 2024 08:16:22 GMT</pubDate>
     </item>
     <item>
       <title>AI 聊天室可以工作吗</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdg00r/could_an_ai_chatroom_work/</link>
-      <description><![CDATA[想象一个类似于 ChatGPT 的聊天机器人，但具有额外的功能。该功能将能够与您想要邀请的尽可能多的人类用户建立一个聊天室。您还可以增加和减少每个聊天室中聊天机器人的数量，并让它们与所有在场用户以及其他用户进行交互。这样的东西可以工作吗？   由   提交 /u/Silvery_Power_6241   [链接] [评论]]]></description>
+      <description><![CDATA[想象一个类似于 ChatGPT 的聊天机器人，但有一个额外的功能。该功能就是能够创建一个聊天室，其中包含您想要邀请的任意数量的人类用户。您还可以增加和减少每个聊天室中的聊天机器人数量，并让它们与所有在场用户和其他用户进行互动。这样的事情能行得通吗？    提交人    /u/Silvery_Power_6241   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdg00r/could_an_ai_chatroom_work/</guid>
       <pubDate>Fri, 26 Apr 2024 08:15:50 GMT</pubDate>
     </item>
@@ -55,14 +62,7 @@
       <pubDate>Fri, 26 Apr 2024 06:54:14 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 4/25/2024</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdcdwh/oneminute_daily_ai_news_4252024/</link>
-      <description><![CDATA[ Nvidia CEO 再次向 OpenAI 亲手交付世界上最快的人工智能系统 —第一个 DGX H200 授予 Sam Altman 和 Greg Brockman。[1] JP Morgan AI Research 推出 FlowMind：A新颖的机器学习方法，利用 GPT 等法学硕士的能力来创建自动工作流程生成系统。[2] Microsoft Corp. 和 Google所有者 Alphabet Inc. 周四向投资者发出了明确的信息：我们在人工智能和云计算方面的支出正在获得回报。[3] Sanctuary 的新的人形机器人学习速度更快，成本更低。[4] 周四上午，一名前高中体育主任因涉嫌在一段包含种族主义和反犹太主义的录音中使用人工智能冒充学校校长而被捕对学校个人的评论。[5] 来源包括：https： //bushaicave.com/2024/04/25/4-25-2024/    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdcdwh/oneminute_daily_ai_news_4252024/</guid>
-      <pubDate>Fri, 26 Apr 2024 04:28:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Copilot 比 ChatGPT 4 本身产生的幻觉要少得多，并且遵循指令的精确度要高得多？</title>
+      <title>为什么 Copilot 产生的幻觉比 ChatGPT 4 本身少得多，而且执行指令的精确度却高得多？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cd9t4i/why_does_copilot_hallucinate_so_much_less_and/</link>
       <description><![CDATA[我创建了一个自定义 GPT，为其提供了包含 267 个术语的 PDF。我花了几个小时创建自定义指令，只是为了让它在不产生幻觉的情况下向我询问有关术语的多项选择问题。尽管如此，它仍然不会读取 PDF，而是自信地向我提供虚假信息并编造一些内容。 使用 copilot 5 分钟后，它会直接访问我提供的 PDF，为我提供了超级准确的信息，并结合了上下文它与更多的外部信息，按照我告诉它的合理方式增加其难度，并且只是一个非常精确的法学硕士。 我真的很好奇为什么会这样？    由   提交 /u/NJGabagool   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cd9t4i/why_does_copilot_hallucinate_so_much_less_and/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
