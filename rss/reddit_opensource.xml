@@ -4,9 +4,23 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 26 Apr 2024 18:15:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 21:11:47 GMT</lastBuildDate>
     <item>
-      <title>Just Open-Sourced AppUpdater，一个 Mac 应用程序静默更新框架，作为 Sparkle 的轻量级替代品</title>
+      <title>开放人工智能模型很棒，但我们需要诚实地面对三个令人不安的事实</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cdvhq3/open_ai_models_are_great_but_we_need_to_be_honest/</link>
+      <description><![CDATA[       由   提交 /u/alexvoica   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cdvhq3/open_ai_models_are_great_but_we_need_to_be_honest/</guid>
+      <pubDate>Fri, 26 Apr 2024 20:20:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源CDN服务器？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cdsxgj/open_source_cdn_server/</link>
+      <description><![CDATA[是否存在？人们自己建造这些东西吗？只有我觉得这很有用吗？ 快速的 Google 搜索并没有透露太多信息，但我可能错过了:)   由   提交 /u/supportingthedogs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cdsxgj/open_source_cdn_server/</guid>
+      <pubDate>Fri, 26 Apr 2024 18:36:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚开源 AppUpdater，一个 Mac App 静默更新框架，作为 Sparkle 的轻量级替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1cdmjfc/just_opensourced_appupdater_a_mac_app_silent/</link>
       <description><![CDATA[       由   提交/u/auv1107  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cdmjfc/just_opensourced_appupdater_a_mac_app_silent/</guid>
@@ -32,13 +46,6 @@
       <description><![CDATA[phind.com 可能是用于编程和其他计算相关任务的最先进的网络服务 - 这家初创公司在 Hacker&#39;s News 上收到了积极的回应并且他们的隐私政策并没有公开敌对。 我正在寻找替代方案，原因如下：  phind.com 是一项专有网络服务 没有开放的错误跟踪器，用户被定向到他们的 Discord 服务器 需要登录才能使用其最高质量模型  帐户创建过程非常复杂，需要访问发送到您电子邮件的（重定向跟踪）链接  需要运行 Javascript&lt; /li&gt; 没有任何命令行支持 似乎没有在内部运行任何 Unix 程序（最著名的 man），专门访问在线文档（可能不在日期和/或不正确） 大多数在答案中使用简短的 CLI 标志，需要阅读手册页才能解析实际的（程序）功能 可访问性差，可以&#39;实际上仅使用键盘进行导航  是否有任何可以在本地安装和运行的远程可比服务？我预计数据库的大小可以超过 100 GB — 对于经常使用的节省时间的工具来说，这并不是一个无法克服的数据量。   由   提交/u/2299165976   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cdjauq/is_there_an_open_programming_assistant_which_can/</guid>
       <pubDate>Fri, 26 Apr 2024 11:46:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>💡对开源的贡献是什么，不是什么</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cdj8j0/what_contributing_to_opensource_is_and_what_it/</link>
-      <description><![CDATA[ 由   提交/u/suchdevblog   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cdj8j0/what_contributing_to_opensource_is_and_what_it/</guid>
-      <pubDate>Fri, 26 Apr 2024 11:43:16 GMT</pubDate>
     </item>
     <item>
       <title>Android 上的 LibreOffice Calc 替代品</title>
@@ -83,9 +90,9 @@
       <pubDate>Fri, 26 Apr 2024 02:35:06 GMT</pubDate>
     </item>
     <item>
-      <title>我们侥幸躲过 XZ 后门的情况令人恐惧。看来这种供应链攻击仍然可能发生，而开发人员没有/无法彻底和持续地评估他们使用的库。有没有一个解决这个问题的总体计划？有人在做这件事吗？</title>
+      <title>我们勉强避开的 XZ 后门位置很可怕。似乎这种供应链攻击仍然是可能的，开发人员不会/不能彻底、持续地评估他们使用的库。有没有一个整体的方案来解决这个问题？有人在做这方面的工作吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cd59oj/the_xz_backdoor_situ_we_narrowly_avoided_is_scary/</link>
-      <description><![CDATA[  由    /u/ScruffyLineout  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/ScruffyLineout   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cd59oj/the_xz_backdoor_situ_we_narrowly_avoided_is_scary/</guid>
       <pubDate>Thu, 25 Apr 2024 22:50:42 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，我很高兴地说，我们的开源项目 keyshade 获得了第一个赞助商，它是面向开发人员的配置管理工具。我们已经磨练了近4个月的开发时间，感谢匿名赞助商对我们道德的提升。感谢所有为我们的项目做出贡献的贡献者。  我们非常感谢为确保配置共享安全而做出的任何形式的贡献。如果您想成为 keyshade 家族的一员，并希望我们更快地交付项目，请为 keyshade.xyz 做出贡献来帮助我们.   由   提交/u/kriptonian_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cd15mk/guess_who_just_landed_their_first_sponsor_for_our/</guid>
       <pubDate>Thu, 25 Apr 2024 20:04:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Burr 构建电子邮件助手</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ccxu20/building_an_email_assistant_with_burr/</link>
-      <description><![CDATA[    /u/benizzy1   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ccxu20/building_an_email_assistant_with_burr/</guid>
-      <pubDate>Thu, 25 Apr 2024 18:01:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
