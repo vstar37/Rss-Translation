@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 27 Apr 2024 06:15:44 GMT</lastBuildDate>
+    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Sat, 27 Apr 2024 09:11:23 GMT</lastBuildDate>
+    <item>
+      <title>YouTube Studio 无法在 ChromeO 上运行</title>
+      <link>https://www.reddit.com/r/software/comments/1ce86t2/youtube_studio_wont_work_on_chromeos/</link>
+      <description><![CDATA[我使用的是 Samsung 500c，我想将视频上传到 YouTube。我已完成验证过程，但卡在处理屏幕   由   提交 /u/iOS11Gaming   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ce86t2/youtube_studio_wont_work_on_chromeos/</guid>
+      <pubDate>Sat, 27 Apr 2024 06:55:17 GMT</pubDate>
+    </item>
     <item>
       <title>玩优惠 |开源 Android 应用程序，以折扣或免费方式获取付费应用程序</title>
       <link>https://www.reddit.com/r/software/comments/1ce7id3/play_deals_open_source_android_app_to_get_paid/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>Windows 虚拟麦克风未显示</title>
       <link>https://www.reddit.com/r/software/comments/1ce5x2c/windows_virtual_mic_not_showing/</link>
-      <description><![CDATA[当我进入 OBS 选择麦克风输入选项时，语音转换器没有显示。我尝试了 Voxal 和 Clownfish，但都没有显示。我还按照别人的建议下载了一个虚拟麦克风/电缆，它同时显示在语音转换器 Voxal 和 OBS 上，但没有播放声音。我在 OBS 之前打开 Voxal，然后打开 OBS，但它仍然没有显示。 知道我做错了什么吗？    提交人    /u/Random_User_exe_   [链接] [评论]]]></description>
+      <description><![CDATA[当我进入 OBS 选择麦克风输入的选项时，变声器不显示。我尝试了 Voxal 和 Clownfish，但都没有出现。我还像有人告诉我的那样下载了虚拟麦克风/电缆，它显示在语音转换器 Voxal 和 OBS 上，但没有声音播放。我先打开 Voxal，然后再打开 OBS，然后再打开 OBS，但它仍然不显示。 知道我做错了什么吗？   由   提交 /u/Random_User_exe_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ce5x2c/windows_virtual_mic_not_showing/</guid>
       <pubDate>Sat, 27 Apr 2024 04:36:34 GMT</pubDate>
     </item>
@@ -55,16 +62,16 @@
       <pubDate>Fri, 26 Apr 2024 20:28:34 GMT</pubDate>
     </item>
     <item>
-      <title>是否可以先录制我的声音，然后让人工智能创建将文本转语音的提示返回到我的声音中？</title>
+      <title>是否可以录制我的声音，然后让人工智能创建将文本转语音的提示返回到我的声音中？</title>
       <link>https://www.reddit.com/r/software/comments/1cdu2ce/is_it_possible_to_have_my_voice_recorded_then/</link>
       <description><![CDATA[我希望创建一些人工智能生成的积极肯定。  &amp;# 32；由   提交/u/Alchemist0029   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cdu2ce/is_it_possible_to_have_my_voice_recorded_then/</guid>
       <pubDate>Fri, 26 Apr 2024 19:22:55 GMT</pubDate>
     </item>
     <item>
-      <title>第零版本意味着开发人员向公司引入任何“新”东西要困难得多。</title>
+      <title>零版本意味着开发人员向公司引入任何“新”东西要困难得多。</title>
       <link>https://www.reddit.com/r/software/comments/1cdu16q/zeroth_versioning_means_that_it_is_way_harder_for/</link>
-      <description><![CDATA[商业发展缓慢，始终寻求最佳回报。他们绝对不想要一个甚至没有 1.0 版本的构造！    由   提交  /u/kryptylomese   [link] [comments]]]></description>
+      <description><![CDATA[商业发展缓慢，总是寻求最佳回报。他们绝对不想要一个甚至没有 1.0 版本的构造！   由   提交 /u/kryptylomese   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cdu16q/zeroth_versioning_means_that_it_is_way_harder_for/</guid>
       <pubDate>Fri, 26 Apr 2024 19:21:35 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Fri, 26 Apr 2024 17:41:32 GMT</pubDate>
     </item>
     <item>
-      <title>任何人都知道一个应用程序。</title>
+      <title>有谁知道这个应用程序吗？</title>
       <link>https://www.reddit.com/r/software/comments/1cdq5f8/anyone_know_of_a_app/</link>
       <description><![CDATA[我需要找到一个可以自动翻译屏幕上任何内容的应用程序。游戏。文字，任何东西。有谁知道有一个 Windows 应用程序可以做到这一点吗？   由   提交/u/Dpark004  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cdq5f8/anyone_know_of_a_app/</guid>
@@ -92,23 +99,16 @@
     <item>
       <title>MP4 文件的最佳免费数据恢复 |大疆视频</title>
       <link>https://www.reddit.com/r/software/comments/1cdpsk9/best_free_data_recovery_for_mp4_files_dji_video/</link>
-      <description><![CDATA[我从我们的无人机上获得了一些镜头，这些镜头已损坏，我怎样才能免费恢复它们并且不带水印？我试过 fix.video，但他们有一个付费墙来接收完整内容。如果没有免费选项，那也没关系。    提交人    /u/Overall-Spring-3524   [link] [评论]]]></description>
+      <description><![CDATA[我从我们的无人机上获取了一些镜头，但这些镜头已损坏，如何免费且无水印地恢复它？我尝试了 fix.video 但他们有付费墙来接收完整内容。如果没有免费选项，那也没关系。   由   提交 /u/Overall-Spring-3524   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cdpsk9/best_free_data_recovery_for_mp4_files_dji_video/</guid>
       <pubDate>Fri, 26 Apr 2024 16:28:30 GMT</pubDate>
     </item>
     <item>
       <title>需要在没有 Adob​​e 的情况下删除 PDF 页面</title>
       <link>https://www.reddit.com/r/software/comments/1cdplch/need_to_delete_pdf_pages_without_adobe/</link>
-      <description><![CDATA[我有几个 PDF，其中包含大量空白页，我需要删除它们，但我没有 Adob​​e订阅。我有 Windows 11。   由   提交 /u/MarquiseMarie   [链接] [评论]]]></description>
+      <description><![CDATA[我有几个 PDF 包含大量空白页，我需要删除它们，但我没有 Adob​​e 订阅。我有 Windows 11。    提交人    /u/MarquiseMarie   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cdplch/need_to_delete_pdf_pages_without_adobe/</guid>
       <pubDate>Fri, 26 Apr 2024 16:20:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找用于将光栅图像自动跟踪为矢量的免费软件。</title>
-      <link>https://www.reddit.com/r/software/comments/1cdmnpm/looking_for_free_software_for_autotracing_raster/</link>
-      <description><![CDATA[我使用 Inkscape 已有大约 4-5 年了。在此之前，我开始使用 Adob​​e Illustrator 学习图形设计。但我尝试转向 Inkscape，而且确实做到了。在过去的 2-3 年里，我几乎所有的自由设计作品都使用 Inkscape。我面临的唯一问题是 Inkscape 的自动跟踪功能。我只是找不到像 Adob​​e Illustrator 这样更好的自动跟踪功能。  如果你们可以向我推荐任何具有自动跟踪矢量功能的免费且开源的软件？ Inkscape 自动跟踪界面。 &lt; !-- SC_ON --&gt;  由   提交/u/davil_black  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cdmnpm/looking_for_free_software_for_autotracing_raster/</guid>
-      <pubDate>Fri, 26 Apr 2024 14:20:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
