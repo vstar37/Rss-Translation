@@ -3,8 +3,8 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 27 Apr 2024 00:49:06 GMT</lastBuildDate>
+    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Sat, 27 Apr 2024 03:13:43 GMT</lastBuildDate>
     <item>
       <title>时期应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1ce0qcr/period_apps/</link>
@@ -69,7 +69,7 @@
       <pubDate>Fri, 26 Apr 2024 06:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>Reddit 未读评论 - 我已更新浏览器扩展程序以处理新评论，以处理新的 Reddit 设计</title>
+      <title>Reddit 未读评论 - 我已更新浏览器扩展以获取新评论，以处理新的 Reddit 设计</title>
       <link>https://www.reddit.com/r/opensource/comments/1cdbfke/reddit_unread_comments_i_have_updated_my_browser/</link>
       <description><![CDATA[大家好。 几个月前，我在这里发布了有关我的 Chrome/Firefox 浏览器扩展的信息，该扩展可以跟踪 Reddit 中的新评论线程更容易。不幸的是，就在我发布它一个月后，Reddit 完全改变了设计，并使扩展无法使用。在过去的几天里，我花了一些时间来更新它以处理新的设计。 除此之外，我还添加了“立即”将当前线程标记为已读的复选框。  新的 Reddit 设计不再使用模式来显示线程，因此我花时间完全重构了附加 onUrlChange、onScroll 和 onKeyDown 事件以及消除这些事件的逻辑。此外，我还添加了重试逻辑，以更稳健的方式处理线程加载状态。 新的 Reddit 网站使用影子 DOM，查询它并为其编写选择器是很有趣的体验。 Popup 是用 React Hook Form 和 RadixUI 主题组件制作的。 请尝试一下，从用户的角度分享您的印象，或者作为开发人员查看代码并分享您的建议，可以做什么以更好的方式。您认为它是您每天都想使用的东西吗？ 提醒一下，它适用于当前的 www.reddit.com（请参阅 Readme 中的屏幕截图）。 md)，它不支持 www.old.reddit.com 和 www.new.reddit.com。 Github 存储库： https://github.com/nemanjam/r​​eddit-unread-comments Youtube 演示： （它是为具有旧 Reddit 设计的初始版本制作的，但所有功能也适用于新版本） https://www.youtube.com/watch?v=dHw0pM3ZzqY  &amp;# 32；由   提交/u/nemanja_codes  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cdbfke/reddit_unread_comments_i_have_updated_my_browser/</guid>

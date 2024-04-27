@@ -4,7 +4,7 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 27 Apr 2024 00:47:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 03:12:26 GMT</lastBuildDate>
     <item>
       <title>眼睛朝向相机方向</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ce13f1/eyes_towards_camera_orientation/</link>
@@ -50,16 +50,9 @@
     <item>
       <title>人工智能音乐编辑器</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdxw8c/ai_music_editor/</link>
-      <description><![CDATA[我在 TikTok 和其他社交媒体上看到过一些剪辑，其中有一首歌，但歌词已更改，但原唱仍然签名。我可以使用哪些（免费）应用程序来实现此目的？    由   提交/u/VootVoot123  [链接] [评论]]]></description>
+      <description><![CDATA[我在 TikTok 和其他社交媒体上看到过一些片段，其中有一首歌，但歌词被改了，但原歌手仍在唱歌。我可以使用哪些（免费）应用程序来实现这一点？    提交人    /u/VootVoot123   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdxw8c/ai_music_editor/</guid>
       <pubDate>Fri, 26 Apr 2024 21:59:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-Teams 的专家 GPT4 提示</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdxjwo/expert_gpt4_prompts_for_gptteams/</link>
-      <description><![CDATA[ 由   提交/u/No-Transition3372   /u/No-Transition3372 reddit.com/gallery/1cdxjai&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdxjwo/expert_gpt4_prompts_for_gptteams/</guid>
-      <pubDate>Fri, 26 Apr 2024 21:45:02 GMT</pubDate>
     </item>
     <item>
       <title>我要求 Facebook 的新人工智能写一篇文章，解释为什么 Meta 是一家道德上有问题的公司</title>
@@ -76,11 +69,18 @@
       <pubDate>Fri, 26 Apr 2024 19:50:10 GMT</pubDate>
     </item>
     <item>
-      <title>有哪些好的 AI 动画图片服务？</title>
+      <title>有哪些优秀的 AI 动画图片服务？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdpan5/what_are_the_good_ai_services_to_animate_pictures/</link>
       <description><![CDATA[最近我看到很多剪辑，人们在图像中添加了动作。不仅仅是移动相机来模仿运动 - 头发、云彩、许多活动元素都会移动，如本例所示：https://youtu .be/7A-yO7t0H20 但他们从未说过使用哪种人工智能来制作动画。如果不付费的话也很酷。是的，我尝试使用谷歌，但结果并不令人印象深刻 - 很多付费服务只提供轻微的相机移动，图像扭曲程度较低，并且只允许订阅者进行商业用途。 &lt; !-- SC_ON --&gt;  由   提交 /u/ElvenNeko   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdpan5/what_are_the_good_ai_services_to_animate_pictures/</guid>
       <pubDate>Fri, 26 Apr 2024 16:08:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Perplexity AI（及其他）：关于选择哪种 LLM 模型的困惑</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdo1u6/perplexity_ai_and_others_confusion_about_which/</link>
+      <description><![CDATA[各位人工智能专家，大家好。 我目前拥有 Perplexity AI 的 API 密钥。尽管我有技术背景，但我仍然无法理解哪些人工智能模型最适合什么目的以及差异所在。 Perplexity 有一个短页列出了与其 AI 引擎配合使用的可用模型，但没有解释哪个模型效果最好。我花了几个小时测试它们，但我仍然不确定该选择哪一个（我不想每次都切换它）。这些模型是： 困惑度：  sonar-small-chat sonar-small-online sonar-medium -chat sonar-medium-online  开源：  llama-3-8b-instruct &lt; li&gt;llama-3-70b-指示 codellama-70b-指示 mistral-7b-指示 mixtral-8x7b-指示 &lt; li&gt;mixtral-8x22b-instruct  在此之前，我使用了 GPT-4，它是一个很棒的全能工具，但这些模型似乎并非如此。 我使用 AI 主要用于与代码相关的问题和解释（如果 GitHub Copilot 不能满足我的答案，或者我不想一直启动我的 IDE 来访问它）、翻译、事实辩论和顾问。我想说，这很复杂。 对于顾问，我的意思是提示其采取行动，例如，作为一名对德国法律了解很多的律师。有些模型会回应我从未问过的事情，其他模型则不会考虑我之前的提示，有些模型做得相当不错，但对于其他目的来说并不是很好。 我希望你大家可以向我指出一些资源，让我可以更多地了解这些模型的区别、最佳用例等，或者在评论中对其进行一些说明。非常感谢您的帮助。 如果有人能从用户的角度用简单的术语向我解释参数计数和上下文长度到底意味着什么，我也将不胜感激。我有一个大概的想法，但没有明确的答案。 如果重要的话：我正在使用 TypingMind 并设置作为自定义模型的困惑。如果你能给我指出一个替代方案，那就加分了，因为我不太喜欢界面设计。 仅限 macOS。   由   提交 /u/Mavrokordato   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdo1u6/perplexity_ai_and_others_confusion_about_which/</guid>
+      <pubDate>Fri, 26 Apr 2024 15:18:11 GMT</pubDate>
     </item>
     <item>
       <title>埃隆·马斯克 (Elon Musk) 希望将特斯拉的车队转变为人工智能 AWS——这可行吗？</title>
