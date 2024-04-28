@@ -4,16 +4,23 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 28 Apr 2024 00:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 03:13:36 GMT</lastBuildDate>
     <item>
-      <title>我需要帮助。</title>
-      <link>https://www.reddit.com/r/programming/comments/1ceturs/i_need_help/</link>
-      <description><![CDATA[ 由   提交 /u/Altruistic-Sir-6447   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ceturs/i_need_help/</guid>
-      <pubDate>Sun, 28 Apr 2024 00:50:35 GMT</pubDate>
+      <title>Web 开发更新、工具和文章 #2</title>
+      <link>https://www.reddit.com/r/programming/comments/1cewc70/web_dev_updates_tools_articles_2/</link>
+      <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cewc70/web_dev_updates_tools_articles_2/</guid>
+      <pubDate>Sun, 28 Apr 2024 03:03:36 GMT</pubDate>
     </item>
     <item>
-      <title>Yusuke Endoh 制作的一些有趣的流体力学 ASCII 艺术演示</title>
+      <title>Java 工程：摘要#17</title>
+      <link>https://www.reddit.com/r/programming/comments/1ceumo1/engineering_with_java_digest_17/</link>
+      <description><![CDATA[ 由   提交/u/Educational-Ad2036   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ceumo1/engineering_with_java_digest_17/</guid>
+      <pubDate>Sun, 28 Apr 2024 01:31:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>由 Yusuke Endoh 制作的流体力学 ASCII 艺术的一些有趣演示</title>
       <link>https://www.reddit.com/r/programming/comments/1cesjif/some_fun_demonstration_of_fluid_mechanics_ascii/</link>
       <description><![CDATA[ 由   提交/u/AissySantos  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cesjif/some_fun_demonstration_of_fluid_mechanics_ascii/</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>为什么 htmx 没有构建步骤</title>
       <link>https://www.reddit.com/r/programming/comments/1ceqnyd/why_htmx_does_not_have_a_build_step/</link>
-      <description><![CDATA[  由    /u/stronghup  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/stronghup  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ceqnyd/why_htmx_does_not_have_a_build_step/</guid>
       <pubDate>Sat, 27 Apr 2024 22:21:02 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>Ubuntu 24.04 中 .NET 的新增功能 - .NET 博客</title>
       <link>https://www.reddit.com/r/programming/comments/1ce70w1/whats_new_for_net_in_ubuntu_2404_net_blog/</link>
-      <description><![CDATA[  由    /u/myotcworld  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/myotcworld  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ce70w1/whats_new_for_net_in_ubuntu_2404_net_blog/</guid>
       <pubDate>Sat, 27 Apr 2024 05:42:55 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/louis11  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ce21vd/bunreport_is_buns_new_crash_reporter/</guid>
       <pubDate>Sat, 27 Apr 2024 01:10:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Clang 的 -O0 输出：分支位移和大小增加</title>
-      <link>https://www.reddit.com/r/programming/comments/1ce1x2b/clangs_o0_output_branch_displacement_and_size/</link>
-      <description><![CDATA[ 由   提交 /u/MaskRay   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ce1x2b/clangs_o0_output_branch_displacement_and_size/</guid>
-      <pubDate>Sat, 27 Apr 2024 01:03:16 GMT</pubDate>
     </item>
     </channel>
 </rss>

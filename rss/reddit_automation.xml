@@ -3,21 +3,21 @@
   <channel>
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
-    <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sun, 28 Apr 2024 00:52:37 GMT</lastBuildDate>
+    <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
+    <lastBuildDate>Sun, 28 Apr 2024 03:12:27 GMT</lastBuildDate>
+    <item>
+      <title>从 Excel 函数获取行时流程失败</title>
+      <link>https://www.reddit.com/r/automation/comments/1cew5d2/flow_fails_with_get_row_from_excel_function/</link>
+      <description><![CDATA[        由   提交 /u/sumofjack   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1cew5d2/flow_fails_with_get_row_from_excel_function/</guid>
+      <pubDate>Sun, 28 Apr 2024 02:53:30 GMT</pubDate>
+    </item>
     <item>
       <title>CRM太令人沮丧了！帮助程序</title>
       <link>https://www.reddit.com/r/automation/comments/1ceaom6/crm_is_so_frustrating_helppp/</link>
       <description><![CDATA[我作为销售代表加入了一家新公司，这是我第一次使用 CRM，该软件非常耗时且令人沮丧！ ！大家是怎么处理的？！ 如何快速学习平台？我已经浏览了视频和其他内容，但仍然无法掌握它。 （我们使用 Salesforce）   由   提交/u/anony705  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ceaom6/crm_is_so_frustrating_helppp/</guid>
       <pubDate>Sat, 27 Apr 2024 09:42:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>获取行电力自动化问题</title>
-      <link>https://www.reddit.com/r/automation/comments/1ce8jyi/get_a_row_power_automation_questions/</link>
-      <description><![CDATA[       由   提交 /u/sumofjack   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ce8jyi/get_a_row_power_automation_questions/</guid>
-      <pubDate>Sat, 27 Apr 2024 07:18:41 GMT</pubDate>
     </item>
     <item>
       <title>需要流程图建模方面的帮助</title>
@@ -57,7 +57,7 @@
     <item>
       <title>关于“Festo”设备的问题</title>
       <link>https://www.reddit.com/r/automation/comments/1cctyep/question_about_festo_equipment/</link>
-      <description><![CDATA[      所以我从来没有真正深入研究过这整个作品的相互作用，我只是想得到更多的信息和整个事情是如何运作的，如果有人可以解释或发送链接（图片很棒）会很有帮助。我不确定这是一个大模块还是一堆小模块的组合。我知道基础知识，空气通过它，它有过滤器，它显示 psi，它有传感器指示它是否处于适合机器使用的压力等。我只是不太确定这整个事情的内部运作，只是想学习和了解更多信息！    提交人    /u/xTreated   [link] [评论] ]]></description>
+      <description><![CDATA[   所以我从未真正深入研究过整篇文章的相互作用，我只是想获得更多信息以及整个事情是如何运作的，如果有人可以解释或发送链接（图片会很棒），那将会非常有帮助。我不确定这是一个大模块还是一堆较小模块的组合。我知道基础知识，空气通过它，它有过滤器，它向您显示 psi，它有传感器指示它是否处于适合机器使用的适当压力等。我只是不太确定整个事情的相互作用，就像学习并获得更多信息！   由   提交/u/xTreated  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cctyep/question_about_festo_equipment/</guid>
       <pubDate>Thu, 25 Apr 2024 14:52:38 GMT</pubDate>
     </item>
