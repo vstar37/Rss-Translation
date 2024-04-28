@@ -4,27 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 27 Apr 2024 21:10:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 00:53:31 GMT</lastBuildDate>
     <item>
-      <title>我用二进制解决了 fizzBu​​zz</title>
-      <link>https://www.reddit.com/r/programming/comments/1cen0kf/i_solved_fizzbuzz_in_binary/</link>
-      <description><![CDATA[ 由   提交/u/ForwardBeginning2  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cen0kf/i_solved_fizzbuzz_in_binary/</guid>
-      <pubDate>Sat, 27 Apr 2024 19:40:52 GMT</pubDate>
+      <title>我需要帮助。</title>
+      <link>https://www.reddit.com/r/programming/comments/1ceturs/i_need_help/</link>
+      <description><![CDATA[ 由   提交 /u/Altruistic-Sir-6447   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ceturs/i_need_help/</guid>
+      <pubDate>Sun, 28 Apr 2024 00:50:35 GMT</pubDate>
     </item>
     <item>
-      <title>Web 开发魔法：针对初学者的 HTML 和 CSS 课程。</title>
-      <link>https://www.reddit.com/r/programming/comments/1celsp5/web_development_wizardry_html_css_course_for/</link>
-      <description><![CDATA[ 由   提交/u/thweb  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1celsp5/web_development_wizardry_html_css_course_for/</guid>
-      <pubDate>Sat, 27 Apr 2024 18:47:56 GMT</pubDate>
+      <title>Yusuke Endoh 制作的一些有趣的流体力学 ASCII 艺术演示</title>
+      <link>https://www.reddit.com/r/programming/comments/1cesjif/some_fun_demonstration_of_fluid_mechanics_ascii/</link>
+      <description><![CDATA[ 由   提交/u/AissySantos  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cesjif/some_fun_demonstration_of_fluid_mechanics_ascii/</guid>
+      <pubDate>Sat, 27 Apr 2024 23:47:12 GMT</pubDate>
     </item>
     <item>
-      <title>使用 STREAAMLIT 和 SQLITE 的完整铁路预订系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1cels9f/complete_railway_reservation_system_using/</link>
-      <description><![CDATA[ 由   提交/u/thweb  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cels9f/complete_railway_reservation_system_using/</guid>
-      <pubDate>Sat, 27 Apr 2024 18:47:23 GMT</pubDate>
+      <title>为什么 htmx 没有构建步骤</title>
+      <link>https://www.reddit.com/r/programming/comments/1ceqnyd/why_htmx_does_not_have_a_build_step/</link>
+      <description><![CDATA[  由    /u/stronghup  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ceqnyd/why_htmx_does_not_have_a_build_step/</guid>
+      <pubDate>Sat, 27 Apr 2024 22:21:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>掌握 DynamoDB：现代数据建模的基本技术</title>
+      <link>https://www.reddit.com/r/programming/comments/1cepo7q/mastering_dynamodb_essential_techniques_for/</link>
+      <description><![CDATA[ 由   提交/u/bitter-cognac  [链接]   ; [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cepo7q/mastering_dynamodb_essential_techniques_for/</guid>
+      <pubDate>Sat, 27 Apr 2024 21:36:42 GMT</pubDate>
     </item>
     <item>
       <title>我正在推出“不要承诺”：获取策划的可操作的技术见解时事通讯 [详细信息在评论中]</title>
@@ -32,13 +39,6 @@
       <description><![CDATA[ 由   提交/u/mrsampage  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1celmiv/i_am_launching_dont_commit_get_curated_actionable/</guid>
       <pubDate>Sat, 27 Apr 2024 18:40:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>人脸识别软件</title>
-      <link>https://www.reddit.com/r/programming/comments/1cel1zj/face_recognition_software/</link>
-      <description><![CDATA[ 由   提交 /u/Lucymass   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cel1zj/face_recognition_software/</guid>
-      <pubDate>Sat, 27 Apr 2024 18:16:19 GMT</pubDate>
     </item>
     <item>
       <title>我的 Langton ant 的 WIP 实现（JS Web 可视化工具和 C++）</title>
@@ -69,13 +69,6 @@
       <pubDate>Sat, 27 Apr 2024 11:06:14 GMT</pubDate>
     </item>
     <item>
-      <title>TypeScript 5.4 的新增功能</title>
-      <link>https://www.reddit.com/r/programming/comments/1ce8bte/whats_new_in_typescript_54/</link>
-      <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ce8bte/whats_new_in_typescript_54/</guid>
-      <pubDate>Sat, 27 Apr 2024 07:03:56 GMT</pubDate>
-    </item>
-    <item>
       <title>我用与非门制作了一台可编程计算机！</title>
       <link>https://www.reddit.com/r/programming/comments/1ce83lx/i_made_a_programmable_computer_from_nand_gates/</link>
       <description><![CDATA[ 由   提交 /u/ArchAndStarch   [链接] [评论]]]></description>
@@ -85,19 +78,19 @@
     <item>
       <title>Ubuntu 24.04 中 .NET 的新增功能 - .NET 博客</title>
       <link>https://www.reddit.com/r/programming/comments/1ce70w1/whats_new_for_net_in_ubuntu_2404_net_blog/</link>
-      <description><![CDATA[ 由   提交/u/myotcworld  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/myotcworld  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ce70w1/whats_new_for_net_in_ubuntu_2404_net_blog/</guid>
       <pubDate>Sat, 27 Apr 2024 05:42:55 GMT</pubDate>
     </item>
     <item>
       <title>系统和数据库设计（第 1 天）- 在 30 天内创建 SaaS 初创公司</title>
       <link>https://www.reddit.com/r/programming/comments/1ce6sn4/system_database_design_day_1_creating_a_saas/</link>
-      <description><![CDATA[  由    /u/TheDeveloper12345  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/TheDeveloper12345   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ce6sn4/system_database_design_day_1_creating_a_saas/</guid>
       <pubDate>Sat, 27 Apr 2024 05:29:12 GMT</pubDate>
     </item>
     <item>
-      <title>TypeScript 5.5 测试版发布</title>
+      <title>TypeScript 5.5 测试版</title>
       <link>https://www.reddit.com/r/programming/comments/1ce4dnl/typescript_55_beta_release/</link>
       <description><![CDATA[ 由   提交/u/Puzzleheaded_Ad4030   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ce4dnl/typescript_55_beta_release/</guid>
@@ -109,6 +102,13 @@
       <description><![CDATA[ 由   提交/u/louis11  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ce21vd/bunreport_is_buns_new_crash_reporter/</guid>
       <pubDate>Sat, 27 Apr 2024 01:10:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clang 的 -O0 输出：分支位移和大小增加</title>
+      <link>https://www.reddit.com/r/programming/comments/1ce1x2b/clangs_o0_output_branch_displacement_and_size/</link>
+      <description><![CDATA[ 由   提交 /u/MaskRay   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ce1x2b/clangs_o0_output_branch_displacement_and_size/</guid>
+      <pubDate>Sat, 27 Apr 2024 01:03:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
