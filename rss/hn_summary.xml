@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>HN总结</title>
+    <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 28 Apr 2024 06:08:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 08:59:02 GMT</lastBuildDate>
+    <item>
+      <title>[媒体]量子力学是一个成功但令人困惑的理论，让物理学家追逐 [...]</title>
+      <link>https://t.me/hn_summary/86834</link>
+      <description><![CDATA[“闭嘴，计算”：爱因斯坦如何在解释量子现实的战斗中失败
+量子力学是一个成功但令人困惑的理论，它让物理学家追逐概率并打破因果关系。20 世纪初尼尔斯·玻尔和阿尔伯特·爱因斯坦之间的争论导致了“哥本哈根诠释”成为教条的正统观念，从而阻止了进一步的争论。随着主流物理学对基础问题变得漠不关心，爱因斯坦对该理论的挑战遭到了冷漠。哥本哈根诠释的神话仍然存在，但它包含了玻尔主导个性的真相。围绕这场辩论的争议凸显了量子现实的复杂性以及科学界不同声音所面临的挑战。 （根据 71% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86834</guid>
+      <pubDate>Sun, 28 Apr 2024 08:59:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]在这篇时髦而幽默的文章中，作者解决了有争议的话题：不[...]</title>
+      <link>https://t.me/hn_summary/86833</link>
+      <description><![CDATA[我没有孩子（没关系）
+在这篇时髦而幽默的文章中，作者解决了不想生孩子这个有争议的话题。她强调并不是每个人都想要孩子，但这完全没问题。作者分享了她不想要孩子的个人原因，包括经济考虑和不同的生活优先事项。她谈到了关于不生孩子的常见批评和误解，例如自私或错过了生活中最美好的部分。作者还强调了尊重个人选择和优先事项的重要性，并感谢那些支持她决定的人。最终，她声称生孩子是可选的，而不是充实生活的必要条件。]]></description>
+      <guid>https://t.me/hn_summary/86833</guid>
+      <pubDate>Sun, 28 Apr 2024 07:49:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在这篇博文中，我分享了如何使用机器学习来自动检测 [.​​..]</title>
+      <link>https://t.me/hn_summary/86832</link>
+      <description><![CDATA[使用压缩的 wav2vec2 自动检测 owl 呼叫
+在这篇博文中，我分享了如何使用机器学习自动检测动物叫声，特别是澳大利亚强大猫头鹰的叫声。尽管最初持怀疑态度，我还是能够创建一个可以识别猫头鹰叫声的工具，只需几个小时的努力。通过遵循概述的步骤（包括设置工具、对数据集进行分块和标记以及使用 SEW-D 模型训练模型），您可以节省识别动物叫声的时间和精力。虽然有像 BirdNET 这样的现有解决方案，但训练您自己的模型可以提供更多的定制和对过程的控制。 （根据 78% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86832</guid>
+      <pubDate>Sun, 28 Apr 2024 07:48:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]回应斯科特·亚历山大对罗宾·汉森认为医学确实有效的批评[...]</title>
+      <link>https://t.me/hn_summary/86831</link>
+      <description><![CDATA[对 Scott Alexander 关于医疗有效性的回应
+针对斯科特·亚历山大对罗宾·汉森认为药物不起作用的批评，汉森澄清说，他并不是声称药物完全无用，而是认为边际药物对健康的总体影响相对于成本来说通常很小。他强调关注综合医学随机试验的重要性，这些试验始终未能发现明显的效果。汉森批评特定治疗研究存在偏见，并强调兰德等主要实验令人惊讶的无效结果。尽管在特定治疗方面取得了一些积极的发现，但汉森坚持认为药物的总体有效性是有限的。 （根据 97% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86831</guid>
+      <pubDate>Sun, 28 Apr 2024 06:57:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在 nhigham.com 上的文章“普林斯顿应用数学伴侣”中，Ian St [...]</title>
+      <link>https://t.me/hn_summary/86830</link>
+      <description><![CDATA[普林斯顿应用数学伴侣
+在 nhigham.com，Ian Stewart 的文章“如何写出一般兴趣的数学”以及其他四篇关于应用数学教学的文章被选为 2016 年最佳数学写作重印。这一选择强调了内容的重要性和质量，展示了专业知识和作者在该领域的相关性。这些文章被收录在《最佳数学著作》等著名出版物中证明了它们的价值和对数学界的贡献。]]></description>
+      <guid>https://t.me/hn_summary/86830</guid>
+      <pubDate>Sun, 28 Apr 2024 06:45:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>【媒体】101岁老妇帕特里夏多次被美国艾尔误认为是婴儿 [...]</title>
+      <link>https://t.me/hn_summary/86829</link>
+      <description><![CDATA[航空公司不断将 101 岁老妇误认为婴儿
+帕特里夏是一位 101 岁的妇女，由于电脑故障将她的出生日期默认为未来 100 年，美国航空公司多次将她误认为是婴儿。尽管混乱，机场工作人员仍然友善且乐于助人。然而，这一错误导致了帕特里夏缺乏交通和轮椅援助等问题。她希望航空公司能解决这个问题，以免给自己和女儿带来更多不便，因为误会，她不得不长途跋涉携带行李。美国航空尚未对此事作出回应。]]></description>
+      <guid>https://t.me/hn_summary/86829</guid>
+      <pubDate>Sun, 28 Apr 2024 06:36:02 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体]人工智能正在彻底改变世界，对社会、商业和文化产生影响 [...]</title>
       <link>https://t.me/hn_summary/86828</link>
@@ -16,9 +64,8 @@
     <item>
       <title>[媒体]在这篇文章中，作者讨论了围绕艾丽·格里芬批评的争议[...]</title>
       <link>https://t.me/hn_summary/86827</link>
-      <description><![CDATA[出版的目的是让大多数作家感到失败
-
-在本文中，作者讨论了 Elle Griffin 对图书出版业的批评引发的争议，特别是关注名人书籍和旧书畅销书的主导地位。作者认为，虽然 Griffin 的观点有道理，但它们可能并不准确代表整个行业。作者分享了个人在传统出版方面的经历，强调了拥有经纪人和出版社的价值。尽管承认该行业的挑战和挫折，但作者最终认为传统出版是有益的，值得的。文章最后强调，出版业一直采用繁荣或萧条的模式，只有少数书籍能为出版社带来利润。 （根据 52% 的故事文本进行总结。）]]></description>
+      <description><![CDATA[出版的目的是让大多数作者感觉自己是失败者 
+在本文中，作者讨论了围绕艾丽·格里芬对图书出版业的批评的争议，特别关注名人图书和畅销书的主导地位。作者认为，虽然格里芬的观点有其道理，但它们可能无法准确代表整个行业。作者分享了传统出版的个人经验，强调了拥有代理商和出版社的价值。尽管承认该行业面临的挑战和挫折，但作者最终相信传统出版是有益且值得的。文章最后强调，出版业一直以繁荣或萧条的模式运作，只有少数书籍能为出版社带来盈利。 （根据故事文本的 52% 进行摘要。）]]></description>
       <guid>https://t.me/hn_summary/86827</guid>
       <pubDate>Sun, 28 Apr 2024 06:02:47 GMT</pubDate>
     </item>
@@ -26,65 +73,18 @@
       <title>rocm.blogs.amd.com 上的博客文章讨论了 C++17 并行算法的实现 [...]</title>
       <link>https://t.me/hn_summary/86826</link>
       <description><![CDATA[C++17 并行算法和 Hipstdpar
-rocm.blogs.amd.com 讨论AMD GPU 上C++17 并行算法和HIPSTDPAR 的实现。通过使用执行策略，开发人员可以轻松并行化代码并利用多核架构。这篇文章重点介绍使用并行算法解决旅行商问题 (TSP)，与串行代码相比，速度显着提高。使用 HIPSTDPAR 可以将并行性卸载到 AMD 加速器，从而实现更快的执行时间。 TSP 实例的顺序、并行和 GPU 加速执行时间的比较突出了利用 HIPSTDPAR 进行复杂计算的好处。 （根据 51% 的故事文本进行总结。）]]></description>
+rocm.blogs.amd.com 上的博客文章讨论了 C++17 并行算法和 HIPSTDPAR 在 AMD GPU 上的实现。通过使用执行策略，开发人员可以轻松并行化代码并利用多核架构。该文章重点介绍了使用并行算法解决旅行商问题 (TSP)，展示了与串行代码相比显着的速度改进。使用 HIPSTDPAR 可以将并行性卸载到 AMD 加速器，从而实现更快的执行时间。 TSP 实例的顺序、并行和 GPU 加速执行时间的比较突出了利用 HIPSTDPAR 进行复杂计算的好处。（基于 51% 的故事文本的摘要。）]]></description>
       <guid>https://t.me/hn_summary/86826</guid>
       <pubDate>Sun, 28 Apr 2024 06:01:42 GMT</pubDate>
     </item>
     <item>
       <title>[媒体]你知道美国44%的独角兽初创公司是由外籍员工创办的吗？</title>
       <link>https://t.me/hn_summary/86825</link>
-      <description><![CDATA[美国 44% 的独角兽初创公司由外籍工人创办
-您是否知道美国 44% 的独角兽初创企业是由外国工人创办的？这一统计数据凸显了移民对美国创业格局的重大贡献。尽管围绕移民政策存在争议，但这些外国工人在推动创新和经济增长方面发挥了至关重要的作用。它提醒我们美国存在多元化的人才库，以及欢迎和支持创业社区中来自各种背景的个人的重要性。]]></description>
+      <description><![CDATA[44% 的美国独角兽初创公司是由外国工人创立的
+
+你知道吗，44% 的美国独角兽初创公司是由外国工人创立的？这一统计数据凸显了移民对美国创业环境的重大贡献。尽管移民政策存在争议，但这些外国工人在推动创新和经济增长方面发挥了至关重要的作用。这提醒我们，美国拥有多元化的人才库，欢迎和支持创业社区中来自不同背景的个人非常重要。]]></description>
       <guid>https://t.me/hn_summary/86825</guid>
       <pubDate>Sun, 28 Apr 2024 05:58:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否正在努力管理 Kubernetes 环境中的所有云服务？</title>
-      <link>https://t.me/hn_summary/86824</link>
-      <description><![CDATA[如何使用 Grafana Operator：在 Kubernetes 中管理 Grafana 云堆栈
-您是否正在努力管理 Kubernetes 环境中的所有云服务？隆重推出 Grafana Operator，这是一个 Kubernetes Operator，可让您无缝管理 Grafana 实例及其资源。通过将 Grafana Cloud 与 Grafana Operator 相结合，您可以简化配置管理并将所有内容集中在一处。了解如何将 Grafana Operator 与 Grafana Cloud 堆栈连接，将文件夹、仪表板和警报配置为 Kubernetes 对象。通过使用 Helm 轻松安装和分步说明，您可以简化工作流程并提高效率。加入我们的社区电话或联系维护人员以获取更多信息。立即开始使用 Grafana Cloud！]]></description>
-      <guid>https://t.me/hn_summary/86824</guid>
-      <pubDate>Sun, 28 Apr 2024 05:57:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>jdsalaro.com 上的文章向读者介绍了运行时管理的概念和 [...]</title>
-      <link>https://t.me/hn_summary/86823</link>
-      <description><![CDATA[安装 Asdf：一个运行时管理器来统治所有开发环境
-jdsalaro.com 上的文章向读者介绍了运行时的概念管理和工具“asdf”作为简化安装和管理多个版本的编程语言运行时的过程的解决方案。作者分享了复杂开发环境的个人经历和挫折，并强调了软件开发中可重复性和最小化复杂性的重要性。通过一个涉及Python和Ruby项目的假设场景，作者演示了如何使用“asdf”来无缝管理不同的运行时版本，从而更轻松地处理具有不同需求的多个项目。本教程提供了有关安装和使用“asdf”的分步说明，以简化开发过程。 （根据 78% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/86823</guid>
-      <pubDate>Sun, 28 Apr 2024 05:56:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>在爱尔兰石灰岩洞穴中发现的青铜时代骨架揭示了关于[...]的令人惊讶的见解</title>
-      <link>https://t.me/hn_summary/86822</link>
-      <description><![CDATA[青铜时代的骨骼揭示了蛀牙的情况
-在爱尔兰的一个石灰岩洞穴中发现的青铜时代骨骼揭示了有关蛀牙和口腔细菌的惊人见解。来自变形链球菌（一种主要的蛀牙细菌）的遗传物质在古人的牙齿上含量丰富，这表明口腔微生物组的多样性和毒力随着时间的推移发生了变化。该研究重建了变形链球菌的第一个古代基因组，显示出大约 250 至 750 年前，随着人类饮食中加工糖和碳水化合物的增加，变形链球菌的数量急剧增加。这一演变凸显了饮食对口腔细菌和人类整体健康的影响，强调了口腔卫生习惯的重要性。]]></description>
-      <guid>https://t.me/hn_summary/86822</guid>
-      <pubDate>Sun, 28 Apr 2024 05:45:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]阿布扎比自主赛车联盟 (A2RL) 的首场比赛在 [...]</title>
-      <link>https://t.me/hn_summary/86821</link>
-      <description><![CDATA[尽管存在问题，阿布扎比首届自动驾驶汽车比赛还是结束了
-阿布扎比自动驾驶赛车联盟 (A2RL) 的首场比赛在亚斯码头阿布扎比大奖赛一级方程式赛车赛道上举行，无人驾驶的达拉拉超级方程式赛车手在排位赛中面临挑战。尽管在比赛中出现了汽车随机摇晃和旋转等问题，人工智能车手表现出了耐心和优雅，遵守了警告圈内不超车等规则。 Tum 在完成八圈比赛后成为获胜者。虽然自动驾驶赛车仍处于早期阶段，但预计未来会取得进展。此次活动凸显了自动驾驶赛车手的进步和潜力，但也凸显了与人类驾驶员相比目前的局限性。]]></description>
-      <guid>https://t.me/hn_summary/86821</guid>
-      <pubDate>Sun, 28 Apr 2024 05:19:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]了解 Google Quantum AI 如何通过探索 [...]</title>
-      <link>https://t.me/hn_summary/86820</link>
-      <description><![CDATA[Google Quantum AI
-了解 Google Quantum AI 如何通过探索纠错量子计算机在化学、材料科学和能源领域的潜力来突破技术界限。他们与行业和学术伙伴合作，为曾经被认为不可能的突破性进步铺平了道路。深入了解量子计算的世界，看看它如何彻底改变我们处理复杂问题的方式。探索围绕量子计算机功能的争议以及未来令人惊讶的可能性。请访问 quantumai.google 了解详情。]]></description>
-      <guid>https://t.me/hn_summary/86820</guid>
-      <pubDate>Sun, 28 Apr 2024 05:15:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]推特的消亡从奥普拉·温弗瑞 (Oprah Winfrey) 账户自 El [...] 以来的停滞中可见一斑。</title>
-      <link>https://t.me/hn_summary/86819</link>
-      <description><![CDATA[Twitter 的消亡：“乌托邦愿景”如何变成“有毒的混乱&#39;
-自埃隆·马斯克收购以来，奥普拉·温弗瑞 (Oprah Winfrey) 的账户停滞不前，这就是推特的消亡。随着澳大利亚政府对暴力内容采取法律行动，X 引发了争议。马斯克将 X 打造为言论自由天堂的愿景导致了节制措施的废除和被封锁账户的恢复。由于 API 成本飙升，研究人员很难跟上该平台的发展。 Twitter/X 的未来看起来很黯淡，因为用户休息，学者们也不愿研究该平台，这引发了人们对仇恨言论和错误信息增加的担忧。 Twitter 曾经的乌托邦愿景在马斯克的领导下已经变成了有毒的烂摊子。]]></description>
-      <guid>https://t.me/hn_summary/86819</guid>
-      <pubDate>Sun, 28 Apr 2024 05:12:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
