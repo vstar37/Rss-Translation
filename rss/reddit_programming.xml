@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 28 Apr 2024 03:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 06:14:06 GMT</lastBuildDate>
+    <item>
+      <title>安装 asdf：一个运行时管理器来统治所有开发环境</title>
+      <link>https://www.reddit.com/r/programming/comments/1cey166/install_asdf_one_runtime_manager_to_rule_all_dev/</link>
+      <description><![CDATA[嘿，各位！ 人们经常引诱我讨论为什么我也使用 asdf为什么没有必要；我每次都会上当。  不过，这种情况不会再发生了，因为我为好奇、无知、怀疑和热情的爱好者写了一篇关于为什么以及如何使用 asdf.vm 的教程:) &lt; /p&gt; 我想我应该在这里分享给那些感兴趣的人；当然欢迎反馈。   由   提交/u/jdsalaro  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cey166/install_asdf_one_runtime_manager_to_rule_all_dev/</guid>
+      <pubDate>Sun, 28 Apr 2024 04:42:11 GMT</pubDate>
+    </item>
     <item>
       <title>Web 开发更新、工具和文章 #2</title>
       <link>https://www.reddit.com/r/programming/comments/1cewc70/web_dev_updates_tools_articles_2/</link>
@@ -41,13 +48,6 @@
       <pubDate>Sat, 27 Apr 2024 21:36:42 GMT</pubDate>
     </item>
     <item>
-      <title>我正在推出“不要承诺”：获取策划的可操作的技术见解时事通讯 [详细信息在评论中]</title>
-      <link>https://www.reddit.com/r/programming/comments/1celmiv/i_am_launching_dont_commit_get_curated_actionable/</link>
-      <description><![CDATA[ 由   提交/u/mrsampage  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1celmiv/i_am_launching_dont_commit_get_curated_actionable/</guid>
-      <pubDate>Sat, 27 Apr 2024 18:40:35 GMT</pubDate>
-    </item>
-    <item>
       <title>我的 Langton ant 的 WIP 实现（JS Web 可视化工具和 C++）</title>
       <link>https://www.reddit.com/r/programming/comments/1cel01s/my_wip_implementation_of_langtons_ant_js_web/</link>
       <description><![CDATA[ 由   提交/u/rafa_br34  [链接] [评论]]]></description>
@@ -71,7 +71,7 @@
     <item>
       <title>3D 空间中的平面</title>
       <link>https://www.reddit.com/r/programming/comments/1cebyqw/planes_in_3d_space/</link>
-      <description><![CDATA[ 由   提交/u/XLEX97  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/XLEX97  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cebyqw/planes_in_3d_space/</guid>
       <pubDate>Sat, 27 Apr 2024 11:06:14 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Sat, 27 Apr 2024 03:10:17 GMT</pubDate>
     </item>
     <item>
-      <title>Bun.report 是 Bun 的新崩溃报告器</title>
+      <title>Bun.report 是 Bun 的新崩溃报告者</title>
       <link>https://www.reddit.com/r/programming/comments/1ce21vd/bunreport_is_buns_new_crash_reporter/</link>
       <description><![CDATA[ 由   提交/u/louis11  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ce21vd/bunreport_is_buns_new_crash_reporter/</guid>
