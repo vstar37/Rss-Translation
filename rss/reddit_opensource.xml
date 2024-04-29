@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 29 Apr 2024 09:14:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 12:21:10 GMT</lastBuildDate>
+    <item>
+      <title>看看 OSI 是否会在您附近举办研讨会。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cfxb3c/see_if_osi_is_coming_near_you_to_host_a_workshop/</link>
+      <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cfxb3c/see_if_osi_is_coming_near_you_to_host_a_workshop/</guid>
+      <pubDate>Mon, 29 Apr 2024 12:00:01 GMT</pubDate>
+    </item>
     <item>
       <title>如何熟悉一个新项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cflh9e/how_to_familiarize_yourself_with_a_new_project/</link>
@@ -13,7 +20,7 @@
       <pubDate>Mon, 29 Apr 2024 00:18:30 GMT</pubDate>
     </item>
     <item>
-      <title>知道美国开源公司的名录吗？</title>
+      <title>知道美国开源公司的目录吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cfi3sh/know_of_any_directory_of_us_open_source_companies/</link>
       <description><![CDATA[GitHub 是否提供公司搜索功能，或者有一些很棒的人在那里编制了一个列表？ 我都尝试过开源行业过滤器针对 1) Crunchbase 和 2) F6S，但结果仅限于几百个。 提前致谢！   由   提交 /u/HeyTomesei   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cfi3sh/know_of_any_directory_of_us_open_source_companies/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>Naticord - 用 Python 制作的原生 Discord 客户端。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ces8zg/naticord_a_native_discord_client_made_in_python/</link>
-      <description><![CDATA[嘿。我很无聊，所以决定用 Python 制作一个 Discord 客户端，并使用 PyQt5 中的 UI。 https://github。 com/n1d3v/naticord 希望大家喜欢！我将不断解决问题。   由   提交 /u/xyqnn   [链接] [评论]]]></description>
+      <description><![CDATA[嘿。我很无聊，所以决定用 Python 制作一个 Discord 客户端，并使用 PyQt5 中的 UI。 https://github. com/n1d3v/naticord 希望大家喜欢！我将不断解决问题。   由   提交 /u/xyqnn   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ces8zg/naticord_a_native_discord_client_made_in_python/</guid>
       <pubDate>Sat, 27 Apr 2024 23:33:34 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>硬盘操作系统和第二个硬盘+外部便携式硬盘+VeraCrypt？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cedufk/hdd_os_and_second_hddexternal_portable/</link>
-      <description><![CDATA[我有硬盘操作系统和第二个硬盘+外部便携式硬盘。如果我要加密硬盘操作系统，第二个硬盘会自动加密吗？如果我将加密硬盘操作系统和第二个硬盘+外部便携式硬盘，毕竟我将取消\提取便携式硬盘，会发生什么？如果没有便携式硬盘，我将无法解密硬盘操作系统和第二个硬盘？   由   提交 /u/DotaFSS   [链接] [评论]]]></description>
+      <description><![CDATA[我有 hdd OS 和第二个 hdd+外部便携式 hdd。如果我加密 hdd OS，第二个 hdd 会自动加密吗？如果我加密 hdd OS 和第二个 hdd+外部便携式 hdd，完成所有这些操作后我将取消插拔\提取便携式 hdd，会发生什么？没有便携式 hdd，我将无法解密 hdd OS 和第二个 hdd？    提交人    /u/DotaFSS   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cedufk/hdd_os_and_second_hddexternal_portable/</guid>
       <pubDate>Sat, 27 Apr 2024 12:53:19 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我正在查看 github 页面 https://github .com/florisboard/florisboard/wiki 但没有有关语言支持的信息。也尝试通过 fdroid 应用程序搜索但没有信息。表示 persion 和希伯来语。   由   提交/u/444rj44  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ce5ktq/florisboard_polish_support/</guid>
       <pubDate>Sat, 27 Apr 2024 04:16:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>时期应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ce0qcr/period_apps/</link>
-      <description><![CDATA[嗨！我在找一个可以和伴侣一起使用和分享的月经应用程序？我目前使用的是 stardust，关心这些事情的不是我，而是我的伴侣（虽然我正在努力学习），所以我正在尝试更换，这样他们也可以使用它。共享日历对我们很有帮助，所以如果有任何建议，那就太棒了！     提交人    /u/moldypizzaghee   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ce0qcr/period_apps/</guid>
-      <pubDate>Sat, 27 Apr 2024 00:06:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
