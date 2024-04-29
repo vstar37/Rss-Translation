@@ -1,89 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>HN 摘要</title>
+    <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 28 Apr 2024 18:11:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 00:38:42 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 在这篇文章中，作者讨论了围绕在 [...] 中使用 monorepos 的争议。</title>
-      <link>https://t.me/hn_summary/86885</link>
-      <description><![CDATA[Monorepos：请不要（2019）&lt; br /&gt;
-在这篇文章中，作者讨论了围绕软件开发中使用 monorepos 的争议。虽然谷歌和 Facebook 等一些科技巨头使用 monorepos，但作者反对它，强调了它的缺点，例如紧密耦合、可扩展性问题以及需要复杂的工具。作者强调，单一存储库的好处可以通过多存储库风格的工具来实现，并且无论代码存储方法如何，工程文化和领导力在协作和代码共享中都发挥着至关重要的作用。这篇文章挑战了单一存储库对于大规模软件开发的成功所必需的这一观念。 （根据 98% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/86885</guid>
-      <pubDate>Sun, 28 Apr 2024 18:11:19 GMT</pubDate>
+      <title>我发明了一种革命性的时间限制概念，改变了我忙碌的日子。</title>
+      <link>https://t.me/hn_summary/86926</link>
+      <description><![CDATA[我为忙碌的日子创建了一个新的时间限制概念，它很有效
+我发明了一种革命性的时间限制概念，改变了我忙碌的日子。通过将我的日程安排分成更小、更易于管理的时间块，我能够提高工作效率并减轻压力。这种方法让我一次专注于一项任务，从而获得更好的结果并更有效地利用我的时间。争议在于，有些人可能会发现很难适应这种新的安排一天的方式，但对我来说，它改变了游戏规则。请访问我的网站以了解有关这种创新方法的更多信息。]]></description>
+      <guid>https://t.me/hn_summary/86926</guid>
+      <pubDate>Mon, 29 Apr 2024 00:38:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]垄断综述：德克萨斯州加入欧佩克了吗？</title>
-      <link>https://t.me/hn_summary/86884</link>
-      <description><![CDATA[垄断综述：德克萨斯州加入欧佩克了吗？ 
-在本周的垄断综述中，我们深入探讨了石油定价和生产的令人惊讶的世界。一项新的诉讼指控美国公司串谋抬高全球石油价格，并指出其故意操纵价格。传统上，美国一直是欧佩克的石油进口国，欧佩克是一个通过管理供应以保持高油价来控制石油市场的卡特尔。然而，德克萨斯州的页岩油革命扰乱了这一体系，美国页岩油生产商成为摇摆生产商，并打破了沙特对油价的领导地位。欧佩克与美国页岩油生产商之间意外的合作导致了投资下降和美国独立企业之间的合并浪潮，引发了人们对反竞争行为和石油定价未来的质疑。]]></description>
-      <guid>https://t.me/hn_summary/86884</guid>
-      <pubDate>Sun, 28 Apr 2024 18:08:15 GMT</pubDate>
+      <title>[媒体] 在 alaniswright.com 上的这篇文章中，我分享了使用人工智能来增强我的产品的 8 种方法 [...]</title>
+      <link>https://t.me/hn_summary/86925</link>
+      <description><![CDATA[我使用人工智能帮助我成为更好的产品经理的 8 种方式
+在 alaniswright.com 上的这篇文章中，我分享了我的 8 种方式使用人工智能来增强我的产品管理实践。从为未来用户生成明信片到识别风险假设和编写 SQL 代码，人工智能已成为我工作中的宝贵工具。我还讨论了人工智能的局限性，例如人类监督的需要以及分析用户研究结果的挑战。尽管人工智能带来了好处，但我仍然相信人类输入的价值，尤其是在撰写会议记录和综合研究见解等任务时。这篇文章强调了人工智能改变产品管理的独特方式，同时也承认其局限性。 （根据 77% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86925</guid>
+      <pubDate>Mon, 29 Apr 2024 00:37:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Williams-Sonoma 因错误地将产品标记为“Made [...]”而面临 318 万美元的罚款</title>
-      <link>https://t.me/hn_summary/86883</link>
-      <description><![CDATA[Williams-Sonoma 因在产品上虚假标记“​​美国制造”而被罚款 318 万美元&#39;
-Williams-Sonoma 因在产品上错误地贴上“美国制造”标签而面临 318 万美元的罚款。美国联邦贸易委员会声称，这家豪华家居用品公司对多种产品做出欺骗性的美国原产地声明，违反了 2020 年命令。联邦贸易委员会发现，一些产品实际上是从中国“完全进口”，尽管广告上称其为美国制造。威廉姆斯索诺玛公司承认了这些指控，该公司过去曾解决过类似指控。尽管Pottery Barn和West Elm等品牌取得了成功，但它引发了人们对美国制造标签对消费者偏好影响的质疑。调查显示，相当多的消费者更喜欢美国制造的产品，并愿意花更多钱购买。]]></description>
-      <guid>https://t.me/hn_summary/86883</guid>
-      <pubDate>Sun, 28 Apr 2024 18:07:10 GMT</pubDate>
+      <title>[媒体]Catholic Answers 最近发布了一位名为“Justin 神父”的人工智能牧师，他声称 [...]</title>
+      <link>https://t.me/hn_summary/86924</link>
+      <description><![CDATA[天主教团体迅速解除人工智能牧师神父贾斯汀的职务
+Catholic Answers 最近发布了一位名为“贾斯汀神父”的人工智能牧师，他自称是真正的神职人员。聊天机器人参与对话，甚至提供圣礼以及有关社会和性问题的有争议的观点。在受到批评后，天主教答案很快就解除了贾斯汀神父的圣职，他现在被称为“贾斯汀”，是一位平信徒神学家。该机器人澄清说，它从未被任命，只是一个致力于分享天主教的人工智能。围绕人工智能牧师代表的争议导致天主教答案迅速更新，强调了在不引起尴尬的情况下部署人工智能的挑战。]]></description>
+      <guid>https://t.me/hn_summary/86924</guid>
+      <pubDate>Mon, 29 Apr 2024 00:36:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“犹太数学”？</title>
-      <link>https://t.me/hn_summary/86882</link>
-      <description><![CDATA[“犹太数学”？
-该网络内容探讨了颇具争议的“犹太数学”概念以及 20 世纪初德国对犹太数学家的刻板印象。作者对犹太人和德国人的数学风格提出了截然不同的看法，强调了一些德国数学家所持有的歧视性信念。内容深入探讨了欧洲知识界反犹太主义和种族分类的历史背景，揭示了影响数学能力认知的偏见。通过一系列轶事和引述，作者挑战了这些刻板印象，并对根据种族或国籍对数学家进行分类背后的逻辑缺陷进行了批判性分析。 （根据故事文本的 52% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/86882</guid>
-      <pubDate>Sun, 28 Apr 2024 18:02:05 GMT</pubDate>
+      <title>[媒体]迪拜将启动一项耗资 320 亿美元的大型项目，以扩建阿勒马克图姆国际机场 [...]</title>
+      <link>https://t.me/hn_summary/86923</link>
+      <description><![CDATA[迪拜计划耗资 320 亿美元的大型机场项目
+迪拜将启动一项耗资 320 亿美元的大型项目，扩建阿勒马克图姆国际机场，使其成为世界上最大的机场，可容纳超过 2.6 亿乘客。迪拜州长穆罕默德·本·拉希德宣布了这一雄心勃勃的计划，其中包括 400 个登机口和 5 条平行跑道。该项目还将在机场周围开发一个新城市，可容纳多达 100 万人，并容纳物流和运输领域的跨国公司。此举旨在将空中交通从迪拜国际机场转移至阿勒马克图姆，巩固迪拜作为全球枢纽的地位。]]></description>
+      <guid>https://t.me/hn_summary/86923</guid>
+      <pubDate>Mon, 29 Apr 2024 00:32:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这项研究中，我们探讨了饮用开菲尔对行为、系统性红斑狼疮的潜在益处 [...]</title>
-      <link>https://t.me/hn_summary/86881</link>
-      <description><![CDATA[试验开菲尔对行为、睡眠和微生物组的影响多动症
-在这项研究中，我们探讨了食用开菲尔对多动症儿童的行为、睡眠和微生物组的潜在益处。虽然多动症的传统治疗方法侧重于药物和行为疗法，但饮食干预在控制症状方面已显示出希望。开菲尔是一种发酵益生菌饮料，在动物研究中与肠道微生物群和行为的积极变化有关。我们的研究旨在调查开菲尔对儿童多动症症状、肠道健康和睡眠的影响。我们相信开菲尔可以改善肠道微生物群组成并减少多动症症状。本研究提出了一项随机对照试验方案，以评估开菲尔对多动症儿童的影响。]]></description>
-      <guid>https://t.me/hn_summary/86881</guid>
-      <pubDate>Sun, 28 Apr 2024 17:42:57 GMT</pubDate>
+      <title>[媒体] 微软亿万富翁史蒂夫·鲍尔默 (Steve Ballmer) 的儿子皮特·鲍尔默 (Pete Ballmer) 分享了他对气的见解 [...]</title>
+      <link>https://t.me/hn_summary/86922</link>
+      <description><![CDATA[皮特·鲍尔默：作为史蒂夫·鲍尔默的儿子长大是什么感觉&lt; /a&gt;
+微软亿万富翁史蒂夫·鲍尔默 (Steve Ballmer) 的儿子皮特·鲍尔默 (Pete Ballmer) 分享了他在富裕家庭成长的经历，透露他的家庭并不是挥霍无度的人，并向他灌输了金钱的价值。尽管皮特出身富裕，但他仍从事暑期工作并追求单口喜剧演员的职业生涯。他在 25 岁时继承了一笔钱，但仍然很节俭，从来不购买超过几百美元的东西。皮特生活俭朴，开着福特福克斯，并优先考虑医疗保健和慈善捐款。他强调金钱并不能保证幸福，要注意不要陷入富裕的循环。]]></description>
+      <guid>https://t.me/hn_summary/86922</guid>
+      <pubDate>Mon, 29 Apr 2024 00:24:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]彭博社的马克·古尔曼 (Mark Gurman) 预测新款 iPad Pro 机型“很有可能”上市 [...]</title>
-      <link>https://t.me/hn_summary/86880</link>
-      <description><![CDATA[彭博社：M4“极有可能”于 5 月 7 日推出新产品iPad Pro
-彭博社的 Mark Gurman 预测，在 5 月 7 日即将举行的“Let Loose”活动中，搭载苹果 M4 芯片的新款 iPad Pro 机型“极有可能”首次亮相。M4 芯片将配备升级版神经引擎，以增强 AI 性能，为 iPad Pro 定位作为人工智能驱动的设备。此外，预计还会有一款具有触觉反馈功能的新款 Apple Pencil，可能会包含用于振动反馈的 Taptic Engine。其他发布的产品可能包括 12.9 英寸 iPad Air 和重新设计的妙控键盘。该活动将在 Apple.com 和 YouTube 上进行直播。请继续关注有关 Apple 最新创新的更多更新。]]></description>
-      <guid>https://t.me/hn_summary/86880</guid>
-      <pubDate>Sun, 28 Apr 2024 17:35:51 GMT</pubDate>
+      <title>在本周 The Register 的 On Call 中，读者“Barry”讲述了 [...]</title>
+      <link>https://t.me/hn_summary/86921</link>
+      <description><![CDATA[帮助我的鼠标爬上了墙，现在无法正常工作
+在本周 The Register 的 On Call 中，读者“Barry”讲述了 20 世纪 90 年代一只老鼠爬墙的技术支持故事。建筑师用户无法到达屏幕的上半部分，因为他不知道可以在不移动指针的情况下拿起鼠标。巴里吸取了教训，永远不能对用户做出任何假设。建筑师将老鼠推上墙的行为出人意料，但却出人意料地受到了好评。通过 On Call 分享您自己的技术支持愚蠢行为，就有机会在未来的故事中出现。]]></description>
+      <guid>https://t.me/hn_summary/86921</guid>
+      <pubDate>Mon, 29 Apr 2024 00:17:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]《金砖国家的数字货币选择》一文提出了一种共享的数字货币[...]</title>
-      <link>https://t.me/hn_summary/86879</link>
-      <description><![CDATA[金砖国家数字货币：公链上的加密货币&lt; br /&gt;
-《金砖国家的数字货币选择》一文提出金砖国家共享数字货币，与现有货币体系相结合，创建统一的经济区。它挑战了这种货币不能作为加密货币实现的观念，探索使用公共区块链和零知识证明来实现隐私和法律合规性。金砖国家货币的价值通过算法从成员国的经济因素中得出，并根据经济表现调整供应。通过黄金储备等组成部分，该货币旨在提供稳定性并反映金砖国家集团的集体经济实力。文章深入研究了货币供应量的公式以及经济繁荣和衰退期间供应调整的情景。 （根据故事文本的 52% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/86879</guid>
-      <pubDate>Sun, 28 Apr 2024 17:27:45 GMT</pubDate>
+      <title>体验最早的已知数字视频游戏“太空战争！”的刺激感。</title>
+      <link>https://t.me/hn_summary/86920</link>
+      <description><![CDATA[DEC PDP-1 模拟器运行“Spacewar”，这是已知最早的数字游戏视频游戏
+在 DEC PDP-1 模拟器上体验最早的已知数字视频游戏“Spacewar！”的快感。驾驶“针”号和“楔”号宇宙飞船在外太空展开战斗，利用重力优势并发射光子鱼雷来击败对手。享受牛顿物理学的真实模拟和视觉上令人惊叹的移动星空背景。提供多个程序版本，包括历史性的太空战争！ 2B 于 1962 年在麻省理工学院的家长周末展示，这款模拟器提供了一个独特的机会让您回到过去并玩游戏历史的一部分。千万不要错过这款经典的游戏体验！ （根据 26% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86920</guid>
+      <pubDate>Sun, 28 Apr 2024 23:42:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]McSweeney's 是一家总部位于旧金山的独立非营利出版公司，以 [...]</title>
-      <link>https://t.me/hn_summary/86878</link>
-      <description><![CDATA[千禧验证码
-McSweeney&#39;s 是一家总部位于旧金山的独立非营利出版公司，以其每日幽默网站以及 Timothy McSweeney&#39;s Quarterly Concern 和 Illustoria 等出版物而闻名。出于对环境的承诺，他们购买碳补偿来抵消印刷和运输的影响。他们在网上商店出售各种书籍和杂志，并欢迎捐款来支持他们的可持续发展努力。如需了解更多信息或表达您的支持，请联系执行董事 Amanda Uhle。]]></description>
-      <guid>https://t.me/hn_summary/86878</guid>
-      <pubDate>Sun, 28 Apr 2024 17:23:40 GMT</pubDate>
+      <title>重返大气层 - 轨道模拟器是一款具有挑战性的游戏，它模拟了飞行的复杂性[...]</title>
+      <link>https://t.me/hn_summary/86919</link>
+      <description><![CDATA[再入 - 轨道模拟器
+再入 - 轨道模拟器是一款具有挑战性的游戏，模拟飞行和操作航天器的复杂性。从点火到轨道，玩家必须浏览各种子系统和程序，同时监控重要系统以确保安全返回地球。游戏中真实的轨道力学使得施加到航天器上的每一个力都对其轨迹至关重要。学院功能提供有关航天器程序的课程，让玩家逐步培养自己的技能，并最终通过考试获得认证。 Reentry 注重现实主义和细节，为太空爱好者提供独特的沉浸式体验。]]></description>
+      <guid>https://t.me/hn_summary/86919</guid>
+      <pubDate>Sun, 28 Apr 2024 23:16:56 GMT</pubDate>
     </item>
     <item>
-      <title>最好的 PyTorch 模型可视化工具是什么？</title>
-      <link>https://t.me/hn_summary/86877</link>
-      <description><![CDATA[最好的 PyTorch 模型可视化工具是什么？
-正在寻找最好的 PyTorch 模型可视化工具？查看 Penzai，这是一种越来越受欢迎的新工具。 news.ycombinator.com 上的用户正在讨论他们最喜欢的工具用于可视化 PyTorch 模型。加入对话并分享您的建议！]]></description>
-      <guid>https://t.me/hn_summary/86877</guid>
-      <pubDate>Sun, 28 Apr 2024 17:12:34 GMT</pubDate>
+      <title>[媒体]什么是亚马逊资源名称（ARN）？</title>
+      <link>https://t.me/hn_summary/86918</link>
+      <description><![CDATA[什么是 Amazon 资源名称 (ARN)？&lt; br /&gt;
+在本文中，我们将深入探讨 Amazon Web Services (AWS) 生态系统中的 Amazon 资源名称 (ARN) 世界。 ARN 是分配给 AWS 中每个资源的唯一标识符，可实现跨服务和区域的精确识别和管理。了解 ARN 的结构是利用其功能（从资源级权限到跨服务引用）的关键。 ARN 的灵活性扩展到通配符，从而实现高效的资源管理和访问控制。了解如何使用各种方法检索 ARN，并探索不同 AWS 资源的常见 ARN 示例。掌握 ARN 将简化您的 AWS 资源管理并增强您的基础设施即代码实践。 （根据 87% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86918</guid>
+      <pubDate>Sun, 28 Apr 2024 22:59:49 GMT</pubDate>
     </item>
     <item>
-      <title>塑料悖论挑战了有关塑料和环境的常见误解[...]</title>
-      <link>https://t.me/hn_summary/86876</link>
-      <description><![CDATA[塑料悖论
-《塑料悖论》挑战了有关塑料和环境的常见误解，敦促读者转向同行评审的科学，而不是不可靠的互联网八卦。该网站由一位专业科学家创建，他花费了 3000 多个小时研究科学文章，揭示了我们对塑料的许多看法都是不真实的。争议在于，许多人反对塑料是基于谎言而不是事实。该网站提供免费资源，包括视频和书籍，帮助个人根据确凿的证据做出明智的决定。该网站背后的科学家 Chris DeArmitt 还为那些有兴趣了解更多信息的人提供了主题演讲。]]></description>
-      <guid>https://t.me/hn_summary/86876</guid>
-      <pubDate>Sun, 28 Apr 2024 17:02:35 GMT</pubDate>
+      <title>[媒体]这份关于逆向工程的详细指南提供了有关如何集成的宝贵见解[...]</title>
+      <link>https://t.me/hn_summary/86917</link>
+      <description><![CDATA[6502 – 逆向工程指南（如何阅读模具镜头）[pdf](https://news.ycombinator.com/item?id=40192698)
+这份关于逆向工程的详细指南为集成电路的形成方式以及如何分析其布局提供了宝贵的见解。通过检查晶体管和电线等组件的横截面图片，读者可以更深入地了解电路的结构和功能。对在显微镜下观察电路的多彩外观的解释为分析过程增添了独特的视角。该内容还深入探讨了数字开关中 MOS 晶体管的操作，强调了它们在 6502 和 286 等处理器中的重要性。总的来说，该资源为那些希望探索电子世界的人提供了全面的指南。 （根据故事文本的 60% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/86917</guid>
+      <pubDate>Sun, 28 Apr 2024 22:58:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
