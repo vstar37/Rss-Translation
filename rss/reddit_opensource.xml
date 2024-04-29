@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 29 Apr 2024 12:21:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 15:12:35 GMT</lastBuildDate>
+    <item>
+      <title>最好的 Gboard 替代品？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cg1k7q/best_gboard_alternative/</link>
+      <description><![CDATA[是否有支持滑动打字的开源键盘？ Florisboard 是我所知道的唯一一个，而且已经有一段时间没有更新了。   由   提交 /u/Steroid_Cyborg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cg1k7q/best_gboard_alternative/</guid>
+      <pubDate>Mon, 29 Apr 2024 15:11:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>对开源的威胁来自公司操纵</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cg1fah/the_threat_to_open_source_comes_from_corporate/</link>
+      <description><![CDATA[   /u/fagnerbrack  [link] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cg1fah/the_threat_to_open_source_comes_from_corporate/</guid>
+      <pubDate>Mon, 29 Apr 2024 15:06:06 GMT</pubDate>
+    </item>
     <item>
       <title>看看 OSI 是否会在您附近举办研讨会。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cfxb3c/see_if_osi_is_coming_near_you_to_host_a_workshop/</link>
@@ -27,7 +41,7 @@
       <pubDate>Sun, 28 Apr 2024 21:46:29 GMT</pubDate>
     </item>
     <item>
-      <title>如果我有指向未经修改的托管版本的超链接，是否违反 AGPLv3？</title>
+      <title>如果我有一个指向未修改托管版本的超链接，我是否违反了 AGPLv3？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cfdsoi/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</link>
       <description><![CDATA[标题总结了这一点。我有一个在后端运行的 AGPLv3 软件。这是完全未经修改的。在我的应用程序中，我只提供了该应用程序的链接。我的应用程序现在也必须是 AGPLv3 吗？   由   提交 /u/thehazarika   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cfdsoi/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</guid>
@@ -78,7 +92,7 @@
     <item>
       <title>硬盘操作系统和第二个硬盘+外部便携式硬盘+VeraCrypt？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cedufk/hdd_os_and_second_hddexternal_portable/</link>
-      <description><![CDATA[我有 hdd OS 和第二个 hdd+外部便携式 hdd。如果我加密 hdd OS，第二个 hdd 会自动加密吗？如果我加密 hdd OS 和第二个 hdd+外部便携式 hdd，完成所有这些操作后我将取消插拔\提取便携式 hdd，会发生什么？没有便携式 hdd，我将无法解密 hdd OS 和第二个 hdd？    提交人    /u/DotaFSS   [link] [评论]]]></description>
+      <description><![CDATA[我有硬盘操作系统和第二个硬盘+外部便携式硬盘。如果我要加密硬盘操作系统，第二个硬盘会自动加密吗？如果我将加密硬盘操作系统和第二个硬盘+外部便携式硬盘，毕竟我将取消\提取便携式硬盘，会发生什么？如果没有便携式硬盘，我将无法解密硬盘操作系统和第二个硬盘？   由   提交 /u/DotaFSS   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cedufk/hdd_os_and_second_hddexternal_portable/</guid>
       <pubDate>Sat, 27 Apr 2024 12:53:19 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我分叉了一个已弃用的项目并想要更新它。如果原始项目名为“ProjectName”，我可以将我的分支称为“Varthe&#39;s ProjectName”吗？有没有更合适的名字？我当然会感谢原创者。   由   提交 /u/varthe   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cea1ap/forked_project_naming/</guid>
       <pubDate>Sat, 27 Apr 2024 08:58:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 的 AudioSharing RTSP 替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ce9j6v/audiosharing_rtsp_alternative_for_windows/</link>
-      <description><![CDATA[https://apps.gnome.org/ fr/AudioSharing/ 我真的很喜欢这个应用程序，并且想知道 Windows 是否有可行的替代方案。我通常在 VLC 媒体播放器上观看视频，我想将声音直接传输到我的手机（声音更好）。    由   提交/u/clara59000  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ce9j6v/audiosharing_rtsp_alternative_for_windows/</guid>
-      <pubDate>Sat, 27 Apr 2024 08:23:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>florisboard 抛光支持 ?</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ce5ktq/florisboard_polish_support/</link>
-      <description><![CDATA[我正在查看 github 页面 https://github .com/florisboard/florisboard/wiki 但没有有关语言支持的信息。也尝试通过 fdroid 应用程序搜索但没有信息。表示 persion 和希伯来语。   由   提交/u/444rj44  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ce5ktq/florisboard_polish_support/</guid>
-      <pubDate>Sat, 27 Apr 2024 04:16:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
