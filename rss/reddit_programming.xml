@@ -4,9 +4,51 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 29 Apr 2024 03:13:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 06:15:46 GMT</lastBuildDate>
     <item>
-      <title>揭秘人工智能：面向技术爱好者的入门指南</title>
+      <title>编写 (SRS) 软件需求规范的 6 个最佳实践</title>
+      <link>https://www.reddit.com/r/programming/comments/1cfrmc8/6_best_practices_for_writing_srs_software/</link>
+      <description><![CDATA[ 由   提交/u/Yukti_Solutions  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cfrmc8/6_best_practices_for_writing_srs_software/</guid>
+      <pubDate>Mon, 29 Apr 2024 05:50:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何区分程序和汽车 (PDF)。剧透：你可以证明程序的正确性</title>
+      <link>https://www.reddit.com/r/programming/comments/1cfrle3/how_to_tell_a_program_from_an_automobile_pdf/</link>
+      <description><![CDATA[ 由   提交 /u/MoreRopePlease   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cfrle3/how_to_tell_a_program_from_an_automobile_pdf/</guid>
+      <pubDate>Mon, 29 Apr 2024 05:48:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Golang 中读写文件</title>
+      <link>https://www.reddit.com/r/programming/comments/1cfrju9/read_and_write_files_in_golang/</link>
+      <description><![CDATA[ 由   提交 /u/Nice-Development2345   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cfrju9/read_and_write_files_in_golang/</guid>
+      <pubDate>Mon, 29 Apr 2024 05:45:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>程序故障导致美国航空一位 102 岁的旅客陷入混乱</title>
+      <link>https://www.reddit.com/r/programming/comments/1cfrhez/programming_glitch_caused_chaos_for_a_102_year/</link>
+      <description><![CDATA[ 由   提交 /u/saleemkce   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cfrhez/programming_glitch_caused_chaos_for_a_102_year/</guid>
+      <pubDate>Mon, 29 Apr 2024 05:41:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解如何在 Java 中使用密码学</title>
+      <link>https://www.reddit.com/r/programming/comments/1cfr4jq/understanding_how_to_use_cryptography_in_java/</link>
+      <description><![CDATA[ 由   提交/u/Puzzleheaded_Ad4030   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cfr4jq/understanding_how_to_use_cryptography_in_java/</guid>
+      <pubDate>Mon, 29 Apr 2024 05:19:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Facebook 市场编码</title>
+      <link>https://www.reddit.com/r/programming/comments/1cfqps4/facebook_marketplace_coding/</link>
+      <description><![CDATA[嗨， 我是否可以看到 Facebook Marketplace 广告首次创建并在编码中在线发布的时间？  另外，我是否可以看到广告状态何时更改为待处理和/或已出售/租赁？ 在编码/编程方面我是个菜鸟因此，如果是这样，将有助于我如何访问此信息。 仅供参考，我正在尝试跟踪出租广告中的房产信息，捕获此类数据对于我的工作非常重要。 不幸的是，大多数提供商都通过市场进行广告，而市场无法免费提供此信息。 谢谢   由   提交/u/Bbtrojans7  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cfqps4/facebook_marketplace_coding/</guid>
+      <pubDate>Mon, 29 Apr 2024 04:55:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>揭秘人工智能：技术爱好者的温和入门指南</title>
       <link>https://www.reddit.com/r/programming/comments/1cfooma/demystifying_ai_a_gentle_introductory_guide_for/</link>
       <description><![CDATA[ 由   提交/u/pedantic-sagan  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cfooma/demystifying_ai_a_gentle_introductory_guide_for/</guid>
@@ -27,7 +69,7 @@
       <pubDate>Mon, 29 Apr 2024 00:40:37 GMT</pubDate>
     </item>
     <item>
-      <title>12 因素：13 年后</title>
+      <title>12因素：13年后</title>
       <link>https://www.reddit.com/r/programming/comments/1cfiti7/12_factor_13_years_later/</link>
       <description><![CDATA[ 由   提交/u/congolomera  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cfiti7/12_factor_13_years_later/</guid>
@@ -48,7 +90,7 @@
       <pubDate>Sun, 28 Apr 2024 18:23:17 GMT</pubDate>
     </item>
     <item>
-      <title>编程错误导致的十大技术灾难</title>
+      <title>由编程错误引起的十大技术灾难</title>
       <link>https://www.reddit.com/r/programming/comments/1cfcl9q/top_10_biggest_tech_disasters_caused_by/</link>
       <description><![CDATA[ 由   提交/u/StartupSquash129  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cfcl9q/top_10_biggest_tech_disasters_caused_by/</guid>
@@ -64,51 +106,9 @@
     <item>
       <title>Google 高级工程师分享阅读白皮书如何让他的职业生涯更上一层楼</title>
       <link>https://www.reddit.com/r/programming/comments/1cf8z5w/google_staff_engineer_shares_how_reading/</link>
-      <description><![CDATA[ 由   提交/u/xxjcutlerxx  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/xxjcutlerxx  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cf8z5w/google_staff_engineer_shares_how_reading/</guid>
       <pubDate>Sun, 28 Apr 2024 15:26:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 助理费用追踪器 SwiftUI 应用演示 | iOS | macOS |视觉操作系统 | ChatGPT LLM 函数调用</title>
-      <link>https://www.reddit.com/r/programming/comments/1cf8jk4/ai_assistant_expense_tracker_swiftui_app_demo_ios/</link>
-      <description><![CDATA[ 由   提交 /u/alfianlo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cf8jk4/ai_assistant_expense_tracker_swiftui_app_demo_ios/</guid>
-      <pubDate>Sun, 28 Apr 2024 15:06:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何防止工程行业的倦怠</title>
-      <link>https://www.reddit.com/r/programming/comments/1cf88ga/how_to_prevent_burning_out_in_the_engineering/</link>
-      <description><![CDATA[ 由   提交/u/gregorojstersek  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cf88ga/how_to_prevent_burning_out_in_the_engineering/</guid>
-      <pubDate>Sun, 28 Apr 2024 14:53:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>isBoolean 太长且复杂</title>
-      <link>https://www.reddit.com/r/programming/comments/1cf7tfs/isbooleantoolongandcomplex/</link>
-      <description><![CDATA[ 由   提交/u/codingindoc  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cf7tfs/isbooleantoolongandcomplex/</guid>
-      <pubDate>Sun, 28 Apr 2024 14:34:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Node.js 22 开始对 CJS/ESM 互操作性的本机支持</title>
-      <link>https://www.reddit.com/r/programming/comments/1cf7die/native_support_for_cjsesm_interoperability_begins/</link>
-      <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cf7die/native_support_for_cjsesm_interoperability_begins/</guid>
-      <pubDate>Sun, 28 Apr 2024 14:14:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能对未来软件开发人员的影响</title>
-      <link>https://www.reddit.com/r/programming/comments/1cf6cdu/ais_impact_on_future_software_developers/</link>
-      <description><![CDATA[ 由   提交/u/Beyond-Code  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cf6cdu/ais_impact_on_future_software_developers/</guid>
-      <pubDate>Sun, 28 Apr 2024 13:24:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRE 最重要的技能？沟通</title>
-      <link>https://www.reddit.com/r/programming/comments/1cf3mvk/an_sres_most_important_skill_communication/</link>
-      <description><![CDATA[ 由   提交/u/payopt  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cf3mvk/an_sres_most_important_skill_communication/</guid>
-      <pubDate>Sun, 28 Apr 2024 10:52:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
