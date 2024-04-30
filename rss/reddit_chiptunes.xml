@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
-    <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 09:13:30 GMT</lastBuildDate>
+    <description>一个致力于音乐的社区，从最少的事情中获得最大的收益。老游戏风格的音乐，例如C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD等。</description>
+    <lastBuildDate>Tue, 30 Apr 2024 12:19:44 GMT</lastBuildDate>
+    <item>
+      <title>最好的chiptune/bitpop mac 插件？</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1cgq507/best_mac_plugins_for_chiptunebitpop/</link>
+      <description><![CDATA[我知道这是一个初学者问题，但我喜欢使用 Serum 和 Magical 8bit 插件 &lt;!-- SC_ON - -&gt;  由   提交 /u/Emergency_Order8279   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1cgq507/best_mac_plugins_for_chiptunebitpop/</guid>
+      <pubDate>Tue, 30 Apr 2024 11:06:49 GMT</pubDate>
+    </item>
     <item>
       <title>纯数据中的chiptune/breakcore/glitch补丁</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cg5jb4/chiptunebreakcoreglitch_patch_in_pure_data/</link>
@@ -13,9 +20,9 @@
       <pubDate>Mon, 29 Apr 2024 17:52:06 GMT</pubDate>
     </item>
     <item>
-      <title>FamiTracker 中的 MENTOS 商业歌曲（WIP）</title>
+      <title>MENTOS 在 FamiTracker 中的商业歌曲（正在制作中）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cg1mya/mentos_commercial_song_in_famitracker_wip/</link>
-      <description><![CDATA[        由    /u/InnerMotionMusic  提交  [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交/u/InnerMotionMusic  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cg1mya/mentos_commercial_song_in_famitracker_wip/</guid>
       <pubDate>Mon, 29 Apr 2024 15:14:53 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[   /u/megadrivemusic  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cego3l/sega_mega_drive_sonic_the_hedgehog_spinball_ost/</guid>
       <pubDate>Sat, 27 Apr 2024 15:07:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我尝试创作bgm</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1ceenzp/i_try_to_compose_bgm/</link>
-      <description><![CDATA[     &lt; /td&gt; 我是一名钢琴家，对作曲了解不多。这是我从 Musescore 制作的一首小曲目。我不知道如何使用合成软件，所以一切都只是它的注释方式:b   由   提交 /u/PeanutCurryWurst   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1ceenzp/i_try_to_compose_bgm/</guid>
-      <pubDate>Sat, 27 Apr 2024 13:34:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
