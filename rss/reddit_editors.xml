@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新提交：编辑</title>
+    <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 30 Apr 2024 00:48:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 03:12:19 GMT</lastBuildDate>
+    <item>
+      <title>Lucid 链接备份策略</title>
+      <link>https://www.reddit.com/r/editors/comments/1cgiblc/lucid_link_backup_strategy/</link>
+      <description><![CDATA[认为今天是开始讨论 Lucid Link 理想备份策略的合适时机。 大约两个几个月前，我发表了这篇文章： https://www.reddit.com /r/editors/comments/1beq8e8/lucid_link_in_combination_with_syncthing/ 一旦我的数据恢复在线，我将实施此策略并确保我的所有 Lucid Link 项目也与我的同步服务器。 有趣的是，我们只是在一个项目中尝试 Lucid。如果这种事件发生在我们所有的项目上，那将是最坏的情况。 我的一位同事正在制作另一部作品，该作品已经使用 Lucid Link 一段时间了，她告诉我他们正在处理中今天本地备份。我很好奇他们为本地备份做了什么，以及他们如何能够如此快速地做出反应，并且不松懈。 我将尝试一下我最初的想法，看看它是如何工作的。我们经常使用 Syncthing，因此如果它运行良好，它会很好地配合。   由   提交/u/Magic_MTN   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cgiblc/lucid_link_backup_strategy/</guid>
+      <pubDate>Tue, 30 Apr 2024 02:55:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>客户对我的镜头不满意，声称曝光不足无法在后期纠正</title>
+      <link>https://www.reddit.com/r/editors/comments/1cghzvo/client_unhappy_with_my_footage_claims_the/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cghzvo/client_unhappy_with_my_footage_claims_the/</guid>
+      <pubDate>Tue, 30 Apr 2024 02:39:40 GMT</pubDate>
+    </item>
     <item>
       <title>使用 M2 Max 优化 Premiere Pro 暂存/缓存/项目/素材 M.2 SSD 的最佳方法</title>
       <link>https://www.reddit.com/r/editors/comments/1cgfabn/best_way_to_optimise_premiere_pro/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>冻结！</title>
       <link>https://www.reddit.com/r/editors/comments/1cgbpjp/freeze/</link>
-      <description><![CDATA[冻结帧的 UItimate 指南，如何正确执行它们 https://www.youtube.com/watch?v=BEIhBY9S6pw 🥶    由   提交  /u/cut-it   [link] [评论]]]></description>
+      <description><![CDATA[冻结帧的终极指南如何正确执行 https://www.youtube.com/watch?v=BEIhBY9S6pw 🥶 &lt;!-- SC_ON - -&gt;  由   提交/u/cut-it  /u/cut-it reddit.com/r/editors/comments/1cgbpjp/freeze/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cgbpjp/freeze/</guid>
       <pubDate>Mon, 29 Apr 2024 21:55:57 GMT</pubDate>
     </item>
@@ -55,7 +69,7 @@
       <pubDate>Mon, 29 Apr 2024 19:21:42 GMT</pubDate>
     </item>
     <item>
-      <title>清晰链接已关闭</title>
+      <title>Lucid 链接断开</title>
       <link>https://www.reddit.com/r/editors/comments/1cg5tws/lucid_link_down/</link>
       <description><![CDATA[你们这段时间都在做什么？   由   提交 /u/mjgoodenow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cg5tws/lucid_link_down/</guid>
@@ -90,25 +104,11 @@
       <pubDate>Mon, 29 Apr 2024 14:32:52 GMT</pubDate>
     </item>
     <item>
-      <title>这很粗略吗？</title>
+      <title>这是粗略的吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1cfxz7x/is_this_sketchy/</link>
       <description><![CDATA[评论中的图片。 我申请了这份工作并收到了这条（可能）自动消息。在采取任何行动之前，我需要第二意见。   由   提交/u/mommymommymolly  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cfxz7x/is_this_sketchy/</guid>
       <pubDate>Mon, 29 Apr 2024 12:33:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>询问专业人士 - 每周 - 2024 年 4 月 29 日星期一 - 没有愚蠢的问题！如果您不以此为生，这就是您发帖的地方！规则+职业问题？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cfuers/ask_a_pro_weekly_monday_mon_apr_29_2024_no_stupid/</link>
-      <description><![CDATA[/r/editors 是一个社区面向后期制作专业人士。 每周，我们都会使用此帖子与任何对编辑或后期制作有疑问的人进行公开讨论，**无论您的职业或专业地位如何。**  再次强调，如果您是新来的，请知道这个 Reddit 子版块是针对专业人士的。我们的模组团队修剪了 Reddit 子版块，并在此发布了新手级别的问题。  ​ 如果您不确定自己属于哪一类？这就是您正在寻找的主题。 关键规则：彼此保持良好（且耐心）。没有自我推销。没有盗版。 [其余规则可在此处找到](https://www.reddit.com/r/editors/ about/rules/) 如果您不在该领域工作，这就是您的问题应该去的地方 什么样的问题对于该主题来说是公平的游戏？   学校值得吗？ 职业问题？ 哪个编辑器*您应该付费？*（免费工具？请参阅/r/videoediting) 考虑副业吗？ 我应该设置什么费率在？ （参见 WIKI） 从学校毕业？并需要入门建议？  ​ 此子版块有一个 wiki。 请随意建议它需要的页面。 我们有一个姐妹子版块 /r/videoediting。如果您不以此为生，这是理想的选择 - 但此帖子适合所有人！   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cfuers/ask_a_pro_weekly_monday_mon_apr_29_2024_no_stupid/</guid>
-      <pubDate>Mon, 29 Apr 2024 09:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>远程投球时显示参考</title>
-      <link>https://www.reddit.com/r/editors/comments/1cftzvo/showing_reference_whilst_remote_pitching/</link>
-      <description><![CDATA[大家好！ 对于那些为工作创建演示文稿/处理方案并在虚拟环境中进行推销的人，您如何呈现参考资料？您是否将其嵌入幻灯片中并要求客户在静音时在其一侧播放？还是通过屏幕共享播放？您是否向他们发送了单独的链接列表？或者任何其他巧妙的方法。     提交人    /u/Horror_Box4385   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cftzvo/showing_reference_whilst_remote_pitching/</guid>
-      <pubDate>Mon, 29 Apr 2024 08:31:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

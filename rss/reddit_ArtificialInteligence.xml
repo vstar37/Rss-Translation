@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 00:48:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 03:11:41 GMT</lastBuildDate>
+    <item>
+      <title>教育问题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgibo9/education_question/</link>
+      <description><![CDATA[我要回到大学，想主修商业/全球商业/管理。我真的很想找到一个可以辅修某种形式人工智能的地方。我将参加在线学校，因为我必须全职工作。强烈首选国家认可的学校。 感谢您的任何意见！    由   提交 /u/Dizzy-Recording9025    reddit.com/r/ArtificialInteligence/comments/1cgibo9/education_question/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgibo9/education_question/</guid>
+      <pubDate>Tue, 30 Apr 2024 02:55:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 OpenAI 助手 API 制作了一个简单的语音 AI 助手。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cghebw/i_made_a_simple_voice_ai_assistant_using_openai/</link>
+      <description><![CDATA[嗨，我想知道如何构建像 Siri 这样的人工智能语音助手。我发现 OpenAI 有一个耳语 API，可以进行文本转语音和语音转文本，而我们可以使用 Assistants API 进行对话部分。由于这是一个有趣的项目，所以我决定通过摆脱 Whisper 部分并使用浏览器 Javascript APIWeb Speech API 进行语音输入和输出来构建 MVP。而使用助手API作为主脑。 我认为我们可以通过以下方式提高速度和质量： 语音输入：AssemblyAI或OpenAI Whisper语音输出： Elevenlabs 或 OpenAI Whisper 速度：在 Langchain 上使用不同的模型（但我们必须去掉 Assistants API 部分） 如果有人知道如何改进它，请告诉我。 这里教程是：[使用 openAI 助手 API 构建 AI 语音助手](https://serpapi.com/blog/build-ai-voice-assistant-like-siri-use-openai-ai-assistant/)以下是源代码：【AI语音GitHub 上的助手代码示例](https://github.com/hilmanski/simple-ai-voice -assistant-openai-demo)  我希望它对任何人都有用！   由   提交/u/tukemon24  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cghebw/i_made_a_simple_voice_ai_assistant_using_openai/</guid>
+      <pubDate>Tue, 30 Apr 2024 02:09:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>希望创建有关如何使用我的网站的信息丰富的 YouTube 视频。有我可以使用的电影制作工具吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cghb1c/looking_to_create_informative_youtube_videos_on/</link>
+      <description><![CDATA[我有一个网站、Facebook 和 Instagram 帐户，我可以在上面发布每日免费线索。有没有办法使用人工智能来展示如何通过视觉和音频来定位每个平台上免费线索的位置？我想将其上传到 youtube。    由   提交/​​u/Various_Performance9   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cghb1c/looking_to_create_informative_youtube_videos_on/</guid>
+      <pubDate>Tue, 30 Apr 2024 02:05:25 GMT</pubDate>
+    </item>
     <item>
       <title>寻找写作建议。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgep8a/looking_for_recommendations_for_writing/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>我制作了一款人工智能应用程序，可以拍照并提供时尚建议</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgcuj0/i_made_an_ai_app_that_takes_photos_and_gives/</link>
-      <description><![CDATA[大家好！我是 FashionAdvice.ai 的创建者和开发者。该应用程序会拍摄您上传的照片，并为您提供 1 到 10 的时尚评分。它还会为您提供反馈以改进您的输出。我刚刚发布了一个新更新，可以提供更好的建议（更多详情请点击此处）。由于这次更新，我认为该应用程序处于一个非常酷的位置，我想与社区分享它。  您最多可以免费试用 5 条评论。如果您想订阅，每天 10 条评论的费用为 5 美元/月。请告诉我您的想法！    提交人    /u/FashionAdviceAI   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我是 FashionAdvice.ai 的创建者和开发者。该应用程序会拍摄您上传的照片，并为您提供从 1 到 10 的时尚评分。它还会为您提供反馈以改进您的输出。我刚刚发布了一个新的更新，提供了更好的建议（更多详情）。由于这次更新，我认为该应用程序非常酷，我想与社区分享。  您最多可以免费尝试 5 条评论。如果你想订阅，每月花费 5 美元，每天 10 条评论。请告诉我您的想法！   由   提交/u/FashionAdviceAI   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgcuj0/i_made_an_ai_app_that_takes_photos_and_gives/</guid>
       <pubDate>Mon, 29 Apr 2024 22:41:42 GMT</pubDate>
     </item>
@@ -32,13 +53,6 @@
       <description><![CDATA[以下是今天的主要人工智能故事 -   中国维度掀起人工智能视频竞赛： 中国新的 AI 视频工具 Vidu 以更好的视觉效果和多个摄像角度挑战 OpenAI 的 Sora，但视频长度仍然有限​​。 Apple 考虑将 OpenAI 用于 iOS 18 AI 功能： 在考虑内部开发后，苹果再次与 OpenAI 讨论将人工智能功能（例如更智能的聊天机器人助手）引入 iOS 18。 OpenAI 与《金融时报》合作开发人工智能驱动的财经新闻：  OpenAI 将使用大量的《金融时报》文章来提高其对金融的理解。这可能会导致人工智能编写的复杂报告摘要和人工智能聊天机器人直接在 FT 平台上回答您的财务问题。 ChatGPT 获得内存提升以实现更自然的交互：OpenAI 的 ChatGPT现在可以记住过去对话的细节，使互动更加自然、个性化，并且可能更加富有成效。 美国成立委员会以确保安全和道德的人工智能发展：美国政府启动了一个新委员会旨在识别人工智能开发的风险并推荐安全实践，旨在建立公众对这一不断发展的技术的信任。  更详细的细分 - https://mapleai.beehiiv.com/p/openais-sora-faces-competition-chinese-tech-firm    由   提交 /u/ArFiction   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cg5jtg/apple_revisits_talks_with_openai_ai_news/</guid>
       <pubDate>Mon, 29 Apr 2024 17:52:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能创新日报，2024 年 4 月 29 日：⚔️中国推出 Sora 挑战者📰OpenAI，用于在《金融时报》内容上训练人工智能🫠Meta 的人工智能广告平台出现故障，现金耗尽🎥中国的 Vidu 生成 16 秒 1080P 视频，与 OpenAI 的 Sora 相匹配💥新iPad Pro：支持 AI 的 M4 芯片❗</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cg5hbd/a_daily_chronicle_of_ai_innovations_april_29_2024/</link>
-      <description><![CDATA[ 由   提交 /u/enoumen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cg5hbd/a_daily_chronicle_of_ai_innovations_april_29_2024/</guid>
-      <pubDate>Mon, 29 Apr 2024 17:49:57 GMT</pubDate>
     </item>
     <item>
       <title>数据、人工智能和去中心化</title>
@@ -62,20 +76,6 @@
       <pubDate>Mon, 29 Apr 2024 15:44:03 GMT</pubDate>
     </item>
     <item>
-      <title>最佳 AI 代码 IDE：Cursor.ai 演示</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cg01zw/best_ai_code_ide_cursorai_demo/</link>
-      <description><![CDATA[查看cursor.ai 的演示，它是一个人工智能优先的 IDE，可以在 git 存储库中编写、更新、修复、解释代码。不仅如此，它还可以遵循编码风格，浏览互联网和文档，编写文档字符串等等。在此处查看完整演示：https://youtu.be/xb-PxO78c4g?si=fFEyhnx_kjwyTxpf   由   提交/u/mehul_gupta1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cg01zw/best_ai_code_ide_cursorai_demo/</guid>
-      <pubDate>Mon, 29 Apr 2024 14:09:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Llama-cpp-Search：使用 llama-cpp-python 和强大的 Phi-3-Mini 的本地 GenAI 支持的搜索引擎</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cfzdw7/llamacppsearch_a_local_genai_powered_search/</link>
-      <description><![CDATA[上周末，我在 Groq 上尝试了 Llama-3 8B 模型，其生成速度给我留下了深刻的印象。然后，我使用 Groq 上的 Llama 3 8B 和新闻 API 创建了一个 GenAI 新闻搜索引擎。项目/任务非常简单，根据用户查询检索最新新闻，然后格式化新闻以便模型理解，然后要求模型返回带有引用的摘要，就像 PerplexityAI 所做的那样。令我惊叹的是，我发现从新闻检索到完成摘要的整个过程只需要3.5到5秒。这速度太快了，与我们在 PerplexityAI 上获得搜索结果的速度非常接近。由于信息来源不同，结果也不同，但速度却相当接近。我在此链接发布了我的实验 https://pub.towardsai.net/llama -3-groq-is-the-ai-heaven-337b6afeced3。我一发表这篇文章，微软 AI 就放弃了他们的 Phi-3-Mini-4k-Instruct 和 Phi-3-Mini- 128k-指导模型。现在这些“迷你”型号的尺寸只有 Llama-3 8B 的一半，根据基准测试，这些型号与 Llama-3 8B 非常接近。因此，这个周末我开始尝试 Phi-3-Mini-4k-Instruct 模型，因为它更小，所以我决定通过 llama-cpp-python 包中提供的 Python llama.cpp 绑定在本地使用它。我有一台带有 8GB RAM 的 M2 Macbook Air，无法容纳 FP16 中的 7GB 模型，因此我采用了 GGUF 格式的量化 4 位模型，并通过 `llama-cpp-python` 库使用它。是w.r.t.聊天质量。我只是想检查模型是否能够跟踪上下文以及回复的质量如何。从我观察到的情况来看，对于小型语言模型 (SLM) 来说，回复相当不错，在某些情况下，它们也与我从 Llama-3 8B 得到的类似。然后我测试了带有提示的函数调用，这也适用于某些用例。然后我想为什么不复制相同的搜索场景并将搜索本地化，而不是使用云端的模型呢？ 这次我不想依赖某些新闻 API，而是想尝试一下搜索API。我浏览了很多 Reddit 子版块来检查 PerplexityAI 使用的是什么，我发现了一条评论 在一篇帖子中，有人回复说 PerplexityAI 曾经使用 Brave Search API。我不知道这有多真实，但后来我得到了勇敢的搜索 API 密钥并将 Phi-3-Mini-4k-Instruct 模型与其集成，摘要非常不错，生成速度也很好。我每秒获得大约 16 到 22 个令牌。生成的文本也很好，模型甚至忽略了不相关的结果。我将整个内容打包到 Python FastAPI 应用程序中，以便任何人都可以下载 GGUF 模型并运行 FastAPI 端点并在浏览器中使用它访问搜索。我在这里记录了这个实验 https://medium.com/@ thevatsalsaglani/the-microsoft-phi-3-mini-is-mighty-impressive-a0f1e7bb6a8c 代码可在此处获取：https://github.com/vatsalsaglani/llama-cpp-search。我将其称为“llama-cpp-search”。 P.S.：我还在使用 Electron + Svelte + TailwindCSS + Node CPP Llama 开发桌面应用程序，它将使用 Brave API 进行搜索，然后使用SLM（小语言模型）来总结搜索。   由   提交/u/thevatsalsaglani   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cfzdw7/llamacppsearch_a_local_genai_powered_search/</guid>
-      <pubDate>Mon, 29 Apr 2024 13:40:34 GMT</pubDate>
-    </item>
-    <item>
       <title>有没有可以描述视频的AI工具？我的意思是视频到文本。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cfw486/is_there_any_ai_tool_that_can_describe_video_i/</link>
       <description><![CDATA[如果 Sora 可以根据文本创建视频，是否有工具可以描述视频中发生的情况？    由   提交/u/lost_and_found795  [链接] [评论]]]></description>
@@ -85,7 +85,7 @@
     <item>
       <title>国土安全部推出人工智能安全委员会，但大型开源公司缺席</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cfvrbu/dhs_launches_ai_safety_board_but_big_opensource/</link>
-      <description><![CDATA[美国国土安全部 (DHS) 成立了人工智能安全委员会。该委员会的目标是促进人工智能在美国关键基础设施中的安全使用。董事会成员包括大型科技公司的首席执行官，但开源人工智能的倡导者明显缺席。 来源：https://dailyai.com/2024/04/dhs-launches-ai-safety-board-but-big-open-source-names-缺席/    由   提交 /u/UpvoteBeast   [链接] [评论]]]></description>
+      <description><![CDATA[美国国土安全部（DHS）成立了人工智能安全与保障委员会。该委员会旨在促进人工智能在美国关键基础设施中的安全使用。董事会成员包括大型科技公司的首席执行官，但开源人工智能的倡导者却明显缺席。 来源：https://dailyai.com/2024/04/dhs-launches-ai-safety-board-but-big-open-source-names-absent/     提交人    /u/UpvoteBeast   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cfvrbu/dhs_launches_ai_safety_board_but_big_opensource/</guid>
       <pubDate>Mon, 29 Apr 2024 10:30:26 GMT</pubDate>
     </item>
