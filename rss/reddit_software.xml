@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 06:15:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 09:13:14 GMT</lastBuildDate>
+    <item>
+      <title>可视化产品公司间关系的程序。</title>
+      <link>https://www.reddit.com/r/software/comments/1cgmcob/program_to_visualize_intercompany_relations_for/</link>
+      <description><![CDATA[所以我是做销售的。 我意识到，如果我能列举出其他非常具体的公司作为参考，我就能与客户进行完全不同的对话。 要做到这一点，我必须找到一个数据库/BI 工具，它可以记录一家公司生产什么产品、他们的供应商是谁、他们向谁销售产品、同一行业内推动公司发展的利益相关者。 这些公司都互相认识。向客户列出 3 个供应商、4 个客户和 2 个竞争对手也是客户，你就会立即获得他们的信任。 我对数据库有非常基本的了解。我相信这会有很多非常小的表。增加了查询运行时间。 D365 中有很多数据，但所有详细信息都必须手动输入。    提交人    /u/NoShirt158   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cgmcob/program_to_visualize_intercompany_relations_for/</guid>
+      <pubDate>Tue, 30 Apr 2024 06:48:39 GMT</pubDate>
+    </item>
     <item>
       <title>需要软件（最好是免费软件）来知道我的互联网何时恢复</title>
       <link>https://www.reddit.com/r/software/comments/1cgksri/need_software_preferably_freeware_to_know_when_my/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>用于创建文本输入照片测验的网站或软件。</title>
       <link>https://www.reddit.com/r/software/comments/1cgc66m/website_or_software_to_create_a_text_entry_photo/</link>
-      <description><![CDATA[寻找一个网站或软件，我可以用它做一个测验，我展示一张照片，让在线的人输入文本答案。我不想让它能够说出它是正确还是错误，我也不想让它显示答案。如果能够获得所有回复并计算出每个答案有多少人答错的百分比（比如 63% 的人答对了），那就太好了。有没有类似或可行的东西？试过谷歌表单，但感觉几乎不是我想要的。    提交人    /u/kingchangling   [链接] [评论]]]></description>
+      <description><![CDATA[寻找一个可以用来进行测验的网站或软件，我可以在其中展示照片并让人们在线输入文本答案。我不希望它能够说出它是正确还是不正确，我也不希望它显示答案。如果能够获得所有答案并计算出每个答案错误的人数百分比（例如 63% 回答正确），那就太好了。有类似的或可行的吗？尝试过谷歌表单，但感觉几乎不是我想要的。   由   提交 /u/kingchangling   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cgc66m/website_or_software_to_create_a_text_entry_photo/</guid>
       <pubDate>Mon, 29 Apr 2024 22:13:53 GMT</pubDate>
     </item>
@@ -69,9 +76,9 @@
       <pubDate>Mon, 29 Apr 2024 17:43:08 GMT</pubDate>
     </item>
     <item>
-      <title>在单个链接中共享所有您喜爱的应用程序的最佳方式是什么？</title>
+      <title>通过单个链接分享所有您喜爱的应用程序的最佳方法是什么？</title>
       <link>https://www.reddit.com/r/software/comments/1cg3dxm/what_is_the_best_way_to_share_all_your_favourite/</link>
-      <description><![CDATA[我想我正在寻找与 letterboxd 或 backloggd 等效的软件。我能想到的唯一可能的解决方案是链接树或发布概念页面，这两者似乎都令人印象深刻。对于这种事情还有更好的服务吗？   由   提交/u/redditt1984   [链接] [评论]]]></description>
+      <description><![CDATA[我想我正在寻找 letterboxd 或 backloggd 的软件等效物。我能想到的唯一可能的解决方案是 linktree 或发布一个 notion 页面，这两种方法似乎都不太令人满意。有没有更好的服务来处理这种事情？    提交人    /u/redditt1984   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cg3dxm/what_is_the_best_way_to_share_all_your_favourite/</guid>
       <pubDate>Mon, 29 Apr 2024 16:26:00 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>网络远程桌面</title>
       <link>https://www.reddit.com/r/software/comments/1cg32vp/web_remote_desktop/</link>
-      <description><![CDATA[您好，我需要一个可以通过网络访问的远程桌面客户端，而不是 Chrome 远程桌面，您有什么想法吗？   由   提交 /u/PCbuilderFR   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我需要一个可以从 Web 访问的远程桌面客户端，而不是 Chrome 远程桌面，您有什么想法吗？    提交人    /u/PCbuilderFR   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cg32vp/web_remote_desktop/</guid>
       <pubDate>Mon, 29 Apr 2024 16:13:20 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Mon, 29 Apr 2024 15:15:03 GMT</pubDate>
     </item>
     <item>
-      <title>如何从视频中提取所有帧并在 Twitter 上发布</title>
+      <title>如何提取视频中的所有帧以发布到 Twitter</title>
       <link>https://www.reddit.com/r/software/comments/1cg07bb/how_to_extract_all_frames_from_a_video_to_post_on/</link>
       <description><![CDATA[我不知道你们中是否有人见过这样的 Twitter 帐户：“每一帧都按顺序来自 ______”。 （最好的例子是 Breaking_frames）——但是我和我的朋友想为我们最喜​​欢的节目做这件事，但我们不确定最重要的是什么有效的方法是。 我看到人们引用了 Breaking Frames 的创建者和他的代码，但我没有能够找到它。我不确定他们所指的代码是否只是关于如何对机器人进行编程以发送推文，或者机器人是否也在提取帧？我对编码真的知之甚少，所以如果我说得不清楚，我深表歉意。 我知道无论如何这是一次衷心的努力，我完全同意。我只是想找出执行此类操作的最佳方法，而无需手动截取每一帧。我感谢任何和所有的帮助！感谢您抽出时间   由   提交 /u/Nicoleiosis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cg07bb/how_to_extract_all_frames_from_a_video_to_post_on/</guid>
       <pubDate>Mon, 29 Apr 2024 14:15:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我无法在文件资源管理器上打开任何文件</title>
-      <link>https://www.reddit.com/r/software/comments/1cfzp8f/i_cant_open_any_files_on_file_explorer/</link>
-      <description><![CDATA[鼠标图标旁边出现了沙漏符号，但从未加载。播放视频文件的电影和电视应用程序曾经弹出一秒钟，然后就消失了。    提交人    /u/EarthwormJim_17   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cfzp8f/i_cant_open_any_files_on_file_explorer/</guid>
-      <pubDate>Mon, 29 Apr 2024 13:55:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
