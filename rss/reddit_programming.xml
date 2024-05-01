@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 01 May 2024 00:53:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 03:13:12 GMT</lastBuildDate>
+    <item>
+      <title>当你执行 git Push 时，GitLab 上会发生什么？</title>
+      <link>https://www.reddit.com/r/programming/comments/1chbrn3/what_happens_on_gitlab_when_you_do_git_push/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1chbrn3/what_happens_on_gitlab_when_you_do_git_push/</guid>
+      <pubDate>Wed, 01 May 2024 03:05:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kevin Bourrillion 为何被禁止进入 /r/java？</title>
+      <link>https://www.reddit.com/r/programming/comments/1cha9f8/why_was_kevin_bourrillion_banned_from_rjava/</link>
+      <description><![CDATA[ 由   提交/u/dhlowrents  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cha9f8/why_was_kevin_bourrillion_banned_from_rjava/</guid>
+      <pubDate>Wed, 01 May 2024 01:50:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Guava 的创建者、Java 平台组的最新成员 Kevin Bourrillion 被禁止使用 r/java</title>
+      <link>https://www.reddit.com/r/programming/comments/1cha8uz/kevin_bourrillion_creator_of_guava_and_newest/</link>
+      <description><![CDATA[ 由   提交/u/dhlowrents  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cha8uz/kevin_bourrillion_creator_of_guava_and_newest/</guid>
+      <pubDate>Wed, 01 May 2024 01:49:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 GGUF 文件在本地运行 LLM</title>
+      <link>https://www.reddit.com/r/programming/comments/1ch9oj6/running_llm_locally_with_gguf_files/</link>
+      <description><![CDATA[ 由   提交/u/WooilJeong  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ch9oj6/running_llm_locally_with_gguf_files/</guid>
+      <pubDate>Wed, 01 May 2024 01:22:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>分享有关 Web 开发的更新、工具和优秀文章 - 第 3 期</title>
+      <link>https://www.reddit.com/r/programming/comments/1ch95nm/sharing_updates_tools_and_excellent_articles/</link>
+      <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ch95nm/sharing_updates_tools_and_excellent_articles/</guid>
+      <pubDate>Wed, 01 May 2024 00:58:05 GMT</pubDate>
+    </item>
     <item>
       <title>如何忽视问题并保守秘密</title>
       <link>https://www.reddit.com/r/programming/comments/1ch8ij6/how_to_ignore_issues_and_keep_secrets/</link>
@@ -15,7 +50,7 @@
     <item>
       <title>代码审查 DevToo...我们可以做得更好吗？代码回放可帮助您查看正在运行的代码。</title>
       <link>https://www.reddit.com/r/programming/comments/1ch749r/code_review_devtoowhat_can_we_do_better_code/</link>
-      <description><![CDATA[  由    /u/RozzSanz  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/RozzSanz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ch749r/code_review_devtoowhat_can_we_do_better_code/</guid>
       <pubDate>Tue, 30 Apr 2024 23:24:06 GMT</pubDate>
     </item>
@@ -69,46 +104,11 @@
       <pubDate>Tue, 30 Apr 2024 17:55:08 GMT</pubDate>
     </item>
     <item>
-      <title>SwiftSemanticSearch - 使用 USearch 和 UForm 实现 Swift 中实时多模式检索增强应用的设备 AI 演示 🍏</title>
+      <title>SwiftSemanticSearch - 使用 USearch 和 UForm 在 Swift 中进行实时多模式检索增强应用程序的设备上 AI 演示 🍏</title>
       <link>https://www.reddit.com/r/programming/comments/1cgyrl4/swiftsemanticsearch_ondevice_ai_demo_for_realtime/</link>
       <description><![CDATA[ 由   提交/u/ashvar  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cgyrl4/swiftsemanticsearch_ondevice_ai_demo_for_realtime/</guid>
       <pubDate>Tue, 30 Apr 2024 17:39:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>DSL 一直到使用 pnk.lang DSL 制作的红色编程“IDE”</title>
-      <link>https://www.reddit.com/r/programming/comments/1cgyn26/dsl_all_the_way_down_to_a_red_programming_ide/</link>
-      <description><![CDATA[ 由   提交/u/Hardkorebob   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cgyn26/dsl_all_the_way_down_to_a_red_programming_ide/</guid>
-      <pubDate>Tue, 30 Apr 2024 17:33:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用一个软件包即可使用任意 LLM（GPT-3、GPT-4、Davinci 和 DALL-E）</title>
-      <link>https://www.reddit.com/r/programming/comments/1cgy93s/use_any_llm_gpt3_gpt4_davinci_and_dalle_with_one/</link>
-      <description><![CDATA[ 由   提交/u/Longjumping_Ad_8227   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cgy93s/use_any_llm_gpt3_gpt4_davinci_and_dalle_with_one/</guid>
-      <pubDate>Tue, 30 Apr 2024 17:18:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个有抱负的程序员都必须了解代码之外的 9 个令人震惊的事实</title>
-      <link>https://www.reddit.com/r/programming/comments/1cgy8hh/9_shocking_truths_every_aspiring_programmer_must/</link>
-      <description><![CDATA[ 由   提交/u/StartupSquash129  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cgy8hh/9_shocking_truths_every_aspiring_programmer_must/</guid>
-      <pubDate>Tue, 30 Apr 2024 17:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>副驾驶刚刚杀了德文？</title>
-      <link>https://www.reddit.com/r/programming/comments/1cgxz3e/copilot_just_killed_devin/</link>
-      <description><![CDATA[ 由   提交 /u/SecretAggressive   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cgxz3e/copilot_just_killed_devin/</guid>
-      <pubDate>Tue, 30 Apr 2024 17:06:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是人工智能基础设施软件？</title>
-      <link>https://www.reddit.com/r/programming/comments/1cgx739/what_is_ai_infrastructure_software/</link>
-      <description><![CDATA[ 由   提交/u/Real-Ad168  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cgx739/what_is_ai_infrastructure_software/</guid>
-      <pubDate>Tue, 30 Apr 2024 16:32:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
