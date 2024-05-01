@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 01 May 2024 09:13:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 12:21:03 GMT</lastBuildDate>
+    <item>
+      <title>Tanstack Query 简介以及使用 queryOptions 组织代码以实现可维护性</title>
+      <link>https://www.reddit.com/r/programming/comments/1chiwiv/introduction_to_tanstack_query_and_organizing/</link>
+      <description><![CDATA[ 由   提交/u/pdycnbl  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1chiwiv/introduction_to_tanstack_query_and_organizing/</guid>
+      <pubDate>Wed, 01 May 2024 10:35:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>操作系统之战，什么才是最适合编程的操作系统。</title>
+      <link>https://www.reddit.com/r/programming/comments/1chi2i7/operating_system_wars_what_is_the_best_operating/</link>
+      <description><![CDATA[ 由   提交/u/TheDeveloper12345   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1chi2i7/operating_system_wars_what_is_the_best_operating/</guid>
+      <pubDate>Wed, 01 May 2024 09:42:14 GMT</pubDate>
+    </item>
     <item>
       <title>让远程工作再次变得伟大</title>
       <link>https://www.reddit.com/r/programming/comments/1chhgpv/make_remote_work_great_again/</link>
@@ -13,21 +27,21 @@
       <pubDate>Wed, 01 May 2024 09:01:59 GMT</pubDate>
     </item>
     <item>
-      <title>正在寻找开发人员为我们的 YouTube 频道制作视频！</title>
+      <title>寻找开发人员为我们的 YouTube 频道制作视频！</title>
       <link>https://www.reddit.com/r/programming/comments/1chh7j5/looking_for_a_developer_to_make_videos_for_our/</link>
-      <description><![CDATA[  由    /u/Effective-Divide-828  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/Effective-Divide-828   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1chh7j5/looking_for_a_developer_to_make_videos_for_our/</guid>
       <pubDate>Wed, 01 May 2024 08:44:37 GMT</pubDate>
     </item>
     <item>
-      <title>如何解决（使用光线投射）</title>
+      <title>如何解决它（使用光线投射）</title>
       <link>https://www.reddit.com/r/programming/comments/1chh15s/how_to_solve_it_with_raycasting/</link>
       <description><![CDATA[ 由   提交/u/zer0tonine  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1chh15s/how_to_solve_it_with_raycasting/</guid>
       <pubDate>Wed, 01 May 2024 08:31:46 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Rust 将日期解析添加到 SQLite</title>
+      <title>使用 Rust 向 SQLite 添加日期解析</title>
       <link>https://www.reddit.com/r/programming/comments/1chgkbn/add_date_parsing_to_sqlite_using_rust/</link>
       <description><![CDATA[ 由   提交/u/tanin47  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1chgkbn/add_date_parsing_to_sqlite_using_rust/</guid>
@@ -90,25 +104,11 @@
       <pubDate>Wed, 01 May 2024 05:06:01 GMT</pubDate>
     </item>
     <item>
-      <title>你知道 TypeScript 中“对象”、“{}”和“对象”之间的区别吗？</title>
+      <title>你知道 TypeScript 中 'Object'、'{}' 和 'object' 之间的区别吗？</title>
       <link>https://www.reddit.com/r/programming/comments/1chcnx2/do_you_know_the_differences_between_object_and/</link>
       <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1chcnx2/do_you_know_the_differences_between_object_and/</guid>
       <pubDate>Wed, 01 May 2024 03:54:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[博客] WebAssembly：您需要了解的一切</title>
-      <link>https://www.reddit.com/r/programming/comments/1chcnhn/blog_webassembly_everything_you_need_to_know/</link>
-      <description><![CDATA[ 由   提交/u/shubham0204_dev  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1chcnhn/blog_webassembly_everything_you_need_to_know/</guid>
-      <pubDate>Wed, 01 May 2024 03:53:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>空的 S3 存储桶如何让您的 AWS 账单爆炸？当免费套餐适得其反时，我的 1,300 美元 AWS 账单</title>
-      <link>https://www.reddit.com/r/programming/comments/1chccae/how_an_empty_s3_bucket_can_make_your_aws_bill/</link>
-      <description><![CDATA[ 由   提交/u/Select_Leader2696   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1chccae/how_an_empty_s3_bucket_can_make_your_aws_bill/</guid>
-      <pubDate>Wed, 01 May 2024 03:36:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
