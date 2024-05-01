@@ -2,14 +2,14 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 01 May 2024 18:14:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 21:12:13 GMT</lastBuildDate>
     <item>
       <title>iOS 版克劳德</title>
       <link>https://www.producthunt.com/posts/claude-for-ios</link>
       <description><![CDATA[
-            Anthropic 的官方人工智能助手，就在你的后兜里
+            Anthropic 的官方人工智能助手，就在你的后口袋里
           
 
 讨论
@@ -46,6 +46,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/jslog</guid>
       <pubDate>Wed, 01 May 2024 03:11:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>排序</title>
+      <link>https://www.producthunt.com/posts/rankify</link>
+      <description><![CDATA[
+            即时 AI SEO 关键词研究生成器
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/rankify</guid>
+      <pubDate>Wed, 01 May 2024 01:04:06 GMT</pubDate>
     </item>
     <item>
       <title>Windows 版圆弧</title>
@@ -132,20 +146,6 @@
       <pubDate>Tue, 30 Apr 2024 08:27:37 GMT</pubDate>
     </item>
     <item>
-      <title>燕尾频道</title>
-      <link>https://www.producthunt.com/posts/channels-by-dovetail</link>
-      <description><![CDATA[
-将用户反馈转化为实时见解
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/channels-by-dovetail</guid>
-      <pubDate>Tue, 30 Apr 2024 05:11:25 GMT</pubDate>
-    </item>
-    <item>
       <title>马厩钱</title>
       <link>https://www.producthunt.com/posts/stables-money</link>
       <description><![CDATA[
@@ -163,7 +163,7 @@
       <title>心灵之旅</title>
       <link>https://www.producthunt.com/posts/mindtrip</link>
       <description><![CDATA[
-            AI旅行平台，为您量身定制
+            AI旅行平台，为您个性化
           
 
 讨论
@@ -205,12 +205,12 @@
       <title>千</title>
       <link>https://www.producthunt.com/posts/mano</link>
       <description><![CDATA[
-            用您最喜欢的地点和时刻打造您的世界
-          
+用您最喜欢的地方和时刻打造您的世界
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/mano</guid>
       <pubDate>Fri, 05 Apr 2024 16:54:36 GMT</pubDate>
