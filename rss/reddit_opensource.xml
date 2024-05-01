@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 01 May 2024 03:13:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 06:16:42 GMT</lastBuildDate>
+    <item>
+      <title>Android Mi Calc 开源替代品？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1che8u9/android_mi_calc_open_source_alternative/</link>
+      <description><![CDATA[https://imgur.com/a/Z1ig0Xz 我一直在寻找 Mi Calc 的开源替代品，我正在寻找的是在输入计算时换行的能力。 并且请不要建议搜索应用程序在 f-droid 或类似商店中，我已经记不清我在 f-droid 和其他存储库上检查过多少个 calc 应用程序，而且到目前为止，我还没有找到能够复制该行为的应用程序。 提前致谢。   由   提交 /u/ZarTham   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1che8u9/android_mi_calc_open_source_alternative/</guid>
+      <pubDate>Wed, 01 May 2024 05:26:43 GMT</pubDate>
+    </item>
     <item>
       <title>BlueSeer 软件 6.8 版发布，具有新的车间作业扫描功能。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ch2xdc/blueseer_software_version_68_released_with_new/</link>
@@ -27,20 +34,6 @@
       <pubDate>Tue, 30 Apr 2024 16:22:18 GMT</pubDate>
     </item>
     <item>
-      <title>直接从我的计算机捕获系统音频的应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cgv520/application_to_capture_system_audio_directly_from/</link>
-      <description><![CDATA[嗨 我正在寻找一个应用程序，它可以绕过直接从我的计算机捕获和录制任何音频的应用程序麦克风完全避免了外界噪音的干扰。我需要能够录制 PC 上任何应用程序或来源的数字音频输出的东西。 有人拥有可以执行此操作的可靠应用程序的经验吗？如果应用程序能够有选择地记录特定应用程序而不仅仅是整个系统的音频输出，那就太理想了。我正在寻找能够提供清晰、高质量录音且最好具有用户友好界面的软件。 诸如输出格式选项（例如 MP3、WAV）和方便录音的热键支持等附加功能是一个奖金。任何建议或个人经验将不胜感激！ 提前感谢您的帮助！   由   提交 /u/Still-Bar-6004   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cgv520/application_to_capture_system_audio_directly_from/</guid>
-      <pubDate>Tue, 30 Apr 2024 15:06:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求一个将 Outlook 电子邮件导出为 PDF 的插件 - 单选或多选</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cgv0eu/seeking_a_plugin_to_export_outlook_emails_to_pdf/</link>
-      <description><![CDATA[大家好， 我目前正在寻找一个插件或工具，使我能够将电子邮件从 Outlook 导出到 PDF 文件，无论是一次一个还是批量。我的主要目标是以 PDF 格式存档重要的电子邮件对话，以便于文档和共享。 如果有人有使用可靠插件的经验，该插件可以与 Outlook 顺利集成并保持原始格式和附件，我将非常感激你的建议。易用性和功能性是关键。 提前感谢您的帮助！   由   提交 /u/Still-Bar-6004   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cgv0eu/seeking_a_plugin_to_export_outlook_emails_to_pdf/</guid>
-      <pubDate>Tue, 30 Apr 2024 15:01:38 GMT</pubDate>
-    </item>
-    <item>
       <title>实用开源 2024 - 提交您的提案</title>
       <link>https://www.reddit.com/r/opensource/comments/1cgug1u/practical_open_source_2024_submit_your_proposal/</link>
       <description><![CDATA[    &lt; /a&gt;   由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
@@ -48,30 +41,23 @@
       <pubDate>Tue, 30 Apr 2024 14:38:01 GMT</pubDate>
     </item>
     <item>
-      <title>tach - 一个用于强制模块化设计的 Python 工具，灵感来自“nx”</title>
+      <title>tach - 一个受“nx”启发的用于强制模块化设计的 Python 工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1cgt3t2/tach_a_python_tool_to_enforce_modular_design/</link>
       <description><![CDATA[https://github.com/Never-Over /tach tach 是一个轻量级 Python 工具，可在 Python 项目中强制执行边界和依赖关系。受 nx 的启发，tach 可帮助您维护解耦且模块化的 Python 代码库。该工具的早期版本称为 modguard，我们在此处分享了该工具。 默认情况下，Python 允许您在任何地方导入和使用任何内容。随着时间的推移，这会导致本来应该分开的模块紧密耦合在一起，并且域边界被打破。我们在一家独角兽初创公司中亲身经历了这一点，该公司的工程团队暂停了一年多的开发，试图将软件包拆分为独立的服务。这次尝试最终失败了。 出现此问题的原因是：  添加到现有包比创建新包要容易得多&lt; /li&gt; 初级开发人员对现有架构的了解有限 外部压力导致走捷径并忽视最佳实践  我们为解决这个问题所做的努力总是功亏一篑。拼凑而成的解决方案将尝试从不同角度解决这个问题，例如开发人员教育、代码所有者、标准指南、重构等等。然而，这些都没有解决根本原因。 使用 tach，您可以：  声明您的包 ( package.yml) 定义包之间的依赖关系 (tach.yml) &lt; p&gt;强制执行这些依赖项（tach 检查）  您还可以为每个包强制执行严格的接口。这意味着只有 __init__.py 中直接列出的导入才能被其他包导入。 tach 是：  完全开源 能够逐步采用（tach init 和 tach add）  无需运行时占用空间即可实现 可与现有工具互操作  我们希望您尝试一下！我们希望收到任何反馈。 GitHub   由   提交/u/the1024  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cgt3t2/tach_a_python_tool_to_enforce_modular_design/</guid>
       <pubDate>Tue, 30 Apr 2024 13:40:10 GMT</pubDate>
     </item>
     <item>
-      <title>供应商支持的开源的终结？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cgr98m/the_end_of_vendorbacked_open_source/</link>
-      <description><![CDATA[    /u/RankLord   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cgr98m/the_end_of_vendorbacked_open_source/</guid>
-      <pubDate>Tue, 30 Apr 2024 12:09:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>上周的 FOSS：Gentoo 禁止 AI 代码、GNOME 资金困境、Ubuntu 24.04、Fedora 40 和其他新闻</title>
+      <title>上周 FOSS 消息：Gentoo 禁止 AI 代码、GNOME 资金困境、Ubuntu 24.04、Fedora 40 及其他新闻</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg4sue/last_week_in_foss_gentoo_bans_ai_code_gnome/</link>
       <description><![CDATA[       由   提交 /u/antsaregay   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg4sue/last_week_in_foss_gentoo_bans_ai_code_gnome/</guid>
       <pubDate>Mon, 29 Apr 2024 17:22:48 GMT</pubDate>
     </item>
     <item>
-      <title>如何从现有的开源项目中构建一个单独的新项目？</title>
+      <title>如何从现有的开源项目中构建单独的新项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg4ghr/how_to_build_a_separate_new_project_from_an/</link>
-      <description><![CDATA[我发现了一个与我的需求相关的优秀开源项目，我为它做出了一些贡献，但我开始意识到我想创建一个与原来的项目相似但有点不同。这就是为什么我考虑使用它作为我的全新项目的基础，该项目将偏离原来的项目。那么我该怎么做呢？我的意思是，我是否分叉它并开始进行自己的修改，从不将 PR 发送到原始项目（因为我的项目会有所不同），或者这样做的良好实践/方法是什么？我也可能将其扩展到更大的东西。请指导我！   由   提交/u/deadclown_09   [链接] [评论]]]></description>
+      <description><![CDATA[我发现了一个与我的需求相关的优秀开源项目，并且我为它做出了一些贡献，但我开始意识到我想创建一个与原始项目类似但略有不同的项目。这就是为什么我考虑使用它作为我全新项目的基础，它将与原始项目有所不同。那么我该怎么做呢？我的意思是，我是否应该分叉它并开始进行自己的修改，而不要向原始项目发送 PR（因为我的项目会有所不同）或者这样做的良好做法/方法是什么？我也可能会将其扩展到更大的规模。请在这里指导我！    提交人    /u/deadclown_09   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg4ghr/how_to_build_a_separate_new_project_from_an/</guid>
       <pubDate>Mon, 29 Apr 2024 17:08:58 GMT</pubDate>
     </item>
@@ -92,23 +78,37 @@
     <item>
       <title>寻找免费的应用程序来转录音频文件</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg1njf/looking_for_a_free_app_to_transcribe_audio_files/</link>
-      <description><![CDATA[大家好， 我正在寻找一个可以免费转录音频文件的可靠应用程序。我已经尝试了一些选项，但它们要么对可以免费处理的音频长度有限制，要么准确性有很多不足之处。我希望找到可以处理较长音频文件而不会遇到太多麻烦的东西。 有人对特别擅长处理各种口音和清晰录音的免费转录软件或服务有建议吗？如果它用户友好并且不需要太多技术知识，那就加分了！ 提前感谢您的帮助！  &amp; #32；由   提交 /u/Still-Bar-6004   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我正在寻找一款可以免费转录音频文件的可靠应用程序。我尝试了几种方案，但它们要么对可以免费处理的音频长度有限制，要么准确性不尽如人意。我希望找到一款可以轻松处理较长音频文件的应用程序。 有人能推荐一些免费的转录软件或服务吗？这些软件或服务特别擅长处理各种口音和清晰的录音？如果它易于使用且不需要太多技术知识，那就更好了！ 提前感谢您的帮助！    提交人    /u/Still-Bar-6004   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg1njf/looking_for_a_free_app_to_transcribe_audio_files/</guid>
       <pubDate>Mon, 29 Apr 2024 15:15:32 GMT</pubDate>
     </item>
     <item>
       <title>最好的 Gboard 替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg1k7q/best_gboard_alternative/</link>
-      <description><![CDATA[是否有支持滑动输入的开源键盘？Florisboard 是我所知道的唯一一款，而且已经有一段时间没有更新了。    提交人    /u/Steroid_Cyborg   [link] [comments]]]></description>
+      <description><![CDATA[是否有支持滑动打字的开源键盘？ Florisboard 是我所知道的唯一一个，而且已经有一段时间没有更新了。   由   提交 /u/Steroid_Cyborg   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg1k7q/best_gboard_alternative/</guid>
       <pubDate>Mon, 29 Apr 2024 15:11:43 GMT</pubDate>
     </item>
     <item>
       <title>对开源的威胁来自公司操纵</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg1fah/the_threat_to_open_source_comes_from_corporate/</link>
-      <description><![CDATA[   /u/fagnerbrack  [link] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg1fah/the_threat_to_open_source_comes_from_corporate/</guid>
       <pubDate>Mon, 29 Apr 2024 15:06:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>看看 OSI 是否会在您附近举办研讨会。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cfxb3c/see_if_osi_is_coming_near_you_to_host_a_workshop/</link>
+      <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cfxb3c/see_if_osi_is_coming_near_you_to_host_a_workshop/</guid>
+      <pubDate>Mon, 29 Apr 2024 12:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何熟悉一个新项目？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cflh9e/how_to_familiarize_yourself_with_a_new_project/</link>
+      <description><![CDATA[您好，我最近加入了一个 Discord 服务器，其目标是开发开源格斗游戏引擎。我想知道什么方法可以有效地熟悉项目以便成为一名高效的贡献者？   由   提交 /u/AzureHierophant   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cflh9e/how_to_familiarize_yourself_with_a_new_project/</guid>
+      <pubDate>Mon, 29 Apr 2024 00:18:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
