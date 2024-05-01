@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 01 May 2024 06:15:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 09:12:27 GMT</lastBuildDate>
+    <item>
+      <title>报告称，苹果近年来挖走了数十名拥有人工智能人才的谷歌员工</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1chgr0q/apples_poached_dozens_of_googlers_with_ai_talent/</link>
+      <description><![CDATA[根据《金融时报》对 LinkedIn 个人资料的分析，自 2018 年以来，苹果已说服至少 36 名具有人工智能专业知识的 Google 员工跳槽。  这一发现是在大型科技公司寻求增强自身能力时展开的更广泛的人工智能人才争夺战中出现的。  随着微软最近公布了在 Google Deep Mind 伦敦总部设立人工智能中心的计划，人工智能专业知识的争夺可能会进一步加剧。它的目的是聘请“杰出的个人”很快。 https://www .businessinsider.com/apple-google-ai-experts-big-tech-talent-war-2024-4   由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1chgr0q/apples_poached_dozens_of_googlers_with_ai_talent/</guid>
+      <pubDate>Wed, 01 May 2024 08:11:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用人工智能增强文档管理——需要数据结构方面的建议！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1chgg6z/enhancing_document_management_with_ai_need_advice/</link>
+      <description><![CDATA[大家好， 我目前使用 MS Word 创建专业设计的文档并将其转换为 PDF。我希望在未来整合一个本地人工智能助手来改善对这些信息的访问，但我不知道如何开始。鉴于人工智能的快速发展，我会推迟选择工具，直到我做了更多的研究。与此同时，我想确保我的数据（备忘录、附件等）结构良好，甚至在我们集成任何软件解决方案之前也是如此。 我注意到，当使用当前的法学硕士来处理我的数据时， PDF 中，由于缺乏结构、元数据或标签，他们经常错过更大的图景。这引出了我的主要问题： 如何更好地构建备忘录和附件以优化它们以供将来的人工智能使用？ ChatGPT 建议添加元数据和标签，但我很挣扎，因为 MS Word 不直接支持这一点。这里有人对如何有效管理这个问题有经验或想法吗？您可以推荐的任何工具或方法将不胜感激！ 提前感谢您的见解！   由   提交/u/Er1Ck010   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1chgg6z/enhancing_document_management_with_ai_need_advice/</guid>
+      <pubDate>Wed, 01 May 2024 07:50:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>训练无与伦比的 Connect 4 Ai</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1chf7rn/training_an_unbeatable_connect_4_ai/</link>
+      <description><![CDATA[大家好， 过去几周，我一直在训练一款极具竞争力的 Connect 4 Ai。该架构由卷积神经网络组成，使用近端策略优化进行训练，并利用蒙特卡洛树搜索来导航决策树以选择最佳动作。该框架的灵感来自 DeepMind 训练的 AlphaGo 模型。 我制作了一个视频，介绍训练过程，供感兴趣的人参考：  https://youtu.be/6IqjKtTtClQ?si=Ow_Xtg1HUpV3UL2- 非常感谢社区的反馈！   由    /u/Its_NotTom  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1chf7rn/training_an_unbeatable_connect_4_ai/</guid>
+      <pubDate>Wed, 01 May 2024 06:27:57 GMT</pubDate>
+    </item>
     <item>
       <title>每日一分钟人工智能新闻 2024 年 4 月 30 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1chce65/oneminute_daily_ai_news_4302024/</link>
@@ -27,18 +48,11 @@
       <pubDate>Wed, 01 May 2024 00:48:46 GMT</pubDate>
     </item>
     <item>
-      <title>为什么我们不让人工智能接管世界，这样我们就可以高枕无忧了呢？像我5岁一样给我解释一下。</title>
+      <title>为什么我们不让人工智能统治世界，这样我们就可以高枕无忧了？请像我 5 岁的孩子一样向我解释。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ch89bb/why_dont_we_just_let_ai_take_over_the_world_so_we/</link>
       <description><![CDATA[所以我知道。这听起来可能是一个非常愚蠢的问题。但我真的很想知道。因为我喜欢只是坐在那里，不去关心如何完成工作，因为人工智能绝对为我做了一切。甚至到了我不用自己穿衣服，机器人给我穿衣服的程度。并刷牙。并煮早餐。并完成宇宙中的所有事情，因此无需人类工作。   由   提交 /u/caranddogfan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ch89bb/why_dont_we_just_let_ai_take_over_the_world_so_we/</guid>
       <pubDate>Wed, 01 May 2024 00:15:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些好地方可以学习如何使用“数据行善”？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ch4ssa/what_are_some_good_places_to_learn_how_to_use/</link>
-      <description><![CDATA[ 由   提交/u/Medium-Ad-3712   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ch4ssa/what_are_some_good_places_to_learn_how_to_use/</guid>
-      <pubDate>Tue, 30 Apr 2024 21:45:34 GMT</pubDate>
     </item>
     <item>
       <title>我和 Ai 一起创作了最 80 年代的歌曲</title>
@@ -50,23 +64,9 @@
     <item>
       <title>另类AI工具用户，去哪里寻找适合自己需求的AI工具呢？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ch1u4r/offbeat_ai_tool_users_where_do_you_go_to_find_out/</link>
-      <description><![CDATA[我正尝试与使用除 ChatGPT/Claude 等常用工具之外的其他 AI 工具的人交谈。我很好奇人们是如何了解这些工具的，以及他们使用这些工具的学习曲线。请分享您过去可能使用过的一些小众 AI 工具的经验，以及您是如何发现该特定工具的？    提交人    /u/CrazyDrWatson13   [link] [评论]]]></description>
+      <description><![CDATA[我正在尝试与使用 AI 工具而不是 ChatGPT/Claude 等常见工具的人交谈。我很好奇人们如何了解这些工具以及他们使用这些工具的学习曲线。请分享您过去可能使用过的一些小众人工智能工具的经验，以及您是如何发现该特定工具的？   由   提交/u/CrazyDrWatson13  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ch1u4r/offbeat_ai_tool_users_where_do_you_go_to_find_out/</guid>
       <pubDate>Tue, 30 Apr 2024 19:45:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>~YouTube 等内容相关资源的讨论。了解人工智能相关主题和“新闻更新”。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ch17o1/a_discussion_of_youtube_etc_content_associated/</link>
-      <description><![CDATA[您好，总的来说，我希望一切顺利:)。 我只是想看看是什么样的视频中心资源，例如，可以在 YouTube 等上找到。人们可能会感兴趣？ 就我个人而言，我正在查看其中一些创作者的东西，但是，因为我体验到了不同的体验由于内容本身多种多样，我遇到了不同程度的“复杂性”/“简洁性”/“简洁性”/看似“主题熟悉度”的问题。等等。 我偶然发现的相关内容创作者的一些例子； -“韦斯·罗斯”， -“人工智能指南” ;, -“AI Fusion”， -“Matthew Berman” 话虽如此，我确信还有其他的，并且也许有些我个人还没有被“介绍”过。  因此，我想知道，一般来说，人们是否有最喜欢的人工智能等，以 YouTube 等为中心，内容创建者等，并且，如果人们确实有这样一种“首选内容创建者”等等，如果有人愿意的话，他们可能有什么理由更喜欢上述内容创建者的内容？ 感谢您抽出时间。   由   提交/u/dscarbon333  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ch17o1/a_discussion_of_youtube_etc_content_associated/</guid>
-      <pubDate>Tue, 30 Apr 2024 19:19:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>山姆会员店的人工智能退出技术覆盖 20% 的商店</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgyskn/sams_clubs_aipowered_exit_tech_hits_20_stores/</link>
-      <description><![CDATA[ 由   提交/u/DumbMoneyMedia  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgyskn/sams_clubs_aipowered_exit_tech_hits_20_stores/</guid>
-      <pubDate>Tue, 30 Apr 2024 17:40:18 GMT</pubDate>
     </item>
     <item>
       <title>关于人们何时认为人工智能将超越人类智能的精彩见解。</title>
