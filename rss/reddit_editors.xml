@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新投稿：编辑</title>
+    <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 02 May 2024 09:12:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 12:21:04 GMT</lastBuildDate>
     <item>
       <title>Premiere Pro 字幕</title>
       <link>https://www.reddit.com/r/editors/comments/1ciasxq/premiere_pro_subtitles/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>Premiere 2024 播放灰色溶解覆盖错误？</title>
       <link>https://www.reddit.com/r/editors/comments/1ci968q/premiere_2024_playback_grey_dissolve_overlay_bug/</link>
-      <description><![CDATA[大家好， 我是 AE，我们最近将所有 Mac 系统更新为最新版本的 Premiere (24.3)，直到几周前一切都很顺利。在所有类型的叠化过程中，一些编辑器的全屏播放中会出现灰色叠加层（请参阅随附的两个视频作为示例）。有趣的是，编辑器导出时不会出现灰色叠加层。虽然我们可以让剪辑师不使用全屏播放，但这在我的工作室中不是一个选项。 文件名为 PremierePro_FadeExample_Export 是几个带有溶解功能的剪辑的简单导出；灰色覆盖层溶解明显不存在。  另一个视频 PremierePro_FadeExample_Recording 是全屏播放期间的录制，灰色覆盖层溶解问题。 到目前为止，我们已经尝试了以下解决方法：  放置黑色遮罩可以解决该问题，但要求编辑人员对每个问题都这样做序列是不可能的。 渲染整个序列似乎可以工作，但不一致。  破坏 Premiere 版本似乎也有效，但问题最终会出现，甚至降到 24.0。  AE 使用的系统是 Mac Mini （规格如下），但编辑们已经充分增强了 Mac Studios。  Mac Mini 系统规格： CPU - 3.2 GHz 6 核 Intel Core i7  Mac Mini 系统规格： CPU - 3.2 GHz 6 核 Intel Core i7 li&gt; GPU - Intel UHD Graphics 630 1536MB RAM - 16GB 2667 MHz DDR4 软件规格：Sonoma 14.4  我们&#39;我已经检查了首映设置，但到目前为止一无所获。如果您有任何帮助，我们将不胜感激。 如果您有任何问题或需要我详细说明，请随时询问。  谢谢！   由   提交 /u/NakedRobots   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我是一名 AE，我们最近将所有 Mac 系统更新为最新版本的 Premiere (24.3)，几周前一切运行良好。在各种淡入淡出期间，编辑器的某些全屏播放中出现了灰色叠加层（请参阅两个附加视频作为示例）。有趣的是，编辑器导出时不会出现灰色叠加层。虽然我们可以让编辑器不使用全屏播放，但在我的工作室里没有这个选项。 文件名为 PremierePro_FadeExample_Export 的第一个视频是几个带淡入淡出效果的剪辑的简单导出；灰色叠加淡入淡出明显不存在。  另一个视频PremierePro_FadeExample_Recording是在全屏播放期间录制的，存在灰色叠加溶解问题。 到目前为止，我们已尝试以下解决方法：  铺设黑色遮罩可以解决问题，但要求编辑人员对每个序列都这样做是不可能的。 渲染整个序列似乎可行，但不一致。  降级 Premiere 版本似乎也有效，但问题最终还是出现了，甚至降到 24.0 也一样。  AE 使用的系统是 Mac Mini（规格如下），但编辑们使用的是功能齐全的 Mac Studios。  Mac Mini 系统规格： CPU - 3.2 GHz 6 核 Intel Core i7 GPU - Intel UHD Graphics 630 1536MB RAM - 16GB 2667 MHz DDR4 软件规格：Sonoma 14.4  我们仔细检查了 Premiere 设置，但目前还没有找到任何线索。任何帮助都将不胜感激。 如果您有任何问题或需要我详细说明，请随时询问。  谢谢！    由    /u/NakedRobots 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ci968q/premiere_2024_playback_grey_dissolve_overlay_bug/</guid>
       <pubDate>Thu, 02 May 2024 06:56:32 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>2024 年刻录 16:9 DVD</title>
       <link>https://www.reddit.com/r/editors/comments/1ci5h2s/burning_a_169_dvd_in_2024/</link>
-      <description><![CDATA[我真的不想在车库里安装我的旧 Mac Pro Xenon 塔，用完整的 FCP 7 工作室来刻录视频 DVD。我的日常驾驶是 m3 pro MacBook pro。我有一个 USB 供电的外部 CD/DVD/蓝光刻录机。很确定 Premier 2024（或媒体编码器）可以导出正确的 mpeg2 文件，但我一辈子都不记得如何制作视频 DVD。 Roxio Toast 的 8 个左右版本都无法在基于 Intel 的 MacBook 上运行。我只记得它必须是 ISO XXXX 类型的刻录，并且根目录中需要一个 VIDEO_TS 和一个 AUDIO_TS 文件夹。有什么想法吗？当然，旧塔有 DVD Studio Pro，作为 FCP Studio 的一部分，但是，我真的不想立即将其清空并准备再次运行。更新的硅软件对我来说并非不可能，但我试图保持简单，但为带有内置 DVD 播放器的电视和露营用的便携式 DVD 播放器制作可播放的 DVD。   由   提交/u/Listo4486  [链接] [评论]]]></description>
+      <description><![CDATA[我真的不想在车库里安装我的旧 Mac Pro Xenon 塔式机，并安装完整的 FCP 7 工作室来刻录视频 DVD。我每天使用的驱动器是 m3 pro MacBook pro。我有一个 USB 供电的外部 cd/dvd/蓝光刻录机。非常确定 Premier 2024（或媒体编码器）可以导出正确的 mpeg2 文件，但我实在想不起来如何制作视频 DVD。8 个左右版本的 Roxio Toast 甚至都无法在基于 Intel 的 MacBook 上运行。我只记得它必须是 ISO XXXX 类型的刻录，并且需要根目录中的 VIDEO_TS 和 AUDIO_TS 文件夹。有什么想法吗？旧塔式机当然有 DVD Studio Pro，作为 FCP Studio 的一部分，但同样，我现在真的不想把它抽出来并准备再次运行。对我来说，较新的硅片软件并非不可能，但我试图保持简单，但制作可在内置 DVD 播放器的电视和露营用的便携式 DVD 播放器上播放的 DVD。    提交人    /u/Listo4486   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ci5h2s/burning_a_169_dvd_in_2024/</guid>
       <pubDate>Thu, 02 May 2024 03:18:14 GMT</pubDate>
     </item>
@@ -90,14 +90,14 @@
       <pubDate>Wed, 01 May 2024 19:03:57 GMT</pubDate>
     </item>
     <item>
-      <title>达芬奇解决颜色</title>
+      <title>Davinci Resolve 色彩</title>
       <link>https://www.reddit.com/r/editors/comments/1chsali/davinci_resolve_colour/</link>
       <description><![CDATA[我们使用的规格 - Dropbox 用于发送给客户 - Final Cut Pro - davinci resolve studio - Apple Mac Studio 屏幕 - Mac m1 电脑 - iPhone 14 - Sony A7ii 设置 Cine4 - 无人机 dji mini - QuickTime  问题：有人在 davinci 上有任何可以为我们工作的色彩管理设置吗？我目前使用的是rec-709-A，它给了我最好的结果，当我在QuickTime上导出它时，它看起来仍然平坦，所以我放入Final Cut来提高对比度和饱和度；然后我导出到 Dropbox 并检查我的手机，它看起来再次平坦（我的老板检查他的手机），所以我再次提高对比度和饱和度，这样它在计算机上看起来很狂野，但在手机上看起来很正常，但后来他说颜色看起来老实说，我正在失去它，请有人帮助我！  我在屏幕上看到的颜色与我老板在他的屏幕上看到的颜色不同，我尝试了不同的方法，不同的屏幕，但我们似乎永远无法做到正确，摄影方面的业务没有问题，但由于某种原因我们有问题。我觉得我快要疯了。我的老板不愿意改变他的投篮方式，所以我需要从我这边解决这个问题。    由   提交 /u/Salty_Performance314   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1chsali/davinci_resolve_colour/</guid>
       <pubDate>Wed, 01 May 2024 17:44:40 GMT</pubDate>
     </item>
     <item>
-      <title>多伦多/洛杉矶/纽约是否有适合长期工作的邮局？</title>
+      <title>多伦多、洛杉矶、纽约 有没有可以制作长篇作品的后期制作公司？</title>
       <link>https://www.reddit.com/r/editors/comments/1chqy4i/are_there_any_post_houses_in_torontolanyc_for/</link>
       <description><![CDATA[我已经涉足商业领域大约 5 年了 - 通过在邮局从事全职工作获得收入。与一家公司签约对我来说很有效，因为它提供了稳定的收入和相对较低的风险，这就是我想保留的 - 但我希望跳入长篇/专题游戏。我已经做了相当多的研究，但似乎找不到任何我可以关注的主要专注于长篇（严格编辑，而不是视觉特效/音频/等）的后期制作公司。我一直认为切割功能更多的是“自由职业”。无论如何，考虑到每个项目的范围，游戏比广告更重要，但我想在这里运行它，以防万一我错了。我目前住在多伦多，但愿意搬到美国。甚至跳回到助理编辑，如果这就是我在功能上涉足的必要条件。    由   提交/u/hipwithyoungsters  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1chqy4i/are_there_any_post_houses_in_torontolanyc_for/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>达芬奇节点问题</title>
       <link>https://www.reddit.com/r/editors/comments/1chpppw/davinci_nodes_problem/</link>
-      <description><![CDATA[嗨！我正在制作一个 DaVinci Resolve 教程，创建 3D 相机效果。当尝试将“阴影”效果应用于文本并连接节点时，它们不会链接起来。这不仅发生在这个效果上，也发生在其他效果上。有什么解决办法吗？    提交人    /u/Maureceo   [link] [评论]]]></description>
+      <description><![CDATA[嗨！我正在研究创建 3D 相机效果的 DaVinci Resolve 教程。当尝试应用“投影”时对文本和连接节点的影响，它们没有连接起来。这种情况不仅发生在这种效应上，而且也发生在其他效应上。有什么解决方案吗？   由   提交/u/Maureceo  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1chpppw/davinci_nodes_problem/</guid>
       <pubDate>Wed, 01 May 2024 15:59:38 GMT</pubDate>
     </item>

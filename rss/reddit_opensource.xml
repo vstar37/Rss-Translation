@@ -4,18 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 02 May 2024 09:13:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 12:21:53 GMT</lastBuildDate>
     <item>
-      <title>注意：这是一个网络研讨会邀请（是的，这有点像广告！）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ciaai4/heads_up_this_is_a_webinar_invite_yep_its_sort_of/</link>
-      <description><![CDATA[嘿！我是 Lorina，r/xwiki 的开源倡导者。我知道广告可能会有点麻烦（我也不是粉丝），所以我会保持简单，希望对您很有用。 5 月 30 日 16 点:00 CEST，我们将举办一个免费的网络研讨会，标题为“迁移自Confluence 到 XWiki：没有比这更简单的了”。 我向你保证，这不仅仅是一个广告；它是一个广告。这是一个真正帮助团队顺利过渡到开源平台的机会，该平台不仅灵活而且预算友好。 以下是可用的内容： 快速迁移：我们努力缩短迁移时间。 自动化设置：我们通过改进的自动化消除了手动麻烦。 灵活的选项：使用我们增强的配置选项定制迁移以满足您的需求。 保存设置：使用我们记住您的设置的新功能简化未来的迁移。 详细见解：获取有关内容的全面报告移动，包括宏。 为什么要收听？ 您将看到现场演示，发现简化迁移的资源，并可以询问任何问题我们问答期间的问题。我们设计的这个网络研讨会尽可能具有互动性和信息丰富性。 如果您对从 Confluence 切换到 XWiki 有点好奇，或者只是想了解开源替代方案可以做什么提供，这可能是一个非常合适的选择。 在这里注册：最简单从Confluence迁移到XWiki 再次抱歉类似广告的侵入！期待在网络研讨会期间与您聊天！   由   提交 /u/LorinaBalan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ciaai4/heads_up_this_is_a_webinar_invite_yep_its_sort_of/</guid>
-      <pubDate>Thu, 02 May 2024 08:13:32 GMT</pubDate>
+      <title>欧盟委员会最近发布了与《网络弹性法案》相关的标准请求的公开草案。第一次明确要求尊重开源开发人员和用户的需求。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cie98e/the_european_commission_recently_published_a/</link>
+      <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cie98e/the_european_commission_recently_published_a/</guid>
+      <pubDate>Thu, 02 May 2024 12:20:01 GMT</pubDate>
     </item>
     <item>
       <title>goralim - Go 的一个非常简单的速率限制器包，用于处理分布式工作负载</title>
       <link>https://www.reddit.com/r/opensource/comments/1ci74ib/goralim_a_dead_simple_rate_limiter_package_for_go/</link>
-      <description><![CDATA[我用 Golang 编写了一个速率限制器包，该包在 hackernews 上连续流行了 22 个小时。我尝试使用 Token Bucket 算法制作一个简单的速率限制器（Stripe 使用此算法），结果非常好。非常感谢您的星级和反馈。  https://github.com/0verread/goralim/    提交人    /u/ElegantGoose9   [链接] [评论]]]></description>
+      <description><![CDATA[我用 Golang 编写了一个速率限制器包，它连续 22 小时成为黑客新闻的热门话题。我尝试使用令牌桶算法（Stripe 使用此算法）制作一个简单的速率限制器，结果非常好。星星和反馈将不胜感激。  https://github.com/0verread/goralim/    由   提交/​​u/ElegantGoose9  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ci74ib/goralim_a_dead_simple_rate_limiter_package_for_go/</guid>
       <pubDate>Thu, 02 May 2024 04:50:05 GMT</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <pubDate>Thu, 02 May 2024 03:55:06 GMT</pubDate>
     </item>
     <item>
-      <title>关于 Guix 的发泄</title>
+      <title>发泄对 Guix 的不满</title>
       <link>https://www.reddit.com/r/opensource/comments/1chv8xx/venting_about_guix/</link>
       <description><![CDATA[从我的一次性帐户发帖，因为之前已经说过这一点，但我想再说一遍：Guix 可能是最好的 Linux 发行版，如果不是的话如此专注于 GNU 正统观念。 “最佳”是主观的，但我的意思是使用 Guile “一路向下”并访问其所有很酷的功能（同像性）来配置您的整体操作系统。  Nix 对专有软件有更好的方法，默认情况下选择退出，但在需要时允许您选择加入。但它由于是一种特定于领域的语言而受到阻碍。如果 Guix 真的接管了，这对每个人来说都是件好事，但要做到这一点，它必须是实用的。是的，这是 Reddit 的开源子版块，我认为推广开源的最佳方式就是将其发布出去，即使它不是“纯粹的”。是的，有 nonguix，但据我所知，它维护得不是很好。编辑补充说，GPL 还禁止 Guix 的非自由分支，这很烦人。要制作一个基于 Nix 原则的基于 lisp/scheme 的发行版/包管理器，必须从头开始开发。   由   提交 /u/flaming0sis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chv8xx/venting_about_guix/</guid>
@@ -57,12 +57,12 @@
     <item>
       <title>FOSS Speed reader 版本 2 现已推出：主要 UI 改进、新导入方法</title>
       <link>https://www.reddit.com/r/opensource/comments/1chsu3j/foss_speed_reader_version_2_out_now_major_ui/</link>
-      <description><![CDATA[嗨！不久前，我发布了我在这里开发的快速阅读器，收到了很多积极和建设性的反馈。之后，我和一个朋友开始研究改进版本。现在就在这里，我们尽可能多地提供了反馈。 对于那些还不了解我们的读者的人，以下是网站上的描述：  高度可定制的快速阅读器，可直接替代付费应用程序。该阅读器内置了诸如组块、节奏和突出显示等快速阅读概念。使用对焦模式。通过上传文件或从剪贴板从 URL 导入文本。所有数据仅存储在您的设备上。随着时间的推移，提高阅读速度并更改设置以满足您的需求。  演示：https://axym.davidewiest.com/ 使用 docker 托管 - docker pull davidewiest/reader:latest  docker run -p 5001:8080 davidewiest/reader:latest（将 5001 切换为您想要访问应用程序的任何端口）  这是我们所做的所有改进的完整列表  更简单的用户界面 EPUB 导入支持 从 URL 支持导入 从 GET 请求正文导入文件/网络提取请求/html/状态 存储有关文本的源数据 内部托管文件限制从大约增加到100kB 到 100MB（但是，请注意，大多数浏览器将本地存储限制为约 5MB，但这可以更改） 新闻功能（主要用于宣布新的更新和重要功能） &lt; li&gt;修复了一些错误。加载状态时发生的情况 将名称更改为 Axym-Reader 以避免歧义  GitHub 存储库：https://github.com/Axym-Labs/Axym-Reader Docker 存储库： https://hub.docker.com/r/davidewiest/reader 反馈 要提交反馈，请在功能请求板上快速发帖. 祝您阅读愉快！ PS：我们正在寻找能够构建一个超级简单的浏览器插件的人，该插件可以重定向用户向读者发送请求正文中附加的数据。如果您认识某人，请给我发消息！   由   提交 /u/Pristine-Adeptness-1   [链接] [评论]]]></description>
+      <description><![CDATA[嗨！不久前我发布了我在这里开发的速读器，收到了很多积极和建设性的反馈。之后，我和一位朋友开始研究改进版本。现在它已经问世，我们尽可能多地采纳了反馈。 对于任何还不了解我们的阅读器的人，以下是网站上的描述：  高度可定制的速读器，可直接替代付费应用程序。此阅读器内置了分块、节奏和突出显示等速读概念。使用焦点模式。通过上传文件或从剪贴板从 URL 导入文本。所有数据仅存储在您的设备上。随着时间的推移，提高阅读速度并更改设置以满足您的需求。  演示：https://axym.davidewiest.com/ 使用 docker 托管 - docker pull davidewiest/reader:latest  docker run -p 5001:8080 davidewiest/reader:latest（将 5001 切换到您想要访问应用程序的任何端口）  这是我们所做的所有改进的综合列表  更简单的用户界面 EPUB 导入支持 从 URL 导入支持 从 GET 导入文件/网页提取请求/html/状态请求的主体 存储有关文本的源数据 内部托管文件限制从约 100kB 增加到 100MB（但是，请注意，大多数浏览器将本地存储限制为约 5MB，但这可以更改） 新闻功能（主要用于宣布新的更新和重要功能） 修复了一些错误。加载状态时发生的情况 将名称更改为 Axym-Reader 以避免歧义  GitHub 存储库：https://github.com/Axym-Labs/Axym-Reader Docker 存储库：https://hub.docker.com/r/davidewiest/reader 反馈 要提交反馈，请在功能请求板上快速发帖。 祝您阅读愉快！ PS：我们正在寻找可以构建超级简单浏览器的人插件可以将用户重定向到阅读器，并在请求正文中附加数据。如果您认识某人，请给我发消息！    提交人    /u/Pristine-Adeptness-1   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chsu3j/foss_speed_reader_version_2_out_now_major_ui/</guid>
       <pubDate>Wed, 01 May 2024 18:06:26 GMT</pubDate>
     </item>
     <item>
-      <title>Maelstrom：一款密封的集群测试运行器（而且速度很快）</title>
+      <title>Maelstrom：一个密封的集群测试运行程序（而且速度很快）</title>
       <link>https://www.reddit.com/r/opensource/comments/1chsepj/maelstrom_a_hermetic_clustered_test_runner_and/</link>
       <description><![CDATA[大家好，  Maelstrom 是一个 Rust 测试运行程序，构建在通用集群作业运行程序之上。 Maelstrom 将您的 Rust 测试打包到密封的微容器中，然后将它们分发到任意大的测试运行器集群上运行，或者在本地机器上运行。您可以使用 Maelstrom 来运行测试，因为：  这很简单。 Maelstrom 可以作为货物测试的直接替代品，因此在大多数情况下，它都能正常工作。 它很可靠。 Maelstrom 在自己的轻量级容器中密封地运行每个测试，消除了由测试间或隐式测试环境依赖性引起的混乱错误。 它是可扩展的。 Maelstrom 可以作为集群运行。您可以添加更多工作机器来线性增加测试吞吐量。 速度很快。在大多数情况下，即使不使用集群，Maelstrom 也比货物测试更快。 它很干净。 Maelstrom 有一个从头开始的无根容器实现（不依赖于 Docker 或 RunC），经过优化以降低开销并快速启动。 它是 Rusty。整个项目是用 Rust 编写的。  我们从 Rust 测试运行器开始，但 Maelstrom 的底层作业执行系统是通用的。我们将在不久的将来添加对其他语言测试框架的支持。我们还为喜欢冒险的用户提供了运行任意作业的工具，可以使用命令行工具或基于 gRPC 的 SDK。 欢迎提供反馈和问题！感谢您尝试一下。 https://maelstrom-software.com/ &lt; p&gt;https://github.com/maelstrom-software/maelstrom （编辑：添加github 链接）   由   提交/u/bobbobbio2000   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chsepj/maelstrom_a_hermetic_clustered_test_runner_and/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>Refact.ai——开源代码助手——引入项目意识！</title>
       <link>https://www.reddit.com/r/opensource/comments/1ch1pxf/refactai_opensource_code_assistant_introducing/</link>
-      <description><![CDATA[嗨！我是 Refact.ai 的工程师，我们正在为不同的 IDE 开发插件，这些插件为您提供 LLM 聊天、代码完成和我们称之为“工具箱”的东西 - 直接在文件中转换代码，而无需进入聊天。 很长一段时间以来，我们一直在使用称为 RAG（检索增强生成）的技术对聊天和代码完成进行项目感知。它将聊天和代码完成模型的提示填充到有关您的项目的最有用数据中，分析 AST（文件结构）并使用基于向量的搜索。所有这些东西都是完全开源的，并且仅 100% 基于 rust。您可以在这里找到它 - refact-lsp - 我们的插件的后端。 加入我们的discord社区，亲自尝试一下，甚至为我们在 GitHub 上的项目做出贡献。 还有更多：查看我们的开源解决方案以自托管 LLM！    提交人    /u/valaised   [链接] [评论]]]></description>
+      <description><![CDATA[嗨！我是 Refact.ai 的工程师，我们正在为不同的 IDE 开发插件，为您提供与 LLM 聊天、代码完成以及我们称之为“”的功能“工具箱” -- 直接在文件中转换代码，无需进入聊天室。 很长一段时间以来，我们一直致力于使用名为 RAG（检索增强生成）的技术来实现聊天和代码完成的项目意识。它在聊天和代码完成模型的提示中填充了有关您的项目的最有用的数据，分析 AST（文件结构）并使用基于矢量的搜索。所有这些东西都是完全开源的，并且只是 100% 基于 Rust。您可以在这里找到它 - refact-lsp - 我们插件的后端。 加入我们的discord 社区亲自尝试一下，甚至在 我们在 GitHub 上的项目。 还有更多：查看我们的开源解决方案自托管法学硕士！   由   提交 /u/valaished   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ch1pxf/refactai_opensource_code_assistant_introducing/</guid>
       <pubDate>Tue, 30 Apr 2024 19:40:37 GMT</pubDate>
     </item>
