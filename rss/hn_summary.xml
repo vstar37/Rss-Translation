@@ -3,87 +3,87 @@
   <channel>
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
-    <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Thu, 02 May 2024 12:18:01 GMT</lastBuildDate>
+    <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
+    <lastBuildDate>Thu, 02 May 2024 15:10:00 GMT</lastBuildDate>
     <item>
-      <title>向您介绍 Instaclass，一个您可以在任何顶级平台上轻松创建自己的大师班的平台[...]</title>
-      <link>https://t.me/hn_summary/87534</link>
-      <description><![CDATA[展示 HN：Instaclass – 制作任何内容的大师班
-隆重推出 Instaclass，您可以使用现有的互联网内容轻松地在任何主题上创建自己的大师班。当最好的材料已经可用时，就不需要人工智能生成的内容。告别无休止的搜索并使用 Instaclass 创建您自己的策划课程。探索无限的可能性，并以独特和创新的方式与世界分享您的专业知识。立即加入 Instaclass 社区，以前所未有的方式开始教学和学习。]]></description>
-      <guid>https://t.me/hn_summary/87534</guid>
-      <pubDate>Thu, 02 May 2024 12:18:01 GMT</pubDate>
+      <title>你在建造什么？</title>
+      <link>https://t.me/hn_summary/87559</link>
+      <description><![CDATA[您在构建什么？分享您的项目
+嘿黑客们！你正在做一些很酷的事情吗？在 news.ycombinator.com 上与我们分享您的项目！告诉我们您的项目、是什么启发您开始这个项目以及您遇到的任何挑战。是什么激励您开展项目？您如何克服开发过程中的障碍？让我们在创造性的努力中互相激励和支持。加入对话并展示您的创新！]]></description>
+      <guid>https://t.me/hn_summary/87559</guid>
+      <pubDate>Thu, 02 May 2024 15:10:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 1945 年，数学家乔治·波利亚的著作《如何解答》彻底改变了数学教育[...]</title>
-      <link>https://t.me/hn_summary/87533</link>
-      <description><![CDATA[如何解决它（使用光线投射）
-1945 年，数学家乔治·波利亚 (George Pólya) 的著作《如何解决问题》彻底改变了数学教育和计算机科学。这篇文章探讨了如何使用 Pólya 的问题解决方法在 Golang 中渲染 3D 对象。通过提出“数据是什么？”等关键问题。和“未知是什么？”，我们使用 Möller-Trumbore 交叉算法制定计划。该程序为每个像素投射光线，根据与三角形的交点更新颜色。测试和重构至关重要，代码可以成为更先进的光线追踪算法的垫脚石。查看 GitHub 中的 raycaster 代码并探索更多计算机图形资源。]]></description>
-      <guid>https://t.me/hn_summary/87533</guid>
-      <pubDate>Thu, 02 May 2024 12:12:56 GMT</pubDate>
+      <title>嘿黑客新闻！</title>
+      <link>https://t.me/hn_summary/87558</link>
+      <description><![CDATA[Show HN：刚刚为无 BS 应用安全平台筹集了 1700 万美元
+嘿黑客新闻！我们是 Aikido Security 背后的团队，刚刚为我们的无废话应用程序安全平台筹集了 1700 万美元。我们厌倦了复杂、价格过高的安全工具，这些工具让我们感觉很愚蠢，因此我们为开发人员而不仅仅是 CISO 构建了一个平台。我们的平台与各种工具集成并扫描各种安全问题。利用开源项目，我们创建了一个定价透明的全面解决方案。我们有 300 名付费客户和 3000 家公司使用我们，提供简单的入职流程和模拟账户。请访问 Aikido.dev 关注我们，并让我们知道您的想法！ （争议：批评现有安全平台）]]></description>
+      <guid>https://t.me/hn_summary/87558</guid>
+      <pubDate>Thu, 02 May 2024 14:53:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Optery 是一家远程优先公司，正在寻找一位具有专业知识的工程技术主管 [...]</title>
-      <link>https://t.me/hn_summary/87532</link>
-      <description><![CDATA[Optery (YC W22) – 具有 Django 和 Python 经验的工程技术主管（远程）
-Optery 是一家远程优先公司，正在寻找一位拥有 Django 和 Python 专业知识的工程技术主管，以推动消费者数据安全和隐私产品的开发。该角色涉及技术领导、系统设计、安全性和合规性、性能优化以及使用尖端技术的创新。理想的候选人将拥有 10 年以上的经验、强大的沟通能力以及对网络安全的热情。 Optery 提供有竞争力的薪酬、股权、带薪休假和家庭办公室设置津贴。虽然总部位于旧金山湾区，但该职位完全偏远，优先考虑美国工作时间。]]></description>
-      <guid>https://t.me/hn_summary/87532</guid>
-      <pubDate>Thu, 02 May 2024 12:00:49 GMT</pubDate>
+      <title>[媒体]由于气候变化，南极洲的陨石变得越来越难找到[...]</title>
+      <link>https://t.me/hn_summary/87557</link>
+      <description><![CDATA[由于气候变化，南极洲的陨石变得越来越难找到
+由于气候变化，南极洲的陨石变得越来越难找到，因为气温升高导致岩石深入冰盖，科学家无法触及。这些太空岩石对于理解太阳系的形成至关重要，每一颗都是拼图的一部分。虽然南极洲一直是陨石的宝贵来源，但现在流失的速度已经超过了收集的速度。随着气温持续上升，数十万颗陨石面临消失的危险，影响太阳系的科学研究。]]></description>
+      <guid>https://t.me/hn_summary/87557</guid>
+      <pubDate>Thu, 02 May 2024 14:52:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 波音供应商 Spirit AeroSystems 的前质量审核员 Joshua Dean 遭遇了悲剧 [...]</title>
-      <link>https://t.me/hn_summary/87531</link>
-      <description><![CDATA[另一位与波音有关的举报人已去世
-波音供应商 Spirit AeroSystems 的前质量审核员约书亚·迪恩 (Joshua Dean) 在突发严重感染后不幸去世。迪恩提出了安全担忧并指控波音公司存在不当行为，他是过去两个月内第二位去世的与波音公司有关的举报人。他的健康状况不断恶化，包括乙型流感、耐甲氧西林金黄色葡萄球菌、肺炎和中风，这给他的生命带来了一场令人心碎的战斗。迪恩的家人和律师称赞他在安全问题上挺身而出的勇气，而精神航空系统公司则面临着财务困难和不确定的未来。迪恩去世之前，另一位举报人约翰·巴尼特 (John Barnett) 最近去世，引发了阴谋论并呼吁航空业保持透明度。]]></description>
-      <guid>https://t.me/hn_summary/87531</guid>
-      <pubDate>Thu, 02 May 2024 11:28:35 GMT</pubDate>
+      <title>[媒体]在这篇改编自林肯·米歇尔时事通讯的文章中，作者揭穿了病毒式传播的谣言 [...]</title>
+      <link>https://t.me/hn_summary/87556</link>
+      <description><![CDATA[是的，人们仍然在买书
+在这篇改编自林肯·米歇尔 (Lincoln Michel) 时事通讯的文章中，作者揭穿了 Elle Griffin 的“没有人买书”这一病毒式传播的说法。虽然出版业面临挑战，但文章中提供的数据具有误导性，并且是根据特定叙述量身定制的。美国人实际上每年购买超过 10 亿本书，尽管数字媒体兴起，但纸质书的销量仍然保持稳定。本文还探讨了如何操纵图书统计数据，并阐明了图书出版的经济学，表明即使出版商没有赚到作者的预付款，图书也可以为出版商带来利润。（基于 72% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/87556</guid>
+      <pubDate>Thu, 02 May 2024 14:51:42 GMT</pubDate>
     </item>
     <item>
-      <title>矿物紫云石以其鲜艳的蓝色而闻名，可以在埋藏的尸体上生长并迷惑[...]</title>
-      <link>https://t.me/hn_summary/87530</link>
-      <description><![CDATA[生长在埋葬尸体上的鲜艳蓝色矿物让考古学家感到困惑
-维维安石矿物以其鲜艳的蓝色而闻名，它可以在埋葬的尸体上生长，这让考古学家感到困惑。当磷酸盐从腐烂的残骸中泄漏出来，并在缺氧的环境中与铁和水结合时，就会形成蓝铁矿，并逐渐变成更深的蓝色。这种现象已在骨骼、牙齿、皮肤，甚至脂肪细胞中发现。虽然紫铜矿可以提供有关死后状况的有价值的信息，但由于它会干扰聚合酶链式反应，因此也会阻碍 DNA 分析。尽管面临诸多挑战，紫铜矿仍帮助保存了人类遗骸并揭示了有关埋葬地点的见解，使其成为考古学领域中一种迷人而复杂的矿物。]]></description>
-      <guid>https://t.me/hn_summary/87530</guid>
-      <pubDate>Thu, 02 May 2024 11:21:29 GMT</pubDate>
+      <title>[媒体] 推出 Wiki Journey，这是一个创新的扩展程序，可跟踪您的每日维基百科广告 [...]</title>
+      <link>https://t.me/hn_summary/87555</link>
+      <description><![CDATA[显示 HN：跟踪您的维基百科冒险的扩展 
+推出 Wiki Journey，这是一个创新的扩展，可以跟踪您每天的维基百科冒险并将其可视化在树上。查看哪些文章导致了哪些内容，为您的在线探索创建独特的地图。每天都会有一棵新树，让您回顾过去的旅程。与他人分享您的树木，展示您的兴趣和发现。通过维基之旅以全新的方式探索维基百科的世界。]]></description>
+      <guid>https://t.me/hn_summary/87555</guid>
+      <pubDate>Thu, 02 May 2024 14:48:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]简街很大。</title>
-      <link>https://t.me/hn_summary/87529</link>
-      <description><![CDATA[简街很大。喜欢，大
-Jane Street 是一家秘密且利润丰厚的贸易公司，正在金融界掀起波澜。该公司在股票和固定收益交易领域拥有巨大的影响力，其收入令人震惊，甚至超过了高盛等行业巨头。尽管取得了成功，简街仍然偏执和谨慎，利用期权和风险管理策略来防范市场波动。该公司独特的薪酬方式和对协作的重视导致人员流动率极低，并拥有高技能的员工队伍。随着计划进一步扩展到各个市场，Jane Street 未来的成功尚不确定，但受到竞争对手的密切关注。]]></description>
-      <guid>https://t.me/hn_summary/87529</guid>
-      <pubDate>Thu, 02 May 2024 11:12:22 GMT</pubDate>
+      <title>[媒体] 在现代世界，域名对于定义网络目的地至关重要，但 [...]</title>
+      <link>https://t.me/hn_summary/87554</link>
+      <description><![CDATA[Microsoft 预览版：零信任 DNS (Ztdns)&lt; br/&gt;
+在现代世界中，域名对于定义网络目的地至关重要，但执行域名边界始终具有挑战性。 Microsoft 将在未来版本的 Windows 中引入零信任 DNS (ZTDNS) 来解决此问题。 ZTDNS 集成了 Windows DNS 客户端和 Windows 过滤平台，以实现基于域名的锁定，阻止除批准的域名之外的所有出站流量。该工具假定默认情况下禁止流量，这使其成为零信任工具带的一个有价值的补充。 ZTDNS没有引入新颖的网络协议，确保了互操作性。 ZTDNS 目前处于私人预览版，可提供更多信息以供实际部署注意事项。]]></description>
+      <guid>https://t.me/hn_summary/87554</guid>
+      <pubDate>Thu, 02 May 2024 14:47:31 GMT</pubDate>
     </item>
     <item>
-      <title>介绍我们在 DHIME 的最新创新——人工智能舞蹈教练！</title>
-      <link>https://t.me/hn_summary/87528</link>
-      <description><![CDATA[Show HN：我们打造了一位人工智能舞蹈教练&lt; br/&gt;
-介绍我们在 DHIME 的最新创新——人工智能舞蹈教练！告别固定的时间表和通勤去舞蹈班。借助我们的人工智能舞蹈教练，您可以随时随地在自己的私密空间内学习舞蹈。无需担心其他人看着您 - 我们的人工智能舞蹈教练可根据您的需求提供个性化的反馈和指导。体验 DHIME 在线学习舞蹈的便利。今天就访问我们的网站开始您的舞蹈之旅！]]></description>
-      <guid>https://t.me/hn_summary/87528</guid>
-      <pubDate>Thu, 02 May 2024 10:50:12 GMT</pubDate>
+      <title>[媒体]人工智能聊天机器人越来越多地用于科学出版，人们的担忧不断增加[...]</title>
+      <link>https://t.me/hn_summary/87553</link>
+      <description><![CDATA[人工智能聊天机器人已彻底渗透科学出版界
+人工智能聊天机器人越来越多地用于科学出版，人们越来越担心这些工具可能被滥用。研究人员已经确定了人工智能生成的文本中更常用的某些短语和单词，这引起了人们对人工智能在科学文献中参与程度的怀疑。人工智能生成内容的准确性也受到质疑，因为这些工具可以伪造信息，包括不存在的引文参考文献。在科学写作中使用人工智能聊天机器人会带来引入错误并可能损害研究完整性的风险。人工智能在科学出版中的渗透不仅限于文本生成，还包括图表、插图，甚至同行评审过程，引发了人们对学术诚信影响的担忧。]]></description>
+      <guid>https://t.me/hn_summary/87553</guid>
+      <pubDate>Thu, 02 May 2024 14:44:22 GMT</pubDate>
     </item>
     <item>
-      <title>嘿 Hacker News 社区！</title>
-      <link>https://t.me/hn_summary/87527</link>
-      <description><![CDATA[展示 HN：Demo.fun – 用于记录精美产品的浏览器扩展演示
-嘿黑客新闻社区！我很高兴介绍 www.demo.fun&quot; rel=&quot;nofollow&quot;&gt;https://www.demo.fun，一个浏览器扩展用于创建令人惊叹的基于网络的产品演示。作为一名充满热情的产品演示爱好者，演示。 fun 对我来说是一种热爱的劳动，与我的价格更高的竞争对手 Arcade 不同，demo.fun 提供具有实时播放功能的非线性编辑环境，允许无缝编辑和预览，同时这两个应用程序都会捕获点击。demo.fun 将它们视为动态事件的一部分，而不仅仅是幻灯片。另外，demo.fun 是自举的并且更具成本效益。我对未来的功能有宏伟的计划，并致力于完善产品演示。尝试一下 www.demo.fun&quot; rel=&quot;nofollow&quot;&gt;https://www.demo.fun 体验差异！]]></description>
-      <guid>https://t.me/hn_summary/87527</guid>
-      <pubDate>Thu, 02 May 2024 10:33:05 GMT</pubDate>
+      <title>[媒体]中国国家航天局（CNSA）公布了月球基地计划 [...]</title>
+      <link>https://t.me/hn_summary/87552</link>
+      <description><![CDATA[中国公布其月球基地计划的视频，其中包括美国宇航局空间班车
+中国国家航天局（CNSA）公布了其建立月球基地——国际月球研究站（ILRS）的计划，旨在吸引国际合作伙伴。该项目包括嫦娥六号和七号等任务，目标是到 2045 年在月球上建立一个综合科学基地。令人惊讶的是，该视频展示了一架退役的美国宇航局航天飞机，由于美国宇航局限制与中国的合作而引发争议。这个雄心勃勃的项目标志着中国日益增长的太空野心，包括长期科学研究和为未来火星任务做准备的计划。 ILRS将成为深空探索和居住的平台。]]></description>
+      <guid>https://t.me/hn_summary/87552</guid>
+      <pubDate>Thu, 02 May 2024 14:43:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]年轻人比成年人聪明吗？</title>
-      <link>https://t.me/hn_summary/87526</link>
-      <description><![CDATA[年轻人比成年人聪明吗？研究表明差异正在缩小
-研究表明，年轻人和老年人之间的认知差异随着时间的推移而逐渐缩小，这挑战了年轻人天生更聪明的假设。教育、医疗保健和营养等因素有利于年轻一代，有助于他们的认知优势。令人惊讶的是，认知缺陷在成年早期就开始出现，早在 25 岁时就开始出现认知能力下降。最近的研究表明，智商的增长正在趋于平稳，老年人的认知能力有所改善。这对痴呆症研究具有影响，因为现代老年人的表现可能优于前几代人。最终，随着年龄的增长，我们的认知能力将比祖父母更强。]]></description>
-      <guid>https://t.me/hn_summary/87526</guid>
-      <pubDate>Thu, 02 May 2024 10:16:55 GMT</pubDate>
+      <title>[媒体] Backblaze 2024 年第一季度的驱动器统计数据显示，年故障率有所下降（[...]</title>
+      <link>https://t.me/hn_summary/87551</link>
+      <description><![CDATA[2024 年第一季度 Backblaze 驱动器统计数据
+Backblaze 的 2024 年第一季度驱动器统计数据显示，年化故障率 (AFR) 下降至 1.41%，较上季度和上年有所下降。令人惊讶的是，三种硬盘型号实现了零故障，其中 6TB Seagate 硬盘在平均寿命为 9 年的情况下仍然表现出色。较旧的 4TB 驱动器的退役导致了 AFR 的整体下降。驱动器故障的平均寿命有所增加，这表明驱动器在较旧的寿命下会发生故障。制造商 AFR 显示出下降趋势，随着旧硬盘的更换，Seagate 和 HGST 型号预计将继续下降。 （根据80%的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/87551</guid>
+      <pubDate>Thu, 02 May 2024 14:31:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]以独特的方式衡量经济压力，“脱衣舞者指数”已成为 [...]</title>
-      <link>https://t.me/hn_summary/87525</link>
-      <description><![CDATA[The Stripper 指数：非正统的衰退衡量标准
-“脱衣舞者指数”以独特的方式衡量经济压力，已成为经济衰退的非官方指标。依赖现金小费的脱衣舞娘报告收入大幅下降，这预示着潜在的经济问题。其他奇怪的指标包括亚足联赢得超级碗的球队预测股市下跌、表明经济衰退的“口红效应”，甚至还有提供对房地产市场洞察的“毛茸茸的小狗指数”和“蚊子指数”。尽管经济学家对此持怀疑态度，但日常观察可以提供有关美国经济状况的宝贵线索。]]></description>
-      <guid>https://t.me/hn_summary/87525</guid>
-      <pubDate>Thu, 02 May 2024 10:14:51 GMT</pubDate>
+      <title>[媒体]一项要求所有新车均配备 AM 收音机的法案即将通过，两党一致同意 [...]</title>
+      <link>https://t.me/hn_summary/87550</link>
+      <description><![CDATA[科技和汽车行业反对的 AM 收音机法案即将通过
+一项要求所有新车都配备 AM 收音机的法案即将通过，该法案得到了国会两党的支持。支持者认为，AM 收音机对于紧急警报至关重要，并为数百万听众提供了重要信息。然而，一些汽车制造商由于电磁干扰而放弃了 AM 收音机，引发了争议。包括科技和汽车行业在内的批评者认为，强制使用 AM 收音机是不必要的，可能会影响电动汽车的效率和可负担性。最近的一项调查显示，大多数人通过智能手机而不是 AM 收音机接收紧急警报。随着法案的推进，争论仍在继续。]]></description>
+      <guid>https://t.me/hn_summary/87550</guid>
+      <pubDate>Thu, 02 May 2024 14:29:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,9 +4,23 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 02 May 2024 12:21:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 15:12:52 GMT</lastBuildDate>
     <item>
-      <title>一键解决所有问题：从 RAM 中恢复主密钥以破解 Android 的文件加密</title>
+      <title>类似 OBS 的程序，但只捕获音频，我只想从我的在线课程录音中录制音频。</title>
+      <link>https://www.reddit.com/r/software/comments/1cifi0s/a_program_like_obs_but_captures_audio_only_i/</link>
+      <description><![CDATA[我想录制在线课程的音频，然后将其上传到 otter 进行转录。从课堂录音中捕获音频的理想程序是什么？    由   提交 /u/Logical_Buddy7561   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cifi0s/a_program_like_obs_but_captures_audio_only_i/</guid>
+      <pubDate>Thu, 02 May 2024 13:20:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于暂存重要电子邮件和状态更新（给老板等）的软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1cif41n/a_software_for_staging_important_emails_and/</link>
+      <description><![CDATA[我很确定我已经问过“这个存在吗？”多年来有过几次但没有取得太大成功。我希望如果没有的话有人能做到。我太老了，厌倦了创业。 我为一个非常忙碌的人工作，开会的时间有限。我必须保持我的更新非常敏锐和准确。当然，随着工作日的展开，我应该传达的优先事项列表（“状态更新”）往往会发生变化。 为了保持我的议程处于某种状态，我开始策划每日 Google我记下要点并浓缩成电子邮件的文档。但是每天创建一个新文档并手动为其添加时间戳感觉太“老派”了。 2024 年。 我想要什么（嘿，一个人可以梦想）：某种软件可以完全做到这一点，也许带有一点人工智能来进行我的通信可能会使用的自动格式化（也许自动添加副标题之类的东西）。发送完成的电子邮件的 SMTP 集成将是令人惊奇的，但是..手动执行此操作不需要太多工作。 有什么建议的东西，或者如果没有的话，有什么产品可以做得更好？ （我的老板处于半退休状态，电子邮件是他唯一喜欢的沟通渠道。也就是说，我不能要求他加入 Slack 频道。我也恰好是那些也喜欢电子邮件的恐龙之一，所以我认为这就是这里自然选择平台） ​   由   提交/u/danielrosehill  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cif41n/a_software_for_staging_important_emails_and/</guid>
+      <pubDate>Thu, 02 May 2024 13:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>一键统治一切：从 RAM 恢复主密钥以破解 Android 基于文件的加密</title>
       <link>https://www.reddit.com/r/software/comments/1cic36q/one_key_to_rule_them_all_recovering_the_master/</link>
       <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cic36q/one_key_to_rule_them_all_recovering_the_master/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[Windows 10 上有自动控制音量的应用程序吗？ 上下文，我使用 HDMI 来放一些卡通片对于一些孩子来说。问题是，我总是必须控制音量。每当有动作场景时，它都会变得非常响亮，当它回到谈话时，音量太低。 是否有一个应用程序可以将其设置为不高于分贝。就像，当声音变得非常响时，它会自动变低，反之亦然。我不知道这是否可以在不需要特殊硬件的情况下...如果可以，请帮忙。肯定会有帮助。谢谢 编辑：谢谢大家的帮助。我最终找到了一个名为“声音锁”的应用程序。目前效果很好。不完全确定如果我必须音频输出它将如何工作，但我们会看到。如果有人想使用它，您可以在此处   由   提交 /u/RiverHe1ghts   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1chrglj/automatic_volume_control_app/</guid>
       <pubDate>Wed, 01 May 2024 17:10:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想从特定的 Google 搜索下载所有图像，然后删除重复图像</title>
-      <link>https://www.reddit.com/r/software/comments/1chquep/im_wanting_to_download_all_images_from_a_specific/</link>
-      <description><![CDATA[正如标题所说。我正计划归档一些东西，我想要下载整个谷歌图像搜索，并删除重复的图像。我需要一些可以做到这一点的软件。  在 Windows 上    由   提交 /u/robinivy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1chquep/im_wanting_to_download_all_images_from_a_specific/</guid>
-      <pubDate>Wed, 01 May 2024 16:45:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有有效的人工智能翻译工具（付费或免费）可供我用来转录实时视频或流媒体录音？</title>
-      <link>https://www.reddit.com/r/software/comments/1chlcb7/is_there_an_effective_ai_translation_tool_paid_or/</link>
-      <description><![CDATA[我喜欢把我的课程转录成笔记来学习，但是真的很费时间，有没有付费或免费的人工智能转录工具对我需要做的事情有效吗？我听说过 Whisper 和 Aiko。如果准确的话，我也愿意接受订阅服务，因为老师通常会有口音。    由   提交 /u/Logical_Buddy7561   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1chlcb7/is_there_an_effective_ai_translation_tool_paid_or/</guid>
-      <pubDate>Wed, 01 May 2024 12:48:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
