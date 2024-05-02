@@ -4,9 +4,44 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 02 May 2024 18:15:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 21:11:24 GMT</lastBuildDate>
     <item>
-      <title>Fn 键问题</title>
+      <title>适用于 Mac 或 Windows 的多轨视频录制软件。</title>
+      <link>https://www.reddit.com/r/software/comments/1ciqm6z/software_for_mac_or_windows_for_multitrack/</link>
+      <description><![CDATA[适用于 Mac 或 Windows 的多轨视频录制软件。 4 个 HDMI 输入记录为单独的“轨道”。没有将其混合到一个流中。  就像我对待音乐一样。   由   提交 /u/NoeticIntelligence   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ciqm6z/software_for_mac_or_windows_for_multitrack/</guid>
+      <pubDate>Thu, 02 May 2024 20:56:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>强大的图像注释/标记工具（用于人类图形，而不是 AI/ML）</title>
+      <link>https://www.reddit.com/r/software/comments/1cipuyv/robust_image_annotationmarkup_tools_for_graphics/</link>
+      <description><![CDATA[有没有一个超级强大的软件，我可以在其中放置不可见的图钉或矢量区域（盒子、圆圈、 ...）在图像上 以纯文本形式输入相应的标签内容 然后让软件根据我的喜好自动生成实际的排列、箭头长度和设计。 .. 奖励：添加分组单词的视觉表示（参见右侧的大脑示例）  最好将坐标和标签导入/导出为 csv，.. ..（这样我可以将结果传输到 JavaScript 库，以便从映射中制作交互式 Web 弹出窗口，或者将其转发到 Latex 库，或者将其与 Adob​​e 插件一起使用来创建书籍图形、anki 插件... 应该尽可能少地使用所见即所得。 下面是我想要的不同类型标记/注释的随机示例。 https://preview.redd.it/rbionzt2n2yc1.jpg?width=1600&amp;format=pjpg &amp; auto=webp&amp;s=11885273a71f19edd2935325b71101419d2bfe0f 信用：https://www.reddit.com/r/LaTeX/comments/krmegm/annotate_an_image_in_latex_with_two_methods_1st/ ​ &amp;# x200b;   由   提交 /u/Nadlern   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cipuyv/robust_image_annotationmarkup_tools_for_graphics/</guid>
+      <pubDate>Thu, 02 May 2024 20:25:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找能够嵌入视频的白板软件</title>
+      <link>https://www.reddit.com/r/software/comments/1cip8w1/looking_for_a_whiteboard_software_with_the/</link>
+      <description><![CDATA[是的，它们都支持图像，但没有一个支持视频。 我需要嵌入在线视频和 mp4 文件。    提交人    /u/RedditModsShouldDie2   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cip8w1/looking_for_a_whiteboard_software_with_the/</guid>
+      <pubDate>Thu, 02 May 2024 20:00:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 远程桌面连接帮助</title>
+      <link>https://www.reddit.com/r/software/comments/1cio5fw/windows_remote_desktop_connection_help/</link>
+      <description><![CDATA[大家好！我无法使用自己的 wifi、VPN 和 Windows 远程桌面连接从家里连接到我的工作计算机。我的互联网连接速度足够快，但 RDC 应用程序每次尝试都会断开连接，并表示我的往返时间太长。我什至可以通过 VPN ping 我想要连接的计算机。通过我的手机使用移动数据，所有这些都可以正常工作。有人有解决这个问题的办法吗？我在我的私人计算机上运行 Win11 home。 提前致谢！ :)   由   提交/u/GuitarNoob25   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cio5fw/windows_remote_desktop_connection_help/</guid>
+      <pubDate>Thu, 02 May 2024 19:17:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>多公司管理工具？</title>
+      <link>https://www.reddit.com/r/software/comments/1cinl7t/multiple_company_management_tool/</link>
+      <description><![CDATA[大家好， 就目前情况而言，我们是一家伞式公司，在金融行业内拥有 8 家不同的运营公司。 我们正在尝试组织运营和管理劳动力，就目前情况而言，我们使用 ClickUP 作为 CRM 来组织我们的客户（任务），并使用通用 Business Gmail UI 来回发送电子邮件，同时使用其他产品发送电子邮件营销。  我们今天的目标是组织我们的电子邮件系统，将所有电子邮件整合到一个平台中，并授予代理查看某些邮箱的特定权限。出站电子邮件必须保留 info@company.com，同时使用登录代理的特定签名。我们正在考虑票务软件 (Freshdesk)，但很难看到对每家公司进行监督/鸟瞰的机会以及一个整体。 如果这是一家公司，它当然会简单得多，但随着我们不断扩展，它需要大量的资源。特别是如果一名代理管理两到三个公司电子邮件箱。  我很高兴提供更多信息，请提问！ 非常感谢！    ;由   提交/u/bonatrick  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cinl7t/multiple_company_management_tool/</guid>
+      <pubDate>Thu, 02 May 2024 18:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fn键问题</title>
       <link>https://www.reddit.com/r/software/comments/1cimedi/fn_key_issue/</link>
       <description><![CDATA[嗨。最近，我的 Windows HP 笔记本电脑上的 Fn-lock 键出现了一些问题。基本上，Fn-lock 键对我来说一直处于打开状态。灯已打开并且钥匙已啮合。而且我似乎无法将其关闭，至少不能通过按下它。这似乎不是硬件问题，因为如果我按住 Fn-lock 键，我就可以使用正常的 F 功能，否则如果 Fn-lock 关闭，这些功能就会被分配。换句话说，按钮响应被按下，只是不想关闭。这也意味着每次我想使用键盘增加/减少音量和/或亮度时，我需要同时按住 Fn 键。有谁知道我可以修复该按钮并使其最终关闭的方法吗？   由   提交 /u/Kolakone   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cimedi/fn_key_issue/</guid>
@@ -15,14 +50,14 @@
     <item>
       <title>ISO 软件可帮助团队协作填写在线表格、分享评论并标记作者身份</title>
       <link>https://www.reddit.com/r/software/comments/1cilhh1/iso_software_to_help_a_team_fill_out_online_forms/</link>
-      <description><![CDATA[大家好，我为一家非营利组织工作，很幸运能获得来自基金会和政府实体的大量资助和支持。这很棒，但有一个缺点是我们必须定期填写大量非常详细的表格，报告我们如何使用捐赠者的钱以及我们取得的成果。这些表格在内容和格式方面差异很大，但它们几乎都是某种在线可填写表格，无论是定制编码、SurveyMonkey Apply、Salesforce Experience Cloud 等。 为了填写这些表格，我们需要我们的项目经理填写一些数据，我们的财务和会计人员填写其他数据，我们的筹款办公室管理和检查一切是否到位，我们的法律人员审查其他人的工作是否合规。当我们尝试填写多页 Google 表单时，这会变得有点累人，因为表单不会保存您的进度或允许您继续进行，直到您回答完页面上的所有必填问题。 到目前为止，我们所做的是要求一些资助者向我们发送 word 或 pdf 版本，以便我们可以共同处理。大约三分之一的人愿意这样做，而且他们经常会不小心与实时调查不匹配。因此，我们更常见的做法是将每个问题复制到一个共享的电子表格中，其中包含一列：问题、问题类型（如果需要）、答案选项、我们的答案、团队中谁应该回答，以及团队中谁检查了他们的答案并批准了它。在我指出 Excel 具有内置注释功能因此我们不需要专门的列来记录笔记或讨论之后，这就是简化版本。 一定有更好的方法，对吧？是否有人知道有哪个应用程序或软件可以让我们以某种方式注释在线表单，以标记注释者的方式，稍后编辑注释，并以评论的形式回复注释？ 谢谢！    提交人    /u/jptiger0   [link] [评论]]]></description>
+      <description><![CDATA[您好，我在一家非营利组织工作，该组织很幸运能够获得基金会和政府实体的大量资助和支持。这很好，但一个缺点是我们经常必须填写大量非常详细的表格，报告我们使用捐赠者等资金所做的事情以及我们取得的成果。这些表格在内容和格式方面差异很大，但它们几乎都是某种可在线填写的表格，无论是编码定制、SurveyMonkey Apply、Salesforce Experience Cloud 等。 填写这些表格，我们需要我们的项目经理填写一些数据，我们的财务和会计人员来填写其他数据，我们的筹款办公室来管理和检查一切是否到位，我们的法律人员来审查其他人的工作是否合规。当我们尝试填写多页 Google 表单时，这会有点烦人，该表单不会保存您的进度，也不会允许您继续前进，直到您回答完页面上的所有必填问题。  到目前为止，我们所做的就是要求一些资助者向我们发送可以共同处理的 Word 或 pdf 版本。大约三分之一的人愿意这样做，但他们常常无意中与现场调查不符。因此，更常见的是，我们最终要做的是将每个问题复制到共享电子表格上，其中包含以下列：问题、问题类型、是否需要、答案选择、我们的答案、团队中的谁应该回答它，以及团队中谁检查了他们的答案并批准了它。这是我指出 Excel 内置注释功能后的简化版本，因此我们不需要专门的注释或讨论列。 有   是一个更好的方法，对吗？有谁知道有一个应用程序或软件可以让我们以标记谁正在注释的方式对在线表单进行注释、稍后编辑注释以及以评论形式回复注释？ 谢谢！   由   提交/u/jptiger0  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cilhh1/iso_software_to_help_a_team_fill_out_online_forms/</guid>
       <pubDate>Thu, 02 May 2024 17:28:30 GMT</pubDate>
     </item>
     <item>
       <title>Steam 游戏无法关闭（即使重新启动电脑。发现任务正在运行但无法终止，因为“它没有运行”）</title>
       <link>https://www.reddit.com/r/software/comments/1cilfwo/steam_game_wont_close_even_restarted_pc_task_is/</link>
-      <description><![CDATA[我从 PC 启动了 Steam 上的《星球大战前线》，现在它无法关闭。EA 应用程序显示它没有运行，但在 Steam 上它正在运行。关闭游戏没有任何反应，它不在任务栏中，任务管理器也没有显示任何内容。我甚至重启了电脑。我打开电脑时游戏仍在运行。我用任务管理器关闭了 steam 很多次，但没有任何作用。我也尝试以管理员身份运行命令提示符。我无法卸载游戏，因为它正在运行。我无法清除缓存，因为它正在运行。我可以卸载 steam，因为它正在运行一个游戏。我验证了文件的完整性，它验证文件不到两秒钟。哦，关于 steam 游戏中的“停止”，是的，根据 steam 的说法，它已经停止了大约 1.7 个小时。哦，另一次编辑，我无法从文件资源管理器中手动删除游戏文件...... 因为游戏正在运行请帮忙  https://preview.redd.it/3b2rh1uis1yc1.png?width=652&amp;format=png&amp;auto=webp&amp;s=258b3f91cae5f24fc1467990ebbdc4ee741db007 https://preview.redd.it/pf78zekjs1yc1.png?width=1613&amp;format=png&amp;auto=webp&amp;s=e20af92625c8206ceb84d4cc337b0fb2e8854ce6 https://preview.redd.it/fydvkq5ks1yc1.png?width=525&amp;format=png&amp;auto=webp&amp;s=5e6e1eb76bbea32e0b5dfeb5b25​​2504906591955 ​ ​    提交人    /u/MousseIndependent310   [链接] [评论]]]></description>
+      <description><![CDATA[我从我的电脑上在 Steam 上启动了《星球大战：前线》，但现在它无法关闭。在 EA 应用程序上它显示它没有运行，但在 steam 上它是。关闭游戏没有任何作用，它不在任务栏中，任务管理器也没有显示任何内容。我什至重新启动了我的电脑。当我打开它时游戏仍在运行。我用任务管理器关闭了很多次steam，但没有任何作用。我也刚刚以管理员身份尝试了命令提示符。我无法卸载游戏，因为它正在运行。我无法清除缓存，因为它正在运行。我可以卸载steam，因为它正在运行游戏。我验证了文件的完整性，并且不需要两秒钟就可以验证它们。哦，关于“停止”在steam游戏中，是的，根据steam的说法，这已经停止了大约1.7小时。哦，另一个编辑，我无法从文件资源管理器中手动删除游戏文件...... 因为游戏正在运行，请帮忙  &lt; p&gt;https://preview.redd.it/3b2rh1uis1yc1。 png?width=652&amp;format=png&amp;auto=webp&amp;s=258b3f91cae5f24fc1467990ebbdc4ee741db007 https://preview.redd.it/pf78zekjs1yc1.png?width=1613&amp;format=png&amp;auto=webp&amp;s=e20af92625c8206ceb84d4cc 337b0fb2e8854ce6 https://preview.redd.it/ fydvkq5ks1yc1.png?width=525&amp;format=png&amp;auto=webp&amp;s=5e6e1eb76bbea32e0b5dfeb5b25​​2504906591955 ​ ​ &lt; /div&gt;  由   提交/u/MousseIndependent310   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cilfwo/steam_game_wont_close_even_restarted_pc_task_is/</guid>
       <pubDate>Thu, 02 May 2024 17:26:36 GMT</pubDate>
     </item>
@@ -36,7 +71,7 @@
     <item>
       <title>Android 视频播放器应用程序可让您永久隐藏进度条</title>
       <link>https://www.reddit.com/r/software/comments/1cikoqe/android_video_player_app_that_lets_you_hide_the/</link>
-      <description><![CDATA[我已经在 r/androidapps 上多次发布了此信息，但我什么也没得到。 我不喜欢看到进度条，因为我不想知道我正在观看的内容还剩下多少。这对我来说有点像剧透。比如，电影终于变得精彩起来，但你不小心切换了进度条，结果你发现它快结束了。这毁了我的观看体验。我宁愿被所有的曲折、糟糕的电影或悬念所蒙蔽。我甚至会尽我所能不去知道我会看的电影或节目的运行时间。我知道这很疯狂哈哈 在 Windows 上，我使用 mpv.net，它允许您自定义其所有界面。目前，我将其设置为除非我启用它，否则进度条不会显示。我还禁用了在视频中快退或快进时出现的时间戳。Android 上唯一可用的 mpv 应用程序即使在编辑配置后也不允许您执行此操作。我测试过的大多数视频播放器也不允许您执行此操作。许多播放器都有锁定界面的选项，这样您就不会在握住手机时意外按下某些东西。这样做的缺点是，除非您解锁，否则您无法快退或快进视频。如果解锁，进度条就会显示出来。 有没有一个 Android 视频应用程序可以让你做我想做的事情？    提交人    /u/bonocca   [链接] [评论]]]></description>
+      <description><![CDATA[我已经将其发布在 r/androidapps多次，但我什么也没得到。 我不喜欢看到进度条，因为我不想知道我正在观看的内容还剩多少。这对我来说有点像剧透。就像，电影终于开始好看了，但你不小心切换了进度条，所以你看到它快要结束了。这毁了我的观看。我宁愿被所有的曲折弄得措手不及，或者如果电影很糟糕，或者有悬念。我什至尽力不知道我要观看的电影或节目的播放时间。我知道这很疯狂，哈哈 在 Windows 上，我使用 mpv.net，它可以让您自定义其所有界面。目前，我将其设置为除非启用它，否则进度条不会显示。我还禁用了在视频快退或快进时出现的时间戳。即使在编辑配置后，唯一适用于 Android 的 mpv 应用程序也不允许您执行此操作。我测试过的大多数视频播放器也不会让你这样做。许多手机都有锁定界面的选项，这样您就不会在拿着手机时意外按下某些东西。其缺点是除非解锁，否则您无法快退或快进视频。如果这样做，进度条将会显示。 Android 上有视频应用程序可以让您执行我想要的操作吗？  &amp; #32；由   提交/u/bonocca  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cikoqe/android_video_player_app_that_lets_you_hide_the/</guid>
       <pubDate>Thu, 02 May 2024 16:55:11 GMT</pubDate>
     </item>
@@ -50,7 +85,7 @@
     <item>
       <title>需要帮助静默卸载。</title>
       <link>https://www.reddit.com/r/software/comments/1cik6en/need_help_uninstalling_silently/</link>
-      <description><![CDATA[我们最近停止使用 goldfax，我需要从我们的机器上卸载它。我找不到静默卸载软件的方法。 注册表显示卸载命令是 &quot;C:\Program Files (x86)\InstallShield Installation Information\{42D437C3-E5FA-4C16-8997-48A656EAD2CE}\setup.exe&quot; -runfromtemp -l0x0409 -removeonly 使用此命令会显示安装、修复或卸载选项。如果我选​​择卸载并手动按照步骤操作，它就会起作用。  由于我需要在大量工作站上执行此操作，因此我需要能够以静默方式并以自动化方式完成此操作。 任何帮助都将不胜感激。    提交人    /u/ShoddyCollege9591   [链接] [评论]]]></description>
+      <description><![CDATA[我们最近停止使用 goldfax，我需要从我们的计算机上卸载它。我找不到静默卸载软件的方法。 注册表显示卸载命令是 “C:\Program Files (x86)\InstallShield Installation Information\{42D437C3- E5FA-4C16-8997-48A656EAD2CE}\setup.exe” -runfromtemp -l0x0409 -removeonly 使用此命令会弹出一个安装、修复或卸载选项。如果我选择卸载并手动按照步骤操作，它就会起作用。  由于我需要在大量工作站上执行此操作，因此我需要能够以一种可以自动化的方式默默地完成此操作。 任何帮助将不胜感激。    由   提交 /u/ShoddyCollege9591   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cik6en/need_help_uninstalling_silently/</guid>
       <pubDate>Thu, 02 May 2024 16:34:42 GMT</pubDate>
     </item>
@@ -69,46 +104,11 @@
       <pubDate>Thu, 02 May 2024 15:35:14 GMT</pubDate>
     </item>
     <item>
-      <title>类似 OBS 的程序，但只捕获音频，我只想从我的在线课程录音中录制音频。</title>
+      <title>像 OBS 这样的程序但仅捕获音频，我想仅从我的在线课堂录音中录制音频。</title>
       <link>https://www.reddit.com/r/software/comments/1cifi0s/a_program_like_obs_but_captures_audio_only_i/</link>
       <description><![CDATA[我想录制在线课程的音频，然后将其上传到 otter 进行转录。从课堂录音中捕获音频的理想程序是什么？    由   提交 /u/Logical_Buddy7561   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cifi0s/a_program_like_obs_but_captures_audio_only_i/</guid>
       <pubDate>Thu, 02 May 2024 13:20:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于暂存重要电子邮件和状态更新（给老板等）的软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1cif41n/a_software_for_staging_important_emails_and/</link>
-      <description><![CDATA[我很确定我已经问过“这个存在吗？”多年来有过几次但没有取得太大成功。我希望如果没有的话有人能做到。我太老了，厌倦了创业。 我为一个非常忙碌的人工作，开会的时间有限。我必须保持我的更新非常敏锐和准确。当然，随着工作日的展开，我应该传达的优先事项列表（“状态更新”）往往会发生变化。 为了保持我的议程处于某种状态，我开始策划每日 Google我记下要点并浓缩成电子邮件的文档。但是每天创建一个新文档并手动为其添加时间戳感觉太“老派”了。 2024 年。 我想要什么（嘿，一个人可以梦想）：某种软件可以完全做到这一点，也许带有一点人工智能来进行我的通信可能会使用的自动格式化（也许自动添加副标题之类的东西）。发送完成的电子邮件的 SMTP 集成将是令人惊奇的，但是..手动执行此操作不需要太多工作。 有什么建议的东西，或者如果没有的话，有什么产品可以做得更好？ （我的老板处于半退休状态，电子邮件是他唯一喜欢的沟通渠道。也就是说，我不能要求他加入 Slack 频道。我也恰好是那些也喜欢电子邮件的恐龙之一，所以我认为这就是这里自然选择平台） ​   由   提交/u/danielrosehill  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cif41n/a_software_for_staging_important_emails_and/</guid>
-      <pubDate>Thu, 02 May 2024 13:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>一键统治一切：从 RAM 恢复主密钥以破解 Android 基于文件的加密</title>
-      <link>https://www.reddit.com/r/software/comments/1cic36q/one_key_to_rule_them_all_recovering_the_master/</link>
-      <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cic36q/one_key_to_rule_them_all_recovering_the_master/</guid>
-      <pubDate>Thu, 02 May 2024 10:19:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>键盘帮助</title>
-      <link>https://www.reddit.com/r/software/comments/1cia6oj/keyboard_help/</link>
-      <description><![CDATA[有人知道自定义键盘快捷键的软件或技巧吗？我从事远程工作，经常使用很多相同的句子。例如，假设我有一个句子“患者没有症状”我想创建一个快捷方式，输入 SHIFT + M + N 可以弹出该句子。有人有什么建议吗？谢谢。    由   提交 /u/Character-Tax-9684   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cia6oj/keyboard_help/</guid>
-      <pubDate>Thu, 02 May 2024 08:05:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建审计软件平台</title>
-      <link>https://www.reddit.com/r/software/comments/1ci8ovd/creating_an_audit_software_platform/</link>
-      <description><![CDATA[我是一家公司的实习生，我和我的团队的任务是创建一个软件应用程序，该应用程序应该接受 Excel 审核清单并生成报告。  本质上，我们将有一个 GDPR、ISO、PCIDSS 等的清单，并将报告上传到应用程序后，它应该生成一份报告。 大约需要 5 到 10 人能够登录并同时在应用程序上工作。 有人建议使用 Django 创建应用程序，我考虑在 AWS 上部署该应用程序。 如果你们有更多想法，请告诉我。   由   提交 /u/EzraSC   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ci8ovd/creating_an_audit_software_platform/</guid>
-      <pubDate>Thu, 02 May 2024 06:25:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的免费简单视频编辑软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1ci7nkv/best_free_simple_video_editing_sw/</link>
-      <description><![CDATA[我大多只需要裁剪、修剪等非常简单的事情。 Clipchamp 理论上很好，但实践起来却很糟糕。 OpenShot 没有简单的裁剪器。截图太复杂了你有什么建议？ Windows 11。   由   提交 /u/Coffeeholic911   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ci7nkv/best_free_simple_video_editing_sw/</guid>
-      <pubDate>Thu, 02 May 2024 05:20:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
