@@ -4,9 +4,9 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 04 May 2024 06:14:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 09:13:06 GMT</lastBuildDate>
     <item>
-      <title>在 Windows 11 上安装 Windows Visual C++ 2010 的问题</title>
+      <title>在 Windows 11 上安装 Windows Visual C++ 2010 时出现问题</title>
       <link>https://www.reddit.com/r/software/comments/1cjrc5t/issues_installing_windows_visual_c_2010_on/</link>
       <description><![CDATA[我正在尝试通过电脑上的 EA 应用程序下载《模拟人生 4》，但我始终不知道如何下载要安装的 2010 Visual C++ Redistributable。每次我尝试这样做时，它都会说有另一个安装正在进行中，但据我所知，没有。在尝试安装 2010 c++ 之前，我已经取消了所有安装程序，关闭了 EA，取消了 Sims 安装，卸载了安装程序，并重新启动了我的计算机无数次，但似乎没有任何效果。请帮忙。   由   提交 /u/queennothing9264   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjrc5t/issues_installing_windows_visual_c_2010_on/</guid>
@@ -36,14 +36,14 @@
     <item>
       <title>在 Windows 上快速启用禁用语言</title>
       <link>https://www.reddit.com/r/software/comments/1cjfbn8/quick_enable_disable_languages_on_windows/</link>
-      <description><![CDATA[这种情况有些人可能会比其他人遇到更多。我的系统上主要使用两种语言，它们之间的切换应该如下很简单，就像 alt+shift 一样。然而，有时我需要输入一些与所用字母表不同的其他语言（例如从英语切换到中文和俄语）。偶尔但有些频繁。在 Windows 上保持 4 或 5 种语言处于启用状态，使用 alt+shift 和 shift+win+space 来导航它们有点麻烦，所以我需要一个软件或实用程序，您可以使用它来快速启用/禁用语言，而无需费力转到 Windows 设置，时不时地添加语言及其功能。   由   提交/u/Mahfoudh94  [链接] [评论]]]></description>
+      <description><![CDATA[有些人可能比其他人更常遇到这种情况。 我的系统上主要使用两种语言，在它们之间切换应该像 alt+shift 一样简单。但是，有时我需要输入几种字母不同的其他语言（例如从英文切换到中文和俄文）。这种情况偶尔发生，但比较频繁。在 Windows 上启用 4 或 5 种语言有点麻烦，要用 alt+shift 和 shift+win+space 来不断导航，所以我需要一个软件或实用程序，你可以使用它来快速启用/禁用语言，而不需要不时地去 Windows 设置添加语言及其功能。    提交人    /u/Mahfoudh94   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjfbn8/quick_enable_disable_languages_on_windows/</guid>
       <pubDate>Fri, 03 May 2024 18:08:38 GMT</pubDate>
     </item>
     <item>
       <title>我的剪贴板坏了。</title>
       <link>https://www.reddit.com/r/software/comments/1cje2tn/my_clipboard_is_broken/</link>
-      <description><![CDATA[​ https://preview.redd.it/qw2460wov8yc1.png?width=310&amp;format=png&amp;auto=webp&amp;s=829c64017a24d9bbd59f604fe15111aaba7fc8fe    提交人    /u/DJSharp15   [链接] [评论]]]></description>
+      <description><![CDATA[​ https://preview.redd.it/qw2460wov8yc1.png?width=310&amp;format=png&amp;auto=webp&amp;s=829c64017a24d9bbd5 9f604fe15111aaba7fc8fe&lt; /p&gt;   由   提交/u/DJSharp15  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cje2tn/my_clipboard_is_broken/</guid>
       <pubDate>Fri, 03 May 2024 17:16:53 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>简单的歌曲剪切程序</title>
       <link>https://www.reddit.com/r/software/comments/1cjaim2/easy_program_to_cut_songs/</link>
-      <description><![CDATA[我需要剪切歌曲的开头作为铃声。我以前用 Windows 自带的基本编辑器来做这件事，但现在没有人使用它了 有没有什么简单的免费程序可以用来剪切歌曲。 我听说过 Audacity Drama，也试图自己找一个程序，但它们都是多混音的，里面都是奇怪的文件。我只想找个东西来剪切我的 mp3 文件    提交人    /u/moichispa   [link] [评论]]]></description>
+      <description><![CDATA[我需要剪切歌曲的开头作为铃声。我曾经使用 Windows 自带的基本编辑器来做到这一点，但没有人知道有一个简单的免费程序可以用来剪切歌曲。 我听说过大胆的戏剧，并试图自己找到一个程序，但所有这些程序都与奇怪的文件混合。我只是想要一些东西来剪切我的 mp3 文件   由   提交 /u/moichispa   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjaim2/easy_program_to_cut_songs/</guid>
       <pubDate>Fri, 03 May 2024 14:47:57 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>Alternatives to Lu Dashi （鲁大师）</title>
       <link>https://www.reddit.com/r/software/comments/1cja7h0/alternatives_to_lu_dashi_鲁大师/</link>
-      <description><![CDATA[我正在寻找一个简单的程序，如果我的计算机温度过高，它会通知我。    提交人    /u/Plantaineous   [link] [comments]]]></description>
+      <description><![CDATA[我正在寻找一个简单的程序，它只会在我的计算机温度升高时通知我。   由   提交 /u/Plantaineous   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cja7h0/alternatives_to_lu_dashi_鲁大师/</guid>
       <pubDate>Fri, 03 May 2024 14:34:49 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>为 Exchange 电子邮件帐户寻求 Thunderbird 的替代方案</title>
       <link>https://www.reddit.com/r/software/comments/1cj9ryz/seeking_an_alternative_to_thunderbird_for/</link>
-      <description><![CDATA[嗨，Redditors 的朋友们，让我们直接进入主题吧。我目前管理着六个电子邮件帐户，其中两个是我工作的公司关联的 Exchange 帐户。其余四个帐户用于各种目的，包括个人使用和求职。直到最近，我都依赖 Thunderbird 作为我的电子邮件客户端。然而，它突然无法顺利地与我的 Exchange 帐户配合使用。虽然它仍然可以连接到服务器，但它拒绝发送电子邮件。有趣的是，在另一台具有相同设置的计算机上，Thunderbird 运行正常。现在，我正在寻找一个替代的电子邮件客户端 - 一个没有任何限制并且可以与 Exchange 电子邮件无缝协作的客户端。你们有人有什么建议吗？我将非常感谢您的见解！    提交人    /u/sana9675   [链接] [评论]]]></description>
+      <description><![CDATA[嘿各位 Reddit 用户，让我们直接进入主题吧。我目前管理六个电子邮件帐户，其中两个是与我工作的公司关联的 Exchange 帐户。其余四个帐户有多种用途，包括个人使用和求职。直到最近，我还依赖 Thunderbird 作为我的电子邮件客户端。但是，它突然停止与我的 Exchange 帐户顺利运行。虽然它仍然可以连接到服务器，但拒绝发送电子邮件。有趣的是，在另一台具有相同设置的计算机上，Thunderbird 可以完美运行。现在，我正在寻找替代的电子邮件客户端 - 一个没有任何限制并且可以与 Exchange 电子邮件无缝协作的客户端。你们有什么建议吗？我非常感谢您的见解！   由   提交/u/sana9675  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cj9ryz/seeking_an_alternative_to_thunderbird_for/</guid>
       <pubDate>Fri, 03 May 2024 14:16:17 GMT</pubDate>
     </item>
