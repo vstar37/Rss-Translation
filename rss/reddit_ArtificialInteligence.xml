@@ -4,11 +4,25 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 04 May 2024 09:12:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 12:17:36 GMT</lastBuildDate>
+    <item>
+      <title>推荐阅读以更好地了解 GenAI？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cjycxs/recommended_reading_to_get_a_better_understanding/</link>
+      <description><![CDATA[我正在寻找一些学习材料（最好是一本书，而不是在线课程或网站），涵盖人工智能/法学硕士/扩散的基础知识以及如何它有效等等。 我知道这项技术正在迅速发展，但我更感兴趣的是了解基础知识和理论方面......而不是工具本身的概述（因为它们会过时）我想几天之内） 有人能推荐什么吗？   由   提交 /u/Weekly_Frosting_5868   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cjycxs/recommended_reading_to_get_a_better_understanding/</guid>
+      <pubDate>Sat, 04 May 2024 11:42:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>时间序列预测 (GPT4-Turbo)</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cjxecm/time_series_forecasting_gpt4turbo/</link>
+      <description><![CDATA[ 由   提交/u/No-Transition3372   /u/No-Transition3372 reddit.com/gallery/1cjxdz7&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cjxecm/time_series_forecasting_gpt4turbo/</guid>
+      <pubDate>Sat, 04 May 2024 10:41:59 GMT</pubDate>
+    </item>
     <item>
       <title>是否有可能提高旧信仰录音的音频质量</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cjvxpq/is_it_possible_to_improve_audio_quality_from_an/</link>
-      <description><![CDATA[最近我发现了一些可能已丢失的媒体，一些体育迷已经追踪了 10 多年。它要么是完全丢失的媒体，要么被组织保密。有一个完整版本已被找到，但正如所提到的，它只是一个旧的假动作录音。想知道这是否可能    提交人    /u/NewAccWhoDis93   [link] [评论]]]></description>
+      <description><![CDATA[最近我发现了一些可能丢失的媒体，一些体育迷已经追踪了这些媒体 10 多年。它要么是完全丢失的媒体，要么是被组织保密。已经找到了一个完整版本，但正如前面提到的，这只是一个旧的假录音。我很想知道这是否可能   由   提交/u/NewAccWhoDis93  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cjvxpq/is_it_possible_to_improve_audio_quality_from_an/</guid>
       <pubDate>Sat, 04 May 2024 08:56:36 GMT</pubDate>
     </item>
@@ -22,7 +36,7 @@
     <item>
       <title>我的工作/博士学位简介有多糟糕？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cjvxht/how_really_bad_is_my_profile_for_jobsphd/</link>
-      <description><![CDATA[大家好， 正如标题所暗示的，我希望你们能炒一下我的个人资料，以便在人工智能领域找到工作或博士学位。我的目标是在美国公司工作或在欧洲大学攻读学位。 我的学位是什么？ -我有理学硕士学位。数学博士，论文与人工智能无关。只要学位来自牛津或斯坦福等大学，这就可以了。然而，它来自墨西哥的一所大学，相当不为人知，而且极其平庸（即使在墨西哥大学中也是如此。因为我正在追求一位非常重要的研究员……所以我被残酷地愚弄了……他目前坐在轮椅上，不再招收学生）。 除了我的“学位”之外，我还有其他技能吗？ -我希望。我很快意识到像 pytorch 这样的基础知识是神秘的魔法为我的同事们。因此，我自己学习了很多，达到了我可以编写几乎任何 NLP 神经网络（LSTM、CNN、用 Transformer 模型作为隐藏层，你说的）的水平，并将其实现到一个用于预测的工作原型中（我是即将发表论文，请向 R2 致以最美好的祝愿）。 -虽然我可以写生成式 AI（我意识到这是现在业界最热门的话题），但我从来没有这样做过它在一个完整的项目中。 我以前在该领域有经验吗？ -有点。我已经参加了几项共享任务。我从未赢得过其中任何一个，也从未登上过任何排行榜的榜首。不过我达到了中上水平，所以我认为还不错。从这些论文中，我已经获得了 42 次引用（其中 30 次是垃圾引用），H 指数为 4。 这就是我的个人资料。我知道这很糟糕，但我不知道该怎么做才能增强它。我已经申请了几所大学，但在面试之前，所有大学都拒绝了我。我可以从牛津大学、麻省理工学院或所有德国机构了解这样的事情......然而，这种情况也发生在非常低​​调的爱沙尼亚大学。难道我真的那么无能吗？  请告诉我该怎么做。我应该改进什么以及如何改进，以便跨越无用败类和有资格在该领域获得工作/博士学位之间的门槛？老实说，我有点绝望（我需要吃饭，但墨西哥公司没有这样的工作 xdxd）   由   提交/u/Skibidi-Perrito   /u/Skibidi-Perrito reddit.com/r/ArtificialInteligence/comments/1cjvxht/how_really_bad_is_my_profile_for_jobsphd/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[大家好， 正如标题所暗示的，我希望你们能炒一下我的个人资料，以便在人工智能领域找到工作或博士学位。我的目标是在美国公司工作或在欧洲大学攻读学位。 我的学位是什么？ -我有理学硕士学位。数学博士，论文与人工智能无关。只要学位来自牛津或斯坦福等大学，这就可以了。然而，它来自墨西哥的一所大学，相当不为人知，而且极其平庸（即使在墨西哥大学中也是如此。因为我正在追求一位非常重要的研究员……所以我被残酷地愚弄了……他目前坐在轮椅上，不再招收学生）。 除了我的“学位”之外，我还有其他技能吗？ -我希望。我很快意识到像 pytorch 这样的基础知识是神秘的魔法为我的同事们。因此，我自己学习了很多，达到了我可以编写几乎任何 NLP 神经网络（LSTM、CNN、用 Transformer 模型作为隐藏层，你说的）的水平，并将其实现为预测的工作原型（我是即将发表论文，请向 R2 致以最美好的祝愿）。 -虽然我可以写生成式 AI（我意识到这是现在业界最热门的话题），但我从来没有这样做过它在一个完整的项目中。 我以前在该领域有经验吗？ -有点。我已经参加了几项共享任务。我从未赢得过其中任何一个，也从未登上过任何排行榜的榜首。不过我达到了中上水平，所以我认为还不错。从这些论文中，我已经获得了 42 次引用（其中 30 次是垃圾引用），H 指数为 4。 这就是我的个人资料。我知道这很糟糕，但我不知道该怎么做才能增强它。我已经申请了几所大学，但在面试之前，所有大学都拒绝了我。我可以从牛津大学、麻省理工学院或所有德国机构了解这样的事情......然而，这种情况也发生在非常低​​调的爱沙尼亚大学。难道我真的那么无能吗？  请告诉我该怎么做。我应该改进什么以及如何改进，以便跨越无用败类和有资格在该领域获得工作/博士学位之间的门槛？老实说，我有点绝望（我需要吃饭，但墨西哥公司没有这样的工作 xdxd）   由   提交/u/Skibidi-Perrito   /u/Skibidi-Perrito reddit.com/r/ArtificialInteligence/comments/1cjvxht/how_really_bad_is_my_profile_for_jobsphd/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cjvxht/how_really_bad_is_my_profile_for_jobsphd/</guid>
       <pubDate>Sat, 04 May 2024 08:56:07 GMT</pubDate>
     </item>
@@ -43,16 +57,9 @@
     <item>
       <title>当我们与人工智能进行比较时，是时候放弃“意识”的神秘概念并关注智能了</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cjsrc6/its_time_to_let_go_of_mystical_notions_of/</link>
-      <description><![CDATA[人们真的对“意识”这个概念很着迷。 正如我之前所写，现代“意识”概念是西方哲学中新奇而独特的概念。我们并没有一个共同的定义。甚至连意识是人类独有的还是少数或所有动物都具有的这种基本概念都存在争议。 智能（可测量的认知能力）是一个更加有用的概念，因为它可以为人类、动物和软件提供通用基准。 最近，“意识”被用作人类例外论的拐杖——随着人类至高无上的堡垒被人工智能的进步迅速吞噬，一些人拼命坚持认为智人具有某种无形的独特性。 当人工智能在所有方面都超越人类能力时，你会抓住什么？当有比你更好的老师、诗人、工匠、伙伴、作家和音乐家时，你会依靠什么？你的骨肉？你的基因组？人工智能也可以模仿它，尽管它肯定会更好地改造生物。 猜猜看——你很可能也不是世界上任何方面最优秀的人。可能有人比你拥有的每一项才能都强。这个事实会削弱你的人性并夺走你的成就吗？如果没有杰出的天才，我们仍然会生活在洞穴里。这会让其他人变得更差吗？也许我们应该放弃我们是特殊的这个想法，更多地关注新智能的能力和潜力。 虽然我们最终不可避免地会被我们的技术创造所超越，但为了我们自己，我们必须对自己在宇宙中的地位有一个正确的看法。 （这个 subreddit 中的人一直指责我使用人工智能来撰写我的帖子。如果人工智能可以这样写自己，也许是时候认输了。）    提交人    /u/HeroicLife   [链接] [评论]]]></description>
+      <description><![CDATA[人们对“意识”这个概念非常着迷。 正如我之前写过的，现代“意识”的概念对于西方哲学来说是新颖且独特的。我们确实没有一个共同的定义。甚至诸如意识是人类独有的还是少数或所有动物共有的意识等基本问题也存在争议。 智力（可测量的认知能力）是一个更有用的概念，因为它可以为人类提供通用基准、动物和软件。 最近，“意识”出现了。已被用作人类例外论的拐杖——随着人类至上的堡垒正在被人工智能的进步迅速吞噬，一些人拼命坚持认为智人有一些无形的独特性。 当人工智能在一切方面都超越人类能力时，你会抓住什么？当他是比你更好的老师、诗人、工匠、合作伙伴、作家和音乐家时，你会依靠什么？你的骨肉？你的基因组？人工智能也可以模仿这一点，尽管它肯定会更好地设计生物学。 你猜怎么着——很可能你在任何方面都不是世界上最伟大的。可能有人比你的每一项才能都更出色。这个事实是否削弱了你的人性并剥夺了你的成就？如果没有杰出的天才，我们仍然生活在洞穴里。这会降低其他人的地位吗？也许我们应该放弃“我们很特别”的想法，更多地关注新智能的能力和潜力。 虽然我们最终不可避免地会被我们的技术创造超越，但这对我们自己来说很重要让我们对自己在宇宙中的位置有一个正确的看法。 （这个 Reddit 子版块中的人们一直指责我使用人工智能来撰写帖子。如果人工智能可以写出关于自己的文章，也许是时候认输了。）   由   提交 /u/HeroicLife   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cjsrc6/its_time_to_let_go_of_mystical_notions_of/</guid>
       <pubDate>Sat, 04 May 2024 05:18:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助您了解人工智能的 7 本书</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cjr5cf/7_books_to_help_you_understand_ai/</link>
-      <description><![CDATA[这家伙的 YouTube 频道似乎会飞到这里 - https://www.youtube.com/watch?v=-lkJI84Ho3I Parknotes  &amp;# 32；由   提交/u/flash16lax  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cjr5cf/7_books_to_help_you_understand_ai/</guid>
-      <pubDate>Sat, 04 May 2024 03:43:59 GMT</pubDate>
     </item>
     <item>
       <title>LLM 不能玩井字游戏。为什么？解释</title>
@@ -62,13 +69,6 @@
       <pubDate>Sat, 04 May 2024 02:56:29 GMT</pubDate>
     </item>
     <item>
-      <title>创建 a) 音乐 b) 视频的最佳人工智能解决方案</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cjjkl0/best_ai_solutions_to_create_a_music_b_video/</link>
-      <description><![CDATA[我正在寻找一种 AI 解决方案，该解决方案可以创建一首可能会货币化的歌曲，但这不是主要目的。其次，我正在寻找一种可以创建视频的人工智能解决方案。  我遇到了 Suno 的音乐，我现在正在玩它，有人建议使用 MidJourney 的视频。有人还有其他建议吗？我希望创作西方和东方（分别）的歌曲。    由   提交/u/boriszaharyas   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cjjkl0/best_ai_solutions_to_create_a_music_b_video/</guid>
-      <pubDate>Fri, 03 May 2024 21:24:18 GMT</pubDate>
-    </item>
-    <item>
       <title>激进的新型光波芯片设计使人工智能计算能够以光速进行</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cjfxcl/radical_new_lightwave_chip_design_enables_ai/</link>
       <description><![CDATA[宾夕法尼亚大学工程师开发了一种新芯片，通过使用光波而不是电力来执行训练人工智能所必需的复杂数学，从而从根本上加速处理速度。&lt; /p&gt; 研究人员表示，硅光子 (SiPh) 芯片有潜力加快计算机的处理速度，同时降低能耗。 在此处了解更多信息：https://magazine.mindplex.ai/mp_news/激进的新芯片设计启用光速人工智能计算/   由   提交 /u/ChikyChikyBoom   [链接] [评论]]]></description>
@@ -76,7 +76,7 @@
       <pubDate>Fri, 03 May 2024 18:34:14 GMT</pubDate>
     </item>
     <item>
-      <title>本周人工智能——简要介绍所有主要人工智能发展</title>
+      <title>本周人工智能——所有主要人工智能发展简而言之</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cja071/this_week_in_ai_all_the_major_ai_developments_in/</link>
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cja071/this_week_in_ai_all_the_major_ai_developments_in/</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>Randy Travis 的新歌有 100% 的可能性是 AI</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cj7n9g/there_is_a_100_chance_the_new_randy_travis_song/</link>
-      <description><![CDATA[听我说。兰迪·特拉维斯发布了一首新歌。听起来像是巅峰时期的兰迪·特拉维斯。但是，几年前他中风了，一直在努力康复。我祝愿这个人一切顺利，但事实是，正如我父亲所说，他仍然处于泡沫之外。即使在所有的宣传视频中，他也只是笑着点头。他不可能钻进录音室开始低声吟唱 1993 年的兰迪·特拉维斯 (Randy Travis)。这是他自己的人工智能克隆！我不讨厌这个主意。想象一下 Axl Rose 用他最好的声音发行了一首热门歌曲。人工智能声音是艺术家的一种表达，而不仅仅是一些雅虎。不知何故，艺术家与人工智能的联系赋予了它真实性，这似乎是矛盾的。 编辑：我们是对的！滚石杂志发表了一篇文章。令人着迷！！！   由   提交/u/Overall-Importance54  /u/Overall-Importance54 reddit.com/r/ArtificialInteligence/comments/1cj7n9g/there_is_a_100_chance_the_new_randy_travis_song/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[听我说。兰迪·特拉维斯发布了一首新歌。听起来像是巅峰时期的兰迪·特拉维斯。但是，几年前他中风了，一直在努力康复。我祝愿这个人一切顺利，但事实是，正如我父亲所说，他仍然处于泡沫之外。即使在所有的宣传视频中，他也只是笑着点头。他不可能钻进录音室开始低声吟唱 1993 年的兰迪·特拉维斯 (Randy Travis)。这是他自己的人工智能克隆！我不讨厌这个主意。想象一下 Axl Rose 用他的最佳嗓音发行了一首热门歌曲。人工智能声音是艺术家的一种表达，而不仅仅是一些雅虎。不知何故，艺术家与人工智能的联系赋予了它真实性，这似乎是矛盾的。 编辑：我们是对的！滚石杂志发表了一篇文章。令人着迷！！！   由   提交/u/Overall-Importance54  /u/Overall-Importance54 reddit.com/r/ArtificialInteligence/comments/1cj7n9g/there_is_a_100_chance_the_new_randy_travis_song/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cj7n9g/there_is_a_100_chance_the_new_randy_travis_song/</guid>
       <pubDate>Fri, 03 May 2024 12:38:04 GMT</pubDate>
     </item>
@@ -97,16 +97,16 @@
       <pubDate>Fri, 03 May 2024 12:02:09 GMT</pubDate>
     </item>
     <item>
-      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
       <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
     <item>
-      <title>重要提示：征求关于 subreddit 规则和未来方向的评论。请阅读！</title>
+      <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有被视为人工智能的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论》 (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有被视为人工智能的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
