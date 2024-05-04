@@ -4,86 +4,89 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 03 May 2024 18:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 00:43:31 GMT</lastBuildDate>
     <item>
-      <title>Prompt-Tower 是一个 vscode 扩展，它简化了使用多个 [...]</title>
-      <link>https://t.me/hn_summary/87762</link>
-      <description><![CDATA[显示 HN：Prompt-Tower – 使用多个代码块简化编写提示
-Prompt-Tower 是一个 vscode 扩展，它简化了使用多个代码块编写提示的过程。受 filekitty 的启发，该工具消除了在文件、类和函数之间跳转以复制和粘贴代码、包装和注释块以及生成提示的麻烦。它旨在无缝集成到开发人员的工作流程中，使提示创建更快、更高效。查看演示和存储库链接，了解 Prompt-Tower 如何简化您的写作过程。]]></description>
-      <guid>https://t.me/hn_summary/87762</guid>
-      <pubDate>Fri, 03 May 2024 18:14:01 GMT</pubDate>
+      <title>隆重推出 Bloom，这是 Elixir 和 Phoenix 的革命性 UI 库，它带来了 [...]</title>
+      <link>https://t.me/hn_summary/87808</link>
+      <description><![CDATA[显示 HN：Bloom – 类似 shadcn 的 Elixir 和 Phoenix UI 库
+隆重推出 Bloom，这是一个针对 Elixir 和 Phoenix 的革命性 UI 库，可为您的项目带来 shadcn 的强大功能。只需一个简单的代码片段，您就可以轻松安装 Bloom 并开始创建令人惊叹的用户界面。告别传统的 UI 库，迎接设计可能性的新时代。在 bloom-ui.fly.dev 看看它如何改变您的 Elixir 和 Phoenix 项目。不要错过这个改变游戏规则的工具，它肯定会震动开发社区。]]></description>
+      <guid>https://t.me/hn_summary/87808</guid>
+      <pubDate>Sat, 04 May 2024 00:43:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]由生成式人工智能驱动的人工智能副驾驶正在彻底改变编码的教学方式[...]</title>
-      <link>https://t.me/hn_summary/87761</link>
-      <description><![CDATA[人工智能副驾驶正在改变编码教学方式
-由生成式人工智能驱动的人工智能副驾驶正在彻底改变学术界的编码教学方式。学生们正在使用人工智能工具来掌握复杂的概念、总结研究论文、集思广益解决方案并学习如何编码。教育工作者正在调整他们的教学方法，更多地关注问题的解决，而不是语法，将生成式人工智能纳入课程中。然而，由于人工智能容易产生幻觉、潜在的版权问题和偏见，建议谨慎行事。目标是让人工智能在学习过程中成为副驾驶，而不是自动驾驶。学生和教育工作者之间的合作是将生成式人工智能成功融入计算机科学教育的关键。]]></description>
-      <guid>https://t.me/hn_summary/87761</guid>
-      <pubDate>Fri, 03 May 2024 17:59:55 GMT</pubDate>
+      <title>GitHub 上的“My HomeLab”项目展示了作者的个人技术设置，包括设备 [...]</title>
+      <link>https://t.me/hn_summary/87807</link>
+      <description><![CDATA[显示 HN：我的 HomeLab（以及其他很酷的东西）
+GitHub 上的“My HomeLab”项目展示了作者的个人技术设置，包括他们正在开发的设备、软件和项目。作者计划在电子表格中添加价格、购买详细信息和对项目进行分类，以及创建指南和历史项目文档。他们还计划致力于 Steam Deck、服务器设置、主 PC/笔记本电脑/手机升级、音频设备、摄影设备、即将发布的评论、编​​程/IT 项目以及各种其他想法。该项目因其详细的文档以及作者对未来改进和添加的计​​划而脱颖而出。]]></description>
+      <guid>https://t.me/hn_summary/87807</guid>
+      <pubDate>Sat, 04 May 2024 00:25:23 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇博文中，托尼·芬奇 (Tony Finch) 挑战了使用 sudo 必要性的主流信念 [...]</title>
-      <link>https://t.me/hn_summary/87760</link>
-      <description><![CDATA[不要
-在这篇博文中，Tony Finch 挑战了出于安全目的而使用 sudo 的必要性的主流观点。他认为 sudo 的设计缺陷和复杂的规则语言实际上使其作为安全防护和审计工具的有效性降低。 Finch 分享了他在该行业的工作经验，并对 sudo 的广泛采用提出了质疑，尤其是在单用户工作站的环境中。他建议使用 real(8) 和 userv 等替代方案来实现更好的安全实践。 Finch 的非传统观点揭示了在各种系统管理场景中使用 sudo 的复杂性和局限性。]]></description>
-      <guid>https://t.me/hn_summary/87760</guid>
-      <pubDate>Fri, 03 May 2024 17:55:49 GMT</pubDate>
+      <title>[媒体]在明尼阿波利斯郊外的伍德劳恩露台 (Woodlawn Terrace) 移动房屋公园，居民面临着 [...]</title>
+      <link>https://t.me/hn_summary/87806</link>
+      <description><![CDATA[移动房屋业主购买他们居住的土地 
+在明尼阿波利斯郊外的伍德劳恩露台 (Woodlawn Terrace) 移动房屋公园，居民担心被私人投资者吞并。退休顾问贝夫·阿德里安 (Bev Adrian) 牵头通过 Roc USA 购买了该公园，创建了一个居民拥有的社区。这种模式已被证明是成功的，租金涨幅较低且所有权稳定。联邦政府的价格法案将为装配式住房的改善提供资金。像纳蒂维达·塞菲尔德这样的活动家正在推动更多的合作社，与沃伦·巴菲特的克莱顿住宅公司等私人业主作斗争。像丽亭酒店的苏阿德这样的居民正在承担起责任，他们展示了一种新的方式，将住房视为社区的努力，而不仅仅是一项投资。 （根据 88% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/87806</guid>
+      <pubDate>Sat, 04 May 2024 00:17:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“trivial-inspect”项目是一个便携式 Common Lisp 工具包，旨在构建 [...]</title>
-      <link>https://t.me/hn_summary/87759</link>
-      <description><![CDATA[用于构建检查器的便携式 Common Lisp 工具包
-“trivial-inspect”项目是一个用于构建检查器的便携式 Common Lisp 工具包。它提供类似于标准检查和描述函数的实用程序，旨在提供全面的信息，包括特定于实现的详细信息。用户可以克隆 Git 存储库并在 REPL 中加载系统以开始使用。该项目提供用于访问字段和对象描述的 API，并在自述文件中提供示例。作者强调提供尽可能多的信息的目标，使该项目在 Common Lisp 生态系统中脱颖而出。]]></description>
-      <guid>https://t.me/hn_summary/87759</guid>
-      <pubDate>Fri, 03 May 2024 17:48:43 GMT</pubDate>
+      <title>[媒体]Ecobee 将停止支持其原有的智能恒温器 Ecobee Smart Th [...]</title>
+      <link>https://t.me/hn_summary/87805</link>
+      <description><![CDATA[16 年后，Ecobee 停止支持原装智能恒温器
+自 2024 年 7 月 31 日起，Ecobee 将停止对其原有智能恒温器、Ecobee 智能恒温器和 Ecobee 能源管理系统 (EMS) 的支持。这意味着远程控制和智能集成将不再起作用。受影响的用户购买新型 Ecobee 恒温器可享受 30% 的折扣。虽然这一决定可能会让一些人感到沮丧，但它凸显了在当今注重升级的世界中支持旧硬件的挑战。此举还引发了人们对智能家居生态系统中依赖云的设备寿命的质疑。 Ecobee 将继续支持其其他传统恒温器，但尚未透露它们将支持新型号多久。]]></description>
+      <guid>https://t.me/hn_summary/87805</guid>
+      <pubDate>Sat, 04 May 2024 00:14:12 GMT</pubDate>
     </item>
     <item>
-      <title>作者正在寻求建议，选择哪个州作为本案的管辖法律管辖权 [...]</title>
-      <link>https://t.me/hn_summary/87758</link>
-      <description><![CDATA[询问 HN：特拉华州 C 型企业管辖法律管辖区 
-作者正在就选择哪个州作为其特拉华州 C 型公司的管辖法律管辖区寻求建议。他们目前居住在 A 州，但计划在初创公司启动后搬到加利福尼亚州或另一个州（B 州）。作者不确定是否选择特拉华州、加利福尼亚州、A 州或 B 州。这一决定至关重要，因为它将影响其公司运营的法律框架。作者正在 news.ycombinator.com。]]></description>
-      <guid>https://t.me/hn_summary/87758</guid>
-      <pubDate>Fri, 03 May 2024 17:46:39 GMT</pubDate>
+      <title>[媒体] RHEL 9.4 现已推出，并扩展了对 RHEL 7 的支持。</title>
+      <link>https://t.me/hn_summary/87804</link>
+      <description><![CDATA[RHEL 保持最新版本 9.4，而 CentOS 7 则获得 Rocky 退休计划&lt; /a&gt;
+RHEL 9.4 现已推出，并扩展了对 RHEL 7 的支持。同时，CentOS Linux 7 即将结束生命周期，但 CIQ 提供了名为 CIQ Bridge 的生命周期扩展，以便用户迁移到 Rocky Linux。 AlmaLinux 也在其中，提供有关从 CentOS 7 迁移到 AlmaLinux 8 的文档。此外，AlmaLinux 还建立了高性能计算特别兴趣组，重点关注在超级计算机上运行 Linux。由于免费发行版具有节省成本的潜力，企业参与者对这一领域很感兴趣。数值计算和人工智能应用向 GPU 硬件的转变正在推动这一趋势。]]></description>
+      <guid>https://t.me/hn_summary/87804</guid>
+      <pubDate>Sat, 04 May 2024 00:06:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 南非 Xolobeni 社区的社区领袖 Nonhle Mbuthuma 面临着 [...]</title>
-      <link>https://t.me/hn_summary/87757</link>
-      <description><![CDATA[南非的一个社区阻止了壳牌石油公司的发展 
-南非 Xolobeni 社区的社区领袖 Nonhle Mbuthuma 由于反对该地区拟议的采矿项目而面临威胁和暴力。尽管遭到反对和个人危险，姆布图玛和她的同事们还是成功地停止了钛矿的建设，现在正在与壳牌石油公司沿狂野海岸勘探的计划作斗争。姆布图玛对保护社区环境、文化和生计的奉献精神为她赢得了国际认可，但她在为该地区可持续发展而持续奋斗的过程中仍然面临着威胁和挑战。]]></description>
-      <guid>https://t.me/hn_summary/87757</guid>
-      <pubDate>Fri, 03 May 2024 17:45:35 GMT</pubDate>
+      <title>Niklaus Wirth 的遗产通过 Oberon RISC 仿真器和 OBNC 编译器得以延续，将 O [...]</title>
+      <link>https://t.me/hn_summary/87803</link>
+      <description><![CDATA[Trivium
+Niklaus Wirth 的遗产通过 Oberon RISC 仿真器和 OBNC 编译器得以延续，将 Oberon 代码转换为 C。Ben Cox 探索联邦宇宙，而 Heather Macbeth 则深入研究使用 Lean 进行数学证明。 Soupault 是一个独特的静态网站生成器，可以自动进行 HTML 编辑。 Anton Lorenzen 和团队提出了二叉搜索树的功能算法。 Sorbus Computer 和 Franz Morat KG 电视计算机系统 6800 提供简单的计算解决方案。讨论了 Unger 和 Decker 对 Fraktur 类型设计的影响，以及 PDP11/40 上 k 的奥秘。 Trivium 的世界充满了争议和惊喜。]]></description>
+      <guid>https://t.me/hn_summary/87803</guid>
+      <pubDate>Sat, 04 May 2024 00:05:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Y Combinator 合伙人兼 Monzo Bank 创始人 Tom Blomfield 透露，投资 [...]</title>
-      <link>https://t.me/hn_summary/87756</link>
-      <description><![CDATA[投资者不会告诉你他们转手的真正原因启动
-Y Combinator 合伙人兼 Monzo Bank 创始人 Tom Blomfield 透露，投资者通常不会给出放弃初创公司的真正原因，因为创始人缺乏信心是一个常见的根本问题。投资者回报的幂律强调初创公司需要以取得巨大成功来吸引风险投资的兴趣。了解目标市场并在筹款中创造杠杆是至关重要的策略。天使投资人用心投资，可以提供有价值的介绍。创始人来自投资者的反馈可能会产生误导，因此对投资者进行尽职调查对于避免潜在冲突至关重要。]]></description>
-      <guid>https://t.me/hn_summary/87756</guid>
-      <pubDate>Fri, 03 May 2024 17:41:30 GMT</pubDate>
+      <title>[媒体] 日本动漫机器人是等距的还是异距的？</title>
+      <link>https://t.me/hn_summary/87802</link>
+      <description><![CDATA[日本动漫机器人是等长还是异速？
+在日本动漫世界中，机器人自 20 世纪 70 年代以来一直是一个流行的主题，其中《无敌铁金刚》和《高达》等标志性系列引领潮流。这些机器人分为超级机器人和真实机器人，具有独特的特征和设计。这项研究探讨了动漫机器人是否遵循其高度和质量之间的比例关系，以确定它们是等长还是异速生长。通过分析参考书中的数据，研究人员发现大多数动漫机器人都表现出与人体相似的等距缩放。然而，像巨型超时空要塞机器人这样的异常现象挑战了这一趋势，凸显了动漫机器人设计的多样性。 （根据 48% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/87802</guid>
+      <pubDate>Fri, 03 May 2024 23:54:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]过度优化的现代诅咒正在困扰各个行业，从 eBay reselli [...]</title>
-      <link>https://t.me/hn_summary/87755</link>
-      <description><![CDATA[过度优化的现代诅咒
-过度优化的现代诅咒正在困扰各个行业，从 eBay 转售到餐厅预订再到约会应用程序。随着数据和数字工具的涌入，一些用户找到了最大化其优势的方法，而其他人则处于劣势并造成负面的社会后果。eBay 转售中算法和机器人的兴起、餐厅预订的自动化以及约会应用程序界面的操纵都是数据访问如何为某些用户过度优化系统的例子。这种趋势也延伸到旅行，互联网抹去了隐藏宝石的概念，导致旅游目的地人满为患。过度优化的后果在现代生活的各个方面变得越来越明显。（基于 64% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/87755</guid>
-      <pubDate>Fri, 03 May 2024 17:18:49 GMT</pubDate>
+      <title>标题：加拿大政府正在对其穷人和残疾人实施安乐死</title>
+      <link>https://t.me/hn_summary/87801</link>
+      <description><![CDATA[加拿大政府正在对穷人和残疾人实施安乐死
+标题：加拿大政府正在对穷人和残疾人实施安乐死
+
+摘要：
+在加拿大，临终医疗援助 (MAiD) 计划因其对穷人和残疾人的影响而受到审查。四肢瘫痪的诺曼德·莫尼尔 (Normand Meunier) 因无法使用床垫而导致褥疮疼痛而选择结束生命。倡导者警告说，MAiD 使弱势群体处于危险之中，有些人宁愿选择死亡也不愿在贫困的系统中挣扎。该计划扩大到涵盖精神疾病，这引发了人们的担忧，即由于社会和心理健康护理不足，更多人可能会过早死亡。这一备受争议的做法凸显了国家实施的紧缩政策和管理不善对边缘化社区造成的严重后果。]]></description>
+      <guid>https://t.me/hn_summary/87801</guid>
+      <pubDate>Fri, 03 May 2024 23:20:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“飞行汽车”的想法长期以来一直吸引着梦想家的想象力，但真正的[...]</title>
-      <link>https://t.me/hn_summary/87754</link>
-      <description><![CDATA[飞行汽车已死
-“飞行汽车”的想法长期以来一直吸引着梦想家的想象力，但现实情况是，将公路汽车和飞机的功能相结合会导致车辆不太适合这两​​者。 BlackFly 和 Helix eVTOL 个人飞机背后的 Pivotal 公司制造了比塞斯纳飞机更容易使用的超轻型飞机，并且可以从短跑道起飞。尽管私人飞行具有吸引力，但飞行汽车的复杂性和风险使其成为未来不切实际的交通方式。]]></description>
-      <guid>https://t.me/hn_summary/87754</guid>
-      <pubDate>Fri, 03 May 2024 17:16:43 GMT</pubDate>
+      <title>[媒体]德克萨斯 A&M 大学系统已投票决定在 2028 年之前关闭位于卡塔尔的校园，理由是 [...]</title>
+      <link>https://t.me/hn_summary/87800</link>
+      <description><![CDATA[德克萨斯农工大学卡塔尔校区将于 2028 年关闭 
+德克萨斯 A&amp;M 大学系统已投票决定在 2028 年之前关闭其位于卡塔尔的校园，理由是其重点是主要在德克萨斯州和美国境内推进其核心使命。该决定是由于中东局势加剧而做出的，将经历一个为期四年的过程，以确保学生完成学业、教职员工得到支持以及研究义务得到履行。卡塔尔校区是教育城的一部分，二十年来一直是德克萨斯农工大学的遗产，但董事会相信该大学无需在卡塔尔设立实体机构即可继续进行全球研究和教育。]]></description>
+      <guid>https://t.me/hn_summary/87800</guid>
+      <pubDate>Fri, 03 May 2024 23:19:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]关于二氧化碳清除的研究凸显了各国在 [...]</title>
-      <link>https://t.me/hn_summary/87753</link>
-      <description><![CDATA[二氧化碳清除“差距”显示各国在 1.5C 方面“缺乏进展”升温极限
-关于二氧化碳清除的研究突显了各国在将全球变暖幅度限制在 1.5 摄氏度方面的进展存在令人担忧的“差距”。尽管目前的计划未达到必要的 CDR 数量，但未来情景中对 CDR 的依赖仍存在争议。一些专家担心，未来 CDR 的承诺可能会阻止立即削减化石燃料，而其他专家则警告与陆地 CDR 相关的生态和社会风险。该研究的主要作者承认这些担忧，并强调评估各国在 CDR 方面进展的重要性。分析揭示了不同情景下CDR的显着不足，引发了专家们对CDR的作用和可持续性的争论。 （根据80%的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/87753</guid>
-      <pubDate>Fri, 03 May 2024 17:15:38 GMT</pubDate>
+      <title>[媒体]巴黎启用了一个巨大的蓄水池，以清理塞纳河 [...]</title>
+      <link>https://t.me/hn_summary/87799</link>
+      <description><![CDATA[巴黎启用巨型蓄水池，为奥运会游泳清洁塞纳河
+巴黎启用了一个大型蓄水池，为即将到来的巴黎奥运会清理塞纳河，确保马拉松游泳和铁人三项比赛的安全环境。该盆地可容纳相当于20个奥运会游泳池的脏水，防止含有细菌的废水进入河流。市长安妮·伊达尔戈承诺在奥运会前在塞纳河游泳，展示该市对水质的承诺。耗资 14 亿欧元的清理工作显着改善了河流的水质，现在有 35 种鱼类在曾经受到污染的水域中繁衍生息。计划明年向公众开放沐浴场所。]]></description>
+      <guid>https://t.me/hn_summary/87799</guid>
+      <pubDate>Fri, 03 May 2024 22:27:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
