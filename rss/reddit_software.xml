@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 04 May 2024 03:13:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 06:14:58 GMT</lastBuildDate>
+    <item>
+      <title>在 Windows 11 上安装 Windows Visual C++ 2010 的问题</title>
+      <link>https://www.reddit.com/r/software/comments/1cjrc5t/issues_installing_windows_visual_c_2010_on/</link>
+      <description><![CDATA[我正在尝试通过电脑上的 EA 应用程序下载《模拟人生 4》，但我始终不知道如何下载要安装的 2010 Visual C++ Redistributable。每次我尝试这样做时，它都会说有另一个安装正在进行中，但据我所知，没有。在尝试安装 2010 c++ 之前，我已经取消了所有安装程序，关闭了 EA，取消了 Sims 安装，卸载了安装程序，并重新启动了我的计算机无数次，但似乎没有任何效果。请帮忙。   由   提交 /u/queennothing9264   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cjrc5t/issues_installing_windows_visual_c_2010_on/</guid>
+      <pubDate>Sat, 04 May 2024 03:54:56 GMT</pubDate>
+    </item>
     <item>
       <title>推荐可在 YouTube 上进行直播的纯命令行软件</title>
       <link>https://www.reddit.com/r/software/comments/1cjpwyl/recommendation_for_commandline_only_software_that/</link>
@@ -13,7 +20,7 @@
       <pubDate>Sat, 04 May 2024 02:35:06 GMT</pubDate>
     </item>
     <item>
-      <title>Windows InstallShield 向导安装 Avid Media Composer 时有问题吗？</title>
+      <title>Windows installshield 向导安装 Avid Media Composer 时出现问题？</title>
       <link>https://www.reddit.com/r/software/comments/1cjm2m6/problem_with_windows_installshield_wizard/</link>
       <description><![CDATA[嗨，我已经尝试了 3 天从官方网站为 Windows 中的 uni 项目安装 avid mediacomposer，但每当 installshield向导即将结束安装，它会显示“恢复操作”之类的内容，并且进度条向后移动。然后出现一个窗口，显示“安装程序在完成安装之前停止，您的系统尚未修改。”要在其他时间完成安装，请再次执行”我已经尝试了大约 12 次，但它无法正常工作。 也许这与我第一次尝试安装速度太慢有关，我认为它无法正常工作，所以我只是从任务管理器中将其关闭然后再试一次？ 我尝试从 avid 安装以前的版本，但发生了同样的错误，还尝试删除我能找到的每个 avid 文件并重试，然后我重新启动了大约 1000 次。还可以尝试以管理员身份直接从安装文件执行安装（无论如何也会打开 installshield） 系统规格： 处理器； AMD Ryzen 5 5500U，配备 Radeon Graphics 2.10 GHz 安装的内存：8,00 GB（可用 7,33 GB） x64 位处理器 Windows：Windows 11首页   由   提交/u/Longclaw10   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjm2m6/problem_with_windows_installshield_wizard/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>我的剪贴板坏了。</title>
       <link>https://www.reddit.com/r/software/comments/1cje2tn/my_clipboard_is_broken/</link>
-      <description><![CDATA[​ https://preview.redd.it/qw2460wov8yc1.png?width=310&amp;format=png&amp;auto=webp&amp;s=829c64017a24d9bbd5 9f604fe15111aaba7fc8fe&lt; /p&gt;   由   提交/u/DJSharp15  [链接] [评论]]]></description>
+      <description><![CDATA[​ https://preview.redd.it/qw2460wov8yc1.png?width=310&amp;format=png&amp;auto=webp&amp;s=829c64017a24d9bbd59f604fe15111aaba7fc8fe    提交人    /u/DJSharp15   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cje2tn/my_clipboard_is_broken/</guid>
       <pubDate>Fri, 03 May 2024 17:16:53 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Fri, 03 May 2024 15:25:02 GMT</pubDate>
     </item>
     <item>
-      <title>我已经使用 Arsclip 多年了，现在当我使用弹出热键时它会崩溃。发生了什么？</title>
+      <title>使用 Arsclip 已经很多年了，现在当我使用弹出热键时它就坏了。这是怎么回事？</title>
       <link>https://www.reddit.com/r/software/comments/1cjb2i4/been_using_arsclip_for_many_years_now_it_breaks/</link>
       <description><![CDATA[问题发生后，我升级到最新版本；我下载了新版本并将新版本移至原始文件夹，该文件夹替换了旧版本，因此我保留了原始数据库。   由   提交 /u/Novel_Entry   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjb2i4/been_using_arsclip_for_many_years_now_it_breaks/</guid>
@@ -71,14 +78,14 @@
     <item>
       <title>有好的电脑清洁剂吗？</title>
       <link>https://www.reddit.com/r/software/comments/1cjah01/good_pc_cleaners/</link>
-      <description><![CDATA[有哪些适用于 Windows 的好清理软件？我以前用过 ccleaner，但听说它对电脑不好    提交人    /u/ReddishOnion   [link] [comments]]]></description>
+      <description><![CDATA[有哪些好的 Windows 清理软件？我曾经使用过 ccleaner，但我听说它对你的电脑不好   由   提交 /u/ReddishOnion   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjah01/good_pc_cleaners/</guid>
       <pubDate>Fri, 03 May 2024 14:46:01 GMT</pubDate>
     </item>
     <item>
       <title>Alternatives to Lu Dashi （鲁大师）</title>
       <link>https://www.reddit.com/r/software/comments/1cja7h0/alternatives_to_lu_dashi_鲁大师/</link>
-      <description><![CDATA[我正在寻找一个简单的程序，它只会在我的计算机温度升高时通知我。   由   提交 /u/Plantaineous   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一个简单的程序，如果我的计算机温度过高，它会通知我。    提交人    /u/Plantaineous   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cja7h0/alternatives_to_lu_dashi_鲁大师/</guid>
       <pubDate>Fri, 03 May 2024 14:34:49 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>为 Exchange 电子邮件帐户寻求 Thunderbird 的替代方案</title>
       <link>https://www.reddit.com/r/software/comments/1cj9ryz/seeking_an_alternative_to_thunderbird_for/</link>
-      <description><![CDATA[嘿各位 Reddit 用户，让我们直接进入主题吧。我目前管理六个电子邮件帐户，其中两个是与我工作的公司关联的 Exchange 帐户。其余四个帐户有多种用途，包括个人使用和求职。直到最近，我还依赖 Thunderbird 作为我的电子邮件客户端。但是，它突然停止与我的 Exchange 帐户顺利运行。虽然它仍然可以连接到服务器，但拒绝发送电子邮件。有趣的是，在另一台具有相同设置的计算机上，Thunderbird 可以完美运行。现在，我正在寻找替代的电子邮件客户端 - 一个没有任何限制并且可以与 Exchange 电子邮件无缝协作的客户端。你们有什么建议吗？我非常感谢您的见解！   由   提交/u/sana9675  [链接] [评论]]]></description>
+      <description><![CDATA[嗨，Redditors 的朋友们，让我们直接进入主题吧。我目前管理着六个电子邮件帐户，其中两个是我工作的公司关联的 Exchange 帐户。其余四个帐户用于各种目的，包括个人使用和求职。直到最近，我都依赖 Thunderbird 作为我的电子邮件客户端。然而，它突然无法顺利地与我的 Exchange 帐户配合使用。虽然它仍然可以连接到服务器，但它拒绝发送电子邮件。有趣的是，在另一台具有相同设置的计算机上，Thunderbird 运行正常。现在，我正在寻找一个替代的电子邮件客户端 - 一个没有任何限制并且可以与 Exchange 电子邮件无缝协作的客户端。你们有人有什么建议吗？我将非常感谢您的见解！    提交人    /u/sana9675   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cj9ryz/seeking_an_alternative_to_thunderbird_for/</guid>
       <pubDate>Fri, 03 May 2024 14:16:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找某种模式识别软件</title>
-      <link>https://www.reddit.com/r/software/comments/1cj8w3m/looking_for_some_kind_of_pattern_recognition/</link>
-      <description><![CDATA[我不确定是否存在这样的东西，但基本思想是这样的：我给出一系列问题的输入以及尝试的答案这些问题以及正确答案的总数。如果有足够的数据，它有望确定正确的答案集。    由   提交 /u/Master_Doggo873   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cj8w3m/looking_for_some_kind_of_pattern_recognition/</guid>
-      <pubDate>Fri, 03 May 2024 13:38:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
