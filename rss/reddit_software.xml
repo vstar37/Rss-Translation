@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 04 May 2024 12:18:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 15:11:35 GMT</lastBuildDate>
+    <item>
+      <title>我创建了一个简单的开源电视节目重命名工具：BulkRename</title>
+      <link>https://www.reddit.com/r/software/comments/1ck143d/i_created_a_simple_opensource_tvshow_renaming/</link>
+      <description><![CDATA[嗨嗨！ 由于我积累了大量数据，我想正确命名文件并将所有内容保留在命令。这就是为什么我多年前开发了一个可以为我完成这项工作的工具。我知道还有其他工具，例如 sonarr/radarr，但是当我开发该工具时，我找不到任何免费软件能够完全满足我的要求：整齐地命名我的电视节目。 最近我决定以开源方式发布该工具，现在它已准备就绪。它非常易于安装和使用，并且功能保持在最低限度。安装、使用、参数、开发都有详细记录，参见下面的链接。如果我忘记了某些内容或不清楚，请告诉我。 项目链接 GitHub 存储库：https://github.com/Ramo-Y/BulkRename Docker 中心：https://hub.docker.com/r/ramoy/bulkrename 安装 对于最简单的安装，可以使用以下 docker-compose.yml： 版本：&#39;3.7&#39; 服务：bulkrename：图像：ramoy/bulkrename：最新container_name：“bulkrename”环境：ASPNETCORE_URLS：http://*:8080 SupportedFileEndings：“mkv;mp4;m4v;avi”要忽略的文件夹：“.@__thumb” # 例如，这是由 QNAP 生成的文件夹，该文件夹会导致错误 TZ:“Europe/Zurich”端口： - “8080:80”卷：-“/share/Downloads/Files://app//Files//” # 重命名时您的电视节目文件必须位于其中的文件夹 - “/share/Downloads/Logs://app//Logs//” # 可选择在 docker 外部提供日志 用法 简单总结一下，您可以在工具的工作文件夹中创建一个文件夹结构，如下所示： &lt; pre&gt;/WorkingDirectory /行尸走肉 /第 01 季 twd.s1e01.GERMAN.5.1.UNTOUCHED.DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv twd.s1e02.GERMAN.5.1.UNTOUCHED .DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv twd.s1e03.GERMAN.5.1.UNTOUCHED.DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv twd.s1e04.GERMAN .5.1.UNTOUCHED.DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv twd.s1e05.GERMAN.5.1.UNTOUCHED.DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv twd .s1e06.GERMAN.5.1.UNTOUCHED.DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv  然后您可以通过 Web 界面打开预览，显示如何该文件将被重命名。新名称将如下所示（通常在 Web UI 中显示为前后预览，但我无法在此处插入图像，请参阅 文档): /WorkingDirectory /The Walking Dead /Season 01 The Walking Dead - S01E01.mkv Dead - S01E02.mkv The Walking Dead - S01E03.mkv The Walking Dead - S01E04.mkv The Walking Dead - S01E05.mkv The Walking Dead - S01E06.mkv  如果一切看起来都不错，你如果您愿意，可以确认重命名并保存历史记录。 还有一个历史记录选项卡，其中显示所有重命名历史记录。要激活此功能，必须在 PersistanceMode 中设置 Json 或 Database。请参阅PersistanceMode 结论 该工具已经为我节省了大量时间，而且我对结果一直很满意。当然还有改进的空间，但它已经完成了工作。如果您有任何更改请求或改进建议，请随时将其写在此处，在 GitHub 上创建问题，或直接在 GitHub 上提出拉取请求（请按照 文档）。 某些函数适用于非常高级的环境，例如 Seq 中的日志记录或 SQL 中的存储数据库，但如果您不需要它们，可以将它们禁用。 请不要在颜色选择和设计上评判我，我是后端开发人员，我害怕 CSS。    由   提交 /u/Ramo-Y   /u/Ramo-Y  reddit.com/r/software/comments/1ck143d/i_created_a_simple_opensource_tvshow_renaming/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ck143d/i_created_a_simple_opensource_tvshow_renaming/</guid>
+      <pubDate>Sat, 04 May 2024 14:06:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>OneDrive/GDrive/Mega 的便携版？</title>
+      <link>https://www.reddit.com/r/software/comments/1cjzj9t/portable_version_of_onedrivegdrivemega/</link>
+      <description><![CDATA[我是一名自由职业者。我非常讨厌安装软件。它们总是隐藏大量文件。与便携版不同，它位于一个文件夹中，不会停留。如果我想删除它，它们不会留下残留文件。 我正在处理多个帐户，通过使用便携版，我可以同时打开云存储帐户并进行管理。    提交者    /u/Juniorzkie   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cjzj9t/portable_version_of_onedrivegdrivemega/</guid>
+      <pubDate>Sat, 04 May 2024 12:46:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>防病毒软件和建议</title>
+      <link>https://www.reddit.com/r/software/comments/1cjz2xg/antivirus_softwares_and_recommendations/</link>
+      <description><![CDATA[我父亲沉迷于防病毒软件，因为当他不使用防病毒软件时，他的电脑就会被无数木马文件捕获，他担心这种情况再次发生。然后我们从 BITDEFENDER 订购了 10 种设备计划，适用于 PC、平板电脑和手机。这个软件对我们帮助很大，我们使用得很开心。但现在价格有所上涨。相同的可再生能源计划（转换后）为 50 美元，现在接近 80 美元。在 bitdefender 的质量水平上，我能想到的只有卡巴斯基，它的价格相同。我们应该保留 bitdefender 还是换成卡巴斯基？那些拥有卡巴斯基的人，你喜欢它什么，不喜欢它什么？ https://preview.redd.it/eg997g97keyc1.png?width=348&amp;format=png&amp;auto=webp&amp;s=89fc967318825245153157e7dbb6f 60582830025 &lt; a href=&quot;https://preview.redd.it/guhvbnk7keyc1.jpg?width=700&amp;format=pjpg&amp;auto=webp&amp;s=4521792e36fc6cd455ab0a2a3c4a6609ea152820&quot;&gt;https://preview.redd.it/guhvbnk7keyc1.jpg?width =700&amp;format=pjpg&amp;auto=webp&amp;s=4521792e36fc6cd455ab0a2a3c4a6609ea152820   由   提交/u/Deku4068  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cjz2xg/antivirus_softwares_and_recommendations/</guid>
+      <pubDate>Sat, 04 May 2024 12:22:44 GMT</pubDate>
+    </item>
     <item>
       <title>用于在活动/短剧中播放背景音乐的软件</title>
       <link>https://www.reddit.com/r/software/comments/1cjypzn/software_for_running_background_music_in/</link>
@@ -64,51 +85,30 @@
     <item>
       <title>环绕声</title>
       <link>https://www.reddit.com/r/software/comments/1cje2ic/surround_sound/</link>
-      <description><![CDATA[我试图将音频渲染得像真实的一样，有没有像杜比全景声渲染器这样的免费软件，我试过在搅拌机中渲染声音，但效果不是很好    提交人    /u/Computerslord   [link] [comments]]]></description>
+      <description><![CDATA[我正在尝试像现实生活一样渲染音频是否有像杜比全景声渲染器这样的免费软件我尝试在搅拌机中渲染声音，但效果不太好&lt; /p&gt;   由   提交 /u/Computerslord   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cje2ic/surround_sound/</guid>
       <pubDate>Fri, 03 May 2024 17:16:32 GMT</pubDate>
     </item>
     <item>
       <title>剪切、修剪和组合</title>
       <link>https://www.reddit.com/r/software/comments/1cjbedc/cut_trim_combine/</link>
-      <description><![CDATA[大家好，您能推荐一款适用于 Macbook 的简单剪切、修剪和组合软件吗？我们谈论的是每个 1-2 秒的视频有成百上千次剪辑。    由   提交/u/ExistingAd8421   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，您能推荐一款适用于 Macbook 的简单剪切、修剪和合并软件吗？我们说的是每段 1-2 秒的视频中有数百和数千个剪辑。     提交人    /u/ExistingAd8421   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjbedc/cut_trim_combine/</guid>
       <pubDate>Fri, 03 May 2024 15:25:02 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Arsclip 已经很多年了，现在当我使用弹出热键时它就坏了。这是怎么回事？</title>
+      <title>我已经使用 Arsclip 多年了，现在当我使用弹出热键时它会崩溃。发生了什么事？</title>
       <link>https://www.reddit.com/r/software/comments/1cjb2i4/been_using_arsclip_for_many_years_now_it_breaks/</link>
-      <description><![CDATA[问题发生后，我升级到最新版本；我下载了新版本并将新版本移至原始文件夹，该文件夹替换了旧版本，因此我保留了原始数据库。   由   提交 /u/Novel_Entry   [链接] [评论]]]></description>
+      <description><![CDATA[出现问题后，我升级到了最新版本；我下载了新版本并将新版本移动到我原来的文件夹中，替换了旧版本，因此我保留了原始数据库。    提交人    /u/Novel_Entry   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjb2i4/been_using_arsclip_for_many_years_now_it_breaks/</guid>
       <pubDate>Fri, 03 May 2024 15:11:10 GMT</pubDate>
     </item>
     <item>
-      <title>简单的歌曲剪切程序</title>
+      <title>简单的程序来剪切歌曲</title>
       <link>https://www.reddit.com/r/software/comments/1cjaim2/easy_program_to_cut_songs/</link>
-      <description><![CDATA[我需要剪切歌曲的开头作为铃声。我以前用 Windows 自带的基本编辑器来做这件事，但现在没有人使用它了 有没有什么简单的免费程序可以用来剪切歌曲。 我听说过 Audacity Drama，也试图自己找一个程序，但它们都是多混音的，里面都是奇怪的文件。我只想找个东西来剪切我的 mp3 文件    提交人    /u/moichispa   [link] [评论]]]></description>
+      <description><![CDATA[我需要剪切歌曲的开头作为铃声。我曾经使用 Windows 自带的基本编辑器来做到这一点，但没有人知道有一个简单的免费程序可以用来剪切歌曲。 我听说过大胆的戏剧，并试图自己找到一个程序，但所有这些程序都与奇怪的文件混合。我只是想要一些东西来剪切我的 mp3 文件   由   提交 /u/moichispa   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjaim2/easy_program_to_cut_songs/</guid>
       <pubDate>Fri, 03 May 2024 14:47:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>有好的电脑清洁剂吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1cjah01/good_pc_cleaners/</link>
-      <description><![CDATA[有哪些好的 Windows 清理软件？我曾经使用过 ccleaner，但我听说它对你的电脑不好   由   提交 /u/ReddishOnion   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cjah01/good_pc_cleaners/</guid>
-      <pubDate>Fri, 03 May 2024 14:46:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alternatives to Lu Dashi （鲁大师）</title>
-      <link>https://www.reddit.com/r/software/comments/1cja7h0/alternatives_to_lu_dashi_鲁大师/</link>
-      <description><![CDATA[我正在寻找一个简单的程序，它只会在我的计算机温度升高时通知我。   由   提交 /u/Plantaineous   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cja7h0/alternatives_to_lu_dashi_鲁大师/</guid>
-      <pubDate>Fri, 03 May 2024 14:34:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在寻找一款适用于任何视频/直播等的实时音频翻译软件。</title>
-      <link>https://www.reddit.com/r/software/comments/1cja602/im_looking_for_an_live_audio_translator_software/</link>
-      <description><![CDATA[我正在寻找一款可以将不同语言实时翻译成英语的软件，但我想通过 YouTube、Twitch 或各种新闻来源。 无论是 Windows 还是 Android，那就太好了。感谢您的帮助！   由   提交 /u/anonymousredditorPC   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cja602/im_looking_for_an_live_audio_translator_software/</guid>
-      <pubDate>Fri, 03 May 2024 14:33:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
