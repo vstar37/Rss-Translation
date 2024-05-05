@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 05 May 2024 00:54:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 03:12:54 GMT</lastBuildDate>
     <item>
       <title>在 Django 和 Headless CMS 之间进行网站开发选择：寻求建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1cke5ly/choosing_between_django_and_headless_cms_for/</link>
@@ -13,7 +13,7 @@
       <pubDate>Sat, 04 May 2024 23:57:49 GMT</pubDate>
     </item>
     <item>
-      <title>我一直在使用名为 Grapesjs 的开源软件，但是，由于某种原因，一个人无法拖动项目？一个人选择固定位置，但是，然后一个人无法将前文本框拖动到它的位置..一个人必须将其放在顶部和左侧像素距离..但是，不起作用？</title>
+      <title>我一直在使用名为 Grapesjs 的开源软件，但是，由于某种原因，一个人无法拖动项目？一个人选择固定位置，但是，一个人无法将前文本框拖动到它的位置..一个人必须将其放在顶部和左侧像素距离..但是，不起作用？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</link>
       <description><![CDATA[一个人无法完成数百件事情，一个人必须能够拖放？    由   提交/u/savant78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</guid>
@@ -57,7 +57,7 @@
     <item>
       <title>开源维护者 - 告诉我你的挣扎</title>
       <link>https://www.reddit.com/r/opensource/comments/1ciq1xo/open_source_maintainers_tell_me_about_your/</link>
-      <description><![CDATA[我最近看到了 2021 年的这篇博客文章： 开源维护者如何让贡献者 - 以及他们自己 - 满意 本文讨论了开源项目维护者面临的许多问题：  受欢迎的项目可以吸引如此多的潜在贡献者，以至于维护者不得不花更多的时间来协调他们的活动而不是编写代码 需要热情好客以促进社区发展并吸引贡献 通常，工作量比任何人实际能做的都要多 ......还有更多  我正在开展一个项目，我相信通过将 LLM 与 Github 结合起来，它可以解决很多这些问题行动。 作为开源维护者，你们生活中最大的痛点是什么？    提交人    /u/stellarcitizen   [链接] [评论]]]></description>
+      <description><![CDATA[我最近看到了这篇 2021 年的博文： 开源维护者如何让贡献者和他们自己开心 本文讨论了开源项目维护者面临的一些问题：  受欢迎的项目可以吸引如此多的潜在贡献者，以至于维护者必须花费更多的时间来协调他们的活动，而不是编写代码 为了培育社区和吸引贡献，需要受到欢迎 &gt; 通常比任何人实际能做的工作还要多 ...以及更多  我正在开发项目，我相信通过将 LLM 与 Github Actions 结合起来可以帮助解决很多这些问题。 最大的是什么作为开源维护者，您生活中的痛点是什么？   由   提交 /u/stellarcitizen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ciq1xo/open_source_maintainers_tell_me_about_your/</guid>
       <pubDate>Thu, 02 May 2024 20:32:54 GMT</pubDate>
     </item>
@@ -69,7 +69,7 @@
       <pubDate>Thu, 02 May 2024 19:59:53 GMT</pubDate>
     </item>
     <item>
-      <title>我一直在寻找一个开源的拖放 GUI/网站构建器，并且，我发现了 2、Grapesjs 和 Vvvebjs，但是，由于某种原因，它们都没有拖放功能，尽管这么说，确实一个人必须首先启用/禁用某些东西？</title>
+      <title>我一直在寻找一个开源的拖放 GUI/网站构建器，并且，我找到了 2、Grapesjs 和 Vvvebjs，但是，由于某种原因，它们都没有拖放功能，尽管这么说，确实一个人必须首先启用/禁用某些东西？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cio1bb/i_was_looking_for_an_open_source_drag_and_drop/</link>
       <description><![CDATA[两者都使用“block”系统中的元素不是独立存在于页面上而是相互强制的，一个人不能制作 6 个文本框，然后将它们放在页面上的不同位置，它们都必须被压缩..so..它不起作用？   由   提交/u/savant78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cio1bb/i_was_looking_for_an_open_source_drag_and_drop/</guid>
@@ -97,7 +97,7 @@
       <pubDate>Thu, 02 May 2024 13:11:12 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟委员会近期公布了《网络弹性法案》相关标准要求的公开草案，首次明确要求尊重开源开发者和用户的需求。</title>
+      <title>欧盟委员会最近发布了与《网络弹性法案》相关的标准请求的公开草案。第一次明确要求尊重开源开发人员和用户的需求。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cie98e/the_european_commission_recently_published_a/</link>
       <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cie98e/the_european_commission_recently_published_a/</guid>
