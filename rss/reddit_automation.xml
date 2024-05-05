@@ -4,7 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sun, 05 May 2024 12:18:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 15:12:09 GMT</lastBuildDate>
     <item>
       <title>阿尔泰克斯</title>
       <link>https://www.reddit.com/r/automation/comments/1ckcm91/alteryx/</link>
@@ -20,16 +20,16 @@
       <pubDate>Sat, 04 May 2024 14:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Instagram 的 AI 免费创建 25 个 Instagram 帖子！</title>
+      <title>使用 Instagram 人工智能免费创建 25 个 Instagram 帖子！</title>
       <link>https://www.reddit.com/r/automation/comments/1cit994/create_25_instagram_posts_for_free_with_ai_for/</link>
-      <description><![CDATA[  由    /u/Naive_Spread_3576  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/Naive_Spread_3576   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cit994/create_25_instagram_posts_for_free_with_ai_for/</guid>
       <pubDate>Thu, 02 May 2024 22:49:48 GMT</pubDate>
     </item>
     <item>
       <title>自动将 LinkedIn 连接信息发送到 ClickUp 任务创建</title>
       <link>https://www.reddit.com/r/automation/comments/1ciihl1/automating_linkedin_connection_information_to/</link>
-      <description><![CDATA[是否可以自动化此过程？当有人在 LinkedIn 上接受连接请求时，将使用其名称创建一个 ClickUp 任务，并且该任务将包含他们的所有信息（姓名、毕业日期、LinkedIn 链接、简历等）。 可以使用 Zapier、Pabbly Connect 或 n8n 完成此操作吗？    提交人    /u/tush_6433668   [link] [评论]]]></description>
+      <description><![CDATA[是否可以自动化此过程？当某人在 LinkedIn 上接受连接请求时，将使用他们的姓名创建一个 ClickUp 任务，该任务将包含他们的所有信息（姓名、毕业日期、LinkedIn 链接、简历等）。 可以这可以使用 Zapier、Pabbly Connect 或 n8n 来完成吗？   由   提交/u/tush_6433668   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ciihl1/automating_linkedin_connection_information_to/</guid>
       <pubDate>Thu, 02 May 2024 15:26:51 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>2024 年人工智能开发者路线图</title>
       <link>https://www.reddit.com/r/automation/comments/1ciblqg/the_2024_ai_developer_roadmap/</link>
-      <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/High_Sleep3694   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ciblqg/the_2024_ai_developer_roadmap/</guid>
       <pubDate>Thu, 02 May 2024 09:48:08 GMT</pubDate>
     </item>
@@ -62,7 +62,7 @@
       <pubDate>Wed, 01 May 2024 14:34:14 GMT</pubDate>
     </item>
     <item>
-      <title>基于Google Sheet输入的自动化填表</title>
+      <title>基于 Google Sheet 输入的自动填写表格</title>
       <link>https://www.reddit.com/r/automation/comments/1chgdft/automation_filling_form_based_on_google_sheet/</link>
       <description><![CDATA[我想知道是否可以： 1. 基于 Google Sheet 自动填写表单。例如，表格 1 需要填写 Google 表格 A 至 C 列中的姓名、年龄、地址等基本详细信息。然后我需要它自动移动到表格 2，以填写 Google 表格 D 至 F 列中的详细信息。  从表单中向下滚动选择一个选项  我可以知道如何实现这一点吗？ 谢谢 &lt; /div&gt;  由   提交 /u/PertinentOverthinker   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1chgdft/automation_filling_form_based_on_google_sheet/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>预约今年剩余时间的全科医生。</title>
       <link>https://www.reddit.com/r/automation/comments/1cg4lmh/book_a_gp_appointment_for_the_rest_of_the_year/</link>
-      <description><![CDATA[您好， 我住在欧盟。 长话短说 - 当我需要我的全科医生时，她从来都无法提供服务（30 天内）。她有 10,000 名患者，这太荒谬了，因为我每月要为医疗保健支付相当一部分费用。 上周，我的背部出现了严重的问题，几天都不想好转。但在去看全科医生之前，我不能免费拜访任何专家。我也不能去急诊室，那里的人几乎都快死了，我告诉他们我的背疼。 所以我想出了一个计划，在今年余下的时间里每天都预约一次，然后在我不需要的时候每天早上取消预约。我希望有人注意到这一点，因为这将是我对这个有缺陷的系统的小小抗议。  无论如何，我无法将其删除，因为他们的预订系统不可用，我无法录制鼠标宏，因为月份和日期不同，每次我都必须单击不同的区域。所以我正在寻找有关如何实现此目标的想法。  附言：我在自动化方面几乎没有经验。    提交人    /u/Dragonoidl337   [link] [评论]]]></description>
+      <description><![CDATA[你好， 我住在欧盟。  所以，长话短说 - 当我需要我的全科医生时，她永远不会出现（30 天内）。她有 10,000 名患者，这很荒谬，因为我每个月都要支付相当一部分的医疗费用。 上周，我的背部出现了严重的问题，好几天都不想消失。但在我去看全科医生之前，我不能（免费）去看任何专科医生。我不能去急诊室，那里的人快要死了，并告诉他们我的背痛。  所以我想出了一个计划，在今年剩下的时间里每天都预约，每天早上不需要的时候取消。我希望有人注意到，因为这将是我对这个破碎系统的小小的抗议。  无论如何，我无法取消它，因为他们的预订系统不可用，而且我无法录制鼠标宏，因为月份和日期不同，我必须点击不同的区域每次。所以我正在寻找如何实现这一目标的想法。  P.S.我在自动化方面的经验几乎为0。   由   提交/u/Dragonoidl337   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cg4lmh/book_a_gp_appointment_for_the_rest_of_the_year/</guid>
       <pubDate>Mon, 29 Apr 2024 17:14:53 GMT</pubDate>
     </item>

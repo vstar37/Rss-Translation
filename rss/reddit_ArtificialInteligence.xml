@@ -4,27 +4,20 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 05 May 2024 12:18:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 15:12:17 GMT</lastBuildDate>
+    <item>
+      <title>我“制作”的Suno曲子</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ckr26i/suno_tune_i_made/</link>
+      <description><![CDATA[https://suno .com/song/41085ef4-69dd-4a4b-8c49-26b54eacadac 制作为我喜欢这个，它的部分我的创意才华刚刚被这个应用程序过滤掉了哈哈，制作是一个很糟糕的词。 ”歌曲风格”：塑料爱日本酸性爵士乐超冷1980年代早期的合成键盘共鸣 有几个不同的版本，每个版本的风格和作曲都不同，但大部分是相同的流派，但我个人只是喜欢这个。它接近我想要的。  第一个对我来说可用的音乐程序。它是狂野的。它可能不是真正的音乐，感觉是借用的，但尝试起来很有趣。只能想象未来几年。我主要处理人工智能图像，并且拥有美术和图形设计背景。 集体人工智能协作是我定义这件艺术品的方式  &amp; #32；由   提交/u/old_lost_boi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ckr26i/suno_tune_i_made/</guid>
+      <pubDate>Sun, 05 May 2024 13:16:53 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能将如何改变全球经济模式和就业市场？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ckpy5h/how_ai_will_change_global_economy_model_and_job/</link>
-      <description><![CDATA[- 人工智能真的会接管工程工作吗？ - 没有固定收入，经济如何运转？ ​    提交人    /u/sentillious   [link] [评论]]]></description>
+      <description><![CDATA[- 人工智能真的会接管工程工作吗？ - 没有固定收入的经济如何运转？  ​   由   提交 /u/sentillious   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ckpy5h/how_ai_will_change_global_economy_model_and_job/</guid>
       <pubDate>Sun, 05 May 2024 12:16:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要一些帮助，为机器学习大学项目提供此数据中的新功能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cko7kn/i_need_some_help_coming_up_with_new_features_in/</link>
-      <description><![CDATA[基本上这是一个大学项目，他们为我们提供了鸡尾酒/饮料质量的数据集，我们应该训练一个模型以使用他们当时给我们的数据集清理数据并查看准确性是否有所提高，如果是的话，我们应该继续下一步，即进行特征工程以获得更好的准确性，我目前正在努力设计影响准确性的特征以使其更好。 我能想到的是，营养密度，加权密度，酸度到甜度平衡，总酸度。 这些似乎对质量影响不大，只是很小的改进，我认为这个数据集是基于葡萄酒质量的数据集在这里，但教授确实更改了名称和一些数据（他们是这么说的），这是它 https ://www.kaggle.com/datasets/yasserh/wine-quality-dataset（不确定是否基于它，但他们确实说他们将获得一个数据集并更改名称和一些数据正如我之前所说，这是我能找到的最接近的数据）。 这是他们给我们的数据，我们应该使用：https://drive.google.com/file/d/1aLqPn-I8tbC_14GSgHX-rTekuPa-7960/view?usp=sharing  如果您无法在手机上打开数据示例图片，您可以使用它来提供有关新功能的一些想法：https://imgur.com/a/FDeQcQi 我的代码准确率为 87%： import numpy as np import pandas作为pd从sklearn.preprocessing导入MinMaxScaler，StandardScaler从sklearn.svm导入SVC从sklearn.metrics导入accuracy_score从sklearn.ensemble导入RandomForestClassifier从sklearn.metrics导入classification_report，accuracy_score从sklearn.model_selection导入train_test_split df = pd.read_csv(&#39;Cocktail Juice Quality_Training Dataset.csv&#39;) print(df)mean_citric_acid = df[&quot;柠檬酸&quot;].mean() new_df = df[&#39;柠檬酸&#39;].replace(0,mean_citric_acid, inplace=True) df[&#39;水果品质&#39;] = df[&#39;水果质量&#39;].apply(np.round).astype(&#39;int32&#39;) df[&#39;水果质量&#39;] = df[&#39;水果质量&#39;].apply(lambda x: 10 if x &gt; 10 else x) print(df) df[&#39;total_acidity&#39;] = df[&#39;固定酸度&#39;] + df[&#39;柠檬酸&#39;] df[&#39;acidity_to_sweetness_balance&#39;] = df[&#39;total_acidity&#39;] / df[&#39;甜味剂百分比&#39;] df[&#39;加权密度&#39;] = (df[&#39;密度&#39;]*df[&#39;固定酸度&#39;])+df[&#39;密度&#39;]*df[&#39;柠檬酸&#39;] df[&#39;营养密度&#39;] = df [&#39;密度&#39;] / df[&#39;卡路里&#39;] print(df) def map_quality(value): if value &lt;= 4: 返回 &#39;bad&#39; elif 5 &lt;= value &lt;= 6: 返回 &#39;normal&#39; else: return &#39;excellent&#39; df[&#39;quality&#39;] = df[&#39;quality&#39;].apply(map_quality) print(&quot;\n编码后的DataFrame:&quot;) print(df) defencode_quality(value): mapping = {&#39;bad&#39; : 0, &#39;正常&#39;: 1, &#39;优秀&#39;: 2} 返回映射[值] df[&#39;quality&#39;] = df[&#39;quality&#39;].apply(encode_quality) print(df) X = df.iloc[:, [0,1,2,3,4,6,7,8,12,13]] print(X) Y = df.iloc[:, 9] print(Y) X_train, X_test, y_train, y_test = train_test_split( X，Y，test_size = 0.25，random_state = 44）svm_model = SVC（kernel =&#39;rbf&#39;，decision_function_shape =&#39;ovr&#39;）svm_model.fit（X_train，y_train）rf_model = RandomForestClassifier（n_estimators = 100，random_state = 42）rf_model。 fit(X_train, y_train) y_pred = rf_model.predict(X_test) print(&quot;准确度：&quot;, precision_score(y_test, y_pred)) 预测 = rf_model.predict(X_test) print(&quot;准确度：&quot;, precision_score(y_test) ，预测））  ​   由   提交/u/Epic_Programmer_419   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cko7kn/i_need_some_help_coming_up_with_new_features_in/</guid>
-      <pubDate>Sun, 05 May 2024 10:26:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是值得信赖的人工智能检测工具？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cko6gw/what_is_a_trustworthy_aidetection_tool/</link>
-      <description><![CDATA[我目前正在撰写学士论文，今天早些时候发现我的一位同事已经使用生成式人工智能系统来生成大段文本。我通过使用可用的在线人工智能检测工具发现了这一点。有问题的大学说一切都将被重写，但我想确定一下。我们大学对此提出了严格的规定，以这种方式使用人工智能将被视为抄袭。因此，我的问题是：什么工具可以最好地检测人工智能生成的文本？这些免费的在线工具是否值得信赖，或者是否存在一定程度的错误？    由   提交/u/Wood3x8  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cko6gw/what_is_a_trustworthy_aidetection_tool/</guid>
-      <pubDate>Sun, 05 May 2024 10:23:59 GMT</pubDate>
     </item>
     <item>
       <title>多语言数据上的 RAG</title>
@@ -50,7 +43,7 @@
     <item>
       <title>我怎样才能进入人工智能劳动力市场？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cki7q5/how_can_i_enter_the_ai_workforce/</link>
-      <description><![CDATA[我是 BCA 一年级学生。作为 LLM 工程师或其他人员，我需要具备哪些技能才能进入人工智能劳动力市场？    由   提交 /u/Wonderful_Put_2223   [链接] [评论]]]></description>
+      <description><![CDATA[我是 BCA 一年级学生。作为 LLM 工程师或类似的人员，我需要具备哪些技能才能进入 AI 工作岗位？    提交人    /u/Wonderful_Put_2223   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cki7q5/how_can_i_enter_the_ai_workforce/</guid>
       <pubDate>Sun, 05 May 2024 03:36:31 GMT</pubDate>
     </item>
@@ -67,6 +60,13 @@
       <description><![CDATA[我知道由于硬件限制等原因，机器人技术的进步比人工智能慢很多，但是有人认为现在会投入更多的时间和资金吗由于最近人工智能的蓬勃发展？ 我认为这将鼓励机器人公司尝试更快地实现这一目标，以便他们的机器人可以与人工智能配对 我不能不禁想知道 OpenAI x Boston Dynamics 的合作会是什么样子......   由   提交 /u/Weekly_Frosting_5868   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ckco5a/do_you_think_the_ai_boom_will_accelerate/</guid>
       <pubDate>Sat, 04 May 2024 22:45:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 GPT2 聊天机器人的一些想法！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ckb4wh/some_thoughts_on_that_gpt2chatbot/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ckb4wh/some_thoughts_on_that_gpt2chatbot/</guid>
+      <pubDate>Sat, 04 May 2024 21:34:38 GMT</pubDate>
     </item>
     <item>
       <title>转向AI产业</title>
