@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 05 May 2024 15:14:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 00:52:15 GMT</lastBuildDate>
     <item>
-      <title>我怎样才能创建这个输入设计？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckt7hr/how_can_i_create_this_input_design/</link>
-      <description><![CDATA[      我希望将左侧的输入样式设置为与右侧的输入类似但我在使用顺风时遇到困难。我怎样才能构建它，使其外部颜色不同，中间为白色？ https://preview.redd.it/7kr2ytvehmyc1.png?width=414&amp;format=png&amp;auto=webp&amp;s=7e63c20ab9f8b8a4026324 bf3834708f1820aa2b 我正在使用顺风造型。我需要隐藏当前输入并使用 div 创建自定义输入吗？ `` &lt;div className=&quot;py-1 pr-2&quot;&gt; &lt; ;输入 aria-label={\\\\\\\\\\\\\\\\`${item.title}-radio-button\\\\\\\\\\\\\\\`} className=“size-4accent-sky-700 active:ring-sky-700 focus:rounded-full focus:accent-sky-700 focus:ring-2 focus:ring-sky-700” id={\\\\\\\[item.id\\\\\\\](http://item.id/)} type=“无线电”名称={名称} 值={item.value} defaultChecked={item.defaultValue === true || i === 0} /&gt; &lt;/div&gt; ``   由   提交 /u/pistolpeter1111   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckt7hr/how_can_i_create_this_input_design/</guid>
-      <pubDate>Sun, 05 May 2024 15:01:20 GMT</pubDate>
+      <title>对所需的采访资源进行编码的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cl55qv/suggestions_for_coding_interviews_resources_needed/</link>
+      <description><![CDATA[是否有类似 neetcode 但更多 JavaScript 的网站？    由   提交 /u/candyloverx101   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cl55qv/suggestions_for_coding_interviews_resources_needed/</guid>
+      <pubDate>Sun, 05 May 2024 23:50:32 GMT</pubDate>
     </item>
     <item>
-      <title>如何将 godaddy 域名连接到我的 Google 网站？说记录名称 www 与另一条记录冲突。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckshbj/how_do_i_connect_a_godaddy_domain_to_my_google/</link>
-      <description><![CDATA[要链接它，我必须使用 ghs.googlehosted.com&lt; /a&gt; DNS 设置，但它已经有一个“www”连接到[我的网站名称]并说我无法编辑它。我该如何更改它，因为它说我无法编辑该记录？   由   提交 /u/galassasa   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckshbj/how_do_i_connect_a_godaddy_domain_to_my_google/</guid>
-      <pubDate>Sun, 05 May 2024 14:27:36 GMT</pubDate>
+      <title>业余项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cl4qya/side_project/</link>
+      <description><![CDATA[大家好，我正在考虑在今年夏天课外时创建一个业余项目。我想创建一个网站，您可以在其中找到您想要阅读的完美书籍并将其添加到阅读列表中。 我不想让您厌倦这些细节，让我直接讲它。我想为名人制作一个过滤器，例如这个过滤器会找到“the rock”推荐的书籍例如。我怎样才能实现这个？有没有一个 api 可以做到这一点？如果没有 api 来制作流行名人和他们推荐的书籍的表格，我是否可以使用 ai 来实现此目的？    由   提交 /u/JackedMushroom   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cl4qya/side_project/</guid>
+      <pubDate>Sun, 05 May 2024 23:30:39 GMT</pubDate>
     </item>
     <item>
-      <title>网络信函 - 您有兴趣吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckrqkt/the_web_letter_would_you_be_interested/</link>
-      <description><![CDATA[当我正在经历学习网页设计和开发的旅程时，我想到开始发布一份（可能是每周）时事通讯，分享有关以下方面的所有事情的概述网络。意味着有用的工具、设计技巧、新闻和类似的东西。但在开始之前我想检查一下：您想要这样的新闻通讯   由   提交 /u/Dezaku   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckrqkt/the_web_letter_would_you_be_interested/</guid>
-      <pubDate>Sun, 05 May 2024 13:51:41 GMT</pubDate>
+      <title>我正在构建一个更好的存储/知识库平台。想想 Google Drive + Slack。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cl4efs/i_am_building_a_better_storageknowledge_base/</link>
+      <description><![CDATA[嗨，我正在构建 The Drive AI，一个 AI-第一个协作知识库和笔记应用程序。 Drive AI 正在解决什么问题？  难以利用过去的工作：当前的存储/笔记应用程序限制了存储信息的价值。他们不会使用现有文档作为新文档的基础。 可信信息检索：随着笔记和文件的增加，查找可信信息变得前所未有的困难和复杂化。决策过程并阻碍进展。 沟通差距：当前的沟通渠道（例如 Slack 和 Discord）缺乏背景。通常，团队正在讨论一个项目，并且在 Slack/Discord 之类的渠道中很难回顾特定的上下文对话。此外，通过它们共享的文件缺乏隐私，从而损害了机密性。频繁的文件丢失也会影响工作效率。  我们如何解决这个问题？  高级检索：我们有高级检索系统可以快速搜索您的文档以找到相关答案并使用这些存储的文件来创建新文件。例如，如果您存储简历并链接到职位描述，您可以告诉人工智能助手根据这些存储的文档为您写一封求职信。如果我们无法在您的知识库中找到答案，我们只会说“我们不知道”。 内置聊天频道：每个文件/文件夹都有一个独特的团队聊天。如果您正在与教授讨论研究论文，您可以使用该文件的团队聊天，并随时参考该特定聊天。私人 DM 即将推出。您可以在聊天中共享文件，而文件无需离开平台。  其他功能：  您可以突出显示 PDF 、边写笔记、与朋友聊天。 我们支持大多数编辑工具，并且正在添加更多工具。 您可以个性化您的 AI 助手。 每当您共享/发布您的文件时，您也共享了您的 AI 助手。 无需 AI 培训，并且具有高安全/隐私措施。我们正在申请合规证书。 您可以拥有自己的面向公众的个人资料，任何页面都可以成为您的公共页面。例如，https://thedrive.ai/bigyan 可以是您的简历、DOCX 文件或 YouTube 视频。有了人工智能助手，你想要的一切都有了。我们的目标是在未来拥有您的人工智能角色。  感谢您阅读本文，希望您至少能够尝试一下。干杯。   由   提交 /u/karkibigyan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cl4efs/i_am_building_a_better_storageknowledge_base/</guid>
+      <pubDate>Sun, 05 May 2024 23:14:52 GMT</pubDate>
     </item>
     <item>
-      <title>JavaScript 信号标准提案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckqruz/javascript_signals_standard_proposal/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckqruz/javascript_signals_standard_proposal/</guid>
-      <pubDate>Sun, 05 May 2024 13:02:09 GMT</pubDate>
+      <title>如何使用 HTML / CSS 隐藏 Chrome 中损坏的链接图标？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cl36u7/way_to_hide_the_broken_link_icon_in_chrome_with/</link>
+      <description><![CDATA[      我尝试这样设计： &lt; ;img src=&quot;#&quot;; alt=&quot;占位符&quot;高度＝“100”宽度＝“300” &gt;&gt; img[src=“#”] { 背景：#e1e1e1; }  但是我在 Chrome 中得到了损坏的图像图标...有没有办法在没有 Js 的情况下防止这种情况？ https://preview.redd.it/neuv5bmmnoyc1.png?width=127&amp;format=png&amp;auto =webp&amp;s=1a1e79cf3541c27c166006b32c82c61d1762d349   由   提交 /u/Weekly_Frosting_5868   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cl36u7/way_to_hide_the_broken_link_icon_in_chrome_with/</guid>
+      <pubDate>Sun, 05 May 2024 22:19:47 GMT</pubDate>
     </item>
     <item>
-      <title>我正在尝试学习前端 Web 开发，并且正在尝试运行在 github 上找到的网站，但我不断收到此错误，有谁知道我如何开始解决此问题或问题的根源是什么</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckqmd7/i_am_trying_to_learn_frontend_web_development_and/</link>
-      <description><![CDATA[    /u/traps-are-notgay   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckqmd7/i_am_trying_to_learn_frontend_web_development_and/</guid>
-      <pubDate>Sun, 05 May 2024 12:54:17 GMT</pubDate>
+      <title>自由职业者，你们如何设计网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cl31pl/freelancers_how_do_you_design_websites/</link>
+      <description><![CDATA[我得到了第一份自由职业，并且我对网站在开发方面需要做什么有很好的了解。但现在面临着我在从事个人项目设计时经常遇到的相同问题。我一直在网上寻找模板，并从中混合搭配，但最终对结果并不 100% 满意。你们这些自由职业者是如何为你们正在进行的项目做到这一点的？    提交人    /u/OmarAdharn   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cl31pl/freelancers_how_do_you_design_websites/</guid>
+      <pubDate>Sun, 05 May 2024 22:13:41 GMT</pubDate>
     </item>
     <item>
-      <title>帮助决定正确的工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckqgbf/help_on_deciding_on_the_right_tool/</link>
-      <description><![CDATA[您好，我被委托为一家小公司制作一个网站。我懂 HTML/CSS，很久以前做过一些 Javascript 教程，但除此之外，我对 webdev 一无所知。 我被要求制作的网站由几个静态页面、一个新闻页面（其中包含链接到外部文章的文章存根列表）和一个联系页面组成。我不太确定新闻页面是否需要真正动态。他们给了我该公司针对另一种语言/国家的页面，并附上新闻列表作为参考，我看到这是一个 wordpress 页面，但我猜它是硬编码的，因为没有比 2022 年更新的文章。 所以，我正在尝试决定是使用 Hugo 还是使用 Wordpress，然后直接对所有内容进行所见即所得。但是，当我之前通过 cpanel 使用 Wordpress 时，用户界面感觉非常笨重和缓慢，每当我在谷歌上搜索如何使用它时，我都会得到很多内容工厂般的结果，告诉我为每件小事安装这个或那个插件。当我看到所有这些东西时，我很难分辨什么是好的做法，什么不是，而且我会看到很多不同的文章，用不同的方式做同样的事情。  我知道 Hugo 是一个静态网站生成器，但我能用它做联系表单、生成文章存根以及可能的电子商务吗？我不介意编写一些 Javascript 并使用第三方库进行支付处理或其他什么，只要它不需要一些奇怪的东西来使它与 Hugo 一起工作。    提交人    /u/blastmodedev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckqgbf/help_on_deciding_on_the_right_tool/</guid>
-      <pubDate>Sun, 05 May 2024 12:45:11 GMT</pubDate>
+      <title>通用 SQL 连接表是否被认为不合适？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cl301y/are_generalized_sql_junction_tables_considered/</link>
+      <description><![CDATA[编写通用连接表是不是不好的做法？ 我主要是一名前端开发人员，现在正在深入研究后端开发以及用于数据库的工具/语言，例如 SQL &amp; MySQL。 我的问题是，对于想要保存多个项目/表（帖子、评论、项目、说明、消息、评级、投票等）的用户，创建一个通用连接表是好做法还是坏做法？ 我想象编写一个通用的“保存”表，例如： - PK - message_id - item_id - thread_id - group_id - instructions_id 然后，我将创建连接到这个通用连接表的各个表。 或者，与为每个单独的表编写单独的连接表相比，是否可能会在后续产生问题？    submitted by    /u/KKS-Qeefin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cl301y/are_generalized_sql_junction_tables_considered/</guid>
+      <pubDate>Sun, 05 May 2024 22:11:40 GMT</pubDate>
     </item>
     <item>
-      <title>现在 jQuery 还很酷吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckpegc/is_jquery_still_cool_these_days/</link>
-      <description><![CDATA[在多年来主要专注于设计之后，我有点回到 webdev 了。 我曾经在几乎每个前端开发项目都很难想象没有它的生活。 人们还在使用它还是有更好的替代品？我主要只在 WordPress 网站上工作...而不是应用程序或任何东西，所以不想学习普通 JavaScript，因为这感觉完全是多余的。    ;由   提交 /u/Weekly_Frosting_5868   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckpegc/is_jquery_still_cool_these_days/</guid>
-      <pubDate>Sun, 05 May 2024 11:44:09 GMT</pubDate>
+      <title>我一生都无法加载我的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cl2jil/i_cant_get_my_site_to_load_for_the_life_of_me/</link>
+      <description><![CDATA[当我输入我的 URL 时，我的网站会完美加载，当您搜索我的公司时，我的网页也会完美加载，但是当我从我的网站中选择我的网站时，我的网站会完美加载。 GMB 配置文件我总是收到错误。该错误通常显示“正在建设中”。我尝试修改我的 DNS 设置，但得到的只是其他错误，例如“找不到 IP”或“此页面可能试图窃取您的信息”。这种情况已经持续了好几个星期了，我很迷失。感谢您提供所有帮助，谢谢 编辑：我的域名是通过 Squarespace，我的网站是在 Google 协作平台上。我尝试了网上的很多建议来进行故障排除，但没有任何效果。我尝试添加重定向，然后收到一条错误消息，提示我的网站“重定向您太​​多次”   由   提交/u/Pspecial-Swimmer70   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cl2jil/i_cant_get_my_site_to_load_for_the_life_of_me/</guid>
+      <pubDate>Sun, 05 May 2024 21:52:39 GMT</pubDate>
     </item>
     <item>
-      <title>还有人像 CitrousOyster 一样杀死它吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckpadp/anyone_else_killing_it_like_citrousoyster/</link>
-      <description><![CDATA[那些制作静态网站并靠他提供的一次性付款和订阅赚钱的人。在过去的几年里，还有其他人遵循他的定价计划吗？发现类似的成功吗？我正在考虑走这条路并想要一些社会证明。   由   提交/u/BowserBrows  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckpadp/anyone_else_killing_it_like_citrousoyster/</guid>
-      <pubDate>Sun, 05 May 2024 11:37:09 GMT</pubDate>
+      <title>这是部署电子商务风格网站最便宜的计划吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cl0jjp/is_this_the_cheapest_plan_to_deploy_an_ecommerce/</link>
+      <description><![CDATA[到目前为止，我发现的最实惠的计划是 Railway 的 5 美元计划。这似乎是一个相对容易部署的平台。 但问题是：  谁能告诉我这个计划是否能在电子商务中良好运行/交付风格的网站？您可以在此计划中单独使用后端（如 Node Express）和前端（如 Next Js）吗？ 是否很容易超出使用限制并收取额外费用？或者这对于当地的小企业来说会不会很困难？  关于数据库和图片上传的问题，我不知道铁路是否有这方面的规定，但是是吗？使用 500MB 的数据库进行小型本地电子商务产品和客户注册是否安全？我认为任何数据库或图像托管服务，如果您必须付费，最终都会非常昂贵。   由   提交 /u/Mr-Brigth-Side   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cl0jjp/is_this_the_cheapest_plan_to_deploy_an_ecommerce/</guid>
+      <pubDate>Sun, 05 May 2024 20:24:59 GMT</pubDate>
     </item>
     <item>
-      <title>Zod + React Hoom 表格条件问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckp35e/zod_react_hoom_form_question_on_conditional/</link>
-      <description><![CDATA[假设您有一个表单，可以有额外的必填字段，也可以没有。 例如，如果用户是登录后，我们知道他们的名字、姓氏和电子邮件，因此我们不必向用户询问这些字段。我们不需要它们，而且我们根本不显示这些字段。 如果用户未登录，那么这些都是必需的。  ​ 需要明确的是，这些并不是唯一的字段。这些是额外的字段。  那么，问题是：使用 zod 和 React hook 表单的正确方法是什么？你如何告诉 zod 这些额外的字段有时是必需的，有时不是？ ​ ​ ​&lt; /p&gt; ​ ​   由   提交/u/blind-octopus  /u/blind-octopus reddit.com/r/webdev/comments/1ckp35e/zod_react_hoom_form_question_on_conditional/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckp35e/zod_react_hoom_form_question_on_conditional/</guid>
-      <pubDate>Sun, 05 May 2024 11:24:26 GMT</pubDate>
+      <title>NodeJS 提供商，免费套餐</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cl0b6b/nodejs_provider_free_tier/</link>
+      <description><![CDATA[是否可以通过免费套餐获得 NodeJS 提供程序？我只能找到免费试用，例如，Railway 5 美元。 我看到 JAMstack 的免费套餐托管与 Cloudflare Pages、Netlify、Vercel 我什至看到免费套餐 Sqlite 托管Turso 和 Postgres 使用 Neon 免费托管 所以只是想知道 NodeJS （是的，我知道，我们被宠坏了，我真的不能抱怨。Web 开发提供商（imo）对他们的免费套餐非常慷慨。只是对 NodeJs 感到好奇） 更新：render.com 会提供这？他们过去无意中向我收取了今年早些时候未使用的帐户的费用，但已得到纠正。还有其他 Nodejs 免费层提供商可以检查吗？   由   提交/u/avidrunner84  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cl0b6b/nodejs_provider_free_tier/</guid>
+      <pubDate>Sun, 05 May 2024 20:15:06 GMT</pubDate>
     </item>
     <item>
-      <title>购买注册域名的最佳方法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckp1e8/best_approach_to_purchasing_a_registered_domain/</link>
-      <description><![CDATA[我的一个客户正在开始一项新业务，他们决定的名称已经注册了 .com 域名。 Whois 显示当前所有者已拥有该设备至少一年，并且该页面仍显示“正在建设中” ，没有 MX 记录，并且在任何典型服务上都没有拍卖/立即购买。  我希望能帮助他购买域名。它是通过 Network Solutions 注册的...我对他们没有任何经验，但快速搜索表明他们的声誉非常糟糕。 对于那些有这方面经验的人...我应该： &gt; 1) 通过电子邮件发送注册（隐私）电子邮件地址，希望所有者能够看到并回复 + 进行协商 2) 使用 Network Solutions 的延期交货/出价服务 3) 使用第三方服务来协商销售？ TIA   由   提交/u/JFlash7  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckp1e8/best_approach_to_purchasing_a_registered_domain/</guid>
-      <pubDate>Sun, 05 May 2024 11:21:22 GMT</pubDate>
+      <title>去哪儿？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cl0ahr/where_to_go/</link>
+      <description><![CDATA[你去哪里谈论编码哲学？    ;由   提交 /u/Sotomexw   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cl0ahr/where_to_go/</guid>
+      <pubDate>Sun, 05 May 2024 20:14:17 GMT</pubDate>
     </item>
     <item>
-      <title>[博客] WebAssembly：您需要了解的一切</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckoyub/blog_webassembly_everything_you_need_to_know/</link>
-      <description><![CDATA[WASM 生态系统乍一看似乎势不可挡，因为有大量工具和库执行与 WASM 运行时和模块相关的不同任务。在这篇博客中，我提供了 WASM、运行时、WASI 和一些流行工具的顺序且易于理解的描述。如果您对 WASM 感兴趣并且不知道从哪里开始，该博客将为您提供资源和指导您学习的路径。请阅读它，并分享您的想法/建议。 博客： https://levelup.gitconnected.com/web assembly-everything-you-need-to-know-d1eb0a162f20   由   提交/u/shubham0204_dev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckoyub/blog_webassembly_everything_you_need_to_know/</guid>
-      <pubDate>Sun, 05 May 2024 11:16:57 GMT</pubDate>
+      <title>教程地狱之外的第一个项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cl05tj/first_project_outside_tutorial_hell/</link>
+      <description><![CDATA[嘿大家👋 我刚刚完成了我的第一个项目，没有密切关注任何教程。 它不是很独特，但作为初学者我对此很满意。技术堆栈是 Firebase 和 vanilla JS。 https://sunshare.web.app &lt; p&gt;这是一个供人们分享世界各地日落照片的网站。我没有添加身份验证或任何内容，因此没有注册。 我主要希望获得有关设计和最佳实践的反馈。随意烤我😂   由   提交 /u/HistoricalAccess9501   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cl05tj/first_project_outside_tutorial_hell/</guid>
+      <pubDate>Sun, 05 May 2024 20:08:35 GMT</pubDate>
     </item>
     <item>
-      <title>专业用途的最佳 React 认证？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckou9g/best_react_certification_for_professional_use/</link>
-      <description><![CDATA[我是一名后端 Java 开发人员，愿意承担更全栈的角色。我的公司愿意我参加前端付费课程/认证。您建议哪种认证可以提供最大的专业价值，尤其是在 React 方面？   由   提交 /u/Aromatic-Teach-4122   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckou9g/best_react_certification_for_professional_use/</guid>
-      <pubDate>Sun, 05 May 2024 11:08:48 GMT</pubDate>
+      <title>Firebase 服务器端数据过滤 ?</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cl04dc/firebase_serverside_data_filtering/</link>
+      <description><![CDATA[比方说，我正在与用户制作一个聊天应用程序，由于 Firebase 本身没有排除字段功能，因此所有数据都将检索到客户端，听起来不太安全，你有什么解决方案吗？我应该使用云功能去思考所有检索到的文档并删除敏感字段吗？   由   提交/u/Zafugus  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cl04dc/firebase_serverside_data_filtering/</guid>
+      <pubDate>Sun, 05 May 2024 20:06:49 GMT</pubDate>
     </item>
     <item>
-      <title>对于使用基于字符串的访问而不是常规的 .dot 表示法的 API，您有何看法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckomc1/what_are_your_thoughts_about_api_that_use/</link>
-      <description><![CDATA[Django 在其 API 中大量使用字符串访问。例如，以下是如何配置 Django 数据库的管理视图 class AuthorAdmin(admin.ModelAdmin): list_display = [&quot;name&quot;, &quot;title&quot;, &quot;view_birth_date&quot; ] @admin.display(empty_value=&quot;???&quot;) def view_birth_date(self, obj): return obj.birth_date  这是 Vue 插件 Vue I18n 的另一个示例 &lt;p&gt;{{ $t(&#39;message.hello&#39;, [&#39;hello&#39;]) }} 你做什么考虑一下这种风格而不是像 $t.message.hello 这样的风格？使用字符串访问时我总是很挣扎。 LSP Copilot 和 IDE 功能（例如重构）不能很好地处理字符串访问，并且字符串的任意性质使得很难直接体验 API。 您觉得怎么样？为什么开发人员选择使用字符串访问？我是否误判了这里的设计？   由   提交/u/BigBootyBear  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckomc1/what_are_your_thoughts_about_api_that_use/</guid>
-      <pubDate>Sun, 05 May 2024 10:54:26 GMT</pubDate>
+      <title>排名网络应用程序，Draft#1，让我知道任何反馈 https://rankem-seven.vercel.app/rank/8B8P1X</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cl02fc/ranking_web_app_draft1_lemme_know_any_feedback/</link>
+      <description><![CDATA[       由   提交 /u/Khanisic   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cl02fc/ranking_web_app_draft1_lemme_know_any_feedback/</guid>
+      <pubDate>Sun, 05 May 2024 20:04:32 GMT</pubDate>
     </item>
     <item>
-      <title>网络开发领域的新手，有什么建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckol45/new_to_the_world_of_web_development_any_advice/</link>
-      <description><![CDATA[大家好，我是 Web 开发新手，最近刚刚开始练习 Html 和 CSS 基础知识，有什么建议吗？   由   提交 /u/Short-Celebration-33   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckol45/new_to_the_world_of_web_development_any_advice/</guid>
-      <pubDate>Sun, 05 May 2024 10:52:09 GMT</pubDate>
+      <title>有什么好的“对象存储即服务”工具吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cl00tw/any_good_object_storage_as_a_service_tool_out/</link>
+      <description><![CDATA[关于我试图为开源数据门户网站构建的后端组件的另一个问题。 我有自己的后端组件托管数据库，后端难题中唯一缺少的部分是用于上传文件、图像等的文件存储。  各种后端即服务和低代码工具给我留下了深刻的印象市场，但我想知道是否有一个唯一的目标是提供对象存储。 显然 S3 B2 等是实现这一目标的经典方法。但我想知道低代码运动是否在创建一个更友好的工具方面取得了进展。  提供了一个漂亮的用户界面，并且也许可以为网站上的工作人员提供某种方式将对象存储安装为易于使用的卷（等等）。   由   提交/u/danielrosehill  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cl00tw/any_good_object_storage_as_a_service_tool_out/</guid>
+      <pubDate>Sun, 05 May 2024 20:02:43 GMT</pubDate>
     </item>
     <item>
-      <title>Html 网站与 WordPress</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckofvr/html_website_vs_wordpress/</link>
-      <description><![CDATA[请问做网站的人，如果客户需要一个信息丰富的网站，你更喜欢什么？ 我注意到WordPress 上的网站最多有 10 个页面，并且其中的信息不会更新。 我知道谁自己做，这可能更容易、更快，现在我正在谈论 Web 开发人员，为什么要制作一个WordPress 上的网站？如果你可以使用html，它会更快。 更新！ 我认为人们不明白我在问什么，有些网站只有5页，我想了解为什么Web开发人员在wordpress上制作它们： 原因： 懒惰 不懂html、php？ &lt; p&gt;更多？   由   提交 /u/LeTravelMag   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckofvr/html_website_vs_wordpress/</guid>
-      <pubDate>Sun, 05 May 2024 10:42:27 GMT</pubDate>
+      <title>Mac 到 PC？帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckzsqf/mac_to_pc_help/</link>
+      <description><![CDATA[大家好！当谈到 webdev 时，我是一个菜鸟，所以请耐心等待。我在 Mac 上创建了一个网站，但我希望也能在 PC 上使用它。它无论如何都是一个正常运行的网站（在 Mac 上），但在 PC 上它完全损坏了。我什至无法在 PC 上的 Dreamweaver 中打开索引文件。  我所做的就是在 Mac 上压缩该文件夹，将其上传到我的 Google 云端硬盘，然后将其下载到我的 PC 上。我意识到这可能与操作系统的差异有关，但是您知道我可以通过其他方式将其传输到我的电脑上以便我可以实际使用它吗？如果您需要我提供任何其他信息，请询问，我会尽力回答。   由   提交 /u/BiohazardousDogFreak   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckzsqf/mac_to_pc_help/</guid>
+      <pubDate>Sun, 05 May 2024 19:53:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
