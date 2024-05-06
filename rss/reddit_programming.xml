@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 06 May 2024 09:13:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 12:21:02 GMT</lastBuildDate>
+    <item>
+      <title>30,000 小时</title>
+      <link>https://www.reddit.com/r/programming/comments/1clhbxp/30000_hours/</link>
+      <description><![CDATA[ 由   提交/u/breck  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clhbxp/30000_hours/</guid>
+      <pubDate>Mon, 06 May 2024 12:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>兑现小额付款 在合法公司筹集现金的提示！ （谨防非法公司）</title>
+      <link>https://www.reddit.com/r/programming/comments/1clh0az/소액결제현금화_합법적인_업체에서_현금_마련하는_꿀팁_불법업체주의/</link>
+      <description><![CDATA[ 由   提交/u/j030118  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clh0az/소액결제현금화_합법적인_업체에서_현금_마련하는_꿀팁_불법업체주의/</guid>
+      <pubDate>Mon, 06 May 2024 11:46:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>您没有全面解决基础设施成本（公共云和 K8s）</title>
+      <link>https://www.reddit.com/r/programming/comments/1clgfsn/you_are_not_tackling_your_infra_costs_public/</link>
+      <description><![CDATA[ 由   提交/u/congolomera  [链接]   ; [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clgfsn/you_are_not_tackling_your_infra_costs_public/</guid>
+      <pubDate>Mon, 06 May 2024 11:13:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gitty - 下载 GitHub 文件和目录</title>
+      <link>https://www.reddit.com/r/programming/comments/1clgbl1/gitty_download_github_file_directory/</link>
+      <description><![CDATA[ 由   提交 /u/worlpaker   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clgbl1/gitty_download_github_file_directory/</guid>
+      <pubDate>Mon, 06 May 2024 11:06:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>流媒体游戏规则改变者：直接写入 S3 的融合货运集群</title>
+      <link>https://www.reddit.com/r/programming/comments/1clgbh3/streaming_game_changer_confluent_freight_clusters/</link>
+      <description><![CDATA[ 由   提交 /u/wanshao   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clgbh3/streaming_game_changer_confluent_freight_clusters/</guid>
+      <pubDate>Mon, 06 May 2024 11:06:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>编程挑战 - 一级方程式赛车 - 自主赛车联盟</title>
+      <link>https://www.reddit.com/r/programming/comments/1clg53d/coding_challenge_formula_1_autonomous_racing/</link>
+      <description><![CDATA[ 由   提交/u/curious_drive  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clg53d/coding_challenge_formula_1_autonomous_racing/</guid>
+      <pubDate>Mon, 06 May 2024 10:55:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何成功重写 C++ 代码库</title>
+      <link>https://www.reddit.com/r/programming/comments/1clfhzm/how_to_rewrite_a_c_codebase_successfully/</link>
+      <description><![CDATA[ 由   提交/u/broken_broken_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clfhzm/how_to_rewrite_a_c_codebase_successfully/</guid>
+      <pubDate>Mon, 06 May 2024 10:13:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在 YouTube 上制作开发日志视频，有时我想与屏幕上显示的内容进行对话，这样当我不显示节目片段时，您就不会只听到声音并看到黑屏</title>
+      <link>https://www.reddit.com/r/programming/comments/1clfd3i/im_making_devlog_videos_on_youtube_and_sometimes/</link>
+      <description><![CDATA[ 由   提交 /u/MAS9Nine   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clfd3i/im_making_devlog_videos_on_youtube_and_sometimes/</guid>
+      <pubDate>Mon, 06 May 2024 10:04:17 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用 Tailwind CSS 和 Alpinejs 创建搜索输入</title>
       <link>https://www.reddit.com/r/programming/comments/1clehzk/how_to_create_a_search_input_with_tailwind_css/</link>
@@ -20,7 +76,7 @@
       <pubDate>Mon, 06 May 2024 08:52:25 GMT</pubDate>
     </item>
     <item>
-      <title>HTTPS 如何工作</title>
+      <title>HTTPS 是如何工作的</title>
       <link>https://www.reddit.com/r/programming/comments/1cle9ac/how_does_https_work/</link>
       <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cle9ac/how_does_https_work/</guid>
@@ -29,14 +85,14 @@
     <item>
       <title>探索函数式编程范式</title>
       <link>https://www.reddit.com/r/programming/comments/1cldxc8/exploring_the_functional_programming_paradigm/</link>
-      <description><![CDATA[在编程领域，有不同的范式试图提供解决方案来解决问题并提高软件开发的效率。这些范式之一，函数式编程，因其对简单性和处理复杂应用程序的有效性而声名鹊起。 在本文中，我们将探讨函数式编程范式，分解其基本原理、基本特征、优势及其在各个领域的实际应用。    提交人    /u/Creative_Corgi_4862   [link] [评论]]]></description>
+      <description><![CDATA[在编程领域，有不同的范式试图提供解决问题的方案，提高软件开发的效率。其中一种范式，函数式编程，因其对简单性的关注以及处理复杂应用程序的有效性而受到关注。 在本文中，我们将探讨函数式编程范式，分解其基本原理、基本特征、优点及其在各个领域的实际应用。   由   提交/u/Creative_Corgi_4862   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cldxc8/exploring_the_functional_programming_paradigm/</guid>
       <pubDate>Mon, 06 May 2024 08:22:35 GMT</pubDate>
     </item>
     <item>
       <title>[视频] Wix 如何为其 4000 个微服务放弃 EventSourcing 以实现简单的 CRUD</title>
       <link>https://www.reddit.com/r/programming/comments/1cldl8x/video_how_wix_dropped_eventsourcing_for_simple/</link>
-      <description><![CDATA[ 由   提交/u/natan-sil  /u/natan-sil  youtube.com/watch?v=6CyhrFpJAj8&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/natan-sil  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cldl8x/video_how_wix_dropped_eventsourcing_for_simple/</guid>
       <pubDate>Mon, 06 May 2024 07:59:16 GMT</pubDate>
     </item>
@@ -53,62 +109,6 @@
       <description><![CDATA[ 由   提交/u/MrJohz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1clc3pd/the_new_disposable_apis_in_javascript/</guid>
       <pubDate>Mon, 06 May 2024 06:13:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>嵌入式 LUKS (E-LUKS)：物联网安全的硬件解决方案——“物联网 (IoT) 安全是开发人员必须面对的最重要问题之一。” E-LUKS“框架”“类似于Linux系统中用于加密数据分区的Linux统一密钥设置（LUKS）解决方案”。</title>
-      <link>https://www.reddit.com/r/programming/comments/1clblwf/embedded_luks_eluks_a_hardware_solution_to_iot/</link>
-      <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clblwf/embedded_luks_eluks_a_hardware_solution_to_iot/</guid>
-      <pubDate>Mon, 06 May 2024 05:41:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>定制软件与现成软件：如何选择最佳方案</title>
-      <link>https://www.reddit.com/r/programming/comments/1clbd3a/bespoke_vs_off_the_shelf_software_how_to_choose/</link>
-      <description><![CDATA[ 由   提交/u/Yukti_Solutions  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clbd3a/bespoke_vs_off_the_shelf_software_how_to_choose/</guid>
-      <pubDate>Mon, 06 May 2024 05:24:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>FixScript SDK 0.6：WebAssembly、更好的语法、SQL、GUI、REPL、控制台、宏</title>
-      <link>https://www.reddit.com/r/programming/comments/1cl9uld/fixscript_sdk_06_webassembly_better_syntax_sql/</link>
-      <description><![CDATA[ 由   提交/u/jezek_2  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cl9uld/fixscript_sdk_06_webassembly_better_syntax_sql/</guid>
-      <pubDate>Mon, 06 May 2024 03:55:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Vanilla JavaScript 将纯文本转换为编码 HTML</title>
-      <link>https://www.reddit.com/r/programming/comments/1cl8zjx/converting_plain_text_to_encoded_html_with/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cl8zjx/converting_plain_text_to_encoded_html_with/</guid>
-      <pubDate>Mon, 06 May 2024 03:05:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>时区到位置：一种获取用户一般位置的隐私友好方式</title>
-      <link>https://www.reddit.com/r/programming/comments/1cl6b5i/timezone_to_location_a_privacyfriendly_way_to_get/</link>
-      <description><![CDATA[ 由   提交/u/deadfire55  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cl6b5i/timezone_to_location_a_privacyfriendly_way_to_get/</guid>
-      <pubDate>Mon, 06 May 2024 00:48:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>本质解释</title>
-      <link>https://www.reddit.com/r/programming/comments/1cl4fw4/essencebased_interpretation/</link>
-      <description><![CDATA[ 由   提交/u/TwoDull183  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cl4fw4/essencebased_interpretation/</guid>
-      <pubDate>Sun, 05 May 2024 23:16:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>So You Think You Know Git - FOSDEM 2024 - 由 Github 联合创始人撰写</title>
-      <link>https://www.reddit.com/r/programming/comments/1cl45nv/so_you_think_you_know_git_fosdem_2024_by_the/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cl45nv/so_you_think_you_know_git_fosdem_2024_by_the/</guid>
-      <pubDate>Sun, 05 May 2024 23:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>粘线|网络风暴</title>
-      <link>https://www.reddit.com/r/programming/comments/1cl3sn5/sticky_lines_webstorm/</link>
-      <description><![CDATA[  由    /u/stronghup  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cl3sn5/sticky_lines_webstorm/</guid>
-      <pubDate>Sun, 05 May 2024 22:46:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

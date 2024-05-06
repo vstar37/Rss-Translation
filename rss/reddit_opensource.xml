@@ -4,9 +4,9 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 06 May 2024 09:14:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 12:21:31 GMT</lastBuildDate>
     <item>
-      <title>大家好，我正在寻找一个网站，该网站提供按用户主题分类的各种开源软件的概述。知道我在哪里可以找到这个吗？</title>
+      <title>大家好，我正在寻找一个网站，该网站提供按用户主题分类的各种开源软件的概述。知道在哪里可以找到这个吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1clcdr2/hi_everyone_im_looking_for_a_website_that/</link>
       <description><![CDATA[ 由   提交 /u/bazipip   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1clcdr2/hi_everyone_im_looking_for_a_website_that/</guid>
@@ -22,14 +22,14 @@
     <item>
       <title>开源 Android 应用程序 - 如何双重检查？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ckvi5n/open_source_android_app_how_to_double_check/</link>
-      <description><![CDATA[有没有推荐的应用程序或移动网站可用于验证您要下载的开源应用程序是否合法？我通常从 FDroid 获取我的应用程序，所以我确定它们没问题，但我希望能够了解要查找什么和/或在整个过程中添加另一项检查的工具。 此外，有什么好的应用程序（最好是免费的）可以让我学习 Android 编码。谢谢！    提交人    /u/DameWasistlos   [link] [评论]]]></description>
+      <description><![CDATA[是否有推荐的应用程序或移动网站可用于验证您要下载的开源应用程序是否合法？我通常从 FDroid 获取我的，所以我确信它们没问题，但我希望能够了解要查找的内容和/或在整个过程中添加另一项检查的工具。 此外，什么是很好的应用程序（最好是免费的），我可以学习 Android 编码。谢谢！    由   提交/u/DameWasistlos  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ckvi5n/open_source_android_app_how_to_double_check/</guid>
       <pubDate>Sun, 05 May 2024 16:44:57 GMT</pubDate>
     </item>
     <item>
       <title>有没有一种简单的方法可以将音频从智能手机传输到 Linux 系统？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ckrvgq/is_there_an_easy_possibility_to_stream_audio_from/</link>
-      <description><![CDATA[我目前正在设置多房间音频，虽然很容易获得 snapcast 启动并运行，将使用 mpd 播放的音乐从我的服务器传输到 Android 和 Raspberry Pi；我在相反的方向上苦苦挣扎。 我想要的理想情况是能够选择我的服务器作为 Spotify 或 Youtube 中的 Chromecast 目标，就像我可以选择 Fire TV 棒一样。不幸的是，我在谷歌上搜索“chromecast 接收器”的运气并不好。因为我发现只有 863 项目允许将音频发送到 Fire TV 棒或 chromecast 设备。 任何人都可以向我指出将音频从 Android 发送到服务器的可能性，以便我可以将其通过管道传输到快照？   由   提交/u/atyon  [链接] [评论]]]></description>
+      <description><![CDATA[我目前正在设置多房间音频，虽然很容易启动并运行 snapcast 以将使用 mpd 播放的音乐从我的服务器流式传输到 Android 和 Raspberry Pi；但我很难做到相反的操作。 我理想情况下想要能够在 Spotify 或 Youtube 中选择我的服务器作为 Chromecast 目标，就像我可以选择 Fire TV 棒一样。不幸的是，我在谷歌上搜索“chromecast 接收器”时运气不佳，因为我只找到 863 个允许将音频发送到 Fire TV 棒或 chromecast 设备的项目。 有人可以指出我是否可以将音频从 Android 发送到服务器，以便我可以将其传输到 snapcast 吗？    提交人    /u/atyon   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ckrvgq/is_there_an_easy_possibility_to_stream_audio_from/</guid>
       <pubDate>Sun, 05 May 2024 13:58:34 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>CurlerRoo - 管理 cURL 请求的简单编辑器</title>
       <link>https://www.reddit.com/r/opensource/comments/1cknny7/curlerroo_simple_editor_to_manage_your_curl/</link>
-      <description><![CDATA[https://github.com/CurlerRoo/CurlerRoo  CurlerRoo 允许您快速创建、编辑、保存和发送 cURL 命令。只需 cURL，无需处理复杂的 GUI。  功能 - 创建、编辑、保存和发送 cURL 命令。 - 自动完成 cURL 语法。 - 在 cURL 命令之前和之后执行脚本。 /&gt; - 创建变量并在 cURL 命令中使用它们。 - 自动从响应中提取变量。 - 执行多个链式请求。 - 将请求存储为纯文本文件，以便于使用您最喜欢的备份和版本控制工具。   由   提交 /u/pclover_dot_exe   [链接] [评论]]]></description>
+      <description><![CDATA[https://github.com/CurlerRoo/CurlerRoo  CurlerRoo 允许您快速创建、编辑、保存和发送 cURL 命令。只需 cURL，无需处理复杂的 GUI。  功能 - 创建、编辑、保存和发送 cURL 命令。 - 自动完成 cURL 语法。 - 在 cURL 命令之前和之后执行脚本。 - 创建变量并在 cURL 命令中使用它们。 - 自动从响应中提取变量。 - 执行多个链式请求。 - 将请求存储为纯文本文件，从而可以轻松使用您最喜欢的工具进行备份和版本控制。    提交人    /u/pclover_dot_exe   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cknny7/curlerroo_simple_editor_to_manage_your_curl/</guid>
       <pubDate>Sun, 05 May 2024 09:46:49 GMT</pubDate>
     </item>
@@ -78,14 +78,14 @@
     <item>
       <title>设计师愿意贡献</title>
       <link>https://www.reddit.com/r/opensource/comments/1cjf6cj/designer_would_like_to_contribute/</link>
-      <description><![CDATA[大家好， 我是一名产品设计师，拥有大约 4 年的经验。我想加入开源社区。我知道这更多的是开发方面的事情，但我想知道是否有任何应用程序、网站或产品需要帮助...... 如果您有任何联系人或产品，我应该联系他们的用户体验/用户界面很糟糕的地方，我应该联系，那就太好了 谢谢！    由   提交/u/mrtpontpont  [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我是一名产品设计师，拥有大约 4 年的经验。我想加入开源社区。我知道这更多的是开发方面的事情，但我想知道是否有任何应用程序、网站或产品需要帮助...... 如果您有任何联系人或产品，我应该联系他们的用户体验/用户界面很糟糕的地方，我应该联系，那就太好了 谢谢！    由   提交 /u/mrtpontpont   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cjf6cj/designer_would_like_to_contribute/</guid>
       <pubDate>Fri, 03 May 2024 18:02:24 GMT</pubDate>
     </item>
     <item>
       <title>业务问题 - 开源供应商的成功渠道合作伙伴模式？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/</link>
-      <description><![CDATA[大家好， 我正在研究为一家开源软件组织的经销商/MSP/集成商/等9 构建渠道合作伙伴计划，并正在寻找一些建议和示例，以了解如何构建一个好的计划。我在封闭软件领域已经做过很多次了，但这是第一次在开源领域，希望能尽快完成（尽可能！）。 您认为什么样的开源供应商的程序才是好的？您最喜欢哪些程序？最重要的是，为什么？ 提前感谢您允许我提出这个非技术性的问题！    提交人    /u/jph-reelyactive   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我正在研究为经销商/MSP/集成商/等建立渠道合作伙伴计划。9开源软件组织，正在寻找一些建议和示例来说明如何制作一个好的程序。我在封闭软件领域已经做过很多次了，但这是第一次在开源领域，希望能把它走出大门（尽可能多！）。 您认为什么才是伟大的来自开源供应商的程序？您最喜欢什么？非常重要的是，为什么？ 提前感谢您提出这个非技术问题！   由   提交/u/jph-reelyactive  /u/jph-reelyactive  reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/</guid>
       <pubDate>Fri, 03 May 2024 15:08:46 GMT</pubDate>
     </item>
@@ -99,12 +99,12 @@
     <item>
       <title>开源维护者 - 告诉我你的挣扎</title>
       <link>https://www.reddit.com/r/opensource/comments/1ciq1xo/open_source_maintainers_tell_me_about_your/</link>
-      <description><![CDATA[我最近看到了 2021 年的这篇博客文章： 开源维护者如何让贡献者 - 以及他们自己 - 满意 本文讨论了开源项目维护者面临的许多问题：  受欢迎的项目可以吸引如此多的潜在贡献者，以至于维护者不得不花更多的时间来协调他们的活动而不是编写代码 需要热情好客以促进社区发展并吸引贡献 通常，工作量比任何人实际能做的都要多 ......还有更多  我正在开展一个项目，我相信通过将 LLM 与 Github 结合起来，它可以解决很多这些问题行动。 作为开源维护者，你们生活中最大的痛点是什么？    提交人    /u/stellarcitizen   [链接] [评论]]]></description>
+      <description><![CDATA[我最近看到了这篇 2021 年的博文： 开源维护者如何让贡献者和他们自己开心 本文讨论了开源项目维护者面临的一些问题：  受欢迎的项目可以吸引如此多的潜在贡献者，以至于维护者必须花费更多的时间来协调他们的活动，而不是编写代码 为了培育社区和吸引贡献，需要受到欢迎 &gt; 通常比任何人实际能做的工作还要多 ...以及更多  我正在开发项目，我相信通过将 LLM 与 Github Actions 结合起来可以帮助解决很多这些问题。 最大的是什么作为开源维护者，您生活中的痛点是什么？   由   提交 /u/stellarcitizen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ciq1xo/open_source_maintainers_tell_me_about_your/</guid>
       <pubDate>Thu, 02 May 2024 20:32:54 GMT</pubDate>
     </item>
     <item>
-      <title>有没有 hookmarked 的开源替代品？</title>
+      <title>有没有 hookmarked 的开源替代方案？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cip7sg/any_opensource_alternative_to_hookmarked/</link>
       <description><![CDATA[管理文件链接   由   提交/u/fbrichs  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cip7sg/any_opensource_alternative_to_hookmarked/</guid>
