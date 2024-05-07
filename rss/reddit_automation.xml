@@ -4,9 +4,16 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 07 May 2024 12:19:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 15:10:38 GMT</lastBuildDate>
     <item>
-      <title>了解人工智能和自动化的 Discords/社区（无代码）</title>
+      <title>每日 PDF 下载</title>
+      <link>https://www.reddit.com/r/automation/comments/1cmdcww/pdf_download_daily/</link>
+      <description><![CDATA[有一个每天下午 6 点更新 PDF 的网址。有没有办法自动下载该 PDF 并通过某种更改列表运行它，该列表显示与前一天相比对 PDF 所做的更改。 我使用的是 MAC 系统。谢谢！   由   提交 /u/ShoddyNegotiation343   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1cmdcww/pdf_download_daily/</guid>
+      <pubDate>Tue, 07 May 2024 14:33:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解人工智能和自动化的 Discords / 社区（无代码）</title>
       <link>https://www.reddit.com/r/automation/comments/1cm5dms/discords_communities_to_learn_about_ai_and/</link>
       <description><![CDATA[您有什么建议吗？   由   提交 /u/Purple-Asparagus-887   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cm5dms/discords_communities_to_learn_about_ai_and/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>使用 Instagram 人工智能免费创建 25 个 Instagram 帖子！</title>
       <link>https://www.reddit.com/r/automation/comments/1cit994/create_25_instagram_posts_for_free_with_ai_for/</link>
-      <description><![CDATA[ 由   提交/u/Naive_Spread_3576   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/Naive_Spread_3576  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cit994/create_25_instagram_posts_for_free_with_ai_for/</guid>
       <pubDate>Thu, 02 May 2024 22:49:48 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Thu, 02 May 2024 12:47:22 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年 AI 开发者路线图</title>
+      <title>2024 年人工智能开发者路线图</title>
       <link>https://www.reddit.com/r/automation/comments/1ciblqg/the_2024_ai_developer_roadmap/</link>
       <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ciblqg/the_2024_ai_developer_roadmap/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[我和一位同事最近各购买了一台 Allen Bradley PLC。我们都想尝试自己动手学习编程，但没有 1000 美元花在软件上。有任何兼容的免费替代品吗？   由   提交 /u/Fearless-Zebra-2543   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ch4f5x/allen_bradley_plc_software/</guid>
       <pubDate>Tue, 30 Apr 2024 21:30:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>已付费，需要帮助向负载较重的服务器发送请求</title>
-      <link>https://www.reddit.com/r/automation/comments/1cgv9iq/paid_need_help_with_sending_requests_to_a_server/</link>
-      <description><![CDATA[嘿，我需要有以高速率向服务器发送请求的经验的人，我有一个端点由于负载而变慢，我会希望有人帮助我优化流程，以便我可以在加载期间以最快的速度发送请求并获得响应。   由   提交 /u/FlumeTennisCourt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1cgv9iq/paid_need_help_with_sending_requests_to_a_server/</guid>
-      <pubDate>Tue, 30 Apr 2024 15:11:57 GMT</pubDate>
     </item>
     </channel>
 </rss>

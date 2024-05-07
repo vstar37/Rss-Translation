@@ -4,87 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 07 May 2024 12:02:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 15:10:46 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 欢迎使用 pyspread，这是最具 Python 风格的电子表格应用程序。</title>
-      <link>https://t.me/hn_summary/88316</link>
-      <description><![CDATA[Pyspread – 最Pythonic的电子表格
-欢迎使用 pyspread，这是最具 Python 风格的电子表格应用程序。告别传统的电子表格语言，迎接每个单元格中的 Python 表达式。使用 pyspread，您可以访问 Python 对象、导入 CSV 和 SVG 文件，甚至导出为 PDF。 pyspread 针对研究工程师 Clara 和业务决策者 Peter 等精通 Python 的用户，提供了一种独特的方法来分析数据并避免计算错误。但是，如果您像 Donna 一样，在没有编程知识的情况下寻找 Excel 替代品，或者像 Jack 一样，需要并行计算，那么 pyspread 可能不是最合适的。探索 pyspread 的可能性并加入 gitter 社区以获得支持和反馈。]]></description>
-      <guid>https://t.me/hn_summary/88316</guid>
-      <pubDate>Tue, 07 May 2024 12:02:40 GMT</pubDate>
+      <title>[媒体] 我很高兴地宣布我的荷兰语口语培训师应用程序在 App Store 上推出！</title>
+      <link>https://t.me/hn_summary/88372</link>
+      <description><![CDATA[Show HN：我已经发布了我的荷兰语口语培训应用程序，其灵感来自于巴贝尔
+我很高兴地宣布我的荷兰语口语培训师应用程序在 App Store 上推出！受 Babbel 的启发，该应用程序旨在帮助用户通过互动练习和课程提高荷兰语技能。该应用程序的与众不同之处在于它对用户隐私的承诺 - 我们不收集用户的任何数据。因此，当您努力掌握荷兰语时，您可以放心地知道您的信息是安全的。立即下载，立即开始您的语言学习之旅！]]></description>
+      <guid>https://t.me/hn_summary/88372</guid>
+      <pubDate>Tue, 07 May 2024 15:10:46 GMT</pubDate>
     </item>
     <item>
-      <title>欢迎来到 GitHub 上的 Dotfiles！</title>
-      <link>https://t.me/hn_summary/88315</link>
-      <description><![CDATA[Dotfiles：GitHub 上的 Dotfiles 非官方指南
-欢迎来到 GitHub 上的 Dotfiles！点文件对于自定义工具箱至关重要，将它们存储在 GitHub 上可以让您轻松备份、恢复和同步您的首选项和设置。通过发现新工具和技巧向社区学习，并与他人分享您的知识。在深入研究之前，请探索有关组织点文件的教程，并找到通用实用程序和特定于工具的框架来简化自定义。浏览流行的基本配置或从其他用户的点文件中寻求灵感。想做出贡献吗？提交功能请求、未解决的问题或提交补丁以帮助改进社区。]]></description>
-      <guid>https://t.me/hn_summary/88315</guid>
-      <pubDate>Tue, 07 May 2024 11:53:33 GMT</pubDate>
+      <title>[媒体] 介绍 create-react-package，这是 npmjs.com 上的一个方便的 CLI 工具，可简化 p [...]</title>
+      <link>https://t.me/hn_summary/88371</link>
+      <description><![CDATA[展示 HN：使用 NPM CLI 工具在 5 分钟内启动 React 库&lt; /a&gt;
+隆重推出 create-react-package，这是 npmjs.com 简化了启动新 React 组件项目的过程。该工具通过克隆模板、自定义 package.json 和自动安装依赖项来简化项目设置。只需运行命令并按照交互式提示输入项目详细信息，例如版本、存储库 URL、关键字、作者姓名和许可证。一种在短短 5 分钟内启动 React 项目的便捷高效方法。另外，我们鼓励贡献，所以请随意参与并在这个创新工具上留下您的印记。]]></description>
+      <guid>https://t.me/hn_summary/88371</guid>
+      <pubDate>Tue, 07 May 2024 15:09:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]微软正在凭借其新的内部模型 MAI-1 在人工智能领域掀起波澜，该模型 [...]</title>
-      <link>https://t.me/hn_summary/88314</link>
-      <description><![CDATA[微软正在开发“更大”的内部人工智能模型
-微软正在凭借其新的内部模型 MAI-1 在人工智能领域掀起波澜，据说该模型比其他开源模型“大得多”。由 Mustafa Suleyman 领导的 MAI-1 团队旨在与 Google、OpenAI 等公司的模型竞争。微软首席技术官 Kevin Scott 强调了人工智能模型在其产品和服务中的重要性。该公司收购 Inflection AI 并聘用 Suleyman 标志着该公司对消费者人工智能的关注。 MAI-1 在 Microsoft Build 大会上的潜在展示让技术爱好者热议即将发生的事情。]]></description>
-      <guid>https://t.me/hn_summary/88314</guid>
-      <pubDate>Tue, 07 May 2024 11:39:25 GMT</pubDate>
+      <title>[媒体]Vibe IRL 不仅仅是另一个社交应用程序——它是一场朝着更真实、情绪化的方向发展的运动 [...]</title>
+      <link>https://t.me/hn_summary/88370</link>
+      <description><![CDATA[Show HN：推出 Vibe IRL：一款革新现实的新应用程序生活社交
+Vibe IRL 不仅仅是另一个社交应用程序，它是一场在现实生活中建立更真实、基于情绪的联系的运动。 Vibe IRL 将您与心态相似的当地人匹配起来，帮助您将在线互动转化为有意义的现实生活体验。通过关注您当前的心情和精力，该应用程序可确保每次连接都是为您量身定制的。用户称赞 Vibe IRL 能够有效帮助他们结识新朋友并获得美好体验。无论您寻求冒险、放松还是快乐，Vibe IRL 都承诺通过现实世界的互动提供真正的乐趣和联系。]]></description>
+      <guid>https://t.me/hn_summary/88370</guid>
+      <pubDate>Tue, 07 May 2024 15:08:36 GMT</pubDate>
     </item>
     <item>
-      <title>我自学了编码并创建了 Sharekit，这是一个可以让您安排 LinkedIn [...]</title>
-      <link>https://t.me/hn_summary/88313</link>
-      <description><![CDATA[Show HN：自学编码并构建了一个 Notion 调度工具领英
-我自学了编码并创建了 Sharekit，这是一个允许您直接从 Notion 安排 LinkedIn 帖子的工具。借助 Sharekit，您可以在 Notion 中轻松创建和安排内容，然后让该工具处理其余的事情。该工具提供了创建精彩内容所需的所有功能，包括安排第一条评论、使用主题标签、标记页面和用户等等。用户对 Sharekit 如何简化内容创建过程赞不绝口。此外，Sharekit 完全符合 LinkedIn 的使用条款，因此您可以安排帖子，而不必担心被禁止的风险。立即开始 7 天免费试用！]]></description>
-      <guid>https://t.me/hn_summary/88313</guid>
-      <pubDate>Tue, 07 May 2024 11:35:19 GMT</pubDate>
+      <title>[媒体]Loopy 是一款革命性的人工智能用户反馈管理器，它消除了回复的麻烦[...]</title>
+      <link>https://t.me/hn_summary/88369</link>
+      <description><![CDATA[显示 HN：Loopy – AI 用户反馈管理器&lt; br/&gt;
+Loopy 是一款革命性的人工智能用户反馈管理器，它消除了回复 App Store 和 Google Play Store 评论的麻烦。借助 Loopy，您可以轻松提高应用商店评级、减少客户流失并削减成本。接收每日错误和功能请求报告，以便专注于为您的用户提供服务。这一创新工具将简化您的反馈流程，并帮助您在每次回复中保持品牌形象。]]></description>
+      <guid>https://t.me/hn_summary/88369</guid>
+      <pubDate>Tue, 07 May 2024 15:07:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]中国成功发射首枚长征六号丙运载火箭，搭载四颗卫星[...]</title>
-      <link>https://t.me/hn_summary/88312</link>
-      <description><![CDATA[中国发射首枚长征六号丙运载火箭 - 航天新闻&lt; br/&gt;
-中国成功发射首枚长征六号丙运载火箭，将四颗卫星送入轨道。主要有效载荷 Neptune-1 是一颗实验性 X 波段合成孔径雷达卫星。长征六号丙是中国新一代火箭的一部分，使用煤油和液氧，提供更多的发射选择和灵活性。中国的商业发射服务提供商也在研究可重复使用的火箭，iSpace和Landspace等公司正在开发创新模型。该国的航天工业正在迅速发展，并计划在不久的将来推出更先进的火箭。]]></description>
-      <guid>https://t.me/hn_summary/88312</guid>
-      <pubDate>Tue, 07 May 2024 11:20:11 GMT</pubDate>
+      <title>Greenwedge.eco 为个人和公司提供可持续气候补偿计划，以 [...]</title>
+      <link>https://t.me/hn_summary/88368</link>
+      <description><![CDATA[显示 HN：针对个人和公司的可持续气候补偿计划
+Greenwedge.eco 为个人和公司提供可持续的气候补偿计划，重点关注通过植树和直接碳清除来采取可行的气候行动。该平台提供二氧化碳回收和恢复森林面积的实时反馈，同时还实施反洗绿措施以确保有效性。通过植树，个人可以对平衡其排放份额和减缓气候变化产生切实的影响。 Green Wedge 的方法基于直接碳去除，避免了围绕碳信用额的争议。加入他们的植树造林项目，为绿色未来和保护环境做出贡献。]]></description>
+      <guid>https://t.me/hn_summary/88368</guid>
+      <pubDate>Tue, 07 May 2024 15:06:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] TOME 是一个为您的终端提供剧本的项目，可让您轻松地 [...]</title>
-      <link>https://t.me/hn_summary/88311</link>
-      <description><![CDATA[显示 HN：终端的 Playbook，替换 shell 的历史记录
-TOME 是一个为您的终端提供 playbook 的项目，使您可以轻松管理和执行任何 REPL 中的命令列表。它的目的是替换您的 shell 命令历史记录并组织每个项目的剧本。通过使用 vim 和 tmux 插件，您可以交互地创建和执行命令序列。 TOME 的独特之处在于能够向任何终端应用程序发送命令、管理文件夹中的剧本以及轻松创建临时便笺本。它不使用变量，因为您的 shell 已经支持它们。该项目需要 tmux、vim 和任何 REPL（例如 bash 或数据库客户端）才能安装和使用。]]></description>
-      <guid>https://t.me/hn_summary/88311</guid>
-      <pubDate>Tue, 07 May 2024 11:01:02 GMT</pubDate>
+      <title>在 Modalcast，我们让您轻松了解您的用户并增加您的销售额。</title>
+      <link>https://t.me/hn_summary/88367</link>
+      <description><![CDATA[显示 HN：了解您的用户并提高销量&lt; br/&gt;
+在 Modalcast，我们让您轻松了解您的用户并增加您的销售额。我们的平台在一个方便的地方提供您所需的所有工具，以增加您的收入并直接与您的网站访问者互动。告别复杂的流程，迎接简化的用户管理。立即尝试 Modalcast，开始更有效地销售。]]></description>
+      <guid>https://t.me/hn_summary/88367</guid>
+      <pubDate>Tue, 07 May 2024 15:05:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]中国被指控对英国国防部进行黑客攻击，目标是军人 [...]</title>
-      <link>https://t.me/hn_summary/88310</link>
-      <description><![CDATA[天空新闻获悉，中国黑客入侵英国国防部
-
-中国被指控黑客入侵英国国防部，针对军人实施大规模数据泄露。政府尚未正式点名中国，但天空新闻认为中国是罪魁祸首。网络攻击暴露了姓名和银行详细信息，但本月仍将支付所有工资。国防部正在努力了解黑客攻击的规模，调查显示迄今为止尚未窃取任何数据。这一事件引发了与中国分享敏感情报的疑问。中国国家主席习近平目前正在欧洲访问，但不会访问英国。]]></description>
-      <guid>https://t.me/hn_summary/88310</guid>
-      <pubDate>Tue, 07 May 2024 10:54:56 GMT</pubDate>
+      <title>“Steer”项目是语法助手应用程序的轻量级后端服务，充当 [...]</title>
+      <link>https://t.me/hn_summary/88366</link>
+      <description><![CDATA[显示 HN：使用 OpenAI SDK 和 FastAPI 进行令牌流 
+“Steer”项目是语法助手应用程序的轻量级后端服务，作为使用 OpenAI SDK 和 FastAPI 的 LLM 令牌流的示例。它提供了在本地计算机上设置项目的说明，包括先决条件、环境设置、配置、安装以及直接或使用 Docker 运行应用程序。该项目的结构包括模块和服务，重点是法学硕士集成和重写服务。当应用程序运行时，端点文档位于 /docs，并且可以通过 Nginx 公开的 http://localhost:80 访问该应用程序。]]></description>
+      <guid>https://t.me/hn_summary/88366</guid>
+      <pubDate>Tue, 07 May 2024 15:04:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Google Fit API 将于 2025 年关闭，这可能会破坏健身设备 [...]</title>
-      <link>https://t.me/hn_summary/88309</link>
-      <description><![CDATA[Google Fit API 将于 2025 年关闭，可能会损坏健身设备&lt; /a&gt;
-Google Fit API 将于 2025 年关闭，这可能会破坏依赖该平台的健身设备。谷歌终止该 API 的举措是在与多个健身 API 多年的竞争和混乱之后做出的。新的 Health Connect API 缺乏云同步，将其定位为健康数据存储的中立标准。谷歌缓慢的更新计划以及与旧版 Android 版本缺乏兼容性引发了人们对设备支持的担忧。相比之下，苹果的 Healthkit 生态系统并未受到影响，凸显了该公司对用户和开发者信任的承诺。围绕 Google 决定的争议以及 Health Connect 的独特方法使这成为健身科技行业的重大发展。]]></description>
-      <guid>https://t.me/hn_summary/88309</guid>
-      <pubDate>Tue, 07 May 2024 10:46:50 GMT</pubDate>
+      <title>大家好，这里是 Shri 和 Robin，他们是 Nectar 的联合创始人，Nectar 是一款专为 B2B 打造的客户洞察工具。</title>
+      <link>https://t.me/hn_summary/88365</link>
+      <description><![CDATA[显示 HN：Nectar – 为 B2B 构建的客户洞察（演示）&lt; /a&gt;
+大家好，这里是 Shri 和 Robin，他们是 Nectar 的联合创始人，Nectar 是一款专为 B2B 打造的客户洞察工具。 Nectar 可根据您的客户的言论帮助展现客户洞察，解决为不同规模和价值的客户构建 B2B 产品的复杂性。作为前工程经理，我们意识到了解客户需求和行为的重要性，尤其是当不是我们自己产品的用户时。 Nectar 允许团队根据客户反馈生成见解，连接回帐户和业务价值。功能包括自动收集和整合客户反馈、自动标记对话以及根据过滤器生成见解。查看演示并加入候补名单以了解有关 Nectar 的更多信息。]]></description>
+      <guid>https://t.me/hn_summary/88365</guid>
+      <pubDate>Tue, 07 May 2024 15:03:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 InstaWebAI，这是一款革命性的文本到网站生成器，它利用了 p [...]</title>
-      <link>https://t.me/hn_summary/88308</link>
-      <description><![CDATA[显示 HN：我制作了一个由 gpt4 驱动的文本到网站生成器，并且顺风
-隆重推出 InstaWebAI，这是一款革命性的文本到网站生成器，它利用 GPT-4 和 Tailwind 的强大功能，在创纪录的时间内提供卓越的网站。告别繁琐的编码，只需几个简单的输入即可进入令人惊叹的网站。我们的尖端技术使您能够比以往更快地创建专业网站，从而节省您的时间和精力。使用 InstaWebAI 体验网页设计的未来。请访问 www.instawebai.com 查看实际效果。 ]]></description>
-      <guid>https://t.me/hn_summary/88308</guid>
-      <pubDate>Tue, 07 May 2024 10:43:45 GMT</pubDate>
+      <title>[媒体] 在 ifxhub.com，我们了解作为交易者监控投资的重要性。</title>
+      <link>https://t.me/hn_summary/88364</link>
+      <description><![CDATA[Show HN：我们做了一个新的外汇统计工具，直接用MT4连接
+在 ifxhub.com，我们了解监控您的投资的重要性，因为一个交易员。我们新的外汇统计工具提供与 MT4 的直接连接，让您可以通过每月百分比细分功能跟踪您的账户进度。分析您帐户的每月增长情况，以便为未来做出明智的决策。确定交易过程中的模式、高峰和低谷，以便做出战略调整，实现最佳绩效和持续增长。通过我们的系统分析控制您的交易并保持领先地位。]]></description>
+      <guid>https://t.me/hn_summary/88364</guid>
+      <pubDate>Tue, 07 May 2024 15:02:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] CodeCrafters (YC S22) 是一家为经验丰富的人创造编程挑战的公司 [...]</title>
-      <link>https://t.me/hn_summary/88307</link>
-      <description><![CDATA[CodeCrafters (YC S22) 正在招聘亚洲的 SDR/BDR&lt; /a&gt;
-CodeCrafters (YC S22) 是一家在 YC、Instagram 和 Dropbox 创始人的支持下为经验丰富的软件工程师创造编程挑战的公司。他们目前正在聘请亚洲的 SDR/BDR 来致力于达成企业交易并管理有影响力的合作伙伴关系。主要职责包括勘探、跟进时间表、报告统计数据以及确保客户成功。要求包括优秀的英语技能、软件销售经验、积极性、创造力以及对软件工程师和其他关键利益相关者需求的熟悉程度。加入充满活力的团队，成为一家拥有令人印象深刻的支持并专注于科技行业创新的公司的一部分。]]></description>
-      <guid>https://t.me/hn_summary/88307</guid>
-      <pubDate>Tue, 07 May 2024 08:29:45 GMT</pubDate>
+      <title>[媒体] 希望利用竞业禁止禁令来获得竞争优势？</title>
+      <link>https://t.me/hn_summary/88363</link>
+      <description><![CDATA[显示 HN：利用竞业禁止禁令和竞争对手监控&lt; br/&gt;
+希望利用竞业禁止禁令来获得竞争优势？查看 RivalSense.co 了解包含每日提醒的自定义附加计划，销售战卡、建议的竞争对手以及每个帐户的多个席位。我们独特的竞争对手监控系统可以帮助您保持领先地位并超越竞争对手。立即联系我们的销售团队，详细了解我们如何帮助您占领市场。]]></description>
+      <guid>https://t.me/hn_summary/88363</guid>
+      <pubDate>Tue, 07 May 2024 15:01:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
