@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 07 May 2024 06:16:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:13:51 GMT</lastBuildDate>
+    <item>
+      <title>正在寻找适用于 Windows 的 FOSS Gallery 来组织照片和视频？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cm6jyi/looking_for_a_foss_gallery_for_windows_to/</link>
+      <description><![CDATA[有谁知道一些 FOSS Windows 软件，它允许我选择特定文件夹，然后自动加载该文件夹和子文件夹中的所有图像和视频。图像和视频应按日期组织，我希望有一个搜索选项，以便能够按日期和图像名称进行搜索。 此外，如果它内置了地图，则会显示地图上每个图像的位置，那就太好了。 我不是在寻找像 Immich、Home Gallery 或类似的东西这样的自托管解决方案，所以不推荐在 Docker 上运行的东西。我所需要的只是一个 Windows 软件，一个可以安装并完成工作的 .exe 文件。 我找到了一个名为 Darktable 的软件，它可以完成我正在寻找的这些事情，但它的主要功能不是像图库应用程序那样工作，而且它不能处理视频，只能处理照片。它有太多选项，很混乱，而且看起来真的很难看，而且已经过时了。 任何建议或建议将不胜感激！提前致谢。   由   提交 /u/Cyber​​Sweeper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cm6jyi/looking_for_a_foss_gallery_for_windows_to/</guid>
+      <pubDate>Tue, 07 May 2024 08:01:43 GMT</pubDate>
+    </item>
     <item>
       <title>精简 Android 操作系统</title>
       <link>https://www.reddit.com/r/opensource/comments/1cm1nwk/stripped_down_android_operating_system/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>大家好，我正在寻找一个网站，该网站提供按用户主题分类的各种开源软件的概述。知道我在哪里可以找到这个吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1clcdr2/hi_everyone_im_looking_for_a_website_that/</link>
-      <description><![CDATA[  由    /u/bazipip  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/bazipip   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1clcdr2/hi_everyone_im_looking_for_a_website_that/</guid>
       <pubDate>Mon, 06 May 2024 06:33:02 GMT</pubDate>
     </item>
@@ -78,37 +85,30 @@
     <item>
       <title>OSS Weather：适用于 iOS/Android 的开源天气应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1ckqizw/oss_weather_an_open_source_weather_app_for/</link>
-      <description><![CDATA[iOS 应用程序：https： //apps.apple.com/fr/app/oss-weather/id1499117252 Android 应用：https://play.google.com/store/apps/details?id=com.akylas.weather  源代码：https://github.com/Akylas/oss-weather    由   提交 /u/Spirited-Pause   [链接] [评论]]]></description>
+      <description><![CDATA[iOS 应用程序：https://apps.apple.com/fr/app/oss-weather/id1499117252 Android 应用程序：https://play.google.com/store/apps/details?id=com.akylas.weather  源代码：https://github.com/Akylas/oss-weather     提交人    /u/Spirited-Pause   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ckqizw/oss_weather_an_open_source_weather_app_for/</guid>
       <pubDate>Sun, 05 May 2024 12:49:10 GMT</pubDate>
     </item>
     <item>
       <title>CurlerRoo - 管理 cURL 请求的简单编辑器</title>
       <link>https://www.reddit.com/r/opensource/comments/1cknny7/curlerroo_simple_editor_to_manage_your_curl/</link>
-      <description><![CDATA[https://github.com/CurlerRoo/CurlerRoo  CurlerRoo 允许您快速创建、编辑、保存和发送 cURL 命令。只需 cURL，无需处理复杂的 GUI。  功能 - 创建、编辑、保存和发送 cURL 命令。 - 自动完成 cURL 语法。 - 在 cURL 命令之前和之后执行脚本。 /&gt; - 创建变量并在 cURL 命令中使用它们。 - 自动从响应中提取变量。 - 执行多个链式请求。 - 将请求存储为纯文本文件，以便于使用您最喜欢的备份和版本控制工具。   由   提交 /u/pclover_dot_exe   [链接] [评论]]]></description>
+      <description><![CDATA[https://github.com/CurlerRoo/CurlerRoo  CurlerRoo 允许您快速创建、编辑、保存和发送 cURL 命令。只需 cURL，无需处理复杂的 GUI。  功能 - 创建、编辑、保存和发送 cURL 命令。 - 自动完成 cURL 语法。 - 在 cURL 命令之前和之后执行脚本。 - 创建变量并在 cURL 命令中使用它们。 - 自动从响应中提取变量。 - 执行多个链式请求。 - 将请求存储为纯文本文件，从而可以轻松使用您最喜欢的工具进行备份和版本控制。    提交人    /u/pclover_dot_exe   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cknny7/curlerroo_simple_editor_to_manage_your_curl/</guid>
       <pubDate>Sun, 05 May 2024 09:46:49 GMT</pubDate>
     </item>
     <item>
-      <title>在 Django 和 Headless CMS 之间进行网站开发的选择：寻求建议</title>
+      <title>在 Django 和 Headless CMS 之间进行网站开发选择：寻求建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1cke5ly/choosing_between_django_and_headless_cms_for/</link>
-      <description><![CDATA[嘿r/opensource， 我一直在深入研究我正在为一家酒店业主开发的网站项目的决策过程。他们热衷于拥有一个强大的管理界面来管理网站的各个方面，包括图库、博客、活动、电子邮件和付款。虽然我已经做了相当多的研究，但我仍然在纠结是使用 Django 强大的管理功能还是探索使用开源无头 CMS（如 Strapi 或 Payload）来简化内容管理和集成的可能性。 Next.js 前端。 尽管我付出了努力，但我发现自己有点进退两难。这是我可以利用您的专业知识的地方：  开发复杂性：根据您的经验，在 Django 中构建所有内容与将无头 CMS 与Next.js 前端？ 管理界面：与 Django Admin 相比，Strapi 或 Payload 等开源无头 CMS 平台提供的管理界面用户友好性和可定制性如何？&lt; /li&gt; 性能和可扩展性：在为此项目选择 Django 和无头 CMS 时，我应该牢记任何性能或可扩展性注意事项吗？ 成本和部署：哪些开源无头 CMS 选项允许自托管，无需额外的部署成本？这些 CMS 的部署过程与部署 Django 应用程序相比如何？ 客户满意度：根据您的经验，与 Django Admin 提供的管理界面相比，客户对 Django Admin 提供的管理界面的满意度如何？开源无头 CMS 平台在易用性和功能方面的优势？  尽管我进行了研究，但我仍然发现自己在权衡利弊。您根据自己的经验提出的见解、建议或最佳实践将对指导我做出决定非常有帮助。 预先感谢您的帮助！   由   提交/u/Noor_Slimane_9999   [链接] [评论]]]></description>
+      <description><![CDATA[嘿r/opensource， 我一直在深入研究我正在为一家酒店业主开发的网站项目的决策过程。他们热衷于拥有一个强大的管理界面来管理网站的各个方面，包括图库、博客、活动、电子邮件和付款。虽然我已经做了相当多的研究，但我仍然在纠结是使用 Django 强大的管理功能还是探索使用开源无头 CMS（如 Strapi 或 Payload）来简化内容管理和集成的可能性。 Next.js 前端。 尽管我付出了努力，但我发现自己有点进退两难。这是我可以利用您的专业知识的地方：  开发复杂性：根据您的经验，在 Django 中构建所有内容与将无头 CMS 与Next.js 前端？ 管理界面：与 Django Admin 相比，Strapi 或 Payload 等开源无头 CMS 平台提供的管理界面用户友好性和可定制性如何？&lt; /li&gt; 性能和可扩展性：在为此项目选择 Django 和无头 CMS 时，我应该牢记任何性能或可扩展性注意事项吗？ 成本和部署：哪些开源无头 CMS 选项允许自托管，无需额外的部署成本？这些 CMS 的部署过程与部署 Django 应用程序相比如何？ 客户满意度：根据您的经验，与 Django Admin 提供的管理界面相比，客户对 Django Admin 提供的管理界面的满意度如何？开源无头 CMS 平台在易用性和功能方面的优势？  尽管我进行了研究，但我仍然发现自己在权衡利弊。您根据自己的经验提出的见解、建议或最佳实践将对指导我做出决定非常有帮助。 提前感谢您的帮助！   由   提交/u/Noor_Slimane_9999   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cke5ly/choosing_between_django_and_headless_cms_for/</guid>
       <pubDate>Sat, 04 May 2024 23:57:49 GMT</pubDate>
     </item>
     <item>
-      <title>我一直在使用一款名为 Grapesjs 的开源软件，但不知为何无法拖动项目？选择固定位置后，无法拖动文本框到其位置，必须将其放在顶部和左侧像素距离处，但不起作用？</title>
+      <title>我一直在使用名为 Grapesjs 的开源软件，但是，由于某种原因，一个人无法拖动项目？一个人选择固定位置，但是，一个人无法将前文本框拖动到它的位置..一个人必须将其放在顶部和左侧像素距离..但是，不起作用？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</link>
       <description><![CDATA[一个人无法完成数百件事情，一个人必须能够拖放？    由   提交/u/savant78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</guid>
       <pubDate>Sat, 04 May 2024 14:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>公共文档 OSS</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</link>
-      <description><![CDATA[我们一直在使用大纲/大纲，但它主要集中在内部文档上。目前向我们的客户共享公共链接时使用的是 PITA。 ​ 我们正在寻找非常相似的 OSS 来帮助解决此问题，并且可能是基于 Next 构建的。 JS  而且我们没有时间构建静态 NextJS 网站来提供文档，因为团队规模较小，而且文档主要由非技术人员编写。   由   提交/u/piyushsingariya  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</guid>
-      <pubDate>Sat, 04 May 2024 11:28:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
