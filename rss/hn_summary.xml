@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 08 May 2024 00:40:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 06:12:45 GMT</lastBuildDate>
     <item>
-      <title>[媒体]像谷歌这样的大型科技公司因雇用“BS工作”的人而受到批评，[...]</title>
-      <link>https://t.me/hn_summary/88455</link>
-      <description><![CDATA[Google 是雇用员工从事“BS 工作”的“惊人例子” &#39;
-像谷歌这样的大型科技公司因雇用员工从事“BS工作”而受到批评，即以高薪雇用员工做最少的工作，阻碍了创新和股东回报。风险投资家 David Ulevitch 指出，谷歌可能有一半的白领员工没有做任何实际工作，在毫无进展的项目上浪费了数十亿美元。尽管存在人工智能图像工具创建误导性图像等争议，但谷歌已经取得了像 Gemini 和 DeepMind 这样的成功。 Ulevitch 担心美国正在失去其工业未来所需的技能，但初创企业有机会填补这一空白。]]></description>
-      <guid>https://t.me/hn_summary/88455</guid>
-      <pubDate>Wed, 08 May 2024 00:40:38 GMT</pubDate>
+      <title>[媒体]我们很高兴地宣布 Heroku 上对 HTTP/2 的公开测试版支持，这是一个强烈要求 [...]</title>
+      <link>https://t.me/hn_summary/88486</link>
+      <description><![CDATA[Heroku 上的 HTTP/2
+我们很高兴地宣布 Heroku 上对 HTTP/2 的公开测试版支持，这是我们平台强烈要求的改进。 HTTP/2 通过利用标头压缩和多路复用等功能，提供更快的加载时间、增强的响应能力和改进的用户体验。此次升级是我们正在进行的平台现代化项目的一部分，我们计划探索端到端 HTTP/2 支持以及服务器推送和 gRPC 等功能。虽然 HTTP/2 需要 TLS 证书，但我们建议使用 Heroku 自动证书管理。我们感谢导致这一变化的反馈，并期待进一步增强我们的网络能力。]]></description>
+      <guid>https://t.me/hn_summary/88486</guid>
+      <pubDate>Wed, 08 May 2024 06:12:45 GMT</pubDate>
     </item>
     <item>
-      <title>请访问 www.smartpokertable.com 查看我的最新作品！</title>
-      <link>https://t.me/hn_summary/88454</link>
-      <description><![CDATA[Show HN：我制作了自己的 RFID 扑克桌 
-请访问 www.smartpokertable.com 查看我的最新作品！我设计了一款 RFID 扑克桌，可将您的游戏提升到一个新的水平。借助球员卡的实时流和跟踪比赛的历史记录功能，您将永远不会错过比赛的任何时刻。使用智能扑克桌充分利用您的扑克游戏。立即访问我们的网站，了解如何提升您的游戏体验。]]></description>
-      <guid>https://t.me/hn_summary/88454</guid>
-      <pubDate>Wed, 08 May 2024 00:07:25 GMT</pubDate>
+      <title>[媒体]埃隆·马斯克对激光雷达传感器的厌恶是众所周知的，他之前称其为 [...]</title>
+      <link>https://t.me/hn_summary/88485</link>
+      <description><![CDATA[特斯拉今年从 Luminar 购买了价值超过 200 万美元的激光雷达传感器&lt; /a&gt;
+埃隆·马斯克对激光雷达传感器的厌恶是众所周知的，他此前称其为“拐杖”，并声称依赖它来实现自主能力的公司“注定要失败”。然而，特斯拉在第一季度出人意料地成为 Luminar 最大的激光雷达客户，购买了价值超过 210 万美元的传感器。尽管 Luminar 仍不得不裁员，但此举帮助抵消了收入下降的影响。尽管马斯克公开反对激光雷达，但有人发现特斯拉在佛罗里达州的 Model Y 上使用了 Luminar 的传感器，并据报道建立了测试和开发合作伙伴关系。尽管马斯克仍然公开反对激光雷达，但特斯拉似乎可能会改变对激光雷达的态度。]]></description>
+      <guid>https://t.me/hn_summary/88485</guid>
+      <pubDate>Wed, 08 May 2024 06:11:40 GMT</pubDate>
     </item>
     <item>
-      <title>摘要：作者分享了他们在避免摄入咖啡因后发现咖啡因益处的旅程 [...]</title>
-      <link>https://t.me/hn_summary/88453</link>
-      <description><![CDATA[微剂量咖啡因
-摘要：作者分享了他们因偏头痛而避免摄入咖啡因后发现咖啡因益处的历程。他们发现，微剂量的咖啡因，即每天限制摄入量 60 毫克，并且仅在需要生产力的日子里摄入，可以帮助他们保持注意力集中，而不会产生依赖。作者强调了有意识地摄入咖啡因的重要性，并分享了有效管理咖啡因的规则。作者还强调了咖啡因成瘾的可能性以及采取个性化消费方法的必要性。]]></description>
-      <guid>https://t.me/hn_summary/88453</guid>
-      <pubDate>Wed, 08 May 2024 00:04:20 GMT</pubDate>
+      <title>[媒体] 在 TW Elements，我们使用 TailwindCSS 的开源组件使主题化变得简单。</title>
+      <link>https://t.me/hn_summary/88484</link>
+      <description><![CDATA[TailwindCSS 开源组件
+在 TW Elements，我们使用 TailwindCSS 的开源组件使主题化变得简单。我们独特的功能包括暗模式和自定义主题的切换，使您可以轻松地将两个主题集成到您的项目中。默认情况下，我们在所有组件中都包含了深色主题变体，使得在浅色和深色模式之间切换变得简单。此外，您还可以通过 tailwind.config.js 配置文件覆盖项目的调色板、字体比例、字体、断点、边框半径值等来自定义默认主题。立即体验 TW Elements 的无缝主题！]]></description>
+      <guid>https://t.me/hn_summary/88484</guid>
+      <pubDate>Wed, 08 May 2024 06:07:34 GMT</pubDate>
     </item>
     <item>
-      <title>推出 ODROID-H4，这是 ODROID H 系列产品线的最新成员。</title>
-      <link>https://t.me/hn_summary/88452</link>
-      <description><![CDATA[Odroid-H4
-推出 ODROID-H4，这是 ODROID H 系列产品线的最新成员。凭借改进的功能和性能，这款新型号为寻求高品质单板计算机的用户提供了更多功能。ODROID-H4 有两种新型号，可满足不同的需求和偏好。无论您是技术爱好者还是寻求可靠计算解决方案的专业人士，ODROID-H4 都能满足每个人的需求。使用 ODROID-H4 探索各种可能性并体验更高级别的计算。]]></description>
-      <guid>https://t.me/hn_summary/88452</guid>
-      <pubDate>Tue, 07 May 2024 23:59:15 GMT</pubDate>
+      <title>[媒体]IBM 研究中心宣布开源其 Granite 代码模型系列 revol [...]</title>
+      <link>https://t.me/hn_summary/88483</link>
+      <description><![CDATA[IBM 的 Granite 代码模型系列即将开源 - IBM 研究中心
+IBM 研究中心宣布开源其 Granite 代码模型系列，彻底改变了软件开发流程。这些模型的参数范围为 3 至 340 亿个，始终与开源代码法学硕士的最先进性能相匹配。通过在 Apache 2.0 许可下发布这些模型，IBM 旨在使开放社区能够在从代码生成到解释的各种用例中进行创新。 Granite 代码模型使开发人员能够自动执行基本任务、实现应用程序现代化并提高生产力。凭借独特的训练方法和跨主要编程语言的强大性能，IBM 的 Granite 代码模型将改变软件开发的生成式 AI 格局。]]></description>
+      <guid>https://t.me/hn_summary/88483</guid>
+      <pubDate>Wed, 08 May 2024 06:05:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]任天堂 24 财年财务业绩显示总净销售额为 108 亿美元，其中 [...]</title>
-      <link>https://t.me/hn_summary/88451</link>
-      <description><![CDATA[任天堂在 2024 财年赚了 10.8B 美元，移动和 IP 收入增长了 81.6% 
-任天堂 24 财年财务业绩显示，总净销售额为 108 亿美元，其中移动和 IP 收入增长了 81.6%。虽然《塞尔达传说：王国之泪》和《超级马里奥兄弟大电影》等游戏的成功推动了这一增长，但任天堂的移动收入却不太明朗。该公司的移动收入与“IP相关业务”合并在一起，其中大部分增长归功于马里奥大片。尽管手机游戏发行量减少以及《马里奥赛车巡回赛》新内容的结束，任天堂的整体净销售额仍因 Switch 软件、数字销售和《马里奥》电影的成功而增长。]]></description>
-      <guid>https://t.me/hn_summary/88451</guid>
-      <pubDate>Tue, 07 May 2024 23:49:08 GMT</pubDate>
+      <title>[媒体] 在我的网站上使用 WASM 和 WebGL 查看这个很酷的新型 2D 流体和重力模拟。</title>
+      <link>https://t.me/hn_summary/88482</link>
+      <description><![CDATA[展示 HN：使用 WASM 和 WebGL 进行简单的 2D 流体和重力模拟
+在我的网站上使用 WASM 和 WebGL 查看这个很酷的新型 2D 流体和重力模拟。观察粒子彼此相互作用并实时响应重力。这种模拟是以简单且引人入胜的方式可视化复杂物理概念的好方法。尝试不同的设置，看看模拟如何变化。对于任何对流体动力学或计算机图形学感兴趣的人来说，这是一个有趣的交互式工具。尝试一下，看看你能创造出什么！]]></description>
+      <guid>https://t.me/hn_summary/88482</guid>
+      <pubDate>Wed, 08 May 2024 05:31:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 Parentheticallyspeaking.org 上的这篇文章中，作者讨论了如何有效地 [...]</title>
-      <link>https://t.me/hn_summary/88450</link>
-      <description><![CDATA[如何教授研究论文写作
-在 parentheticallyspeaking.org 上的这篇文章中，作者讨论了如何有效地教研究生，特别是博士生撰写研究论文。作者强调了通过一次专注于一两个段落的实时交互式编辑课程来减少学生的认知超载和压倒性反馈的重要性。这种方法旨在帮助学生学习良好的写作习惯并随着时间的推移培养自己的声音。作者认为这种方法可以显着提高写作质量和学生的学习成果。本文鼓励顾问尝试这种方法，并欢迎对其有效性提供反馈。]]></description>
-      <guid>https://t.me/hn_summary/88450</guid>
-      <pubDate>Tue, 07 May 2024 23:48:04 GMT</pubDate>
+      <title>[媒体] 作者对企业使用用户生成的内容进行交易表示失望 [...]</title>
+      <link>https://t.me/hn_summary/88481</link>
+      <description><![CDATA[Enshittification抗议引发更多enshittification
+作者对企业使用用户生成的内容来培训法学硕士表示失望，并敦促不要删除现有答案作为抗议的形式。删除数据被认为会适得其反，因为公司已经有备份，删除答案只会伤害搜索信息的人类用户。相反，作者建议不要提供新的答案、不要登录或删除帐户作为更有效的抗议形式。作者主张通过加入社区论坛、在个人网站上发布答案以及使用导出工具解放现有数据来构建更好的网络。文章强调了从持续的争议中吸取教训并夺回网络控制权的重要性。]]></description>
+      <guid>https://t.me/hn_summary/88481</guid>
+      <pubDate>Wed, 08 May 2024 05:29:09 GMT</pubDate>
     </item>
     <item>
-      <title>Deriveit.org 是一个智能资源，旨在帮助您高效掌握 LeetCode。</title>
-      <link>https://t.me/hn_summary/88449</link>
-      <description><![CDATA[显示 HN：Deriveit.org – 高效掌握 LeetCode 的智能资源
-Deriveit.org 是一个智能资源，旨在帮助您高效掌握 LeetCode 。该网站将问题解决分为三个步骤：递归、基本案例和编写解决方案。通过查找递归方程并确定基本情况，用户可以轻松编写解决方案。时间复杂度为 O(n)，空间复杂度为 O(n)，使其成为解决 LeetCode 问题的实用且高效的方法。该网站提供了清晰且结构化的问题解决方法，使其成为那些希望提高算法技能的人的宝贵资源。]]></description>
-      <guid>https://t.me/hn_summary/88449</guid>
-      <pubDate>Tue, 07 May 2024 23:47:00 GMT</pubDate>
+      <title>[媒体]美国</title>
+      <link>https://t.me/hn_summary/88480</link>
+      <description><![CDATA[美国苹果非法审问员工并没收工会传单的规定
+美国国家劳工关系委员会裁定，苹果公司在纽约世贸中心商店非法审问员工支持工会的行为，并没收了工会传单。董事会确认了法官的裁决，并命令苹果公司停止此类行为。这是董事会首次针对苹果做出的决定，但他们不能处以罚款。针对苹果公司的其他案件正在悬而未决，包括指控将工会工人排除在福利之外。近年来，多家苹果商店成功成立了工会。苹果员工在寻求成立工会时面临反对，包括在亚特兰大一家商店举行强制性反工会会议。]]></description>
+      <guid>https://t.me/hn_summary/88480</guid>
+      <pubDate>Wed, 08 May 2024 05:28:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]咖啡因的双刃剑：增强能量还是危害健康？</title>
-      <link>https://t.me/hn_summary/88448</link>
-      <description><![CDATA[咖啡因的双刃剑：增强能量还是危害健康？
-含咖啡因饮料行业正在蓬勃发展，到 2022 年，仅咖啡一项的工资就将超过 1000 亿美元。虽然咖啡因可以增强注意力和身体机能，但过量摄入可能会导致依赖性并恶化健康状况。咖啡因是一种类似于可卡因等药物的兴奋剂，应适量摄入。运动员和学生可以受益于咖啡因对肌肉速度和注意力的影响，但超过 FDA 建议的 400 毫克每日摄入量可能会产生负面后果，特别是对于那些有潜在健康问题的人。 Panera Bread 的“添加柠檬水”等高咖啡因饮料引发了法律问题，导致了严重的健康事故和诉讼。了解咖啡因的影响对于含咖啡因产品的消费者和供应商至关重要。]]></description>
-      <guid>https://t.me/hn_summary/88448</guid>
-      <pubDate>Tue, 07 May 2024 23:39:55 GMT</pubDate>
+      <title>[媒体]二月份，加州参议员 Scott Wiener 提出了 SB 1047，要求安全 [...]</title>
+      <link>https://t.me/hn_summary/88479</link>
+      <description><![CDATA[关于 SB 1047 的误解
+2 月，加州参议员 Scott Wiener 提出了 SB 1047，要求对大型 AI 模型采取安全措施。尽管最初关注度不高，但 Twitter 和 Substack 上出现了反对意见。该法案仅适用于强大的新 AI 模型，而不适用于现有的模型。开发人员必须在训练和部署期间确保安全，重点是防止灾难性风险。误解包括夸大监管机构的权力和针对开源 AI 的主张。领先实验室的合规成本微乎其微。该法案旨在确保安全而不妨碍创新。鼓励健康的辩论，但夸张的说法无济于事。该法案并未禁止开源 AI，关闭要求被误解。（基于 74% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/88479</guid>
+      <pubDate>Wed, 08 May 2024 05:26:58 GMT</pubDate>
     </item>
     <item>
-      <title>国防智库 MITRE 宣布与 Nvidia 进行突破性合作，打造一个价值 [...]</title>
-      <link>https://t.me/hn_summary/88447</link>
-      <description><![CDATA[国防智库 MITRE 将与 Nvidia 合作打造 AI 超级计算机 
-国防智库 MITRE 宣布与 Nvidia 进行突破性合作，为美国联邦政府建造一台价值 2000 万美元的人工智能超级计算机。此次合作旨在彻底改变人工智能能力的部署，为医疗保健和金融等领域带来潜在好处。 MITRE 以其为军事和情报机构提供的创新技术解决方案而闻名，它将通过这个尖端项目对各个领域产生重大影响。研究机构和芯片制造商之间的这种意想不到的联盟肯定会震动科技行业，并引起国防界的关注。]]></description>
-      <guid>https://t.me/hn_summary/88447</guid>
-      <pubDate>Tue, 07 May 2024 23:35:50 GMT</pubDate>
+      <title>[媒体]文章作者发现Google网站https://too中存在漏洞[...]</title>
+      <link>https://t.me/hn_summary/88478</link>
+      <description><![CDATA[常见 Google XSS
+该文章的作者在 Google 网站 https://toolbox.googleapps.com，特别是在恢复应用程序中。通过操纵URL参数，作者能够执行XSS攻击并访问外部站点。该网站没有适当的保护措施，从而允许这种利用。作者向 Google 报告了该漏洞，并获得了 3133 美元的奖励。作者将此称为“常见”XSS 攻击，因为它是 XSS 漏洞利用的直接开放重定向。作者还在文章中暗示了复活节彩蛋。]]></description>
+      <guid>https://t.me/hn_summary/88478</guid>
+      <pubDate>Wed, 08 May 2024 05:13:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了 Qt 容器类中琐碎重定位的优化 [...]</title>
-      <link>https://t.me/hn_summary/88446</link>
-      <description><![CDATA[Qt 和 C++ 简单重定位（第 1 部分）
-本文讨论了 Qt 容器类中简单重定位的优化，特别关注 QVector 的重新分配过程。通过使用 memcpy 而不是移动构造和析构，可以更有效地重定位某些类型（如 int 和 QString）。本文深入探讨了简单重定位的概念、它如何适用于不同类型的类型以及 Qt 如何确定哪些类型可以简单重定位。它还解释了如何使用 QDECLARETYPEINFO 将用户定义的类型标记为可简单重定位。总体而言，本文深入了解了 Qt 容器类中使用的巧妙优化技术。（基于 82% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/88446</guid>
-      <pubDate>Tue, 07 May 2024 23:34:39 GMT</pubDate>
+      <title>[媒体]特斯拉裁员持续到第四周，各部门员工[...]</title>
+      <link>https://t.me/hn_summary/88477</link>
+      <description><![CDATA[随着大屠杀进入第四周，更多特斯拉员工被解雇
+特斯拉的裁员持续到第四周，各个部门的员工都收到了解雇通知。据 Electrek 和 Business Insider 报道，最近的裁员正在影响软件、服务和工程团队。裁员的规模尚不清楚，但至少有七名员工公开分享了他们的经历。首席执行官埃隆·马斯克(Elon Musk)强调重组和提高效率的必要性，有报道称他的目标是裁员 20%。特斯拉面临着财务挑战，销量和利润下降，以及电动汽车市场竞争加剧。马斯克正在将注意力转向自动驾驶汽车，并计划在今年晚些时候推出全自动机器人出租车。]]></description>
+      <guid>https://t.me/hn_summary/88477</guid>
+      <pubDate>Wed, 08 May 2024 05:12:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
