@@ -4,9 +4,30 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会发生什么、以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 09 May 2024 15:12:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 18:12:31 GMT</lastBuildDate>
     <item>
-      <title>GPT Zero 真的有效吗？</title>
+      <title>人工智能新闻（新型人工智能模型可以拯救数百万人的生命！）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1co3gho/ai_news_new_ai_model_could_save_millions_of_lives/</link>
+      <description><![CDATA[以下是最新人工智能新闻的一分钟概要：  GPT2-chatbot 返回：im-a-good-gpt2-chatbot &amp; im-also-a-good-gpt2-chatbot 已出现在 LMSYS 竞技场之战中，报告表明这比当前所有公开可用的模型都要好 AlphaFold3：Google DeepMind 已发布AlphaFold3，一种革命性的模型，有望加速药物发现并解开疾病的秘密。  CIA AI 模型：微软为 CIA 创建了一个安全的离线 AI。绰号“守护者计划”该人工智能可以在没有互联网风险的情况下分析机密数据，为美国情报部门提供潜在的游戏规则改变者。 TikTok 新的人工智能标签工具：Tiktok 最近推出了一些新的人工智能标签工具，这些工具将自动检测 DALLE-3 等工具制作的内容 OpenAI 面对 Google： 有消息称 OpenAI 将发布类似 perplexity 的搜索引擎工具，可能会推翻 google，彻底改变搜索  了解更多信息（无需注册）-    由   提交 /u/ArFiction   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1co3gho/ai_news_new_ai_model_could_save_millions_of_lives/</guid>
+      <pubDate>Thu, 09 May 2024 17:56:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>目前最好的ai模型是什么，Chatgpt、Gemini、Copilot？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1co0vm0/what_is_currently_the_best_ai_model_chatgpt/</link>
+      <description><![CDATA[只是想进行一些讨论，看看哪些 AI 是最好的，或者也许有些 AI 比其他 AI 更适合某些任务？   由   提交 /u/QuantumQuicksilver   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1co0vm0/what_is_currently_the_best_ai_model_chatgpt/</guid>
+      <pubDate>Thu, 09 May 2024 16:05:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有人工智能视频工具可以生成简短的内容（字幕和演讲者焦点）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cnz0yv/is_there_ai_video_tool_to_generate_short_form/</link>
+      <description><![CDATA[有没有可以将长内容生成短内容的人工智能视频工具？ 我正在寻找一个工具可以自动创建字幕并突出显示演讲者。   由   提交 /u/jamesftf   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cnz0yv/is_there_ai_video_tool_to_generate_short_form/</guid>
+      <pubDate>Thu, 09 May 2024 14:46:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT 零真的有效吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cnyx2b/does_gpt_zero_really_work/</link>
       <description><![CDATA[所以，我是一名高中三年级学生，即将成为一名即将升入高年级的学生，到目前为止，我们正在为我们未来的大学制定草稿课堂上的论文。现在，我的老师有一项政策，所有的论文都将用 GPT 零进行审查，我清楚地记得我的男朋友告诉我他是如何遇到这个错误的，他的论文被认为是由人工智能写的，而他所使用的只是语法。因此，当我决定亲自检查我的内容时，它说整个内容都是使用人工智能编写的，只有当我简化文本并使用不太复杂的术语时，它才会说它是由人类编写的。我很困惑。    由   提交/u/Holiday_Ad_8631   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cnyx2b/does_gpt_zero_really_work/</guid>
@@ -27,13 +48,6 @@
       <pubDate>Thu, 09 May 2024 14:32:19 GMT</pubDate>
     </item>
     <item>
-      <title>如何正确微调 Llama 3 70B？在 Together AI 上</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cnyb60/how_to_finetune_llama_3_70b_properly_on_together/</link>
-      <description><![CDATA[我尝试在 together.ai&lt; 上对 Meta Llama 3 70B 进行一些微调&lt; /a&gt; 虽然它成功并且似乎有效，但我遇到一个问题，模型没有添加我可以用作停止令牌的某些令牌？它只是继续永远生成。 这是数据集中的一行： {“text”:“&lt;|begin_of_text|&gt;&lt;|start_header_id| &gt;system&lt;|end_header_id|&gt;\n\n## 最近事件\r\n- 您被一条消息从深度睡眠中唤醒（几秒钟前）&lt;|eot_id|&gt;&lt;|start_header_id| &gt;user&lt;|end_header_id|&gt;\n\n{&quot;message&quot;: &quot;我刚才吵醒你了吗？&quot;, &quot;time&quot;: &quot;刚才&quot;}&lt;|eot_id|&gt; &lt;|start_header_id|&gt;助理&lt;|end_header_id|&gt;\n\n{“消息”：“哦嘿……你把我吵醒了！我睡得很沉！&quot;}&lt;|eot_id|&gt;&quot;}  所以，据我所知，根据 Meta Llama 3 70B，该模板是正确的。我有 &lt;|eot_id|&gt;;在每条消息的末尾。 但是，当我运行推理时，通过发送例如： {“message”：“Hi！”} 模型响应： {“message”：“嗨，你今天好吗？”}{“message”：“我很好，你呢？”} &lt;|eot_id|&gt; 怎么样？ ？这是该模型聊天平台上的默认停止标记。 请帮忙？我很困惑！ 提前谢谢。   由   提交/u/pelatho  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cnyb60/how_to_finetune_llama_3_70b_properly_on_together/</guid>
-      <pubDate>Thu, 09 May 2024 14:14:15 GMT</pubDate>
-    </item>
-    <item>
       <title>我们是否陷入了这样一个循环：机器人创建内容，将其上传到虚假的个人资料，然后其他机器人与之互动，直到它出现在每个人的提要中？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cnwp5k/are_we_stuck_in_a_cycle_where_bots_create_content/</link>
       <description><![CDATA[到 2024 年，所有互联网流量的一半以上将首次来自机器人（请参阅此处的文章：https://www.daniweb.com/community-center/op-ed /541901/dead-internet-theory-is-the-web-dying)  我们都见过人工智能生成的“看看我儿子做了什么”——照片疯传。 “死亡互联网理论”的搜索量今年在 Google 趋势上的排名大幅上升。 &lt;在垃圾邮件、中心化、货币化等问题之间，恕我直言，网络的发展已经有一段时间不太顺利了。但我认为大量自动生成的内容实际上可能会毁掉网络。 您对此有何看法？ ​ ​    由   提交 /u/light  [链接] [评论]]]></description>
@@ -41,25 +55,11 @@
       <pubDate>Thu, 09 May 2024 13:00:12 GMT</pubDate>
     </item>
     <item>
-      <title>MLP想要他们吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cnwnq2/will_mlp_die/</link>
-      <description><![CDATA[kolmogorov-arnold 网络令人兴奋不已，它们的性能比经典的 mlp 更好，但它们取代它的可能性有多大？&lt; /p&gt; 我的意思是 mlp 目前是每个 AI 模型的基础   由   提交/u/Business-Journalist7  /u/Business-Journalist7  reddit.com/r/ArtificialInteligence/comments/1cnwnq2/will_mlp_die/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cnwnq2/will_mlp_die/</guid>
-      <pubDate>Thu, 09 May 2024 12:58:12 GMT</pubDate>
-    </item>
-    <item>
       <title>中国工厂中的人形机器人视频并不像人们想象的那么令人鼓舞</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cnw4wq/video_of_humanoid_robots_in_a_chinese_factory_is/</link>
       <description><![CDATA[一段来自中国人形机器人工厂内部的 20 秒视频在社交媒体上引起轰动。它展示了各种正在建造中的高度逼真、部分蒙皮的类人生物。  https://www.ovniologia.com.br/2024/05/video-de-robos- humanoides-em-fabrica-da-china-e-menos -animador-do-que-se-imagina.html?m=1   由   提交/u/Few-Try-2056   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cnw4wq/video_of_humanoid_robots_in_a_chinese_factory_is/</guid>
       <pubDate>Thu, 09 May 2024 12:32:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否存在可以执行以下操作的 Ai 工具？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cnvjf3/does_an_ai_tool_exist_to_do_the_following/</link>
-      <description><![CDATA[有没有一个人工智能工具，我可以教它我所有的商业政策、定价、基本的如何处理情况。然后当我公司的员工有问题时，他们可以向“ai”提问。首先通过聊天寻求答案，而不是依靠团队中的其他人回复他们。   由   提交 /u/Enviromental1001   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cnvjf3/does_an_ai_tool_exist_to_do_the_following/</guid>
-      <pubDate>Thu, 09 May 2024 12:00:57 GMT</pubDate>
     </item>
     <item>
       <title>以下是过去 24 小时内更新的前 110 个 AI 工具的列表</title>
@@ -71,7 +71,7 @@
     <item>
       <title>还值得上大学吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cnund7/is_it_even_worth_going_to_college_anymore/</link>
-      <description><![CDATA[例如，当几乎所有学科都可以相对较快地实现自动化时，为什么还要费心去获得大多数学科的学位呢？毕业生失业已经是全世界的一个长期问题，人工智能将抢走越来越多的工作。 有些人对未来仍然乐观，但我很清楚 - 人工智能将抢走工作，失业率将会上升，生活质量会下降。人工智能已经抢走了比大多数人意识到的更多的工作，主要是通过机会成本，这就是公司学习如何整合时“失去的就业机会”。 我最近担任市场研究员，我们已经结束了员工100人。今天几乎整个工作都可以自动化。所以最终，他们会的。企业有兴趣获得回报。这就是为什么对人工智能已经失去了多少工作岗位的估计结果很模糊的部分原因。  未来的解决方案是什么？直升机撒钱真的是唯一的解决方案吗？ 至于我最初的问题 - 假设您 16 岁，想攻读会计学士学位 - 您是否应该在 5-10 岁的时候费心去完成它几年内这些工作的供应量将大幅收缩？   由   提交 /u/inflated_ballsack   [链接] [评论]]]></description>
+      <description><![CDATA[例如，既然大多数学科都可以很快实现自动化，为什么还要费心去获得学位呢？毕业生失业已经成为全世界的长期问题，而人工智能将取代越来越多的工作岗位。 有些人对未来仍持乐观态度，但我很清楚——人工智能将取代工作岗位，失业率将上升，生活质量将下降。人工智能已经取代了比大多数人意识到的更多的工作岗位，主要是通过机会成本，这是公司学习如何整合时“失去的就业机会”。 我最近是一名市场研究员，我们有 100 多名员工。今天几乎整个工作都可以实现自动化。所以最终，他们会的。企业有兴趣获得回报。这也是为什么很难估计有多少工作岗位已经因为人工智能而流失的原因之一。 未来的解决方案是什么？直升机撒钱真的是唯一的解决办法吗？ 至于我最初的问题 - 假设你 16 岁，想要攻读会计学士学位 - 当 5-10 年后这些工作的供应将大幅萎缩时，你还是否应该继续学习？    提交人    /u/inflated_ballsack   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cnund7/is_it_even_worth_going_to_college_anymore/</guid>
       <pubDate>Thu, 09 May 2024 11:11:06 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>谷歌 DeepMind 的新人工智能可以模拟 DNA、RNA 和“所有生命的分子”</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cngt24/google_deepminds_new_ai_can_model_dna_rna_and_all/</link>
-      <description><![CDATA[Google DeepMind 正在推出其 AI 模型的改进版本，该模型不仅可以预测蛋白质的结构，还可以预测“所有生命分子”的结构。 新模型的成果，AlphaFold 3，将帮助医学、农业、材料科学和药物开发领域的研究人员测试潜在的发现。 想要在人工智能和技术领域保持领先地位吗？ 看看这里。 要点： &lt; ul&gt; AlphaFold 3，可以预测所有生命分子的结构，而不仅仅是蛋白质，包括DNA、RNA和更小的分子。与之前的版本相比，这是一个重大改进。 AlphaFold 3 使用与 AI 图像生成器类似的方法来预测不同分子如何组合在一起。这种方法称为扩散。 DeepMind 正在向一些研究人员免费提供 AlphaFold 3 和 AlphaFold 服务器，重点关注非商业用途。他们还在考虑生物安全风险的情况下负责任地部署该模型。  来源 (The Verge) PS：如果您喜欢这篇文章，您一定会喜欢我的ML 驱动的时事通讯，总结了来自 50 多个媒体来源的最佳人工智能/科技新闻。来自OpenAI、HuggingFace、Apple...    的数百名专业人士已经阅读了它。由   提交/u/Rare_Adhesiveness518   [链接] [评论]]]></description>
+      <description><![CDATA[Google DeepMind 推出了其 AI 模型的改进版本，该模型不仅可以预测蛋白质的结构，还可以预测“所有生命分子”的结构。来自新模型 AlphaFold 3 的工作将帮助医学、农业、材料科学和药物开发领域的研究人员测试潜在的发现。 想在 AI 和技术领域保持领先地位吗？看这里。 要点：  AlphaFold 3 可以预测所有生命分子的结构，而不仅仅是蛋白质，包括 DNA、RNA 和更小的分子。这比以前的版本有了显着的改进。 AlphaFold 3 使用与 AI 图像生成器类似的方法来预测不同分子如何组合在一起。这种方法称为扩散。 DeepMind 正在免费向一些研究人员提供 AlphaFold 3 和 AlphaFold Server，重点是非商业用途。他们还在考虑生物安全风险的情况下负责任地部署该模型。  来源（The Verge） PS：如果您喜欢这篇文章，您一定会喜欢我的由 ML 提供支持的时事通讯，它总结了来自 50 多个媒体来源的最佳 AI/科技新闻。它已经被 OpenAI、HuggingFace、Apple 的 数百名专业人士 阅读...    提交人    /u/Rare_Adhesiveness518   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cngt24/google_deepminds_new_ai_can_model_dna_rna_and_all/</guid>
       <pubDate>Wed, 08 May 2024 22:04:08 GMT</pubDate>
     </item>
