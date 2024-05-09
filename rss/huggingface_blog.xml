@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Sun, 05 May 2024 09:12:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 09:12:15 GMT</lastBuildDate>
+    <item>
+      <title>使用 Intel Gaudi 2 和 Intel Xeon 构建经济高效的企业 RAG 应用程序</title>
+      <link>https://huggingface.co/blog/cost-efficient-rag-applications-with-intel</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/cost-efficient-rag-applications-with-intel</guid>
+      <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>推出希伯来语法学硕士开放排行榜！</title>
       <link>https://huggingface.co/blog/leaderboard-hebrew</link>
@@ -76,7 +83,7 @@
       <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>LiveCodeBench 排行榜简介 - 对代码法学硕士进行全面、无污染的评估</title>
+      <title>介绍 LiveCodeBench 排行榜 - 对代码 LLM 进行全面、无污染的评估</title>
       <link>https://huggingface.co/blog/leaderboard-livecodebench</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/leaderboard-livecodebench</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/idefics2</guid>
       <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>视觉语言模型解释</title>
-      <link>https://huggingface.co/blog/vlms</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/vlms</guid>
-      <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
