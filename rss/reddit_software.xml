@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 09 May 2024 09:13:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 12:21:26 GMT</lastBuildDate>
+    <item>
+      <title>寻找易于安装的免费远程桌面软件</title>
+      <link>https://www.reddit.com/r/software/comments/1cnums9/in_search_of_an_easytoinstall_free_remote_desktop/</link>
+      <description><![CDATA[我需要一个无忧的远程桌面解决方案来帮助我的同学在他们的电脑上进行技术设置。以前，我依赖 Chrome 远程桌面，但它的 bug 越来越多，而且容易死机。 有谁知道有一款可靠、免费的远程桌面软件，可以快速安装、运行流畅并提供支持Mac 和 Windows 都可以吗？重要的是，该软件用户友好且易于设置，即使对于初学者也是如此。 提前致谢！   由   提交/u/Jdogg4089   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cnums9/in_search_of_an_easytoinstall_free_remote_desktop/</guid>
+      <pubDate>Thu, 09 May 2024 11:10:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>所以我做了一个没有广告的Youtube下载器</title>
+      <link>https://www.reddit.com/r/software/comments/1cnuli1/so_i_made_a_youtube_downloader_without_ads/</link>
+      <description><![CDATA[我真的厌倦了 YouTube 下载器网站上的广告。所以我做了一个没有广告的。它完全免费使用。但如果你愿意的话可以给我买瓶啤酒。网站中的捐赠链接。 https://yt2file.com/   由   提交/u/cativ3  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cnuli1/so_i_made_a_youtube_downloader_without_ads/</guid>
+      <pubDate>Thu, 09 May 2024 11:08:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 上真的有很棒的日历应用程序吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1cnuhqu/is_there_really_great_calendar_app_for_windows/</link>
+      <description><![CDATA[我的意思是可用性方面很棒，它应该超级灵敏。有非常棒的键盘快捷键。理想情况下，可以滚动和缩放连续的时间轴。使用它应该感觉像在玩游戏，人们应该能够快速完美地掌握它并像忍者一样创建移动编辑约会。 我知道这些要求乍一看可能看起来很奇怪，但我很确定这样的事情会让我的生活更美好。    提交人    /u/Brace_4_Impact   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cnuhqu/is_there_really_great_calendar_app_for_windows/</guid>
+      <pubDate>Thu, 09 May 2024 11:01:58 GMT</pubDate>
+    </item>
     <item>
       <title>帮助：“.exe 没有响应”，自昨天以来的所有游戏 - 详细信息如下。</title>
       <link>https://www.reddit.com/r/software/comments/1cnsbeq/help_exe_is_not_responding_on_all_games_since/</link>
@@ -27,7 +48,7 @@
       <pubDate>Thu, 09 May 2024 08:02:12 GMT</pubDate>
     </item>
     <item>
-      <title>Ultracode 评论？</title>
+      <title>超码评论？</title>
       <link>https://www.reddit.com/r/software/comments/1cnr93l/ultracode_reviews/</link>
       <description><![CDATA[这里有人真正使用过ultracode.ai吗？我观看了他们的演示，看起来很有希望，但在花那么多钱之前我很想听听过去客户的一些意见。它真的像他们声称的那样有效吗？有面试官注意到你在使用它吗？    由   提交 /u/mihamatypl   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cnr93l/ultracode_reviews/</guid>
@@ -50,7 +71,7 @@
     <item>
       <title>在 iOS 17 上绕过屏幕时间密码的免费工具？</title>
       <link>https://www.reddit.com/r/software/comments/1cnowua/free_tool_for_bypassing_screen_time_passcode_on/</link>
-      <description><![CDATA[必须免费且可在 iOS 17 上运行   由   提交/u/B9C1   [链接] [评论]]]></description>
+      <description><![CDATA[它必须是免费的并且可以在 iOS 17 上运行    由    /u/B9C1 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cnowua/free_tool_for_bypassing_screen_time_passcode_on/</guid>
       <pubDate>Thu, 09 May 2024 04:43:30 GMT</pubDate>
     </item>
@@ -83,32 +104,11 @@
       <pubDate>Wed, 08 May 2024 22:07:54 GMT</pubDate>
     </item>
     <item>
-      <title>我可以让“绘制我的步行路线”更加准确吗？</title>
+      <title>我可以让‘地图我的步行’更加准确吗？</title>
       <link>https://www.reddit.com/r/software/comments/1cncpgk/can_i_make_map_my_walk_more_accurate/</link>
       <description><![CDATA[我知道当GPS首次公开时，美国政府出于对恐怖分子的恐惧而对其准确性进行了限制。但是，我也知道这些限制最终被取消了。那么，为什么当我使用“Map My Walk”时，它可能会偏离 15 英尺以上（即，在同一条车道上走环形轨道时，会显示我改变 2 个或更多车道以及在田野上行走） ）。有没有办法让它更准确？   由   提交/u/Rich-Imagination2444   reddit.com/r/software/comments/1cncpgk/can_i_make_map_my_walk_more_accurate/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cncpgk/can_i_make_map_my_walk_more_accurate/</guid>
       <pubDate>Wed, 08 May 2024 19:11:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计小型住宅村的最佳建筑设计软件是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1cnbtuf/what_would_be_the_best_architecture_design/</link>
-      <description><![CDATA[我正在与我的非营利组织和城市合作开展一个项目，我也是一名工程专业的学生。我想尝试使用软件来设计一个小家庭过渡村的概念，向他们展示这个提案。最好使用什么软件来执行此操作？我想向他们展示一些可以更好地传达我的想法的东西。  我还有一台电脑。   由   提交/u/soko603  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cnbtuf/what_would_be_the_best_architecture_design/</guid>
-      <pubDate>Wed, 08 May 2024 18:34:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有可能用一本字典来统治所有这些？</title>
-      <link>https://www.reddit.com/r/software/comments/1cnbcyb/is_it_possible_to_have_one_dictionary_to_rule/</link>
-      <description><![CDATA[有没有人找到一种方法来拥有自己的拼写字典，并且可以使用 Git 将其备份到某个地方？  我在多台机器上使用多个 IDE、记事本和第二大脑应用程序，我希望只需单击“添加到词典”即可。一次。将字典更新到中央存储库，然后允许我的所有其他设备使用同一字典。我目前正在“添加到词典”多次使用同一个单词 如果我有勇气打开包含“glorpuscles”这样的单词的同一个文件，或“meowssacre”在两种不同的设备上，所有这些都是为了安抚那些在我们的屏幕上画红蛇的计算机侏儒，以吓唬我们遵守语言合规性和严格的拼写规则。  您目前正在这样做吗？您能告诉我如何或从哪里开始寻找吗？  我今天可能在互联网搜索 gnomes 上遇到了困难，但我无法使用我选择的搜索引擎找到一个很好的答案。这可能是我想得太多了。  非常感谢。   由   提交/u/14PulsarsV1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cnbcyb/is_it_possible_to_have_one_dictionary_to_rule/</guid>
-      <pubDate>Wed, 08 May 2024 18:14:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有程序/方法可以更改照片文件的日期以匹配 EXIF 元数据日期？</title>
-      <link>https://www.reddit.com/r/software/comments/1cna70s/is_there_a_programmethod_to_change_photo_files/</link>
-      <description><![CDATA[我发现了一个名为“的软件照片日期更改器”但它是付费的。我想要类似的软件，但免费。   由   提交 /u/Accomplished-Scar513    reddit.com/r/software/comments/1cna70s/is_there_a_programmethod_to_change_photo_files/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cna70s/is_there_a_programmethod_to_change_photo_files/</guid>
-      <pubDate>Wed, 08 May 2024 17:25:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
