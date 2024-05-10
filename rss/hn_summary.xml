@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 09 May 2024 15:13:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 00:48:29 GMT</lastBuildDate>
     <item>
-      <title>[媒体]以尖端人工智能技术而闻名的OpenAI正准备[...]</title>
-      <link>https://t.me/hn_summary/88731</link>
-      <description><![CDATA[OpenAI 正准备推出一款搜索产品，与谷歌竞争，Perplexity
-以其尖端人工智能技术而闻名的 OpenAI 正准备推出一款旨在与谷歌竞争的搜索产品。这款名为 Perplexity 的新产品有望彻底改变我们在线搜索信息的方式。凭借 OpenAI 先进的人工智能算法，Perplexity 有望提供比目前任何其他搜索引擎更准确、更相关的搜索结果。OpenAI 的这一举动引发了科技行业的争议，因为许多人质疑非营利组织是否应该与谷歌这样的科技巨头直接竞争。请继续关注有关这一激动人心的发展的更多更新。]]></description>
-      <guid>https://t.me/hn_summary/88731</guid>
-      <pubDate>Thu, 09 May 2024 15:13:26 GMT</pubDate>
+      <title>[媒体]在一项开创性的研究中，科学家们绘制出了一个微小p的神经回路[...]</title>
+      <link>https://t.me/hn_summary/88819</link>
+      <description><![CDATA[科学家在微小的脑样本中发现 57,000 个细胞和 1.5 亿个神经连接
+在一项开创性的研究中，科学家们绘制出了人类大脑一小块的神经回路，揭示了 57,000 个细胞和 1.5 亿个神经连接。这种前所未有的细节水平揭示了大脑中新的复杂性和奥秘，挑战了我们对这个复杂器官的认知。这项研究是哈佛大学和谷歌合作进行的，利用机器学习分析了脑组织的电子显微镜图像。令人惊讶的发现包括对称的锥体神经元和细胞之间的强连接，这可能解释了学习行为。该团队的工作成果可供其他研究人员免费使用，未来计划绘制整个老鼠大脑的图谱，以深入了解人类行为。]]></description>
+      <guid>https://t.me/hn_summary/88819</guid>
+      <pubDate>Fri, 10 May 2024 00:48:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]微软关闭四个游戏工作室的决定引起了人们的关注，尤其是[...]</title>
-      <link>https://t.me/hn_summary/88730</link>
-      <description><![CDATA[微软表示在杀戮后的第二天需要像 Hi-Fi Rush 这样的游戏它的工作室
-微软关闭四家游戏工作室的决定引起了人们的关注，特别是考虑到 Tango Gameworks 的小型热门游戏 Hi-Fi Rush 的成功。这款节奏动作游戏因其创新和魅力而备受赞誉，荣获多项奖项，拥有庞大的玩家群体。尽管取得了如此成功，但微软对《Hi-Fi Rush》等小型、独特游戏的关注似乎与他们最近关闭的工作室相矛盾。业界对此类游戏的兴趣显而易见，其他独立开发的游戏也取得了可观的销量。 Tango Gameworks 甚至在 Hi-Fi Rush 关闭前推出了续作，这让许多人质疑微软的策略。]]></description>
-      <guid>https://t.me/hn_summary/88730</guid>
-      <pubDate>Thu, 09 May 2024 15:02:15 GMT</pubDate>
+      <title>[媒体]墨西哥城，这座拥有2200万人口的城市，由于水资源匮乏，正面临着严重的水危机 [...]</title>
+      <link>https://t.me/hn_summary/88818</link>
+      <description><![CDATA[墨西哥城，一座22M的城市，水即将耗尽&lt; /a&gt;
+墨西哥城是一座拥有 2200 万人口的城市，由于降雨量少和水库不断减少，正面临着严重的水危机。水污染、分配不均和地面下沉只是加剧局势的一些问题。这场危机并非墨西哥城独有，开普敦和圣保罗等其他城市也面临缺水问题。解决方案包括更好的水管理、废水回收和修复泄漏的管道。气候变化和城市化是影响因素，因此重新思考我们与水资源的关系至关重要。解决这一紧迫问题需要公众和政治意愿。]]></description>
+      <guid>https://t.me/hn_summary/88818</guid>
+      <pubDate>Fri, 10 May 2024 00:46:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在论文“没有指数数据就没有‘零样本’”中，作者深入探讨了 [...]</title>
-      <link>https://t.me/hn_summary/88729</link>
-      <description><![CDATA[没有指数数据就没有“零射击”&lt; br/&gt;
-在论文“没有指数数据就没有‘零样本’”中，作者深入研究了多模态模型的世界及其令人印象深刻的“零样本”评估性能。他们探讨了预训练数据集中概念的频率如何影响模型在下游任务中的性能。令人惊讶的是，他们发现多模态模型需要指数级更多的数据来线性提高其“零样本”性能，这对真正泛化的概念提出了挑战。该研究介绍了“Let it Wag！”基准来突出模型与长尾数据的斗争。这项研究揭示了大规模训练场景中有效的“零样本”能力需要大量训练数据。]]></description>
-      <guid>https://t.me/hn_summary/88729</guid>
-      <pubDate>Thu, 09 May 2024 14:55:07 GMT</pubDate>
+      <title>[媒体]文章讨论了苹果最近的广告如何引发广泛批评，象征着 [...]</title>
+      <link>https://t.me/hn_summary/88817</link>
+      <description><![CDATA[讨厌苹果成为主流
+文章讨论了苹果公司最近的广告如何引发广泛批评，象征着人们对这家科技巨头失去善意。作者强调了人们对苹果情绪的转变，并将其与微软在 90 年代的失宠进行了比较。作者表示，苹果作为一家价值数万亿美元的公司现在面临着挑战，因此其从失败者转型为创新者的声誉已经下降。文章指出，苹果公司的轻松之路已经结束，这表明需要采取新的方法。笔者预测，苹果在拥抱变革之前可能需要面临更多尴尬时刻。]]></description>
+      <guid>https://t.me/hn_summary/88817</guid>
+      <pubDate>Fri, 10 May 2024 00:42:18 GMT</pubDate>
     </item>
     <item>
-      <title>在一项有争议的举动中，西班牙警方使用了从加密服务 Wire 获得的信息 [...]</title>
-      <link>https://t.me/hn_summary/88728</link>
-      <description><![CDATA[Apple、Proton 和 Wire 帮助西班牙警方识别活动人士 
-在一项颇具争议的举动中，西班牙警方利用从加密服务 Wire 和 Proton 获得的信息来识别一名参与加泰罗尼亚独立运动的活动人士。据称，这名活动人士名叫 Xuxu Rondinaire，他计划在国王费利佩六世访问期间采取行动。 Wire 和 Proton 遵守了获取用户数据的法律要求，最终确认了该活动人士的身份。 Apple 提供了额外的个人信息。据信是 Mossos d’Esquadra 官员的 Xuxu Rondinaire 没有回应置评请求。该案凸显了数字时代隐私与执法之间的平衡。]]></description>
-      <guid>https://t.me/hn_summary/88728</guid>
-      <pubDate>Thu, 09 May 2024 14:51:00 GMT</pubDate>
+      <title>[媒体]Apple 将通过使用 M2 的数据中心为其即将推出的 iOS 18 的一些功能提供支持 [...]</title>
+      <link>https://t.me/hn_summary/88816</link>
+      <description><![CDATA[Apple 将通过 M2 Ultra 服务器支持人工智能功能&lt; br/&gt;
+苹果将​​通过使用配备苹果芯片的 M2 Ultra 服务器的数据中心为其即将推出的 iOS 18 的一些功能提供支持。 M2 Ultra 芯片将处理今年及以后计划的高级人工智能任务，未来的服务器有可能使用 M4 芯片。虽然某些任务将在设备上完成，但图像生成和文章摘要等更密集的任务将需要云连接。苹果仍然高度重视隐私，其团队确保用户隐私受到保护。使用云服务器来实现某些功能可能会让一些人感到惊讶，因为苹果通常强调设备上的处理。]]></description>
+      <guid>https://t.me/hn_summary/88816</guid>
+      <pubDate>Fri, 10 May 2024 00:39:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 单元测试至关重要，但所有规则和最佳实践可能会让人不知所措 [...]</title>
-      <link>https://t.me/hn_summary/88727</link>
-      <description><![CDATA[测试失败应该是可操作的
-单元测试很重要，但它可能会因为所有的规则和最佳实践而不知所措。在 Google，我们相信测试失败应该是可采取行动的。这意味着当测试失败时，您应该能够仅使用测试名称和失败消息立即开始调查。通过使用精确的单元测试框架和断言库（如 JUnit 和 GoogleTest），我们可以使我们的测试信息更丰富且不那么脆弱。此方法符合站点可靠性工程关于警报的指南。请查看我们的博客，了解有关使测试失败可操作并改进单元测试实践的更多提示。]]></description>
-      <guid>https://t.me/hn_summary/88727</guid>
-      <pubDate>Thu, 09 May 2024 14:47:53 GMT</pubDate>
+      <title>[媒体] 来自外太空？</title>
+      <link>https://t.me/hn_summary/88815</link>
+      <description><![CDATA[来自外太空？农民在田间发现残骸后感到困惑
+萨斯喀彻温省伊图纳的第五代农民。在他们的田地里发现奇怪的残骸后，他们感到很困惑。巴里·索查克 (Barry Sawchuk) 和他的儿子们发现了一块 100 磅重的部件，它似乎被烧焦了，由碳纤维复合材料制成。人们猜测它可能是卫星或航天器的一部分。科学作家 Chris Rutkowski 提到了 20 世纪 60 年代发生的类似事件，涉及在萨斯喀彻温省发现的卫星部件。澳大利亚航天局还调查了一个养羊场的碎片，据信这些碎片来自 SpaceX 火箭。运输安全委员会确认这不是来自飞机，加拿大航天局正在调查此事。]]></description>
+      <guid>https://t.me/hn_summary/88815</guid>
+      <pubDate>Fri, 10 May 2024 00:27:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] PostgreSQL 已发布版本 16.3、15.7、14.12、13.15 和 12.19 的更新，addr [...]</title>
-      <link>https://t.me/hn_summary/88726</link>
-      <description><![CDATA[PostgreSQL 16.3、15.7、14.12、13.15 和 12.19 已发布
-PostgreSQL 已发布版本 16.3、15.7、14.12、13.15 和 12.19 的更新，解决了系统视图中可能允许未经授权访问数据的安全漏洞。该修复仅适用于全新安装，因此现有用户需要采取额外的步骤。 2024 年 11 月 14 日之后，PostgreSQL 12 将不再收到修复，提示用户升级到支持的版本。此更新还包括超过 55 个错误修复和改进，增强了性能和安全性。对于那些受安全问题影响的人，概述了具体的补救步骤。随时了解情况并确保您的 PostgreSQL 安装安全。]]></description>
-      <guid>https://t.me/hn_summary/88726</guid>
-      <pubDate>Thu, 09 May 2024 14:45:45 GMT</pubDate>
+      <title>[媒体]把我的日落还给我！</title>
+      <link>https://t.me/hn_summary/88814</link>
+      <description><![CDATA[把我的日落还给我！ Instagram错误地禁止我的那次
+Meta 错误地指责作者做了一些可怕的事情，导致他们的 Instagram 帐户被暂停。尽管提出上诉，该帐户还是被永久禁用，且没有任何解释。作者疯狂联系 Meta/Instagram 的联系人来解决该问题。最终，该账户被恢复，并含含糊糊地道歉。作者强调了被错误指控的个人缺乏追索权，以及他们从互联网上被删除的速度惊人。这次经历被描述为一场噩梦，强调在这种情况下需要更好的沟通和解决过程。]]></description>
+      <guid>https://t.me/hn_summary/88814</guid>
+      <pubDate>Fri, 10 May 2024 00:24:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 以高安全级别着称的信号信使 (Signal Messenger) 因其 [...]</title>
-      <link>https://t.me/hn_summary/88725</link>
-      <description><![CDATA[通过恶意设备破坏 Signal Messenger 的泄露后安全性 [pdf](https://news.ycombinator.com/item?id=40308571)
-Signal Messenger 以其高安全级别而闻名，但因其易受恶意设备攻击而受到密切关注。虽然 Signal 在单设备设置中保证前向保密和妥协后的安全性，但使用多个设备会引入一个漏洞，允许攻击者注册恶意设备并获得对所有未来通信的不受限制的访问。这一揭露挑战了多设备环境中妥协后安全性的概念，并引发了对 Signal 协议整体安全性的担忧。作者提出了解决这一问题的对策，并强调需要改进设备注册流程以确保安全通信。 （根据故事文本的 25% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/88725</guid>
-      <pubDate>Thu, 09 May 2024 14:39:07 GMT</pubDate>
+      <title>[媒体] Wprs 项目是 Wayland（以及通过 XWayla 的 X11）的无根远程桌面解决方案 [...]</title>
+      <link>https://t.me/hn_summary/88813</link>
+      <description><![CDATA[Wprs – Wayland（以及 X11，通过 XWayland）的无根远程桌面应用
+Wprs 项目是一个使用 Rust 编写的 Wayland（以及通过 XWayland 的 X11）应用程序的无根远程桌面解决方案。它旨在为 Wayland 应用程序提供类似于 xpra 的远程桌面访问，但重点是 Wayland 支持。该项目的与众不同之处在于，它实现了一个自定义协议，用于在服务器 (wprsd) 和客户端 (wprsc) 之间序列化和传输 Wayland 状态，从而允许会话恢复并提高性能。 XWayland 支持也是单独实现的。该项目承认当前的局限性，并旨在未来支持更多协议。还解决了安全考虑。]]></description>
+      <guid>https://t.me/hn_summary/88813</guid>
+      <pubDate>Fri, 10 May 2024 00:23:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]一项突破性的基因治疗试验成功恢复了 18 个月大婴儿的听力 [...]</title>
-      <link>https://t.me/hn_summary/88724</link>
-      <description><![CDATA[世界首个基因治疗试验中聋哑女孩被治愈 
-一项突破性的基因治疗试验成功恢复了一名 18 个月大的英国女孩 Opal Sandy 的听力，她因听觉神经病变而先天性耳聋。该疗法是生物技术公司再生元（Regeneron）的“一劳永逸”疗法，提供了导致这种情况的错误基因的工作副本。手术后几周内，蛋白石的父母注意到她的听力有所改善，随后的测试显示她可以听到轻柔的声音，例如耳语。该试验旨在招募最多 18 名儿童，标志着耳聋治疗的新纪元，并有可能治愈其他与遗传相关的听力疾病。]]></description>
-      <guid>https://t.me/hn_summary/88724</guid>
-      <pubDate>Thu, 09 May 2024 14:20:52 GMT</pubDate>
+      <title>[媒体]在中世纪的冰岛，猎人接受了狩猎蓝鲸的挑战，蓝鲸是最大的鲸鱼。</title>
+      <link>https://t.me/hn_summary/88812</link>
+      <description><![CDATA[维京时代的猎人捕获了地球上最大的动物
+在中世纪的冰岛，猎人接受了猎杀地球上最大的动物蓝鲸的挑战，以获取其宝贵的肉和资源。尽管猎杀如此庞大的生物既危险又困难，但有证据表明，早在公元 9 世纪，冰岛人就经常遇到并利用蓝鲸。最近对冰岛各地考古遗址的鲸骨进行的 DNA 分析证实了蓝鲸在冰岛文化中的重要性，挑战了传统捕鲸文化更喜欢体型较小、更容易接近的鲸鱼物种的观念。由 Vicki Szabo 领导的多学科团队正在为维京时代人类与鲸鱼的历史互动提供新的见解。（基于 75% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/88812</guid>
+      <pubDate>Fri, 10 May 2024 00:22:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在我最近的 ElixirConf EU 2024 主题演讲中，我强调了机器的力量和潜力 [...]</title>
-      <link>https://t.me/hn_summary/88723</link>
-      <description><![CDATA[当我说 Elixir 中的机器学习是生产时，我的意思是 -准备好了
-在我最近的 ElixirConf EU 2024 主题演讲中，我强调了 Elixir 生态系统中机器学习的力量和潜力。当我说“生产就绪”时，我的意思不仅仅是部署模型 - 它涉及与 BEAM 和 OTP 的深度集成，使 Elixir 成为机器学习任务的作弊代码。凭借 Nx 的后发优势以及 Axon 和 Bumblebee 等库，Elixir 开发人员在构建和部署 ML 解决方案方面拥有无与伦比的轻松性和效率。 Nx.Serving 提供了多种功能，例如分布式、与硬件无关的批处理。将 ML 无缝集成到 Phoenix 应用程序中，展示了 Elixir 的可扩展性和效率。在这个生态系统中，Elixir 中的机器学习真正可以投入生产。]]></description>
-      <guid>https://t.me/hn_summary/88723</guid>
-      <pubDate>Thu, 09 May 2024 14:18:46 GMT</pubDate>
+      <title>[媒体]大气中的二氧化碳含量正在破纪录地增加，wi [...]</title>
+      <link>https://t.me/hn_summary/88811</link>
+      <description><![CDATA[大气中二氧化碳含量破纪录上升&lt; br/&gt;
+大气中的二氧化碳含量正在创纪录地增加，在短短一年内就增加了百万分之 4.7。这一激增归因于厄尔尼诺气候事件和人类活动持续产生的温室气体排放。全球二氧化碳浓度已达到426ppm，为数百万年来的最高水平，构成严重气候崩溃的威胁。尽管厄尔尼诺现象过后上升率可能有所下降，但总体趋势仍然令人担忧。二氧化碳浓度的快速上升令人担忧，凸显了采取行动稳定气候和减少排放的迫切需要。]]></description>
+      <guid>https://t.me/hn_summary/88811</guid>
+      <pubDate>Fri, 10 May 2024 00:13:41 GMT</pubDate>
     </item>
     <item>
-      <title>【媒体】苹果M4比M2快45%，比M3快25%；</title>
-      <link>https://t.me/hn_summary/88722</link>
-      <description><![CDATA[苹果的M4比M2快45%，比M3快25%；击败 Snapdragon X Elite
-苹果最新的 M4 芯片性能强劲，性能超越 M2 和 M3，同时也击败了 Snapdragon X Elite。令人惊讶的是，M4 取得了破纪录的单核分数，让所有其他消费类处理器望尘莫及。更令人印象深刻的是，M4 为超薄平板电脑提供支持，展示了 Apple 对效率和性能的承诺。然而，由于买家必须选择更高的存储选项才能充分发挥 M4 的潜力，因此出现了争议。在10核版本已经创下记录的情况下，我们热切期待9核版本的表现。 Apple 不断突破移动处理器领域的界限。]]></description>
-      <guid>https://t.me/hn_summary/88722</guid>
-      <pubDate>Thu, 09 May 2024 14:17:39 GMT</pubDate>
+      <title>戴尔科技集团目前正在调查一起涉及戴尔门户网站的黑客事件，该门户网站 [...]</title>
+      <link>https://t.me/hn_summary/88810</link>
+      <description><![CDATA[戴尔遭到黑客攻击
+戴尔科技集团目前正在调查一起涉及戴尔门户网站的黑客事件，该门户网站包含与购买相关的有限客户信息。被访问的数据包括姓名、实际地址、戴尔硬件和订单信息，但不包括财务或付款信息。戴尔已采取措施控制事件，通知执法部门，并聘请第三方取证公司进行调查。虽然客户面临的风险被认为有限，但建议保持警惕并报告与戴尔帐户或购买相关的任何可疑活动。]]></description>
+      <guid>https://t.me/hn_summary/88810</guid>
+      <pubDate>Thu, 09 May 2024 23:27:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
