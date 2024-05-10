@@ -4,20 +4,27 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Fri, 10 May 2024 12:19:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 15:12:08 GMT</lastBuildDate>
+    <item>
+      <title>初级编辑</title>
+      <link>https://www.reddit.com/r/editors/comments/1corq46/beginner_editor/</link>
+      <description><![CDATA[您好！我是一名初学者编辑，我想知道什么是最好的编辑计算机程序。我的目的是编辑 YouTube 视频，带有新闻氛围的视频，所以如果您能帮助我提供建议和提示，我将不胜感激！   由   提交 /u/JoaoFerrus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1corq46/beginner_editor/</guid>
+      <pubDate>Fri, 10 May 2024 15:04:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助重新制作视频外观</title>
+      <link>https://www.reddit.com/r/editors/comments/1cor9ay/need_help_recreating_video_look/</link>
+      <description><![CDATA[我有一位客户询问我是否可以为他的歌曲重新制作 Max Tundra - Lysine 的音乐视频。我完全不知道如何重新创建附件中所示的细胞着色外观。  如果有任何建议，我们将不胜感激！我使用AE和Premiere作为参考。 Max Tundra - Lysine &lt; /div&gt;  由   提交/u/dreamwrld  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cor9ay/need_help_recreating_video_look/</guid>
+      <pubDate>Fri, 10 May 2024 14:44:39 GMT</pubDate>
+    </item>
     <item>
       <title>了解修剪模式及其在视频编辑工作流程中的用法</title>
       <link>https://www.reddit.com/r/editors/comments/1condrd/understanding_trim_mode_and_its_usage_in_video/</link>
       <description><![CDATA[我是 Premiere Pro 用户，我一直对修剪模式功能感到好奇。有人可以解释一下此模式的用途以及如何有效地将其合并到您的工作流程中吗？ 据我了解，修剪模式允许您精确修剪剪辑边缘并通过相应调整周围的剪辑来进行波纹编辑。不过，我对如何与同步素材无缝配合感到有点困惑。 假设您在 V2 上有一些 B-roll 素材，您已仔细安排时间以匹配 V1 上的采访同步。如果您进入修剪模式并开始在 V2 上对这些 b-roll 剪辑进行波纹编辑，这是否可能会使它们与音频不同步？ 对于那些经常使用修剪模式的人，我很乐意了解您如何应对此类情况。您是否遵循特定的工作流程或一组最佳实践来充分利用修剪模式而不影响视频和音频元素之间的同步？ 经验丰富的编辑人员提供的任何见解或提示将不胜感激。我很想了解如何有效地利用修剪模式，同时在必要时保持精确同步。   由   提交 /u/indymoguler   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1condrd/understanding_trim_mode_and_its_usage_in_video/</guid>
       <pubDate>Fri, 10 May 2024 11:35:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>收入最高的 Youtube 利基以及如何获得高收入客户</title>
-      <link>https://www.reddit.com/r/editors/comments/1con4qm/highest_paying_youtube_niches_and_how_to_get_high/</link>
-      <description><![CDATA[ 由   提交/u/Grand_Promotion_2956   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1con4qm/highest_paying_youtube_niches_and_how_to_get_high/</guid>
-      <pubDate>Fri, 10 May 2024 11:20:08 GMT</pubDate>
     </item>
     <item>
       <title>我们明天能拿到这个吗？</title>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 10 May 2024 08:52:36 GMT</pubDate>
     </item>
     <item>
-      <title>导出的视频质量明显低于我在时间轴上看到的质量</title>
+      <title>导出的视频质量明显比我在时间线上看到的低</title>
       <link>https://www.reddit.com/r/editors/comments/1coktao/export_of_video_is_significantly_lower_quality/</link>
       <description><![CDATA[我有点困惑，我在首映时剪辑了一部在时间线上看起来很棒的电影，但是当我导出时，质量真的很差，特别糟糕。太糟糕了。 我可以通过导出 DNxHR/DNxHD MXF 0P1a 来修复它，但是当导出为 H.264 时，情况又很糟糕。 我做错了什么，我怀疑它是我的序列设置，但我无法确定它。 我使用的是 DJI Inspire 2 中的 DNG 文件和 DJI Ronin 4D 中的 Prores Raw   由   提交 /u/DistinctDuck9930   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1coktao/export_of_video_is_significantly_lower_quality/</guid>
@@ -43,16 +50,9 @@
     <item>
       <title>I/O 协调员需要了解哪些元数据并具备哪些经验？</title>
       <link>https://www.reddit.com/r/editors/comments/1coiho7/what_does_an_io_coordinator_need_to_know_and_have/</link>
-      <description><![CDATA[我明天在邮局接受 I/O 职位的面试。我觉得我完蛋了，因为它说需要元数据方面的经验，而我对元数据的了解就是它基本上是关于数据的数据。我在另一家邮局有一年的 I/O 工作经验，但我们从未接触过任何与元数据有关的事情。我可以在明天下午 1 点之前灌输哪些知识来假装知识和经验？   由   提交/u/Elite_PS1-Hagrid  [链接] [评论]]]></description>
+      <description><![CDATA[我明天要去一家后期制作公司面试 I/O 职位。我觉得自己完蛋了，因为面试官说需要有元数据经验，而我对元数据的了解仅限于它基本上是关于数据的数据。我在另一家后期制作公司有一年从事 I/O 工作的经验，但我们从未接触过与元数据相关的任何事情。在明天太平洋标准时间下午 1 点之前，我能学到什么知识来假装有知识和经验？    提交人    /u/Elite_PS1-Hagrid   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1coiho7/what_does_an_io_coordinator_need_to_know_and_have/</guid>
       <pubDate>Fri, 10 May 2024 06:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您的客户说您的产品正在使用 AI 工具，但坦白说您没有，该怎么办？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cog27w/what_if_your_client_said_your_product_is_using_ai/</link>
-      <description><![CDATA[嗨，我在这个项目上花了几周时间。然而，当我将其提交给客户时，三天后他回来说他无法付款，因为该项目似乎是人工智能制作的。那一刻我震惊了。每次我试图解释，他都不肯理解   由   提交/u/Alert_Potato_6346   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cog27w/what_if_your_client_said_your_product_is_using_ai/</guid>
-      <pubDate>Fri, 10 May 2024 03:33:07 GMT</pubDate>
     </item>
     <item>
       <title>这就是“媒体缓存”一词的由来吗？</title>
@@ -69,7 +69,7 @@
       <pubDate>Fri, 10 May 2024 01:36:23 GMT</pubDate>
     </item>
     <item>
-      <title>装有 10 多年硬盘的架子摔到了地板上</title>
+      <title>存放了 10 多年硬盘的架子摔到了地上</title>
       <link>https://www.reddit.com/r/editors/comments/1co7zsa/shelf_with_10_years_of_hard_drives_came_crashing/</link>
       <description><![CDATA[我租了一间小办公室来经营我的视频业务。办公室的墙上有一个大架子，我在那里存放了所有存档硬盘。我这个架子上有 17 个台式机硬盘和 12 个便携式硬盘。今天我上班时，所有东西都在地板上。架子坏了，我的所有驱动器都坠落了大约 6 英尺。架子仍然半挂在墙上，这时我注意到它是用干墙锚挂起来的。我以为它是固定在螺柱上的！ 我进入了恐慌模式，因为这些硬盘驱动器包含了我过去 10 多年的所有客户工作。幸运的是，其中大多数都是我可能不需要的旧项目，但谁知道呢？我喜欢将所有项目备份两次，以防发生类似情况。你知道吗？我的两个驱动器死了。当我将它连接到我的机器时，它会发出可怕的叮当声。另一个几乎不旋转，也没有亮起或任何东西。哎呀。我不知道这些驱动器上到底有什么，但我确实知道它们都有很多项目，这些项目可能备份在某个地方，但我不确定，因为我无法访问它们。 老实说，我有部分责任。我不应该把我所有的工作都托付给这个架子。我会为那件事负责。我已经将我的硬盘移至一个更好、更安全的位置，以免它们掉落。然而我很生气我的房东没有正确安装架子。该死的干墙锚！ 我已经尝试在两个驱动器上的磁盘实用程序和磁盘钻取中运行急救，但没有成功。我正在考虑购买 Disk Warrior，但我不确定它是否能工作，因为驱动器无法安装。如果您对如何拯救驱动器上的数据有任何提示，请告诉我！还对驱动器管理的想法持开放态度，因此我知道哪个驱动器上有什么。   由   提交/u/rocktop  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1co7zsa/shelf_with_10_years_of_hard_drives_came_crashing/</guid>
@@ -104,7 +104,7 @@
       <pubDate>Thu, 09 May 2024 08:59:03 GMT</pubDate>
     </item>
     <item>
-      <title>在这种特殊情况下，时间表分辨率是否会影响出口质量？</title>
+      <title>在这种特殊情况下，时间线分辨率会影响导出质量吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1cnq757/does_timeline_resolution_affect_export_quality_in/</link>
       <description><![CDATA[前几天我正在与某人交谈，并意识到我从未真正考虑过这个特定的实例... 如果您有 4K 素材并计划以 1080p 导出，时间线是 4K 还是 1080p 有什么区别吗？ 1080p 显然使编辑更加流畅，但是当最终交付为 1080p 时，4K 时间线有什么好处吗？首先将 4K 素材放入高清时间轴中是否会造成明显的质量损失？   由   提交 /u/carterketchup   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cnq757/does_timeline_resolution_affect_export_quality_in/</guid>

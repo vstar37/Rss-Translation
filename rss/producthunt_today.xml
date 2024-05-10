@@ -1,15 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt — 每天提供最好的新产品</title>
+    <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 10 May 2024 12:20:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 15:13:01 GMT</lastBuildDate>
+    <item>
+      <title>Itnk.app</title>
+      <link>https://www.producthunt.com/posts/itnk-app</link>
+      <description><![CDATA[
+            完全安全的意见分享平台
+          
+
+讨论&lt; /a&gt;
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/itnk-app</guid>
+      <pubDate>Fri, 10 May 2024 12:30:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>墨迹工作室 AI</title>
+      <link>https://www.producthunt.com/posts/ink-studio-ai</link>
+      <description><![CDATA[
+            利用人工智能的力量可视化您的下一个纹身。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ink-studio-ai</guid>
+      <pubDate>Fri, 10 May 2024 09:17:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>捷拍</title>
+      <link>https://www.producthunt.com/posts/jetsnaps</link>
+      <description><![CDATA[
+            使用人工智能自动驾驶的不露面视频
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/jetsnaps</guid>
+      <pubDate>Fri, 10 May 2024 08:52:24 GMT</pubDate>
+    </item>
     <item>
       <title>故事</title>
       <link>https://www.producthunt.com/posts/storiado</link>
       <description><![CDATA[
-            邪恶之人的棋盘游戏替代品
+            最扭曲的派对游戏
           
 
 讨论
@@ -48,52 +90,38 @@
       <pubDate>Thu, 09 May 2024 23:26:21 GMT</pubDate>
     </item>
     <item>
-      <title>阿尔法机器人</title>
+      <title>AlphaBot</title>
       <link>https://www.producthunt.com/posts/alphabot</link>
       <description><![CDATA[
-            第一个与人类专业知识实时同步的人工智能机器人
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/alphabot</guid>
-      <pubDate>Thu, 09 May 2024 07:07:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>投标</title>
-      <link>https://www.producthunt.com/posts/tender-5</link>
-      <description><![CDATA[
-您的财务收件箱
+第一个实时与人类专业知识同步的 AI 机器人
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/tender-5</guid>
-      <pubDate>Thu, 09 May 2024 06:44:10 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/alphabot</guid>
+      <pubDate>Thu, 09 May 2024 07:07:50 GMT</pubDate>
     </item>
     <item>
-      <title>Replica Studios 配音总监</title>
-      <link>https://www.producthunt.com/posts/voice-director-by-replica-studios</link>
+      <title>果冻板</title>
+      <link>https://www.producthunt.com/posts/jellyboard</link>
       <description><![CDATA[
-            为创作者提供符合道德的语音人工智能和文本转语音
+            为您的团队进行有效的头脑风暴和笔记。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/voice-director-by-replica-studios</guid>
-      <pubDate>Thu, 09 May 2024 04:54:19 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/jellyboard</guid>
+      <pubDate>Wed, 08 May 2024 16:06:01 GMT</pubDate>
     </item>
     <item>
       <title>超 URL</title>
       <link>https://www.producthunt.com/posts/hyperurls</link>
       <description><![CDATA[
-            轻松组织和分享您的 URL
+            整理并分享您的 URL
           
 
 讨论
@@ -107,7 +135,7 @@
       <title>504英语词汇词典</title>
       <link>https://www.producthunt.com/posts/504-english-vocabulary-dictionary</link>
       <description><![CDATA[
-            抽认卡、多项选择题和听力游戏
+            每天学习新单词
           
 
 讨论
@@ -160,24 +188,10 @@
       <pubDate>Tue, 07 May 2024 12:27:11 GMT</pubDate>
     </item>
     <item>
-      <title>Intract社区中心</title>
-      <link>https://www.producthunt.com/posts/intract-community-hub</link>
-      <description><![CDATA[
-            正确完成社区建设并给予奖励
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/intract-community-hub</guid>
-      <pubDate>Mon, 06 May 2024 08:02:25 GMT</pubDate>
-    </item>
-    <item>
       <title>奥托</title>
       <link>https://www.producthunt.com/posts/otto-5aa2afc8-0483-413d-8ef7-9a4fb8947858</link>
       <description><![CDATA[
-            零打字，讲英雄故事
+            您的私人人工智能传记作家
           
 
 讨论
@@ -191,29 +205,15 @@
       <title>剪辑翼</title>
       <link>https://www.producthunt.com/posts/clipwing</link>
       <description><![CDATA[
-            您的视频内容很棒，值得更多观看
-          
+节省数天时间制作更好的视频内容
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/clipwing</guid>
       <pubDate>Fri, 19 Apr 2024 06:13:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>泡泡小工具</title>
-      <link>https://www.producthunt.com/posts/bubbl-widget</link>
-      <description><![CDATA[
-            仅供您和您的亲密圈子使用的社交媒体
-          
-
-讨论&lt; /a&gt;
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/bubbl-widget</guid>
-      <pubDate>Wed, 17 Apr 2024 22:53:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
