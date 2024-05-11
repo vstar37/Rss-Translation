@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 10 May 2024 18:06:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 00:43:33 GMT</lastBuildDate>
     <item>
-      <title>Lee 的会员卡带有 25 针控制端口，旨在与 PC 并行端口配合使用，[...]</title>
-      <link>https://t.me/hn_summary/88939</link>
-      <description><![CDATA[串口转并口转换器
-Lee的会员卡带有25针控制端口，旨在与PC并行端口配合使用，但随着现代PC并行端口的减少，许多用户无法使用该卡。为了解决这个问题，我创建了一个硬件 RS-232 到会员卡适配器，允许任何串行端口感知的应用程序控制该卡。该适配器与 USB 转串口适配器兼容，为更广泛的计算机开放了会员卡控制程序。此外，我还开发了一个Windows程序来与适配器进行通信，为控制会员卡提供了一个用户友好的界面。该软件和文档可在网站上下载。]]></description>
-      <guid>https://t.me/hn_summary/88939</guid>
-      <pubDate>Fri, 10 May 2024 18:06:59 GMT</pubDate>
+      <title>[媒体] 面向非程序员的编码：我们需要更好的 Web GUI 自动化工具。</title>
+      <link>https://t.me/hn_summary/88984</link>
+      <description><![CDATA[针对非程序员的编码：我们需要更好的 Web GUI 自动化工具。 （2021）
+在本文中，作者讨论了对非程序员来说更好的 Web GUI 自动化工具的需求。作者讲述了与一位朋友的对话，由于缺乏自动化，这位朋友花费数小时从 Excel 电子表格手动更新网站上的信息。作者回忆了 HyperCard 和 AppleScript 等更简单的 GUI 脚本工具，它们可以轻松实现自动化。然后，作者探讨了 UIPath 和 OpenRPA 等现代 RPA 工具的局限性，强调了稳定性、对 API 的依赖以及缺乏用户友好的反馈等问题。作者认为，有效的自动化工具的关键是让非技术用户能够调试和理解流程。 （根据 81% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/88984</guid>
+      <pubDate>Sat, 11 May 2024 00:43:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]各位太空爱好者注意了！</title>
-      <link>https://t.me/hn_summary/88938</link>
-      <description><![CDATA[日冕物质抛射撞击迫在眉睫，另外两个面向地球的日冕物质抛射
-所有太空爱好者注意了！准备好应对日冕物质抛射即将到来的影响，另外两次面向地球的日冕物质抛射即将发生。虽然许多人访问 SpaceWeatherLive 来跟踪太阳的活动和潜在的极光，但流量的增加导致服务器成本更高。考虑捐款以帮助这个有价值的网站保持在线状态。随时了解情况并支持太空社区！]]></description>
-      <guid>https://t.me/hn_summary/88938</guid>
-      <pubDate>Fri, 10 May 2024 17:56:50 GMT</pubDate>
+      <title>NOAA 已宣布发生 G5（极端）地磁风暴，导致 H [...]</title>
+      <link>https://t.me/hn_summary/88983</link>
+      <description><![CDATA[NOAA 宣布发生 G5（极端）地磁风暴&lt; br/&gt;
+NOAA 已宣布发生 G5（极端）地磁风暴，导致高频无线电通信减弱或轻微下降，并且阳光照射一侧的无线电联络偶尔会中断。低频导航信号也可能会在短时间内减弱。在 NOAA 网站上随时了解当前太空天气状况。]]></description>
+      <guid>https://t.me/hn_summary/88983</guid>
+      <pubDate>Sat, 11 May 2024 00:38:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国最富有的个人现在缴纳的税款比 [...]</title>
-      <link>https://t.me/hn_summary/88937</link>
-      <description><![CDATA[美国富豪现在缴纳的税款比工人阶级少，创历史新高
-根据《纽约时报》的数据，美国最富有的人现在缴纳的税款比工人阶级少，这是历史上的第一次。 2018 年，顶级亿万富翁只缴纳了其收入的 23% 的税款，而收入最低的一半人缴纳了 24% 的税款。这种转变的部分原因是对富人的税收大幅减少，例如2018年最高企业税率从35%降至21%。经济学家加布里埃尔·祖克曼(Gabriel Zucman)呼吁对超级富豪征收协调一致的最低税，以解决这一日益增长的问题。财富不平等。]]></description>
-      <guid>https://t.me/hn_summary/88937</guid>
-      <pubDate>Fri, 10 May 2024 17:49:44 GMT</pubDate>
+      <title>[媒体]科技工作者有能力让价值数万亿美元的公司对其自身的安全负责。</title>
+      <link>https://t.me/hn_summary/88982</link>
+      <description><![CDATA[科技工作者应该揭露行业的秘密工作
+科技工作者有能力让市值数万亿美元的公司对与军方的秘密合作负责，正如谷歌成功的#CancelMaven 活动所表明的那样。现在，“无技术种族隔离”联盟正瞄准 Nimbus 项目，这是谷歌、亚马逊以及以色列政府和军方之间签订的价值 12 亿美元的合同。最近解雇要求透明度的员工表明谷歌正在转向压制异议。单靠泄密并不会终止这些合作；持续的压力、与外部组织的协调以及内部组织是关键。战略位置上的内部人士可以通过披露有关雨云计划的新信息来产生重大影响，迫使管理层重新考虑他们参与不道德的军事伙伴关系。]]></description>
+      <guid>https://t.me/hn_summary/88982</guid>
+      <pubDate>Sat, 11 May 2024 00:18:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章探讨了时间胶囊的文化现象，追溯了它们的历史 [...]</title>
-      <link>https://t.me/hn_summary/88936</link>
-      <description><![CDATA[盒子里的时间
-本文探讨了时间胶囊的文化现象，将其历史追溯到镀金时代和进步时代。虽然许多胶囊包含图书馆中重复的平凡物品，但它们反映了其创造者的价值观和政治。这篇文章强调了打开一些胶囊的失望，比如福特总统 1879 年的胶囊，以及其他胶囊的雄心勃勃的本质，比如埋在奥格尔索普大学的文明地穴。文章还讨论了作为时间胶囊送入太空的先锋号宇宙飞船牌匾和航行者号黄金唱片。最终，时间胶囊可以作为防止遗忘的保障，为子孙后代保留某个时刻。]]></description>
-      <guid>https://t.me/hn_summary/88936</guid>
-      <pubDate>Fri, 10 May 2024 17:48:38 GMT</pubDate>
+      <title>[媒体] Jacinda 是一种函数式模式筛选语言，与 AWK 类似，但体积较小。</title>
+      <link>https://t.me/hn_summary/88981</link>
+      <description><![CDATA[Show HN：Jacinda，一个功能性 Awk（在命令行）
+Jacinda 是一种函数式模式筛选语言，与 AWK 类似，但尺寸较小。它提供了不同平台的安装说明，并通过 vim 插件和 VSCode 扩展提供编辑器支持。 Jacinda 的用处在于它能够在命令行上处理文本流，从而使从 Unix 工具输出中提取特定数据或检索变量值等任务变得更加容易。 Web 内容还突出显示了可供用户使用的文档，以及缺失功能和错误的状态。尽管由于代码重写而分叉和应用补丁可能具有挑战性，但仍鼓励贡献和错误报告。]]></description>
+      <guid>https://t.me/hn_summary/88981</guid>
+      <pubDate>Sat, 11 May 2024 00:16:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]研究人员开发了一种名为 GhostStripe 的系统，可以操纵自主[...]</title>
-      <link>https://t.me/hn_summary/88935</link>
-      <description><![CDATA[GhostStripe 攻击让自动驾驶汽车忽略路标&lt; /a&gt;
-研究人员开发了一种名为 GhostStripe 的系统，可以操纵自动驾驶汽车的摄像头忽略路标，这可能会让特斯拉和百度 Apollo 用户面临风险。通过利用摄像头对 CMOS 传感器的依赖，这种攻击肉眼无法察觉，并且会扭曲路标的颜色，使车辆的分类器无法识别它们。研究人员展示了一种持续扭曲图像的稳定攻击，GhostStripe1 的成功率达到 94%，GhostStripe2 的成功率达到 97%。对策包括用 CCD 替换 CMOS 相机或随机化线图像捕获。这项研究强调了人工智能和自动驾驶汽车中持续存在的安全问题。]]></description>
-      <guid>https://t.me/hn_summary/88935</guid>
-      <pubDate>Fri, 10 May 2024 17:43:31 GMT</pubDate>
+      <title>UniSuper 首席执行官 Peter Chun 向会员提供了有关恢复唯一 [...]</title>
+      <link>https://t.me/hn_summary/88980</link>
+      <description><![CDATA[Google Cloud 意外删除 UniSuper 在线帐户
+UniSuper 首席执行官 Peter Chun 向会员提供了有关在 Google Cloud 意外删除 UniSuper 在线帐户这一史无前例的事件后恢复在线服务的最新信息。这次中断是由于配置过程中的配置错误造成的，导致 UniSuper 的私有云订阅被删除。尽管出现中断，但会员帐户仍然安全，没有数据泄露。服务正在恢复中，会员现在可以登录并查看余额。首席执行官与 Google Cloud 正在努力解决问题并确保系统的稳定性和安全性。 （根据 79% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/88980</guid>
+      <pubDate>Sat, 11 May 2024 00:15:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]通过天基太阳能从太空向地球传输电力的想法既是[...]</title>
-      <link>https://t.me/hn_summary/88934</link>
-      <description><![CDATA[怀疑论者对从太空向地球发射能量的看法 
-通过天基太阳能从太空向地球传输电力的想法既美丽又诱人，有可能提供不间断的清洁能源。然而，挑战是巨大的，包括对地球同步轨道上的巨大卫星的需求、火箭发射对环境的影响以及不确定的气候影响。尽管近年来大肆宣传并重新引起人们的兴趣，但专家们仍然对这种复杂且昂贵的系统的可行性和实用性深表怀疑。技术和社会障碍众多，成功实施之路充满不确定性。太空太阳能的梦想可能仍然只是一个梦想。 （根据故事文本的 65% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/88934</guid>
-      <pubDate>Fri, 10 May 2024 17:37:23 GMT</pubDate>
+      <title>[媒体]事态发生了戏剧性的转变，欧洲显着减少了对俄罗斯的依赖[...]</title>
+      <link>https://t.me/hn_summary/88979</link>
+      <description><![CDATA[普京的天然气帝国是如何崩溃的
+事态发生了戏剧性的转变，欧洲大幅减少了对俄罗斯天然气进口的依赖，去年从 40% 降至仅 8%。随着合同即将终止且不再续签，挪威已成为欧盟最大的天然气供应国。向液化天然气的转变取得了成功，美国和卡塔尔成为主要供应国。尽管这种多元化被称赞为战略举措，但由于全球供应链中断，市场现在面临着潜在的价格波动。欧洲天然气格局已经发生转变，莫斯科失去了在西方市场的据点。]]></description>
+      <guid>https://t.me/hn_summary/88979</guid>
+      <pubDate>Sat, 11 May 2024 00:12:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“bumpgen”项目是一个 AI 代理，可自动执行 TypeScrip 的升级过程 [...]</title>
-      <link>https://t.me/hn_summary/88933</link>
-      <description><![CDATA[显示 HN：我构建了一个升级 NPM 包的 AI 代理
-“bumpgen”项目是一个 AI 代理，可自动执行 NPM 包中 TypeScript / TSX 依赖项的升级过程。它分析项目以了解更新依赖项时会出现哪些问题，使用抽象语法树来了解代码关系，并创建计划图 DAG 以按正确的顺序执行更改。该项目的独特之处在于自动化升级依赖项的过程并处理更新导致的代码更改。它目前支持 TypeScript 和 TSX，但旨在增加对其他强类型语言的支持。用户需要 OpenAI API 密钥才能运行 bubblegen，并可以请求对其他语言的支持。 （根据 78% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/88933</guid>
-      <pubDate>Fri, 10 May 2024 17:22:12 GMT</pubDate>
+      <title>[媒体]在寄生黄蜂的世界里，一个令人着迷的现象正在发挥作用 - 驯服黄蜂 [...]</title>
+      <link>https://t.me/hn_summary/88978</link>
+      <description><![CDATA[驯服病毒的黄蜂
+在寄生黄蜂的世界里，一个令人着迷的现象正在发挥作用——驯服野生病毒作为生物武器。这些病毒被称为布拉科病毒，已经被驯化了数百万年，以帮助黄蜂控制它们的宿主，例如毛毛虫。通过复杂的基因操作过程，黄蜂已经进化到可以控制这些病毒，确保它们不能自行复制，并且只在需要时产生病毒颗粒。这种独特的关系揭示了寄生黄蜂复杂的进化策略及其适应恶劣环境的能力。]]></description>
+      <guid>https://t.me/hn_summary/88978</guid>
+      <pubDate>Sat, 11 May 2024 00:11:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 圆柱计算尺彻底改变了数学计算，因为它允许进行[...]</title>
-      <link>https://t.me/hn_summary/88932</link>
-      <description><![CDATA[圆柱形计算尺
-圆柱形计算尺提高了精度和准确度，彻底改变了数学计算。通过利用印在圆柱体外部的对数刻度，用户可以计算出多达七位有效数字的结果，远远超过了线性计算尺的能力。然而，这些先进仪器的生产成本高昂，主要供企业和政府办公室使用。本页面展示的系列包括来自欧洲和美国发明家的示例，突出了生产从欧洲向美国的转移。埃德温·撒切尔 (Edwin Thacher)、科菲尔 (Keuffel) 和埃塞尔 (Esser) 开发的圆柱形计算尺标志着数学仪器历史上的一个重要里程碑。]]></description>
-      <guid>https://t.me/hn_summary/88932</guid>
-      <pubDate>Fri, 10 May 2024 17:18:05 GMT</pubDate>
+      <title>[媒体]最高法院裁定，当局不必在 [...]</title>
+      <link>https://t.me/hn_summary/88977</link>
+      <description><![CDATA[意见分歧的最高法院规定，当警察没收财产时，不需要快速听证会
+最高法院裁定，当局在扣押毒品犯罪财产时不必举行快速听证会，即使是无辜业主的财产。批评者称民事没收为“合法盗窃”。卡瓦诺法官表示，永久财产损失需要及时举行听证会，但临时占有则不需要。索托马约尔法官持不同意见，警告执法部门可能会滥用权力以获取经济利益。两名阿拉巴马州妇女等待归还汽车一年多，造成了巨大的困难。这一决定可能会导致业主的延误时间延长。戈萨奇法官对民事没收做法的合宪性提出了担忧。]]></description>
+      <guid>https://t.me/hn_summary/88977</guid>
+      <pubDate>Fri, 10 May 2024 23:59:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 弗吉尼亚州对数据的需求猛增，数据中心消耗了大量的资源 [...]</title>
-      <link>https://t.me/hn_summary/88931</link>
-      <description><![CDATA[不断增长的数据需求消耗了弗吉尼亚州的水资源&lt; br/&gt;
-弗吉尼亚州对数据的需求猛增，数据中心的冷却系统消耗了大量的水。弗吉尼亚州北部拥有 300 多个设施，处理全球 70% 的数字信息，导致电力需求翻倍。大型数据中心每天使用多达 500 万加仑的水，引发了人们对水资源短缺和环境影响的担忧。谷歌和亚马逊等公司正在扩建其数据中心，但其用水量却引发了强烈反对。数据中心的秘密性质使得解决这些问题变得具有挑战性，促使立法者和环保组织呼吁提高透明度和问责制。]]></description>
-      <guid>https://t.me/hn_summary/88931</guid>
-      <pubDate>Fri, 10 May 2024 17:14:58 GMT</pubDate>
+      <title>Apple 在最新的 iPad 广告中采取了大胆举措，展示了一台液压机压碎了各种 [...]</title>
+      <link>https://t.me/hn_summary/88976</link>
+      <description><![CDATA[苹果犯了一个可怕的错误：它说了实话 
+苹果公司在最新的 iPad 广告中采取了大胆的举措，展示了液压机压碎各种物品，露出一个小型玻璃平板电脑的画面。这则广告的标题是“Crush”，象征着苹果的统治地位和对任何阻碍它的事物的摧毁。这段有争议的视频引发了顾客的愤怒，首席执行官蒂姆·库克随后道歉。正如《数据抓取》一书中所讨论的那样，这则广告对苹果意图的诚实反映了谷歌和 Facebook 等大型科技公司的殖民行为。与大型科技公司的斗争仍在继续，最终目标是恢复创造力和人际关系等价值观。]]></description>
+      <guid>https://t.me/hn_summary/88976</guid>
+      <pubDate>Fri, 10 May 2024 23:58:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]科学家预测，当太阳到达太阳高度时，太阳风暴即将来临 [...]</title>
-      <link>https://t.me/hn_summary/88930</link>
-      <description><![CDATA[太阳风暴即将来临
-科学家预测，当太阳达到太阳活动极大期时，一场太阳风暴即将来临，预计将有五次面向地球的日冕物质抛射袭击我们的星球。这场风暴是由太阳表面的一个大黑子引起的，可能会扰乱无线电通讯和电网，并产生美丽的极光。虽然预计风暴不会像 1859 年卡林顿事件那样严重，但仍可能达到 G5 级别的下限。天基观测站将监测飞向地球的粒子，为关键基础设施的操作人员提供 20 至 45 分钟的准备时间。建议公众做好可能停电的准备。]]></description>
-      <guid>https://t.me/hn_summary/88930</guid>
-      <pubDate>Fri, 10 May 2024 17:13:51 GMT</pubDate>
+      <title>[媒体]Xona Space Systems 已完成 1900 万美元的 A 轮融资，用于开发 Pulsar，这是一种商业产品。</title>
+      <link>https://t.me/hn_summary/88975</link>
+      <description><![CDATA[Xona Space Systems 完成 1900 万美元的 A 轮融资，打造超精确 GPS替代方案
+Xona Space Systems 已完成 1900 万美元的 A 轮融资，用于开发 Pulsar，这是一种商业 GPS 替代品，有望提供超准确的地理定位数据。 Xona 由斯坦福大学校友创立，旨在解决当前导航技术的局限性，特别是在沙漠等非结构化环境中。他们的创新方法使用获得专利的“原子钟云架构”，以传统 GPS 卫星成本的一小部分提供厘米级精度。投资者对先进定位服务的潜在市场充满信心，赛拉弗空间强调可靠导航对于全球安全和经济稳定的重要性。 Xona 计划发射由 300 颗卫星组成的星座，第一颗生产级卫星将于 2025 年 6 月开始发射。]]></description>
+      <guid>https://t.me/hn_summary/88975</guid>
+      <pubDate>Fri, 10 May 2024 23:52:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
