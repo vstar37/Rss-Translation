@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 12 May 2024 21:04:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 03:09:11 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 地磁感应电流 (GIC) 是由地磁变化引起的电流 [...]</title>
-      <link>https://t.me/hn_summary/89230</link>
-      <description><![CDATA[地磁感应电流（维基百科）
-地磁感应电流 (GIC) 是由于太空天气事件导致地球磁场变化而产生的电流。这些电流会影响电网和管道，导致潜在的危险和中断。 GIC 风险是电力变压器和管道等基础设施所关注的一个问题，过去发生的事件（例如 1989 年魁北克水电公司电网崩溃）凸显了缓解策略的必要性。了解和预测地磁风暴对于管理 GIC 风险至关重要，持续的研究和建模有助于保护关键系统免受太空天气的影响。 （根据 89% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/89230</guid>
-      <pubDate>Sun, 12 May 2024 21:04:38 GMT</pubDate>
+      <title>通过麻省理工学院游戏实验室的“A Slower Speed of [...]体验狭义相对论的令人费解的世界</title>
+      <link>https://t.me/hn_summary/89265</link>
+      <description><![CDATA[较慢的光速 – 麻省理工学院游戏实验室&lt; br/&gt;
+通过麻省理工学院游戏实验室的“较慢的光速”体验狭义相对论的令人费解的世界。这款第一人称游戏原型要求玩家在 3D 空间中导航，同时拾取减慢光速的球体，从而展现多普勒效应和时间膨胀等视觉效果。使用开源工具包 OpenRelativity，玩家可以探索游戏背后的物理原理，甚至可以在 Twitter 上分享他们的体验。该游戏具有易于上手的游戏玩法和先进的图形，将娱乐性与教育价值结合在一起，为所有人带来独特且引人入胜的体验。通过“较慢的光速”以全新的方式探索宇宙。]]></description>
+      <guid>https://t.me/hn_summary/89265</guid>
+      <pubDate>Mon, 13 May 2024 03:09:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在 Zenodo 上发表的这项开创性研究中，并行 ga 的实现 [...]</title>
-      <link>https://t.me/hn_summary/89229</link>
-      <description><![CDATA[SBCL 并行垃圾回收 (2023)
-在 Zenodo 上发表的这项开创性研究中，探讨了 2023 年 SBCL 并行垃圾收集的实现。这种创新方法旨在提高 SBCL（一种流行的 Common Lisp 编译器）中垃圾收集的效率和性能。通过将并行性引入垃圾收集过程，这项研究为优化 SBCL 中的内存管理开辟了新的可能性，可能会带来显着的性能提升。这一发展肯定会引起编程社区的兴趣和讨论，因为它代表了垃圾收集技术领域的重大进步。]]></description>
-      <guid>https://t.me/hn_summary/89229</guid>
-      <pubDate>Sun, 12 May 2024 20:57:30 GMT</pubDate>
+      <title>[媒体] GitHub 上的“GNU Make Extensions”项目旨在增强 Make 的功能 - [...]</title>
+      <link>https://t.me/hn_summary/89264</link>
+      <description><![CDATA[展示 HN：让 GNU 成为更好的任务运行程序 
+GitHub 上的“GNU Make Extensions”项目旨在通过为 Makefile 提供有用的扩展来增强基于 Make 的项目的功能。这些扩展简化了任务并提高了 GNU Make 作为任务运行程序的整体使用率。该项目的独特之处在于完全用 GNU Make 编写，使其可以嵌入 GNU Make 之外的零依赖项。它包括自动描述和帮助消息中包含许可证等功能，以及用于检查程序存在和加载环境变量的扩展。作者承认 GNU Make 最初并不是打算用作任务运行程序，但发现它对于此目的很有用。]]></description>
+      <guid>https://t.me/hn_summary/89264</guid>
+      <pubDate>Mon, 13 May 2024 03:03:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 科技初创公司 Hubble Network 通过连接两个 [...]</title>
-      <link>https://t.me/hn_summary/89228</link>
-      <description><![CDATA[科技初创公司通过蓝牙从地球连接到轨道上的两颗卫星
-科技初创公司哈勃网络通过蓝牙从地球连接到轨道上的两颗卫星，取得了突破性的成就。这一发展使标准蓝牙设备无需蜂窝接收即可连接到卫星网络，从而提供全球覆盖，同时显着降低电池消耗和运营成本。这项技术的潜在应用非常广泛，从野火检测到车队管理。通过计划扩展其卫星网络，哈勃网络的创新方法可能会彻底改变全球范围内的连接。这一突破有可能影响每年销售的数十亿蓝牙设备，使其成为科技行业的重大进步。]]></description>
-      <guid>https://t.me/hn_summary/89228</guid>
-      <pubDate>Sun, 12 May 2024 20:56:25 GMT</pubDate>
+      <title>本文深入探讨了 IPv6 地址计划的历史和演变，强调了 [...]</title>
+      <link>https://t.me/hn_summary/89263</link>
+      <description><![CDATA[IPv6 前缀长度
+本文深入探讨了 IPv6 地址计划的历史和演变，重点介绍了从固定边界到可变长度站点前缀的转变。它质疑 IPv6 架构中 64/64 位边界的持久性，并探讨网络运营商之间站点前缀长度的分布。令人惊讶的是，数据显示 /64 前缀最常见，/56 和 /60 也很常见。本文还讨论了子网在网络架构中的使用以及子网划分对网络效率的影响。总体而言，它为现代互联网环境中的 IPv6 地址分配和子网行为提供了宝贵的见解。 （根据 87% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/89263</guid>
+      <pubDate>Mon, 13 May 2024 02:59:59 GMT</pubDate>
     </item>
     <item>
-      <title>该项目是一个与语言无关的结构化数据提取器，可用于提取数据[...]</title>
-      <link>https://t.me/hn_summary/89227</link>
-      <description><![CDATA[显示 HN：与语言无关的结构化数据提取器&lt; br/&gt;
-该项目是一个与语言无关的结构化数据提取器，可用于从 JSON 模式中提取数据并将其映射到 Go 结构或纯 JSON。它具有类似 Go 的 API 和连接到 llama.cpp 以提取数据的 HTTP 服务器。该项目比其前身更通用，并且将来可能支持其他供应商 API。它允许以编程方式提取结构化数据并将其映射到任意结构。该项目仍在进行中，API 可能会随着时间的推移而发生变化。它通过提供与模型无关的方法并专注于 llama.cpp 来脱颖而出。]]></description>
-      <guid>https://t.me/hn_summary/89227</guid>
-      <pubDate>Sun, 12 May 2024 20:55:20 GMT</pubDate>
+      <title>[媒体]Sonos 最近发布了对其应用程序的重大重新设计，旨在提供个性化 [...]</title>
+      <link>https://t.me/hn_summary/89262</link>
+      <description><![CDATA[Sonos 表示推出广受批评的应用程序重新设计需要“勇气”
+Sonos 最近发布了对其应用程序的重大重新设计，旨在提供个性化的聆听体验。然而，该更新因删除功能和引入错误而受到广泛批评，导致社交媒体上出现投诉。尽管收到负面反馈，Sonos 仍为重新设计进行了辩护，称重建核心产品需要“勇气”。该公司正在努力在未来几个月内解决缺失的功能，并承诺在未来推出令人兴奋的创新。用户呼吁 Sonos 回滚更新，直到新应用程序更加充实。这次重新设计代表了 Sonos 在努力增强用户体验方面迈出了雄心勃勃的一步。]]></description>
+      <guid>https://t.me/hn_summary/89262</guid>
+      <pubDate>Mon, 13 May 2024 02:58:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]最近的太阳风暴让人们眼花​​缭乱的北极光 [...]</title>
-      <link>https://t.me/hn_summary/89226</link>
-      <description><![CDATA[太阳风暴正在关键的种植时间扰乱农民的 GPS 系统
-最近的太阳风暴让人们眼花​​缭乱的北极光也给中西部农民造成了干扰，特别是在关键的种植时期影响了他们的 GPS 系统。暴风雨导致一些 GPS 系统暂时瘫痪，导致农田发生剧烈变化，对于那些继续播种的人来说，方向也发生了变化。这引发了人们对种植准确性和随后潜在的农作物破坏的担忧。农业对高科技自动化拖拉机的依赖凸显了维修权法律的必要性。这些风暴的严重程度被 NOAA 评为 G5，可能会对技术和基础设施产生重大影响，并有可能在今天造成进一步的破坏。]]></description>
-      <guid>https://t.me/hn_summary/89226</guid>
-      <pubDate>Sun, 12 May 2024 20:36:10 GMT</pubDate>
+      <title>[媒体] 在 www.shuttle.rs 上的这篇文章中，我们深入研究了高级 Rust 特征和泛型。</title>
+      <link>https://t.me/hn_summary/89261</link>
+      <description><![CDATA[高级 Rust 特征和泛型简介
+在这篇关于 www.shuttle.rs 的文章中，我们深入研究了分为高级 Rust 特征和泛型。我们介绍了编写特征、针对不同类型实现特征以及处理特征一致性的基础知识。这篇文章还探讨了发送和同步等标记特征，这些特征确保了 Rust 中的某些保证。标记特征在 Rust 生态系统中发挥着至关重要的作用，为并发性和线程安全性提供了保证。此外，我们还讨论了对象特征和动态调度，强调了使用特征对象的好处和挑战。总的来说，这篇文章全面介绍了这些高级 Rust 概念，使其成为 Rust 开发人员的宝贵资源。 （根据故事文本的 64% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/89261</guid>
+      <pubDate>Mon, 13 May 2024 02:24:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇关于 Pointers Gone Wild 的文章中，作者讨论了构建 [...]</title>
-      <link>https://t.me/hn_summary/89225</link>
-      <description><![CDATA[替代实现问题
-在这篇关于 Pointers Gone Wild 的文章中，作者讨论了在软件世界中构建替代实现的常见陷阱。作者根据针对各种语言优化 JIT 编译器的个人经验，强调了 PyPy、LuaJIT 和 TruffleRuby 等项目由于不断发展的规范实现而面临的挑战。作者分享了他们使用 YJIT（直接内置于 CRuby 中的 Ruby JIT）的成功故事，强调了兼容性对于采用的重要性。这篇文章最后提出建议，避免将项目定位为替代方案，而是专注于创建独特的解决方案，以避免陷入与规范实现的竞争。]]></description>
-      <guid>https://t.me/hn_summary/89225</guid>
-      <pubDate>Sun, 12 May 2024 20:16:00 GMT</pubDate>
+      <title>[媒体] GitHub 上的开源 YouTube 到 MP3 下载器项目是一个 Windows 窗体应用程序 [...]</title>
+      <link>https://t.me/hn_summary/89260</link>
+      <description><![CDATA[开源 YouTube 到 MP3 下载器
+GitHub 上的开源 YouTube 到 MP3 下载器项目是一个 C# 语言的 Windows 窗体应用程序，允许用户轻松地将 YouTube 视频下载为 MP3 文件。通过输入 YouTube URL 并单击下载按钮，该应用程序使用 YoutubeExplode 来获取和下载视频，并通过实时进度条向用户更新下载状态。然后，该应用程序使用 MediaToolkit 将视频转换为 MP3，允许用户选择 MP3 文件的保存位置。该过程完成后会弹出完成通知，提供一种用户友好的方式直接从桌面将 YouTube 视频转换为 MP3。]]></description>
+      <guid>https://t.me/hn_summary/89260</guid>
+      <pubDate>Mon, 13 May 2024 02:00:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]过去十年墨西哥湾海平面以前所未有的速度上升[...]</title>
-      <link>https://t.me/hn_summary/89224</link>
-      <description><![CDATA[海平面上升威胁南部各州&lt; br/&gt;
-过去十年，墨西哥湾海平面以前所未有的速度上升，远远超出科学预期。海平面上升的激增正在对沿海地区造成毁灭性影响，加剧飓风和洪水的影响。科学家们对于造成这一现象的原因以及这种快速加速是否会持续存在分歧。海平面迅速上升的影响是深远的，数百万英亩的土地和数十万栋房屋面临被淹没的危险。海平面上升的未来仍不明朗，但趋势令人担忧，亟待关注。]]></description>
-      <guid>https://t.me/hn_summary/89224</guid>
-      <pubDate>Sun, 12 May 2024 20:09:54 GMT</pubDate>
+      <title>Archie Search 是一个 Web 前端界面，用于在串行端口搜索 Archie 服务器。</title>
+      <link>https://t.me/hn_summary/89259</link>
+      <description><![CDATA[Archie 搜索
+Archie Search 是一个 Web 前端界面，用于在串行端口搜索 Archie 服务器。这种 ArchiePlex 表单由 Martijn Koster 开发，允许用户在 Internet 上的匿名 FTP 站点上查找文件。该站点提供有关可用站点、文件和目录数量的信息，以及数据库统计信息。系统状态和 Prospero 服务器详细信息也会显示。用户可以访问数据库转储来查看站点、端口、IP 地址和索引。请联系串行端口以获取更多信息。]]></description>
+      <guid>https://t.me/hn_summary/89259</guid>
+      <pubDate>Mon, 13 May 2024 01:48:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]任天堂黑客计划失败，加里·鲍泽 (Gary Bowser) 向公司支付了 25-30% 的 [...]</title>
-      <link>https://t.me/hn_summary/89223</link>
-      <description><![CDATA[黑客必须向任天堂支付工资的 25-30%余生
-一次失败的任天堂黑客计划导致加里·鲍泽 (Gary Bowser) 在余生中每月向公司支付 25-30% 的工资。 Bowser 是黑客组织 Team Xecuter 的成员，因为包括 Nintendo Switch 在内的游戏机制造模组芯片和越狱软件而被捕。在承认联邦刑事指控后，鲍泽被判处 40 个月监禁，并被责令支付 1,450 万美元。尽管提前发布，鲍泽仍然欠任天堂 1000 万美元，并且每月从他的工资中支付。这一有争议的案件凸显了游戏行业中黑客攻击和知识产权盗窃的后果。]]></description>
-      <guid>https://t.me/hn_summary/89223</guid>
-      <pubDate>Sun, 12 May 2024 20:05:48 GMT</pubDate>
+      <title>[媒体]科技爱好者的激动人心的消息！</title>
+      <link>https://t.me/hn_summary/89258</link>
+      <description><![CDATA[Geekbench 6 中 M4 接近 4000/15000
+对于科技爱好者来说，这是一个令人兴奋的消息！最新的 Geekbench 6 结果显示，M4 处理器得分接近 4000（满分 15000），展示了其令人印象深刻的性能能力。这是 M4 的一个重要里程碑，凸显了其与市场上其他顶级处理器竞争的潜力。请继续关注有关技术领域这一突破性发展的更多更新。]]></description>
+      <guid>https://t.me/hn_summary/89258</guid>
+      <pubDate>Mon, 13 May 2024 01:47:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 欢迎来到 LouveSystems 的 Assembly！</title>
-      <link>https://t.me/hn_summary/89222</link>
-      <description><![CDATA[组装
-欢迎来到 LouveSystems 的 Assembly！这个沙盒概念游戏允许您使用自然语言设计代表，然后将其发布到程序集中以与其他程序交互。每当您准备好投入使用时，请查看该程序集并编写您自己的委托。准备好享受独特且富有创意的体验！点击下方按钮即可查看。]]></description>
-      <guid>https://t.me/hn_summary/89222</guid>
-      <pubDate>Sun, 12 May 2024 20:02:43 GMT</pubDate>
+      <title>[媒体]在 Numbeo 网站上查看 2024 年各国生活成本指数。</title>
+      <link>https://t.me/hn_summary/89257</link>
+      <description><![CDATA[2024 年各国生活成本指数 – Numbeo&lt; br/&gt;
+在 Numbeo 网站上查看 2024 年按国家/地区划分的生活成本指数。该快照提供了当前指数的一瞥，包括租金、杂货、餐厅价格以及当地购买力。令人惊讶的是，百慕大以高生活成本指数位居榜首，而也门和古巴等国家排名较低。有争议的是，美国和瑞士也出现在其中，展示了世界各地不同的生活成本。探索数据，了解不同国家/地区在支出和购买力方面的比较。 （根据 47% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/89257</guid>
+      <pubDate>Mon, 13 May 2024 01:46:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Anna Shipman 介绍了创建简洁有效的公关的 1-measure-3-1 方法 [...]</title>
-      <link>https://t.me/hn_summary/89221</link>
-      <description><![CDATA[安娜·希普曼：1-measure-3-1方法
-Anna Shipman 介绍了用于创建简洁有效提案的 1-measure-3-1 方法。此方法的重点是在一页上提出一个问题、如何衡量成功、三个选项和一个建议。希普曼强调通过保持提案简明扼要来优先考虑决策者的时间的重要性。她还提供了有关财务影响、截止日期以及考虑“什么也不做”选项的建议。该方法允许包含附加细节的附录，但核心提案应该清晰且易于理解。 Shipman 的方法旨在简化决策流程并提高决策质量。]]></description>
-      <guid>https://t.me/hn_summary/89221</guid>
-      <pubDate>Sun, 12 May 2024 19:52:36 GMT</pubDate>
+      <title>[媒体]澳大利亚初创公司 AMSL Aero 正在测试氢动力电动飞机 Vertiia，[...]</title>
+      <link>https://t.me/hn_summary/89256</link>
+      <description><![CDATA[氢动力飞机获得首个商业订单
+澳大利亚初创公司 AMSL Aero 正在测试一款氢动力电动飞机 Vertiia，这是 AirLink 的第一个商业订单。这项创新技术可以彻底改变航空旅行，其电池可以为小型飞机提供动力，使用氢气可以飞行 1,000 公里。该飞机像直升机一样起飞，像飞机一样飞行，其灵感来自澳大利亚发明家劳伦斯·哈格雷夫。 AMSL Aero 还在开发用于空中消防的无人驾驶飞机。到 2043 年，每年无人机飞行次数将达到 6000 万次，澳大利亚航空业的未来正在寻求可持续且高效的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/89256</guid>
+      <pubDate>Mon, 13 May 2024 01:22:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
