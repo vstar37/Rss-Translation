@@ -4,27 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 14 May 2024 15:14:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 21:11:32 GMT</lastBuildDate>
+    <item>
+      <title>免费开源仓库/制造模拟器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cs37cq/free_and_opensource_warehousemanufacturing/</link>
+      <description><![CDATA[   /u/ryevdokimov  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cs37cq/free_and_opensource_warehousemanufacturing/</guid>
+      <pubDate>Tue, 14 May 2024 21:06:26 GMT</pubDate>
+    </item>
     <item>
       <title>开源 AI 定义 – 5 月 13 日每周更新</title>
       <link>https://www.reddit.com/r/opensource/comments/1cruhbi/open_source_ai_definition_weekly_update_may_13/</link>
       <description><![CDATA[       由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cruhbi/open_source_ai_definition_weekly_update_may_13/</guid>
       <pubDate>Tue, 14 May 2024 15:09:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>WebGazer 开源项目的免费正常运行时间监控</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cruak4/free_uptime_monitoring_for_open_source_projects/</link>
-      <description><![CDATA[大家好， 我很高兴地宣布，WebGazer 现在提供专门针对开源项目的免费监控计划！ 🎉 在 WebGazer，我们理解维护开源项目所付出的奉献和辛勤工作。与任何其他服务一样，如果没有开源，WebGazer 就不可能实现。这就是为什么我们决定通过免费提供我们的服务来支持开源社区。该功能集包括网站和 cron 作业监控以及托管状态页面，可帮助您确保项目始终正常启动并顺利运行。 使用 WebGazer，可以轻松掌握项目状态。您可以在此处找到更多详细信息并注册：开源 WebGazer。 随意提出任何问题或分享反馈。我们在这里支持开源社区并与开源社区一起成长！ 祝您编码愉快！ 🚀   由   提交 /u/iibarbari   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cruak4/free_uptime_monitoring_for_open_source_projects/</guid>
-      <pubDate>Tue, 14 May 2024 15:01:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍 OpenGPT4 o</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cru3nt/introducing_opengpt4_o/</link>
-      <description><![CDATA[介绍OpenGPT-4o 此处演示：https://huggingface.co/spaces/KingNish/GPT-4o 功能： 1️⃣ 可能的输入是文本 ✏️、文本 + 图像 📝🖼️、音频 🎧 ，可能的输出是图像 🖼️、图像 + 文本 🖼️📝、文本 📝、音频 🎧 2️⃣ Flat 100 ％开源和超快⚡。 3️⃣在GPT 4o之前公开可用。 未来功能： 1️⃣ 使用 PDF 聊天（语音和文本） 2️⃣ 视频生成。 3️⃣ 顺序图像生成。 4️⃣ 更好的 UI 和自定义。 &gt;   由   提交 /u/RealKingNish   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cru3nt/introducing_opengpt4_o/</guid>
-      <pubDate>Tue, 14 May 2024 14:53:22 GMT</pubDate>
     </item>
     <item>
       <title>我正在寻找基于实际使用情况的网络抓取工具的建议。请突出显示任何特定的优点或缺点。 🙏</title>
@@ -85,7 +78,7 @@
     <item>
       <title>openapic：让 openapi-generator 更像 protoc 的提案</title>
       <link>https://www.reddit.com/r/opensource/comments/1cre9hg/openapic_proposal_to_make_openapigenerator_more/</link>
-      <description><![CDATA[ 由   提交/u/heraldev  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/heraldev  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cre9hg/openapic_proposal_to_make_openapigenerator_more/</guid>
       <pubDate>Mon, 13 May 2024 23:51:58 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[寻找 www.invideo.io 的替代方案您可以使用 AI 生成视频。有什么建议吗？   由   提交/u/Past-Statistician358  /u/Past-Statistician358 reddit.com/r/opensource/comments/1cr3moh/open_source_alternative_to_auto_generate_youtube/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cr3moh/open_source_alternative_to_auto_generate_youtube/</guid>
       <pubDate>Mon, 13 May 2024 16:31:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源游戏列表</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cqzpe1/a_list_of_open_source_games/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/moontoadzzz  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cqzpe1/a_list_of_open_source_games/</guid>
+      <pubDate>Mon, 13 May 2024 13:46:12 GMT</pubDate>
     </item>
     </channel>
 </rss>

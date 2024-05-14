@@ -4,86 +4,98 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 14 May 2024 12:18:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 21:09:12 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 本周的时事通讯深入探讨了钟表之前计时的迷人世界。</title>
-      <link>https://t.me/hn_summary/89477</link>
-      <description><![CDATA[时钟之前的计时
-本周的时事通讯深入探讨了钟表出现之前令人着迷的计时世界。作者探索了古代剧作家普劳图斯和他的喜剧作品，强调了理解他的生活和作品的挑战。这篇文章还讨论了从日晷到水钟的计时装置的演变，展示了复杂的设计和创造性的机制。这场争议源于对狒狒撒尿的水钟的讨论，为历史叙事增添了幽默又耐人寻味的元素。作者对时间测量对日常生活影响的个人思考为该主题提供了独特的视角。总的来说，内容融合了历史、幽默和技术创新，令人着迷。 （根据 98% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/89477</guid>
-      <pubDate>Tue, 14 May 2024 12:18:13 GMT</pubDate>
+      <title>[媒体]2024年3月26日，当地时间0129分，悬挂新加坡旗的集装箱船Dali experi [...]</title>
+      <link>https://t.me/hn_summary/89586</link>
+      <description><![CDATA[NTSB 关于集装箱船与关键桥梁接触和桥梁倒塌的报告 [pdf](https://news.ycombinator.com/item?id=40359993)
+2024年3月26日，当地时间0129，悬挂新加坡国旗的集装箱船Dali在驶离巴尔的摩港时遭遇电力和推进力损失。这导致船只撞击弗朗西斯·斯科特基大桥的南部码头，导致桥梁的一部分倒塌到船上并流入帕塔普斯科河。不幸的是，六名建筑工人死亡，一名重伤。美国国家运输安全委员会正在与美国海岸警卫队协调领导调查。 Dali 的推进系统由现代 MAN B&amp;W 柴油发动机提供动力，其配电系统是调查的核心。该事件已被列为重大海上事故。 （根据故事文本的 32% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/89586</guid>
+      <pubDate>Tue, 14 May 2024 21:09:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Unriddle 是一名学术研究助理，正在寻找一位创始工程师加入 [...]</title>
-      <link>https://t.me/hn_summary/89476</link>
-      <description><![CDATA[Unriddle (YC S24) 正在招聘创始工程师 
-Unriddle 是一名学术研究助理，正在寻找一位创始工程师加入他们在旧金山的团队。 Unriddle 拥有超过 800,000 名用户，并与罗氏制药和斯坦福大学等著名组织建立了合作伙伴关系，通过使用语言模型简化任务并提高生产力，正在彻底改变研究过程。理想的候选人将对良好的产品设计充满热情，积极主动，并拥有 Next.js 和 Vercel 等现代技术的经验。这是一个全栈角色，随着公司规模的扩大，有机会产生重大影响。如果您准备好为尖端项目做出贡献，请立即申请并提供您的背景和对未来的想法。]]></description>
-      <guid>https://t.me/hn_summary/89476</guid>
-      <pubDate>Tue, 14 May 2024 12:01:03 GMT</pubDate>
+      <title>[媒体]在Highlight.io，我们的 ClickHouse 设置在 o [...]</title>
+      <link>https://t.me/hn_summary/89585</link>
+      <description><![CDATA[优化 ClickHouse：对我们有用的策略
+在 Highlight.io，我们的 ClickHouse 设置遇到了严重的扩展问题在加入大客户后，导致我们的 Kafka 队列积压和 CPU 负载高。这篇文章详细介绍了我们从未经优化的 CPU 密集型集群到更高效、更经济的配置的历程，从而增强了客户的实时体验。关键策略包括使用更大的批量插入、将数据保存在较宽的部分、按粒度优化顺序以及避免投影。我们还专注于 TTL 优化和清除旧部分以有效管理活动分区。这些策略显着降低了 CPU 负载并提高了性能。如需更多见解，请通过 Twitter 或 LinkedIn 联系我们。]]></description>
+      <guid>https://t.me/hn_summary/89585</guid>
+      <pubDate>Tue, 14 May 2024 21:07:01 GMT</pubDate>
     </item>
     <item>
-      <title>最新版本的 VCMI 1.5.0 现已推出，重点是在线多人游戏支持 [...]</title>
-      <link>https://t.me/hn_summary/89475</link>
-      <description><![CDATA[《魔法门之英雄无敌 III》粉丝项目 – VCMI 1.5.0 发布
-最新版本的 VCMI 1.5.0 现已推出，重点是在线多人游戏支持和各种新功能。在线大厅可以轻松设置多人游戏会话，并且对随机地图、人工智能、战役问题和工件管理进行了改进。添加了游戏控制器支持，并且更轻松地安装 gog.com增强玩家体验。凭借新的主页和可配置的键盘快捷键，VCMI 根据社区的意见不断发展。加入我们 Enroth 的世界，体验 VCMI 的持续改进。]]></description>
-      <guid>https://t.me/hn_summary/89475</guid>
-      <pubDate>Tue, 14 May 2024 11:56:55 GMT</pubDate>
+      <title>[媒体] 在阿肯色大学研究人员的一项研究中，人工智能模型，特别是 GPT-4 [...]</title>
+      <link>https://t.me/hn_summary/89584</link>
+      <description><![CDATA[当前的人工智能模型在发散思维任务上比人类更具创造力
+阿肯色大学研究人员的一项研究发现，人工智能模型（特别是 GPT-4）在衡量创造力潜力的发散思维任务中表现优于人类。使用替代用途任务、后果任务和发散关联任务对人类参与者 (N=151) 和 GPT-4 进行评估。即使在控制响应流畅度的情况下，人工智能在原创性和精细化方面也表现出了更高的创造力。这挑战了创造力是人类独特特征的观念。然而，该研究承认，关于人工智能缺乏元认知过程和情感影响的持续争论，而这些是人类创造力不可或缺的一部分。研究结果表明，创造性任务的处理方式可能会发生转变，突显人工智能在产生新想法方面的能力不断增强。 （根据故事文本的 24% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/89584</guid>
+      <pubDate>Tue, 14 May 2024 21:03:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在本文中，我们挑战容器总是更轻、更高效的观念[...]</title>
-      <link>https://t.me/hn_summary/89474</link>
-      <description><![CDATA[我的虚拟机比您的容器更轻（也更安全）
-在本文中，我们挑战容器总是比虚拟机更轻、更高效的观念。虽然容器可能提供较弱的隔离，但我们探索轻量级虚拟机如何像容器一样灵活。通过利用 unikernels 和 Tinyx，我们演示了定制的 Linux 虚拟机如何实现最佳性能。 LightVM是一种基于Xen的新型虚拟化解决方案，我们展示了它如何在短短2.3毫秒内启动虚拟机，性能比Docker高出两个数量级。通过重新设计的控制平面，LightVM 可以在适度的硬件上容纳数千个来宾，同时保持较低的内存和 CPU 使用率。]]></description>
-      <guid>https://t.me/hn_summary/89474</guid>
-      <pubDate>Tue, 14 May 2024 11:52:47 GMT</pubDate>
+      <title>[媒体]《卫报》的一项调查发现，大学前讲师乔纳森·基珀曼 (Jonathan Keeperman) [...]</title>
+      <link>https://t.me/hn_summary/89583</link>
+      <description><![CDATA[极右 Twitter 帐户和出版社背后的美国大学讲师
+《卫报》的一项调查发现，加州大学欧文分校前讲师乔纳森·基珀曼 (Jonathan Keeperman) 是极右翼出版社 Passage Press 和颇具影响力的 Twitter 人物“洛梅兹”的幕后黑手。基珀曼在 UCI 任职期间参与了极右互联网论坛，现已成为原法西斯运动的重要人物。 Passage Press 出版极右翼知识分子和历史法西斯作家的作品，并举办现场活动和文学奖项。基珀曼尚未回应置评请求，但在社交媒体上批评了记者。 《卫报》的身份识别基于公司记录、财产契约和在线材料。 （根据故事文本的 64% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/89583</guid>
+      <pubDate>Tue, 14 May 2024 20:49:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]新加坡作家拒绝了政府在其作品中训练人工智能的计划，sparkin [...]</title>
-      <link>https://t.me/hn_summary/89473</link>
-      <description><![CDATA[新加坡作家拒绝政府在工作中训练人工智能的计划
-新加坡作家拒绝了政府在其作品中训练人工智能的计划，引发了该国文学界的争议。国家多模式法学硕士项目旨在通过融入当地材料来解决现有语言模型中的偏见，但像 Gwee Li Sui 这样的作家担心保护和补偿。这种抵制是全球趋势的一部分，世界各地的作者都反对使用他们的工作来训练人工智能。尽管政府积极征求同意，但作家们担心他们的作品可能会被滥用。对法学硕士进行版权内容培训的法律地位仍不确定，但新加坡将从获得作家的支持中受益。]]></description>
-      <guid>https://t.me/hn_summary/89473</guid>
-      <pubDate>Tue, 14 May 2024 11:50:40 GMT</pubDate>
+      <title>[媒体] 先生</title>
+      <link>https://t.me/hn_summary/89582</link>
+      <description><![CDATA[花园中出土的古代书写系统石
+Senior 先生推测，最近出土的这块砂岩长 11 厘米（4 英寸），雕刻于公元 4 世纪至 6 世纪之间，可能是罗马士兵携带的纪念品。他将其描述为“非常有触感的东西”，感觉应该握在手里。Gilmore 女士提出了另一种理论，认为它可能被爱尔兰商人用来交流。该团队强调了欧甘文字系统的独特性，该系统仅由一到五行组成的平行线组成，并认为它可以为了解采用拉丁岛屿文字之前的爱尔兰语提供宝贵的见解。]]></description>
+      <guid>https://t.me/hn_summary/89582</guid>
+      <pubDate>Tue, 14 May 2024 20:47:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]著名医学肿瘤学家斯科耶教授在一年的治疗后仍然没有脑癌 [...]</title>
-      <link>https://t.me/hn_summary/89472</link>
-      <description><![CDATA[顶级医生在一年后（他自己的）仍然没有脑癌治疗）
-著名的医学肿瘤学家斯科耶教授经过一年的开创性治疗后，脑癌仍未痊愈。他是第一位在手术前接受药物和个性化疫苗联合治疗的脑癌患者，取得了有希望的结果。尽管面临癫痫发作和肺炎等挑战，斯科耶教授感觉更健康，并恢复了日常锻炼。这种实验性治疗引起了医学界的兴奋，希望每年能够帮助数千名被诊断患有脑癌的人。虽然治愈之路漫长，但团队对其研究的潜在影响持乐观态度。]]></description>
-      <guid>https://t.me/hn_summary/89472</guid>
-      <pubDate>Tue, 14 May 2024 11:49:35 GMT</pubDate>
+      <title>网站：nian.llmonpy.ai</title>
+      <link>https://t.me/hn_summary/89581</link>
+      <description><![CDATA[GPT-4o 的内存突破 – 针中针 
+标题：GPT-4o 的内存突破 – 针中之针
+网站：nian.llmonpy.ai
+
+GPT-4o 在 Needlestack 基准测试中的 Needle 上实现了一个重要的里程碑，该基准测试旨在测试大型语言模型 (LLM) 从广泛的上下文窗口中保留和调用信息的效果。该基准测试涉及一个充满数千首打油诗的提示，然后是有关特定打油诗的问题。之前的模型，包括 GPT-4 Turbo 和 Claude-3 Sonnet，在这项任务上都遇到了困难。然而，GPT-4o 已经接近完美，这引起了人们对 OpenAI 所做改进的好奇。相比之下，Mistral 的模型，尤其是新的 8x22 模型，表现不佳，凸显了标记化差异的挑战。有趣的是，重复目标打油诗可以显着提高性能，正如 GPT-3.5-turbo 所见。基准代码可用于进一步探索和模型支持。]]></description>
+      <guid>https://t.me/hn_summary/89581</guid>
+      <pubDate>Tue, 14 May 2024 20:34:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在最近的一项民意调查中，63% 的美国人表示希望监管能够积极 [...]</title>
-      <link>https://t.me/hn_summary/89471</link>
-      <description><![CDATA[63% 的美国人希望监管积极阻止超级人工智能
-在最近的一项民意调查中，63% 的美国人表示希望通过监管积极阻止超级人工智能（一种比人类更聪明的系统）的发展。虽然像 OpenAI 这样的主要人工智能公司正在竞相构建通用人工智能 (AGI)，但考虑到所涉及的风险，公众正在质疑这种技术的必要性。这场辩论凸显了技术发展的不民主本质以及公众参与塑造人工智能未来的必要性。讨论提出了在部署可能影响人类文明的变革性技术之前寻求社会许可的重要问题。]]></description>
-      <guid>https://t.me/hn_summary/89471</guid>
-      <pubDate>Tue, 14 May 2024 11:31:25 GMT</pubDate>
+      <title>[媒体]VMware Fusion Pro 13 现已免费供个人使用，遵循 VMware 的协议 [...]</title>
+      <link>https://t.me/hn_summary/89580</link>
+      <description><![CDATA[VMware Fusion Pro 13 免费供个人使用&lt; br/&gt;
+在 VMware 以 690 亿美元的价格被 Broadcom 收购后，VMware Fusion Pro 13 现已免费供个人使用。此更新允许用户在 Apple Silicon Mac 上免费运行 Windows 11，只需从 Broadcom 的支持门户注册并下载即可。对于商业用途，需要付费订阅，可通过 Broadcom Advantage 合作伙伴购买。 VMware 的产品线经理 Michael Roy 对利用这些多功能虚拟工具继续创新表示兴奋。有关在 Mac 上安装 Windows 11 的更多详细信息和指南，请查看官方公告和演练。 
+
+争议：博通的收购及其对 VMware 产品的影响可能会被一些用户视为争议。
+
+独特/聪明：为如此强大的工具提供免费的个人使用许可证是一个令人惊讶且慷慨的举动。]]></description>
+      <guid>https://t.me/hn_summary/89580</guid>
+      <pubDate>Tue, 14 May 2024 20:17:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]荷兰消费者和市场管理局 (ACM) 对 Epic Games 处以 110 万欧元罚款 [...]</title>
-      <link>https://t.me/hn_summary/89470</link>
-      <description><![CDATA[荷兰监管机构对 Fornite 制造商 Epic Games 的广告罚款 110 万欧元在孩子们
-荷兰消费者和市场管理局 (ACM) 对 Epic Games 处以 110 万欧元罚款，原因是 Epic Games 在其热门游戏《堡垒之夜》中针对儿童使用了不公平的商业行为。监管机构发现，该游戏通过有针对性的广告和误导性倒计时器迫使孩子们进行游戏内购买。 ACM 称这些做法非法且侵犯了儿童权利。 Epic Games 必须在 6 月 10 日之前实施改进来纠正这些问题。 ACM 有信心该公司将做出必要的改变，但将继续监控情况以确保合规。这一决定发出了一个明确的信息，即儿童应该能够在不被迫购买的情况下玩网络游戏。]]></description>
-      <guid>https://t.me/hn_summary/89470</guid>
-      <pubDate>Tue, 14 May 2024 11:25:18 GMT</pubDate>
+      <title>[媒体] 密歇根大学的学者发现，一个恶意车辆 [...]</title>
+      <link>https://t.me/hn_summary/89579</link>
+      <description><![CDATA[恶意车辆可以阻塞美国的“智能”十字路口
+密歇根大学的学者发现，单一恶意车辆可以利用美国智能交通控制系统的漏洞，特别是交通部实施的智能交通信号系统（I-SIG）。该系统位于纽约和帕洛阿尔托等城市，使用车辆到基础设施 (V2I) 技术来管理交通流量。然而，研究人员发现了一个他们称之为“最后车辆优势”的缺陷，该缺陷允许单辆车重复发送欺骗数据，欺骗系统认为十字路口已满。这可能会导致严重的流量延迟，从而抵消 I-SIG 系统的优势。尽管该攻击的实际应用有限，但该研究强调了智能交通系统需要更好的安全性。研究结果已在圣地亚哥举行的 NDSS 研讨会上公布。]]></description>
+      <guid>https://t.me/hn_summary/89579</guid>
+      <pubDate>Tue, 14 May 2024 20:15:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]悉尼的三名承包商被指控盗窃超过 300 吨铜 [..​​.]</title>
-      <link>https://t.me/hn_summary/89469</link>
-      <description><![CDATA[三名承包商被控从悉尼基础设施工地盗窃铜 
-悉尼的三名承包商被指控盗窃超过 300 吨铜线，价值可能高达 350 万澳元。据称，这些人绕过合法商人，通过非官方渠道出售偷来的电缆。逮捕行动是在对承包商从基础设施站点拆除铜线并出售以获取利润的报道进行调查后进行的。铜的吸引力在于其高转售价值，每公斤可达 10 美元。这起盗窃案是更大范围的铜盗窃案的一部分，当局正在打击非法卖家。警方警告说，盗窃铜可能很危险，因为接触高含量的金属可能会带来健康风险。]]></description>
-      <guid>https://t.me/hn_summary/89469</guid>
-      <pubDate>Tue, 14 May 2024 11:23:12 GMT</pubDate>
+      <title>[媒体]俄勒冈大学的新研究表明，冷暴是一种流行的趋势 [...]</title>
+      <link>https://t.me/hn_summary/89578</link>
+      <description><![CDATA[新研究表明，冷潜水可能有助于心脏健康 
+俄勒冈大学的新研究表明，Instagram 红人中流行的冷泳可能会给健康带来实实在在的好处。该研究发表在 2023 年 12 月版《热生物学杂志》上，发现冷水浸泡 15 分钟可以降低心率、血压和皮质醇水平，同时还能改善情绪。由克里斯·明森教授和研究生艾玛·里德领导的这项研究跟踪了大学生的各种健康指标，发现血管剪切应力模式的轻微变化，这可以增强心血管健康。未来的研究将探讨反复冷水浸泡和其他环境压力因素对健康的长期影响。这项工作强调了冷潜对运动员和公众的潜在好处。 
+
+—作者：Rachel Lukowicz-Bedford，神经科学研究所]]></description>
+      <guid>https://t.me/hn_summary/89578</guid>
+      <pubDate>Tue, 14 May 2024 20:15:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 让人想起 80 年代的笔式绘图仪正在代码和艺术世界中卷土重来。</title>
-      <link>https://t.me/hn_summary/89468</link>
-      <description><![CDATA[笔式绘图仪编程：基础知识（2017）&lt; br /&gt;
-让人想起 80 年代的笔式绘图仪正在代码和艺术领域卷土重来。与打印机不同，它们产生手绘效果，并且看起来令人着迷。以编程方式控制它们可能是一个有趣的挑战，涉及步进电机和伺服电机。通过优化路径的顺序、连接路径并简化它们，我们可以使绘图过程更加高效。本文深入研究了高效编程绘图仪的技术细节，提供了对空间哈希索引和折线简化的见解。这种艺术与技术的独特融合，通过 Makeblock XY 绘图仪和 AxiDraw v3 等现代爱好者绘图仪开辟了一个充满创意可能性的世界。]]></description>
-      <guid>https://t.me/hn_summary/89468</guid>
-      <pubDate>Tue, 14 May 2024 11:16:03 GMT</pubDate>
+      <title>[媒体] 网址：www.nature.com</title>
+      <link>https://t.me/hn_summary/89577</link>
+      <description><![CDATA[2023年夏天的温暖是过去两千年来无与伦比的&lt; br/&gt;
+标题：2023夏日温暖两千年来无与伦比
+网站：www.nature.com 
+
+据报道，2023 年是有记录以来最热的一年，北半球夏季异常温暖。通过结合观测到的和重建的6月至8月的地表气温，研究人员发现2023年是北半球过去2000年来最温暖的温带夏季，比自然气候变率的95%置信范围高出半摄氏度以上。公元 536 年重建的最冷夏季与 2023 年之间的温差达到惊人的 3.93°C。这种极端的温暖与温室气体引起的变暖趋势一致，并因正在发生的厄尔尼诺事件而进一步加剧。研究结果凸显了国际碳减排协议的迫切需要。]]></description>
+      <guid>https://t.me/hn_summary/89577</guid>
+      <pubDate>Tue, 14 May 2024 20:10:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
