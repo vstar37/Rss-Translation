@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 16 May 2024 12:22:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 15:12:16 GMT</lastBuildDate>
+    <item>
+      <title>PDM 整合与管理.pdf</title>
+      <link>https://www.reddit.com/r/software/comments/1ctd0w8/pdf_pdm_consolidation_and_management/</link>
+      <description><![CDATA[我正在寻找 PDF 文件管理软件。我希望提供一组不应更改但应专门分组的技术文档。目标是使用该软件作为 PDM 来停止打印、复制和更改，尤其是删除，同时仍具有查看功能。  我在 pdf 论坛和软件组之间交叉发布此内容。    由   提交 /u/engineeredmofo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ctd0w8/pdf_pdm_consolidation_and_management/</guid>
+      <pubDate>Thu, 16 May 2024 13:33:51 GMT</pubDate>
+    </item>
     <item>
       <title>桌面软件可自动将文档照片拉直并更正为扫描件</title>
       <link>https://www.reddit.com/r/software/comments/1ctbegy/desktop_software_to_autostraighten_and_correct/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好， 我从头开始创建了一个公告平台。后端采用 Java 语言，前端采用 Angular 语言。它具有身份验证、电子邮件确认、添加公告功能、查看和编辑公告、聊天系统等。您知道是否有一个平台可以出售此类项目？   由   提交 /u/Right-Border-9877   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cst6t2/where_to_sell_my_announcement_platform/</guid>
       <pubDate>Wed, 15 May 2024 19:16:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>GrepWin 排除目录</title>
-      <link>https://www.reddit.com/r/software/comments/1csrjz8/grepwin_exclude_directory/</link>
-      <description><![CDATA[您好，有人知道我如何从日志监控中排除路径（例如 Teams）吗？ 例如，当我键入时事件ID“8003”在搜索字段时，我从 Teams 获取了完整路径。但我想从我的日志记录中排除此路径，因为我只对其他 .EXE 感兴趣，这些 .EXE 为我提供事件 ID“8003”   由   提交/u/kanata98  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1csrjz8/grepwin_exclude_directory/</guid>
-      <pubDate>Wed, 15 May 2024 18:11:51 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,13 +4,48 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 16 May 2024 09:10:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 15:11:27 GMT</lastBuildDate>
     <item>
-      <title>本地运行 Llama 3 最简单​​的方法</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ct8bz8/the_easiest_way_of_running_llama_3_locally/</link>
-      <description><![CDATA[🎯下载、安装并在终端中键入一条命令即可开始在笔记本电脑上使用 Llama 3。 https://www.kdnuggets.com/easiest-way-of-running-llama-3-locally    由   提交 /u/kingabzpro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ct8bz8/the_easiest_way_of_running_llama_3_locally/</guid>
-      <pubDate>Thu, 16 May 2024 08:43:48 GMT</pubDate>
+      <title>指尖陀螺牛仔（AI音乐）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctdwxd/fidget_spinner_cowboy_ai_music/</link>
+      <description><![CDATA[https://youtu.be/k4FTRw4xsRo?si =FLscSFNuFtFtru8W 嘿，昨晚我将随机的想法放入 Suno AI 音乐生成器中，并想出了“Fidget Spinner Cowboy”，一首关于喜欢指尖陀螺的牛仔的乡村歌曲。享受吧！ 型号：Suno v3   由   提交 /u/EcholessREALMS   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctdwxd/fidget_spinner_cowboy_ai_music/</guid>
+      <pubDate>Thu, 16 May 2024 14:13:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们与人工智能的未来</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctcp6i/our_future_with_ai/</link>
+      <description><![CDATA[新艺术作品？新的时事通讯文章！我的最新作品《审查系列》受到了很多人的喜爱。谈论人们积极回避的事情很困难，但看到社区对新冠病毒、Z 世代和现在的人工智能等话题的热烈反响。我迫不及待地想为该系列添加更多内容。这一次，我们深入探讨人工智能主导地位所塑造的共同未来，不要错过最后的复活节彩蛋！ https://preview.redd.it/7nkdehixgs0d1.jpg?width=2388&amp;format=pjpg&amp;auto=webp&amp;s=074c55bb0aa 44e483ec8d31698d29d6acfb6e408 子堆栈： https://open.substack.com/pub/vincentleong/p/the-ai-revolutionshits-getting-real?r=2nk59p&amp;utm_campaign=post&amp;utm_medium =web&amp;showWelcomeOnShare=true 中： https://medium.com/@vincentleong_67066/the-ai-revolution-shits-getting-real-what-s-next-833877c10b72 LinkedIn： https ://www.linkedin.com/pulse/ai-revolutionshits-getting-real-whats-next-vincent-leong-u3vef  &amp;# 32；由   提交 /u/Zestyclose_Cake_5644   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctcp6i/our_future_with_ai/</guid>
+      <pubDate>Thu, 16 May 2024 13:18:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Farfalle：开源答案引擎</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctcmj5/farfalle_opensource_answer_engine/</link>
+      <description><![CDATA[https://reddit.com /link/1ctcmj5/video/nzquur1egs0d1/player 大家好！我构建了一个名为 Farfalle 的开源人工智能答案引擎。它是 Perplexity 的一个自我托管替代品。它具有从头开始构建的生成式 UI，具有来自后端的流式传输事件。 在此处查看现场演示：farfalle.dev&lt; /a&gt;. 开源：代码在 Github 上完全开源（git. new/farfalle) 存储库包含有关如何在本地运行项目的说明，以及 Vercel 和 Render 的一键部署按钮。 🛠️ 技术堆栈&lt; /p&gt;  前端：Next.js 后端：FastAPI (Python) 搜索 API：Tavily 日志记录：Logfire 速率限制： Redis 组件：Shadcn 提供商/法学硕士：Groq/LLama3-70B、OpenAI/GPT4-o &gt;  我很想听到任何反馈！   由   提交/u/rashadphil  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctcmj5/farfalle_opensource_answer_engine/</guid>
+      <pubDate>Thu, 16 May 2024 13:14:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有人因为人工智能而改变了自己的人生决定？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctc3mh/has_anyone_changed_their_mind_about_any_life/</link>
+      <description><![CDATA[例如，在大学开始课程、转行、组建家庭、结婚、搬家等。 或者我可能没有想到的任何小决定   由   提交/u/broxue  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctc3mh/has_anyone_changed_their_mind_about_any_life/</guid>
+      <pubDate>Thu, 16 May 2024 12:48:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blainy：每月 10 美元的人工智能写作工具解决方案！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctbd5v/blainy_your_10_monthly_ai_writing_tool_solution/</link>
+      <description><![CDATA[如果您需要一个可用于论文、作业、研究论文、描述、博客等的 AI 写作工具，我们的 AI 写作Blainy 工具将帮助您！好消息是，您只需按照以下简单步骤即可每月只需 10 美元即可获得月度订阅：  点击此链接访问我们的产品搜寻页面：https://www.producthunt.com/posts/blainy 发表评论并在 Product Hunt 上给我们投赞成票。 快速截取您评论的屏幕截图。 通过电子邮件将屏幕截图发送给我们： [khalid@blainy.com](mailto:khalid @blainy.com)  收到您的屏幕截图后，我们将向您发送一个独特的促销代码，第一个月 Blainy 无限套餐可享受 10 美元折扣。就是这么简单！此优惠是我们对您的出色表示感谢的方式。不要错过 - 立即使用 Blainy 增强您的写作体验！ Blainy 的功能包括：  用于增强的人工智能建议您的写作。 人工智能自动化可简化您的写作过程。 用于重写内容的释义工具。&lt; /li&gt; 内置引文生成器，用于准确引用。 抄袭检查器，确保原创性。 &lt; p&gt;AskBlainy 功能提供即时写作帮助。    由   提交 /u/MysticMegan1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctbd5v/blainy_your_10_monthly_ai_writing_tool_solution/</guid>
+      <pubDate>Thu, 16 May 2024 12:08:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌推出 Project Astra 与 OpenAI 的 GPT-4o 竞争</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ct91o3/google_launches_project_astra_to_compete_with/</link>
+      <description><![CDATA[ 由   提交/u/Technicallysane02   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ct91o3/google_launches_project_astra_to_compete_with/</guid>
+      <pubDate>Thu, 16 May 2024 09:38:11 GMT</pubDate>
     </item>
     <item>
       <title>1.58 位大型语言模型时代</title>
@@ -20,11 +55,11 @@
       <pubDate>Thu, 16 May 2024 08:26:25 GMT</pubDate>
     </item>
     <item>
-      <title>更智能的聊天：使用 ChatGPT 自动回复 WhatsApp</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ct7gqa/chat_smarter_automate_whatsapp_replies_with/</link>
-      <description><![CDATA[想象一下在自动驾驶仪上回复常见的 WhatsApp 询问。 ChatGPT，强大的人工智能聊天机器人，可以成为您的秘密武器。将其与您的 WhatsApp 集成，以制作个性化回复、回答常见问题解答并简化沟通。将自己从重复性任务中解放出来，专注于重要的事情 - 有意义的客户互动。 https: //www.seaflux.tech/blogs/integrate-chatgpt-with-whatsapp   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ct7gqa/chat_smarter_automate_whatsapp_replies_with/</guid>
-      <pubDate>Thu, 16 May 2024 07:37:49 GMT</pubDate>
+      <title>在网络上发布您的 AI 应用程序</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ct797l/publishing_your_ai_app_on_the_web/</link>
+      <description><![CDATA[如果您正在构建或尝试构建 AI 应用程序，这应该对您非常有帮助。我正在开发一种工具，可以帮助您在几分钟内通过聊天 UI 在网络上发布您的作品。支持同步和异步应用程序，并具有响应流。哦，我差点忘了说了，都是用Python写的。 如果你有兴趣，可以在评论里加入候补名单，我会分享几个我之前创建的开源应用程序帮助您开始。   由   提交 /u/UpvoteBeast   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ct797l/publishing_your_ai_app_on_the_web/</guid>
+      <pubDate>Thu, 16 May 2024 07:21:47 GMT</pubDate>
     </item>
     <item>
       <title>使用 GPT-4O 构建多模式应用程序</title>
@@ -32,27 +67,6 @@
       <description><![CDATA[我相信你们大多数人都知道 OpenAI 宣布 GPT-4o，这是一种可以实时跨音频、视觉和文本进行推理的新模型（请参阅YouTube 上的 OpenAI 演示） 很偶然，早在 GPT-4o 发布之前我就一直在研究多模态模型，因此我觉得自己有能力在这里为任何想要了解多模态模型的人留下一份指南用它构建一些东西！ 最近，我发布了一个开源库，以便您可以以多种方式提取数据来为基于 AI 的 Python 项目提供数据。在这篇文章中，我将向您展示如何将其与 GPT-4o 和 OpenAI API 一起使用，以构建多模式应用程序。我现在没有更好的事情可做，因此我将逐步完成从不同来源提取所有多模式内容、为 GPT-4o 准备输入、将其发送到模型进行处理以及获取结果的步骤。  在进入代码之前，让我们停下来问问自己，为什么我们要使用 GPT-4o 而不是 GPT-4-turbo 等以前的模型： 多模式输入和输出：GPT-4o 可以处理文本、音频和图像输入，并生成任何这些格式的输出。 实时处理：模型可以响应以下格式的音频输入：低至 232 毫秒，适合实时应用。 性能改进：GPT-4o 在英文文本和代码上的性能与 GPT-4 Turbo 相当，在非-英语语言、视觉和音频理解。 成本和速度：GPT-4o 比 GPT-4 Turbo 便宜 50%，速度快 2 倍，速率限制高 5 倍。 好吧，让我们开始看代码哈哈： 第 1 步：提取！ 这可以使用 Pipe API 可以处理各种文件类型和 URL，以 GPT-4o 可以理解的格式提取文本和图像。 例如，如果我们正在分析基于演讲的内容在一篇科学论文中，我们可以结合这两个来源为 GPT-4o 提供全面的输入： from thepipe_api import thepipe # 从 PDF 中提取多模式内容 pdf = thepipe.extract(&quot;; path/to/paper.pdf&quot;) # 从 YouTube 视频中提取多模式内容 vid = thepipe.extract(&quot;https://youtu.be/dQw4w9WgXcQ&quot;)  第 2 步：准备 GPT-4o 的输入 下面是如何通过简单地将提取的内容与用户的问题组合来准备输入提示的示例： # 添加user query query = [{“role”:“user”,“content”:“论文中的哪些数据有助于回答谈话视频末尾的问题？” }] # 合并内容以创建 GPT-4o 消息的输入提示 = pdf + vid + query  第 3 步：将输入发送到 GPT-4o 准备好输入后，您现在可以使用 OpenAI API 将其发送到 GPT-4o。 确保您拥有 &lt; code&gt;OPENAI_API_KEY 在环境变量中设置。 from openai import OpenAI # 初始化 OpenAI 客户端 openai_client = OpenAI() # 将输入发送到 GPT-4o response = openai_client.chat .completions.create( model=“gpt-4o”, messages=messages, ) # 打印响应 print(response.choices[0].message.content)  全部完成！  PS： 如果您根本不知道我在说什么，请查看 OpenAI GPT-4O 公告！。 如果您是开发人员，请随时访问 GitHub！值得注意的是，OpenAI 的 GPT-4o 模型在发布时仅接受文本和视觉模式，但我们将在未来几周内仔细监控为 GPT-4o 发布的新模式，并相应地更新库。 &lt; /div&gt;  由   提交 /u/Emcf   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ct724r/building_multimodal_apps_with_gpt4o/</guid>
       <pubDate>Thu, 16 May 2024 07:07:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>用AI修改excel文档，还不行吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ct2811/using_ai_to_modify_excel_documents_not_possible/</link>
-      <description><![CDATA[最近我测试了 ChatGPT、Gemini 和 Copilot。我希望他们能做的一件事是帮助更新我用来跟踪 Beat Saber 分数的 Excel 或 Google Sheets 文档。理想情况下，我希望能够与人工智能对话，告诉它添加一个新专辑，并让它实际创建新的专辑/行以及我在之前专辑中使用的文本和公式格式。 然而，似乎每个人工智能都在说他们实际上无法做任何事情。他们所能做的就是告诉我们如何做事。在听到其中一个吹嘘是通过 Google Sheets、Excel 或其他东西进行集成后，我发现这很尴尬。 我想所有这些都说明了，我想问是否有一些东西是我想要的我不知道可以执行我提到的任务吗？还是人工智能还没有真正发展到那个水平？   由   提交/u/saoiray  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ct2811/using_ai_to_modify_excel_documents_not_possible/</guid>
-      <pubDate>Thu, 16 May 2024 02:10:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Groq 构建超快的 AI 助手</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ct23sv/build_a_super_fast_ai_assistants_with_groq/</link>
-      <description><![CDATA[嗨，在我构建 AI 语音助手的实验过程中，我发现使用 OpenAI 助手 API 花费的时间太长。所以我寻找替代方案。我尝试找到最简单的方法。 所以我尝试“总结对话”。每条消息，并提供此摘要作为 AI 响应的上下文。它工作得非常好！ 我使用 Groq 作为 AI“引擎”。 ，它提供了超快的响应。我们可以选择一些模型，如 Llama、Mixtral、Gemma 等。 这里是一步一步：https://serpapi.com/blog/create-super-fast-ai-assistant-with-groq/ 如果您有任何反馈！   由   提交/u/tukemon24  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ct23sv/build_a_super_fast_ai_assistants_with_groq/</guid>
-      <pubDate>Thu, 16 May 2024 02:04:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 llms 创建代理服务器</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ct1sja/creating_proxy_server_for_llms/</link>
-      <description><![CDATA[这个简短的教程介绍了如何使用 LiteLLM 轻松创建代理服务器来托管本地或基于 API 的 LLM：https://youtu.be/YqgpGUGBHrU?si=8EWOzzmDv5DvSiJY   由   提交/u/mehul_gupta1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ct1sja/creating_proxy_server_for_llms/</guid>
-      <pubDate>Thu, 16 May 2024 01:49:17 GMT</pubDate>
     </item>
     <item>
       <title>机器人将追随人类机器人。</title>
@@ -81,20 +95,6 @@
       <description><![CDATA[我很好奇人工智能如何影响销售人员的工作。它如何改变了他们的策略、客户互动和生产力？有哪些很酷的例子可以说明人工智能让事情变得更容易或更困难？寻找现实世界的影响。   由   提交/u/Pure_Yak1489   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1csr0sj/how_has_ai_changed_the_life_of_salespeople/</guid>
       <pubDate>Wed, 15 May 2024 17:50:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能如何为开发者创造新的机会？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cskypw/how_does_ai_create_new_opportunities_for_devs/</link>
-      <description><![CDATA[我对人工智能时代开发者的未来既兴奋又担心。随着机器变得越来越智能，开发人员是否会落后？ 我见过可以在几分钟内构建应用程序并编写代码的人工智能工具。这很神奇，但也有点可怕。在机器可以完成工作的世界中，还需要开发人员吗？ 我想听听开发人员自己的意见 - 您是否感到受到人工智能的威胁或授权？是否有我没有看到的新机会出现？   由   提交 /u/skrt_pls   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cskypw/how_does_ai_create_new_opportunities_for_devs/</guid>
-      <pubDate>Wed, 15 May 2024 13:35:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stack Overflow 刚刚承认输给了 AI 吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1csi8qi/did_stack_overflow_just_admit_defeat_to_ai/</link>
-      <description><![CDATA[“如果你不能打败他们，就加入他们”似乎是对 Stack Overflow 最近宣布与 OpenAI 合作 的反应。此次合作将 Stack Overflow 广泛的开发人员知识数据库与 OpenAI 的 AI 模型相结合，这看起来是一个明智之举。但 Stack Overflow 是否可能只是在试图止损，因为它意识到自己无法在 AI 驱动的领域竞争？ 在此处阅读完整帖子，并让我知道您的想法：https://daily.dev/blog/did-stack-overflow-just-admit-defeat-to-ai    提交人    /u/High_Sleep3694   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1csi8qi/did_stack_overflow_just_admit_defeat_to_ai/</guid>
-      <pubDate>Wed, 15 May 2024 11:13:44 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>
