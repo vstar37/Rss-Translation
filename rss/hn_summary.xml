@@ -4,102 +4,127 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 15 May 2024 12:16:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 00:47:04 GMT</lastBuildDate>
     <item>
-      <title>[媒体]国际货币基金组织总裁Dr.</title>
-      <link>https://t.me/hn_summary/89701</link>
-      <description><![CDATA[国际货币基金组织老板警告人工智能“海啸”即将到来
-国际货币基金组织总裁克里斯塔利娜·格奥尔基耶娃博士对人工智能技术的采用导致全球劳动力市场即将发生“海啸”发出严厉警告。格奥尔基耶娃在瑞士国际问题研究所组织的一次活动上发表讲话时强调，人工智能可能会影响全球近 40% 的工作岗位，以及美国和英国等发达经济体的 60% 的工作岗位。虽然人工智能有望提高生产力，但如果管理不当，它也有可能加剧错误信息和不平等。经济学家 David Autor 提出了相反的观点，认为人工智能可以通过让更多工人执行高风险决策任务来提高劳动力生产力。尽管有潜在的好处，国际货币基金组织警告说，受人工智能影响的发达经济体中一半的工作岗位可能会被完全消除。 “海啸”一词强调了在不久的将来预计将发生的重大变化。]]></description>
-      <guid>https://t.me/hn_summary/89701</guid>
-      <pubDate>Wed, 15 May 2024 12:16:52 GMT</pubDate>
+      <title>[媒体] 2002 年，犹他州地方政府联盟成立了 UTOPIA（犹他电信 O [...]</title>
+      <link>https://t.me/hn_summary/89836</link>
+      <description><![CDATA[在地方政府的帮助下，犹他州当地人获得了廉价的 10 Gbps 光纤
+2002 年，犹他州地方政府联盟成立了 UTOPIA（犹他州电信开放基础设施机构），以应对 Qwest（现为 Centurylink 或 Lumen）等地区宽带垄断企业的低服务和高价格问题。 UTOPIA 建立了一个“开放接入”光纤网络，允许多个 ISP 竞争，为居民提供负担得起的高速互联网。尽管受到主要 ISP 的强烈反对和法律挑战，UTOPIA 仍然蓬勃发展，目前在 21 个城市提供服务，其中一些 ISP 以每月 150 美元的价格提供 10 Gbps 光纤。尽管大型互联网服务提供商及其游说努力不断抵制，但这种模式仍然激励了其他城市。 UTOPIA 的成功凸显了社区驱动的宽带解决方案的潜力。]]></description>
+      <guid>https://t.me/hn_summary/89836</guid>
+      <pubDate>Thu, 16 May 2024 00:47:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在蒂姆·库克的领导下，苹果取得了财务上的成功，股价飙升[...]</title>
-      <link>https://t.me/hn_summary/89700</link>
-      <description><![CDATA[蒂姆·库克已经没有主意了
-在蒂姆·库克的领导下，苹果取得了财务上的成功，股价飙升，并且由于股票回购和股息增加而令投资者满意。然而，库克的任期内缺乏突破性的产品发布，很大程度上依赖于史蒂夫·乔布斯时代的成功。苹果的主要收入来源 iPhone 的销量已经放缓，而最近的创新尝试（例如 Vision Pro 耳机和 Apple Car）也以失败告终。苹果转向生成式人工智能似乎更像是追逐趋势，而不是战略突破。该公司的未来仍然不确定，因为它正在努力寻找下一件大事。 
+      <title>在“JavaScript 中的原型继承”中，Douglas Crockford 反思了他从 cl [...]</title>
+      <link>https://t.me/hn_summary/89835</link>
+      <description><![CDATA[原型继承 (2008)
+在《JavaScript 中的原型继承》中，Douglas Crockford 反思了他从经典继承到完全拥抱 JavaScript 原型本质的演变。他批评 JavaScript 的冲突设计，该设计试图通过其 new 运算符来吸引受过经典训练的程序员，但最终掩盖了其真正的原型功能。 Crockford 引入了一个简单的 object 函数来实现真正的原型继承，允许对象直接从其他对象继承。他认为这种方法比经典模型更具表现力和更强大。此外，他还讨论了全局函数的局限性，并建议使用 Object.create 来实现更简洁的实现。他指出，这种观点的转变不仅改善了他的 JavaScript 编程，还增强了他的经典编程技能。]]></description>
+      <guid>https://t.me/hn_summary/89835</guid>
+      <pubDate>Thu, 16 May 2024 00:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]在我最近的探索中，我认为大型语言模型（LLM）不适合 [...]</title>
+      <link>https://t.me/hn_summary/89834</link>
+      <description><![CDATA[LLM 不适合头脑风暴
+在我最近的探索中，我认为大型语言模型（LLM）不适合有效的头脑风暴，尤其是在前沿场景中。虽然法学硕士，特别是后 GPT-4 模型，表现出一些独立和创造性的思维，但它们的主要功能是模仿现有的人类产生的模式。这导致他们集中在共识想法上，而不是产生真正创新的解决方案。例如，在集思广益创业想法时，法学硕士经常重复媒体流行语而不是新颖的概念。此外，法学硕士很难解决目前缺乏共识的话题，这往往会导致幻觉。为了解决这个问题，我建议整理专门的数据集并采用 RLAIF 等方法来增强创造力，尽管这些解决方案具有挑战性，并且不能保证适用于前沿问题。这引发了关于法学硕士培训的性质以及人工智能开发新范式的潜在需求的更广泛问题。]]></description>
+      <guid>https://t.me/hn_summary/89834</guid>
+      <pubDate>Thu, 16 May 2024 00:36:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>CNS（加密网络服务）是专为安全存储而设计的专用网络服务 [...]</title>
+      <link>https://t.me/hn_summary/89833</link>
+      <description><![CDATA[显示 HN：CNS – 加密网络服务（密钥保管库）
+CNS（加密网络服务）是一种专用网络服务，旨在安全地存储加密密钥并执行加密操作。它充当密钥保管库，在称为“加密模块”(CM) 的专用主机上运行时提供安全优势。此设置允许其他服务向 CNS 进行 API 调用，以执行密码散列和 JWT 签名等任务，确保密钥永远不会离开 CM。 CNS 是作为昂贵的硬件安全模块 (HSM) 的一种经济高效且灵活的替代方案而创建的，该模块缺乏对 argon2 等某些算法的支持。主要功能包括安全密钥存储、通过 argon2id 进行密码散列、JWT 签名和验证、多客户端支持以及用于密钥管理的管理 CLI。该项目包括全面的测试、构建和部署说明。]]></description>
+      <guid>https://t.me/hn_summary/89833</guid>
+      <pubDate>Thu, 16 May 2024 00:22:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 标题：uBlock Origin 超级用户指南</title>
+      <link>https://t.me/hn_summary/89832</link>
+      <description><![CDATA[uBlock 起源超级用户指南
+标题：uBlock 起源超级用户指南
 
-争议：文章批评库克注重短期利润而非长期创新，暗示这一策略可能会危及苹果的未来。
+网站：www.maketecheasier.com
 
-令人惊讶/聪明：Vision Pro 耳机最初是作为一款时尚眼镜而设计的，但由于内部分歧和管理上的犹豫不决，最终成为了一个笨重的设备。]]></description>
-      <guid>https://t.me/hn_summary/89700</guid>
-      <pubDate>Wed, 15 May 2024 12:06:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]论文“抽象解释作为编程语言”探讨了[...]的概念</title>
-      <link>https://t.me/hn_summary/89699</link>
-      <description><![CDATA[抽象解释作为编程语言
-《抽象解释作为编程语言》一文探讨了抽象解释的概念，传统上是静态程序分析的方法，也是设计编程语言的基本元素。作者认为，抽象解释不仅可以作为分析程序的工具，而且可以作为创建本质上支持程序验证和优化的新语言的核心原则。这种方法可以带来更强大、更高效的软件开发流程。这项工作的独特之处在于它建议将一种典型的辅助技术提升为语言设计中的主要角色，这可能会彻底改变编程语言的构思和使用方式。]]></description>
-      <guid>https://t.me/hn_summary/89699</guid>
-      <pubDate>Wed, 15 May 2024 11:53:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]2020 年 1 月，波音公司向国会递交了一系列内部电子邮件，甩掉了 [...]</title>
-      <link>https://t.me/hn_summary/89698</link>
-      <description><![CDATA[波音电子邮件于 2020 年 1 月移交给国会&lt; br/&gt;
-2020 年 1 月，波音公司向国会提交了一系列内部电子邮件，披露了该公司处理 737 Max 危机的情况。这些电子邮件揭示了对波音内部文化的令人不安的见解，包括员工表达了对飞机安全的担忧，并批评了该公司与监管机构的关系。一个特别有争议的方面是明显忽视安全而追求利润，正如员工的坦率言论所强调的那样。这些披露加强了对波音行为的审查，并引发了对监管有效性的质疑。这些电子邮件的透明度既令人惊讶又令人震惊，让人们得以难得一睹一家大型航空航天公司的内部运作情况。]]></description>
-      <guid>https://t.me/hn_summary/89698</guid>
-      <pubDate>Wed, 15 May 2024 11:16:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]五月星期二，太阳释放了近二十年来最强大的太阳耀斑 [...]</title>
-      <link>https://t.me/hn_summary/89697</link>
-      <description><![CDATA[太阳爆发20年来最大的太阳耀斑，地球应该退出的方式
-2024 年 5 月 14 日星期二，就在严重的太阳风暴袭击地球几天后，太阳释放了近二十年来最强大的太阳耀斑，产生了意想不到的北极光。美国国家海洋和大气管理局 (NOAA) 确认这次耀斑是当前 11 年太阳周期中最大的一次耀斑，该周期已接近峰值。幸运的是，地球并不位于这次耀斑的直接路径上，因为它是从远离我们星球的太阳的一部分爆发的。美国宇航局太阳动力学观测站捕捉到的耀斑评级为 X8.7，是 2005 年以来最强的一次。美国国家海洋和大气管理局 (NOAA) 太空天气预报中心的布莱恩·布拉舍 (Bryan Brasher) 表示，一旦分析更多数据，耀斑可能会更强。最近的太阳活动造成了干扰，包括美国国家航空航天局 (NASA) 卫星进入安全模式，国际空间站上的宇航员采取了预防措施，但他们从未遇到危险。]]></description>
-      <guid>https://t.me/hn_summary/89697</guid>
-      <pubDate>Wed, 15 May 2024 11:06:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在论文《高斯蓝噪声》中，Abdalla G.于2022年6月15日提交。</title>
-      <link>https://t.me/hn_summary/89696</link>
-      <description><![CDATA[高斯蓝噪声
-在 Abdalla G. M. Ahmed 及其同事于 2022 年 6 月 15 日提交的论文“高斯蓝噪声”中，作者提出了一种新颖的优化框架，用于使用高斯核生成具有蓝噪声频谱的点分布。他们认为，通过仔细选择优化参数，与当前最先进的最优传输（BNOT）方法相比，他们的方法实现了卓越的质量。值得注意的是，他们的算法可以有效地扩展到高维而不影响质量，从而能够创建高质量的高维蓝噪声集。此外，作者还扩展了他们的方法以支持自适应采样，展示了其多功能性。这种方法在各个维度上保持质​​量的能力尤其令人惊讶和值得注意。]]></description>
-      <guid>https://t.me/hn_summary/89696</guid>
-      <pubDate>Wed, 15 May 2024 11:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]Oracle 已从 Terraform 过渡到其 Oracle [...]</title>
-      <link>https://t.me/hn_summary/89695</link>
-      <description><![CDATA[Oracle 走向纯素食：为 OpenTofu 转储 Terraform
-Oracle 已将其 Oracle E-Business Suite (EBS) 云管理器从 Terraform 过渡到开源分支 OpenTofu。客户需要在 2024 年 6 月 30 日之前采用基于 OpenTofu 的新版本。Oracle EBS 包含各种业务应用程序，Cloud Manager 是在 Oracle 云中迁移和管理这些应用程序的主要工具。 Terraform 即将发生的许可变更推动了向 OpenTofu 的转变，促使 Oracle 确保合规性并维护安全标准。 Linux 基金会采用的 OpenTofu 被视为一个强大的替代方案。此举凸显了 OpenTofu 的企业准备就绪。值得注意的是，IBM 在 4 月份以 67 亿美元收购了 Hashicorp，为不断发展的格局增添了背景。]]></description>
-      <guid>https://t.me/hn_summary/89695</guid>
-      <pubDate>Wed, 15 May 2024 11:01:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]戴尔正准备推出其广受欢迎的 XPS 13 笔记本电脑的全新 Arm 驱动版本，这是一款 [...]</title>
-      <link>https://t.me/hn_summary/89694</link>
-      <description><![CDATA[戴尔泄露了 Arm 芯片上的下一代 Windows 的详细信息 
-戴尔正准备推出其流行的 XPS 13 笔记本电脑的全新 Arm 驱动版本，一份泄露的 311 页文件披露了有关戴尔未来 XPS 计划的大量细节。 VideoCardz 获得的这份文件概述了即将推出的 XPS 13 型号，该型号采用高通下一代 Snapdragon X Elite 芯片，将于下周首次亮相。这些型号将提供三种显示屏选项：FHD、QHD+ 和 OLED，电池续航时间为 9 至 13 小时，具体取决于显示屏类型。值得注意的是，OLED 版本采用了 LG Display 的新型“串联 OLED”面板，有望提高亮度和使用寿命。该泄露还暗示了未来高通芯片的发布，“QC Oryon V2”预计将于 2025 年下半年发布，V3 版本将于 2027 年末发布。此外，戴尔计划于 2026 年 1 月发布 XPS 14，搭载 Oryon V2 或英特尔芯片Panther Lake CPU。该文件表明电池寿命和显示技术方面取得了重大进步，使这些即将推出的型号备受期待。微软 5 月 20 日举行的 Surface 和 Windows AI 活动可能会提供有关这些发展的更多见解。]]></description>
-      <guid>https://t.me/hn_summary/89694</guid>
-      <pubDate>Wed, 15 May 2024 10:44:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在“力学的变分原理”中，科尼利厄斯·兰佐斯 (Cornelius Lanczos) 提出了令人耳目一新的观点 [...]</title>
-      <link>https://t.me/hn_summary/89693</link>
-      <description><![CDATA[回顾：力学的变分原理
-在《力学的变分原理》中，Cornelius Lanczos 对拉格朗日力学提出了令人耳目一新的看法，拉格朗日力学是 18 世纪牛顿力学的重新表述，强调“全局”、极值原理。作者幽默地讲述了一次航行经历，以说明亚里士多德因果论的陷阱，并将其与现代物理学进行对比。兰佐斯的书因其通俗易懂和谦虚的方法而受到赞誉，是阿尔伯特·爱因斯坦的最爱。该文本挑战了还原论的宇宙观，表明类似于最终原因的原理仍然具有相关性。这种观点巧妙地复兴了亚里士多德的思想，使这本书既独特又发人深省。 （根据故事文本的 50% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/89693</guid>
-      <pubDate>Wed, 15 May 2024 10:21:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>一年来，我三次访问日本，总结了一些观察。</title>
-      <link>https://t.me/hn_summary/89692</link>
-      <description><![CDATA[日本注意事项
-一年来，我三次访问日本，总结了一些观察。日本经常被誉为内向者的天堂，我同意。目光接触很少，单独用餐和看电影很正常，人们通常只管自己的事。然而，这并不意味着大多数日本人都是内向的。他们只是很有礼貌，忙于自己的活动，例如漫画或游戏。
+uBlock Origin 被誉为最强大、最通用的广告拦截器，尽管它的设计可能有些晦涩难懂。本指南深入探讨其高级功能，例如添加自定义列表、创建用户过滤器、设置动态阻止规则以及调整特定于域的规则。值得注意的是，uBlock Origin 与 ublock.org 和 uBlock 扩展不同，这是欺骗性的模仿者。高级设置可以通过全局和本地过滤器以及阻止第三方脚本和框架的选项来对阻止规则进行精细控制。用户还可以为页面元素创建临时和永久规则。对于同步设置，建议使用本地备份而不是基于浏览器的云存储。总体而言，uBlock Origin 是一款全面的内容拦截器，而不仅仅是广告拦截器，它提供对浏览器内容的广泛控制。
 
-与日本人交谈时，很少有人会说英语，因此日语会话是必不可少的。在公共场所随意交谈并不常见，部分原因是文化规范和我自己有限的日语技能。
+争议突出：该指南警告不要使用 ublock.org 和 uBlock扩展名，将它们标记为迷惑用户并窃取数据的欺骗性模仿者。
 
-作为外国人，你可能会期望被人盯着，但我发现在东京或大阪等大城市，情况并非如此。然而，在农村地区，您可能会吸引更多关注。
+独特/聪明的亮点：该指南详细解释了动态过滤规则以及使用“noop”规则覆盖全局设置，展示了 uBlock Origin 提供的细致入微的控制。]]></description>
+      <guid>https://t.me/hn_summary/89832</guid>
+      <pubDate>Wed, 15 May 2024 23:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>标题：Show HN：我做了一个简单但功能强大的部署工具</title>
+      <link>https://t.me/hn_summary/89831</link>
+      <description><![CDATA[Show HN：我做了一个简单但功能强大的部署工具
+标题：Show HN：我做了一个简单但强大的部署工具
 
-日本的食物价格实惠，正餐通常花费不到 6 欧元。尽管文化内向，但日本人在享受美食或活动时却很直言不讳。
+站点：deploywithjig.askh.at
 
-便利店和自动售货机无处不在。访问日本感觉就像走进了 2000 年代，CD 店、购物中心蓬勃发展，漫画等“书呆子文化”也很盛行，这种文化被广泛消费，但在时尚中却没有公开展示。
+摘要：
 
-日本社会重视规则和结构，有助于营造非常安全的环境。服务受到高度评价，商店员工细心，并且非常重视客户协助。
+Jig 是一种简单而强大的部署工具，旨在使用 Docker 和 Traefik 自动执行日常任务，从而更轻松地管理个人虚拟服务器上的服务。受 Vercel 和 Exoframe.js 的启发，Jig 旨在将 Vercel 的部署体验引入自托管环境，同时通过自动化最大限度地减少人为错误。安装过程包括使用 Docker 设置服务器并手动配置 DNS，然后使用节点包管理器设置客户端。配置完成后，Jig 可以通过将项目发送到服务器或在本地构建它们来实现快速高效的部署。 Traefik 处理 HTTPS 重定向和证书管理，确保安全连接。
 
-基本礼仪包括走路时不吃饭、只在指定区域吸烟、在干净的地方脱鞋、不打扰他人以及遵守规则。]]></description>
-      <guid>https://t.me/hn_summary/89692</guid>
-      <pubDate>Wed, 15 May 2024 09:35:28 GMT</pubDate>
+争议：
+- 缺乏内置 DNS 管理可能被视为一个缺点，需要手动配置。
+
+独特/聪明：
+- Jig 最大限度地减少磁盘写入和流数据以加快部署速度的方法尤其值得注意。]]></description>
+      <guid>https://t.me/hn_summary/89831</guid>
+      <pubDate>Wed, 15 May 2024 23:53:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在过去的十年里，作为一名技术招聘人员，我学到了宝贵的经验教训，这些经验教训 [...]</title>
+      <link>https://t.me/hn_summary/89830</link>
+      <description><![CDATA[过去十年招聘开发人员的经验教训 
+在过去的十年里，作为一名技术招聘人员，我学到了宝贵的经验教训，这些经验教训塑造了我招聘开发人员的方法。从 2008 年开始，当我使用 ICQ 联系候选人时，我看到了情况随着技术的发展而演变。尽管发生了这些变化，通信和网络的核心原则仍然保持不变。以下是我最重要的 15 堂课：
+
+1. 对技术和人的热情至关重要；其他一切都可以学习。
+2. 大多数科技人才都是被动候选人；预计回复率较低。
+3. 提出问题可以帮助您学习技术语言。
+4. 接受开发者的怪癖，不要刻板印象。
+5. 在外展方面具有独特性；使用 GitHub 和 Hacker News。
+6. 掌握技术招聘需要时间。
+7. 稍微好一点的表现可以让候选人“惊叹”。
+8. 快速响应和反馈是责任，而不是优势。
+9.了解编码员的动机是关键；编码技能是额外的奖励。
+10. 在一般职位之外建立强大的个人品牌。
+11. 支持技术社区寻找工程师。
+12. 不断学习。
+13. 仅仅了解行业术语还不够；还需要了解行业术语。担任技术职务。
+14. 进入互联网行业，技术招聘并不是一件容易的事。
+15. 尊重潜在员工。
+
+在 Hacker News 上与招聘人员分享您的经验，并在 LinkedIn 上与我联系！]]></description>
+      <guid>https://t.me/hn_summary/89830</guid>
+      <pubDate>Wed, 15 May 2024 23:49:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>问 HN：您还在使用 Vision Pro 吗？</title>
+      <link>https://t.me/hn_summary/89829</link>
+      <description><![CDATA[询问 HN：您还在使用 Vision Pro 吗？
+标题：问 HN：您还在使用 Vision Pro 吗？
+网站：news.ycombinator.com
+
+我正在为一些越野航班做准备，并考虑购买 Vision Pro 让旅行更舒适。我很好奇这里是否有人积极使用他们的，无论是在航班上、工作中，还是只是积满灰尘。您的经验和见解将会非常有帮助！]]></description>
+      <guid>https://t.me/hn_summary/89829</guid>
+      <pubDate>Wed, 15 May 2024 23:47:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]特斯拉股票的持有者将于 6 月 13 日投票决定首席执行官埃隆·马斯克是否应该获得 [...]</title>
+      <link>https://t.me/hn_summary/89828</link>
+      <description><![CDATA[特斯拉即将举行股东投票，授予马斯克 46B 美元&lt; br/&gt;
+特斯拉股票的持有者将于 6 月 13 日投票决定首席执行官埃隆·马斯克是否应该获得 460 亿美元的发薪日。此次投票旨在恢复 2018 年的薪酬方案，该方案已被特拉华州法官因对谈判过程的担忧而无效。该计划如果获得批准，将授予马斯克数百万股股票，奖励他实现财务和股价目标。特斯拉董事会主席罗宾·丹霍姆正在积极争取股东的批准，甚至投放广告来影响选票。结果取决于马斯克不持有的 87% 股份，尤其是个人投资者持有的 30% 股份。这次投票是在特斯拉陷入财务困境和最近裁员之际进行的，这使得该决定引起争议。]]></description>
+      <guid>https://t.me/hn_summary/89828</guid>
+      <pubDate>Wed, 15 May 2024 23:46:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]纽约（美联社）——你的钱包可能很快就会变得更薄。</title>
+      <link>https://t.me/hn_summary/89827</link>
+      <description><![CDATA[签证变化意味着美国人钱包中携带的实体支付卡将减少
+纽约（美联社）——你的钱包可能很快就会变得更薄。 Visa 宣布对美国信用卡和借记卡业务进行重大调整，这可能会减少美国人持有的实体卡数量。新功能将使 16 位卡号变得越来越无关紧要，并且可以消除手动输入帐号的需要。最显着的变化是银行能够发行一张与多个账户关联的实体卡，允许用户为不同类型的购买设置标准。该功能已在亚洲使用，将于今年夏天推出，Affirm 是第一个在美国推出的功能。Visa 的更新还解决了在线支付欺诈问题，该欺诈问题明显高于面对面欺诈。此外，Visa 还推出了触碰支付增强功能和生物识别批准功能。这些变化需要时间来实施，因为银行决定何时以及如何采用它们。]]></description>
+      <guid>https://t.me/hn_summary/89827</guid>
+      <pubDate>Wed, 15 May 2024 23:34:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
