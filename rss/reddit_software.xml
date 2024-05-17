@@ -4,7 +4,7 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 17 May 2024 03:13:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 06:16:02 GMT</lastBuildDate>
     <item>
       <title>您好，社区，软件开发人员或 IT 服务... ⚠</title>
       <link>https://www.reddit.com/r/software/comments/1ctv63c/hi_community_for_software_developers_or_it/</link>
@@ -43,7 +43,7 @@
     <item>
       <title>如何处理调度？</title>
       <link>https://www.reddit.com/r/software/comments/1ctin60/how_to_handle_scheduling/</link>
-      <description><![CDATA[嗨， 我在一所大学的作家中心负责日程安排。我正在寻找一种方法让我的导师在学期开始时选择轮班。目前，我们一直在使用共享的 Google 表格，其中包含每天和时间段的单元格，但我们总是遇到这样的问题：人们会删除彼此的姓名或在被允许之前进行选择（选择是按资历进行的，一个选择每学年的天）。  我所需要的只是能够  允许 2 个人选择轮班（导师两人一组工作，每个时段都是开放时间） 强制执行资历选择流程（周一为高年级，周二为低年级，等等） 防止人们在轮班中覆盖某人的姓名或显示被视为缺席的轮班。 防止人们在轮班中覆盖某人的姓名。 li&gt;  我曾考虑在 Google Forms 上使用选择消除器插件，或者只是坚持使用 Google Sheet，但在我过去的使用中，这两种方法都不太可靠。无论我最终使用什么软件或选择，这些都不需要面向学生/客户。我们为此有单独的软件。我使用的是 Mac，但可以轻松访问 Windows 机器以及任何平台/操作系统。我非常感谢任何建议（最好是免费的，但灵活）。 谢谢！   由   提交 /u/IncredouslyWarmIce   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我在一所大学的作家中心负责日程安排。我正在寻找一种方法让我的导师在学期开始时选择轮班。目前，我们一直在使用共享的 Google 表格，其中包含每天和时间段的单元格，但我们总是遇到这样的问题：人们会删除彼此的姓名或在被允许之前进行选择（选择是按资历进行的，一个选择每学年的天数）。  我所需要的只是能够  允许 2 个人选择轮班（导师两人一组工作，每个时段都是开放时间） 强制执行资历选择流程（周一为高年级，周二为低年级，等等） 防止人们在轮班中覆盖某人的姓名或显示被视为缺席的轮班。 防止人们在轮班中覆盖某人的姓名。 li&gt;  我曾考虑在 Google Forms 上使用选择消除器插件，或者只是坚持使用 Google Sheet，但在我过去的使用中，这两种方法都不太可靠。无论我最终使用什么软件或选择，这些都不需要面向学生/客户。我们为此有单独的软件。我使用的是 Mac，但可以轻松访问 Windows 机器以及任何平台/操作系统。我非常感谢任何建议（最好是免费的，但灵活）。 谢谢！   由   提交 /u/IncredouslyWarmIce   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ctin60/how_to_handle_scheduling/</guid>
       <pubDate>Thu, 16 May 2024 17:35:47 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Thu, 16 May 2024 13:33:51 GMT</pubDate>
     </item>
     <item>
-      <title>桌面软件可自动将文档照片拉直并校正为扫描件</title>
+      <title>桌面软件可自动将文档照片拉直并更正为扫描件</title>
       <link>https://www.reddit.com/r/software/comments/1ctbegy/desktop_software_to_autostraighten_and_correct/</link>
       <description><![CDATA[我需要的是一个 Windows 应用程序，当输入文档的照片时，它可以自动找到页面的边缘，将其拉直，透视-如果需要的话进行更正，删除深色阴影，基本上让它看起来就像是被扫描过的一样。 我对此所做的每次搜索都会将我发送到CamScanner，它的速度非常慢，甚至无法工作适合我（它使图片变亮，但不会使它们变直），或者我特别不想处理的任何数量的移动应用程序，因为我的工作全部在桌面上进行。 我确实不需要需要对结果页面进行 OCR 处理。 Linux 软件也可以工作。 我没有 MacOS 设备，所以这是不可能的。   由   提交 /u/IronMew   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ctbegy/desktop_software_to_autostraighten_and_correct/</guid>
@@ -99,16 +99,16 @@
     <item>
       <title>有人使用 firestart 并向我解释一下吗？</title>
       <link>https://www.reddit.com/r/software/comments/1ct9ij3/does_anyone_use_firestart_and_can_explain/</link>
-      <description><![CDATA[  由    /u/Dragee92  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/Dragee92  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ct9ij3/does_anyone_use_firestart_and_can_explain/</guid>
       <pubDate>Thu, 16 May 2024 10:12:28 GMT</pubDate>
     </item>
     <item>
-      <title>我的上下文菜单中的这个终端是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1ct91c0/whats_this_terminal_thing_in_my_context_menu/</link>
-      <description><![CDATA[我怀疑它来自 Laragon，但我不确定。有人可以确认一下吗？另外，我该如何删除它？ ​ 编辑：是的，我是对的。现在，我该如何删除它？  参考：https://conemu.github.io/en/SettingsInfo.html https://preview.redd.it/x6k0pyhfdr0d1.png?width=256&amp;format=png&amp;auto=webp&amp;s=dde50487126651d7894e16f146fa0e7b3887f7f3    由    /u/Snorlax_lax  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ct91c0/whats_this_terminal_thing_in_my_context_menu/</guid>
-      <pubDate>Thu, 16 May 2024 09:37:24 GMT</pubDate>
+      <title>关于 OpenBabel、MKL 和 GPL 许可证的问题</title>
+      <link>https://www.reddit.com/r/software/comments/1ct6wd3/question_regarding_openbabel_mkl_and_gpl_licenses/</link>
+      <description><![CDATA[大家好， 希望这个主题适合这个子，如果有更好的地方可以问这个，请随时建议. 我有一个关于计算化学开源软件许可的问题。我的包使用 OpenBabel API，如果我正确理解常见问题解答，这意味着我必须提供该软件包遵循 GPL 许可证。不过，我也在使用 RFScoreVS 可执行文件，它需要 Intel 的 MKL 才能顺利运行。我没有直接重新分发可执行文件，但我的安装脚本从 github 下载可执行文件。我不确定我是否完全理解GNU GPL 网站上描述的法律术语，或者链接或重新分发库之间的区别。如果有人有这方面的经验，我很想听听您的经历！似乎如果我只使用 OpenBabel CLI 界面，我不需要在 GNU GPL 下分发我的包（“但是，您可以以未修改的形式与您的产品一起分发 Open Babel 以使用命令行界面，” ;) 我想这在任何情况下都是一个选择。 感谢您的帮助！   由   提交/u/Tonylac77  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ct6wd3/question_regarding_openbabel_mkl_and_gpl_licenses/</guid>
+      <pubDate>Thu, 16 May 2024 06:55:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
