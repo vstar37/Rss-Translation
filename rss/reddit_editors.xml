@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新提交：编辑</title>
+    <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sat, 18 May 2024 00:50:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 03:13:09 GMT</lastBuildDate>
+    <item>
+      <title>H.264 与 ProRes Proxy（或 LT）代理？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cun6b6/h264_vs_prores_proxy_or_lt_for_proxies/</link>
+      <description><![CDATA[为即将进行的作业进行数据管理，修订后的规格表需要 H.264 代理。编辑人员会请求 H.264 而不是 ProRes Proxy 或 LT 是否有原因或偏好？这些代理适用于 Sony Venice 2 6K 上的 X-OCN ST。   由   提交 /u/VanRoberts   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cun6b6/h264_vs_prores_proxy_or_lt_for_proxies/</guid>
+      <pubDate>Sat, 18 May 2024 02:39:21 GMT</pubDate>
+    </item>
     <item>
       <title>文件存储问题</title>
       <link>https://www.reddit.com/r/editors/comments/1cuhwpy/file_storage_question/</link>
@@ -15,16 +22,9 @@
     <item>
       <title>MASV 故障还是我的技能问题？</title>
       <link>https://www.reddit.com/r/editors/comments/1cufiv6/masv_failure_or_my_skill_issue/</link>
-      <description><![CDATA[昨天在睡觉前，我使用 MASV 应用程序从瑞士的一个团队下载了 200+Gbs 的镜头。我发现文件已损坏，因为在代理生成期间有无数的坏帧。 最初我认为本地有问题（这是可能的），但由于我的原因，我从未遇到过文件损坏问题互联网或本地驱动器。所以我重新下载了剪辑并运行了一些 MD5 校验和 - 每个单个文件都返回了不同的校验和。 我只希望第二批是好的，我可以责怪自己昨天在恶劣天气下下载。但第二批，尽管有所不同，仍然很糟糕 - 一半的剪辑都有坏帧。 有 3 种可能性，包括一些很棒的 Reddit 用户指出的： 1. MASV 运输或恶化。 2. 摄制组选择了廉价的存储系统。 3. 我的本地驱动器（新三星 T7 2TB）或互联网服务提供商（康卡斯特）。 有人知道还会发生什么吗？更可能的情况是什么？ p.s.由于 MASV 按演出收费，如果这是他们的错，他们会向我们的瑞士团队收取 2-3 倍的费用，而且无论如何都无法确保完整性，这有点令人难以置信。    由   提交 /u/freduwuwu   [链接] [评论]]]></description>
+      <description><![CDATA[昨天睡觉前，我使用 MASV 应用从瑞士的一个团队下载了 200+Gbs 的素材。我发现文件已损坏，因为在代理生成过程中有无数坏帧。 最初我以为本地出了问题（有可能），但我从未遇到过由于互联网或本地驱动器而导致的文件损坏问题。因此，我重新下载了剪辑并运行了一些 MD5 校验和 - 每个文件都返回了不同的校验和。 我只希望第二批是好的，我可以责怪自己昨天在恶劣的天气下下载。但是第二批尽管有所不同，但仍然很糟糕 - 一半的剪辑都有坏帧。 有 3 种可能性，包括一些由这里的优秀 reddit 用户指出的可能性：1. MASV 运输或变质。2. 摄制组选择了廉价的存储系统。 3. 我的本地驱动器（新款三星 T7 2TB）或互联网服务提供商（康卡斯特）。 有人知道还会发生什么吗？哪种情况更有可能发生？ 附言：由于 MASV 按演出收费，如果是他们的错，他们会向我们的瑞士团队收取 2-3 倍的费用，而且无论如何都无法确保诚信，这有点令人难以置信。     提交人    /u/freduwuwu   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cufiv6/masv_failure_or_my_skill_issue/</guid>
       <pubDate>Fri, 17 May 2024 20:32:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>转录服务</title>
-      <link>https://www.reddit.com/r/editors/comments/1cuf5u2/transcription_services/</link>
-      <description><![CDATA[大家好， 我正在寻找有关转录服务或以优惠价格进行转录的应用程序的推荐。 我们有多个人员将使用它，主要是记者和制片人。我还在寻找可以上传视频和/或音频文件进行转录的东西。另一个功能是通过手机进行实时转录，以便您可以在现场转录。 感谢您的帮助！    提交人    /u/editor_jon   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cuf5u2/transcription_services/</guid>
-      <pubDate>Fri, 17 May 2024 20:16:53 GMT</pubDate>
     </item>
     <item>
       <title>Premiere Pro 代理问题</title>
@@ -50,7 +50,7 @@
     <item>
       <title>有人有将产品移动到外部硬盘的经验吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1cuca5s/does_anyone_have_experience_moving_a_production/</link>
-      <description><![CDATA[大家好， 我在一家视频公司工作，该公司在过去 6 个月左右的时间里一直在使用 Premiere 的 Productions。目前，我们都使用具有多个分区的 NAS 进行工作：项目、素材、资产等。 我们的区域昨天遭遇了极端天气，我们的办公室可能会停电几天。然而，我们所有的剪辑师都在家中拥有权力，以及功能齐全的编辑机器。 为了保持项目进展，我们希望将一些作品迁移到外部驱动器，然后将其发送回家编辑人员，直到我们恢复供电为止。 我的问题是：  这可能吗？如果是这样，需要哪些步骤？搜索这个非常困难 这会在以后将生产带回折叠时产生问题吗？ 迁移回来时，是否有特定的步骤或陷阱，还是我们只是颠倒第一个问题的顺序？  提前谢谢您！  &amp;# 32；由   提交 /u/Hipposhank   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我在一家视频公司工作，过去 6 个月左右一直在使用 Premiere 的 Productions。我们目前都在使用具有多个分区的 NAS：项目、素材、资产等。 我们所在的地区昨天遭遇了极端天气，我们的办公室可能会停电几天。但是，我们所有的编辑人员家里都有电，还有可以正常工作的编辑机器。 为了使项目继续进行，我们希望将部分 Productions 迁移到外部驱动器，并让编辑人员将它们带回家，直到我们恢复供电为止。 我的问题是：  这可行吗？如果可以，需要哪些步骤？搜索这个非常困难 这是否会在稍后将生产重新纳入其中时产生问题？ 迁移回来时，是否有特定的步骤或陷阱，还是我们只是颠倒第一个问题的顺序？  提前谢谢您！    提交人    /u/Hipposhank   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cuca5s/does_anyone_have_experience_moving_a_production/</guid>
       <pubDate>Fri, 17 May 2024 18:17:09 GMT</pubDate>
     </item>
@@ -62,16 +62,16 @@
       <pubDate>Fri, 17 May 2024 18:11:06 GMT</pubDate>
     </item>
     <item>
-      <title>寻找包含 4 个以上独立词干的库存音乐</title>
+      <title>寻找具有超过 4 个独立主干的库存音乐</title>
       <link>https://www.reddit.com/r/editors/comments/1cuc44f/looking_for_stock_music_with_more_than_4/</link>
-      <description><![CDATA[我之前使用过 Epidemic Sound。我喜欢他们的音乐选择，我认为它符合我们的需求，但据我所知，他们的歌曲只有 4 种 [低音、鼓、乐器、旋律]。 这是真的吗？对于我正在从事的项目，我需要能够尽可能细致地分解歌曲 [吉他 1、吉他 2、钢琴等...]。它还需要获得批准才能用于社交媒体广告。谢谢大家。    提交人    /u/aqeuts   [链接] [评论]]]></description>
+      <description><![CDATA[我过去对 Epidemic Sound 有一些经验。我喜欢他们的音乐选择，我认为它会满足我们的需求，但据我所知，他们的歌曲只有 4 个主干（贝斯、鼓、乐器、旋律）。  这是真的吗？对于我正在从事的项目，我需要能够尽可能精细地分解歌曲 [吉他 1、吉他 2、钢琴等...]。它还需要获得批准才能在社交媒体广告中使用。谢谢大家。   由   提交/u/aqeuts  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cuc44f/looking_for_stock_music_with_more_than_4/</guid>
       <pubDate>Fri, 17 May 2024 18:10:09 GMT</pubDate>
     </item>
     <item>
       <title>为什么有些编辑会专门获得美国的代表？</title>
       <link>https://www.reddit.com/r/editors/comments/1cu9vdc/why_do_some_editors_get_representation/</link>
-      <description><![CDATA[我知道这可能只是为了开放他们的网络，但是还有其他可能的原因导致美国需要不同的代表吗？ 这是专门针对商业编辑的，但如果它适用于其他领域，我会洗耳恭听！ 提前致谢！   由   提交 /u/motion3002   [链接] [评论]]]></description>
+      <description><![CDATA[我理解这可能只是为了开放他们的网络，但还有其他可能的原因导致美国需要不同的代表吗？ 这专门针对商业编辑，但如果它适用于其他领域，我洗耳恭听！ 提前谢谢您！    提交人    /u/motion3002   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cu9vdc/why_do_some_editors_get_representation/</guid>
       <pubDate>Fri, 17 May 2024 16:39:13 GMT</pubDate>
     </item>
