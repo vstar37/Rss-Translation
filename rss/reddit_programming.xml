@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 19 May 2024 18:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 21:11:39 GMT</lastBuildDate>
+    <item>
+      <title>人工智能在汽车测试数据分析中的 5 大用例</title>
+      <link>https://www.reddit.com/r/programming/comments/1cvy1ru/top_5_use_cases_for_ai_in_automotive_testing_data/</link>
+      <description><![CDATA[ 由   提交/u/bitter-cognac  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cvy1ru/top_5_use_cases_for_ai_in_automotive_testing_data/</guid>
+      <pubDate>Sun, 19 May 2024 20:51:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁更痴心妄想？</title>
+      <link>https://www.reddit.com/r/programming/comments/1cvxoyx/who_is_more_delusional/</link>
+      <description><![CDATA[ 由   提交/u/Patryk_99  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cvxoyx/who_is_more_delusional/</guid>
+      <pubDate>Sun, 19 May 2024 20:35:04 GMT</pubDate>
+    </item>
     <item>
       <title>软件开发中永恒的技能</title>
       <link>https://www.reddit.com/r/programming/comments/1cvu1x3/timeless_skills_in_software_development/</link>
@@ -27,7 +41,7 @@
       <pubDate>Sun, 19 May 2024 17:23:01 GMT</pubDate>
     </item>
     <item>
-      <title>使用 weval 免费编译器：WebAssembly 部分求值器</title>
+      <title>weval 免费编译器：WebAssembly 部分评估器</title>
       <link>https://www.reddit.com/r/programming/comments/1cvtd5s/compilers_for_free_with_weval_a_webassembly/</link>
       <description><![CDATA[ 由   提交/u/self  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cvtd5s/compilers_for_free_with_weval_a_webassembly/</guid>
@@ -43,7 +57,7 @@
     <item>
       <title>我希望我早点知道 BCR</title>
       <link>https://www.reddit.com/r/programming/comments/1cvqsg3/i_wish_i_knew_about_bcr_earlier/</link>
-      <description><![CDATA[为编码面试做好准备是很困难的，尤其是当您不确定 DSA 时。甚至当你在公司写一段片段时也可能如此。我知道只要有机会，我就想优化我的代码。所以我一直的问题是“它足够好吗？”。我其实不知道该停在哪里。就在那时，我遇到了“最佳可想象运行时”，在本文中，我尝试尽我所能总结这个概念。   由   提交 /u/Siddhapan   [链接] [评论]]]></description>
+      <description><![CDATA[为编程面试做好准备很难，尤其是当你不确定 DSA 时。甚至当你在公司写一段代码时也可能会这样。我知道只要有机会，我就会优化我的代码。所以我的问题是“它足够好吗？”。我其实不知道该停在哪里。就在那时，我遇到了最佳可想象的运行时，在本文中，我尽我所能总结了这个概念。    提交人    /u/Siddhapan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cvqsg3/i_wish_i_knew_about_bcr_earlier/</guid>
       <pubDate>Sun, 19 May 2024 15:26:14 GMT</pubDate>
     </item>
@@ -69,7 +83,7 @@
       <pubDate>Sun, 19 May 2024 13:32:45 GMT</pubDate>
     </item>
     <item>
-      <title>关于现代 CSS 你需要了解什么</title>
+      <title>你需要了解的现代 CSS</title>
       <link>https://www.reddit.com/r/programming/comments/1cvo7xr/what_you_need_to_know_about_modern_css/</link>
       <description><![CDATA[ 由   提交 /u/stackoverflooooooow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cvo7xr/what_you_need_to_know_about_modern_css/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Akmandev   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cvm652/software_engineering_levels/</guid>
       <pubDate>Sun, 19 May 2024 11:30:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>图形程序员的生与死</title>
-      <link>https://www.reddit.com/r/programming/comments/1cvkko2/life_and_death_of_a_graphics_programmer/</link>
-      <description><![CDATA[ 由   提交/u/ebbbeeno  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cvkko2/life_and_death_of_a_graphics_programmer/</guid>
-      <pubDate>Sun, 19 May 2024 09:42:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>8-Puzzle-Solver,使用 AI 搜索技术解决 8 难题,下载8-Puzzle-Solver的源码_GitHub_帮酷</title>
-      <link>https://www.reddit.com/r/programming/comments/1cvkgxp/github_mohammedelfatihsalah8puzzlesolver_using_ai/</link>
-      <description><![CDATA[我的项目是做什么的 大家好 我很高兴分享我的项目一直致力于：一款使用 Python 和 Pygame 构建的交互式 8 谜题游戏。该项目还包括多个基于经典搜索算法的求解器。 技术细节：  Python：项目中的主要语言。 Pygame：用于渲染和处理用户交互。 搜索算法：实现深度优先搜索 (dfs) 和 A 星搜索来解决难题。默认情况下使用星形搜索，因为它比 dfs 更快地找到解决方案  目标受众 这是我为了好玩而做的一个玩具项目。您可以在 GitHub 中找到该项目：链接 我很乐意收到您的反馈、贡献，如果您找到了它有趣或有帮助，请在 GitHub 上给它一个星。您的支持和反馈将帮助我改进并添加更多功能！感谢您查看我的项目！   由   提交 /u/MohamedElfatih   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cvkgxp/github_mohammedelfatihsalah8puzzlesolver_using_ai/</guid>
-      <pubDate>Sun, 19 May 2024 09:34:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
