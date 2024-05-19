@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 18 May 2024 21:10:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 00:55:40 GMT</lastBuildDate>
     <item>
       <title>开源复制粘贴折线图组件</title>
       <link>https://www.reddit.com/r/opensource/comments/1cv2za0/open_source_copy_paste_line_chart_component/</link>
@@ -22,14 +22,14 @@
     <item>
       <title>有没有具有自定义缓存大小的 YouTube PC/Web 客户端？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuv28v/any_youtube_pcweb_client_with_custom_cache_size/</link>
-      <description><![CDATA[我想要 mpv 之类的东西，但具有与原始 YouTube 类似的功能（例如主页）。另外，我想更改视频缓存大小，以确保它在我观看时缓存所有视频   由   提交/u/dream_nobody  [链接] [评论]]]></description>
+      <description><![CDATA[我想要类似 mpv 的东西，但具有与原始 YouTube 类似的功能（例如主页）。另外，我想更改视频缓存大小，以确保它在我观看时缓存所有视频    提交人    /u/dream_nobody   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuv28v/any_youtube_pcweb_client_with_custom_cache_size/</guid>
       <pubDate>Sat, 18 May 2024 11:18:05 GMT</pubDate>
     </item>
     <item>
       <title>browsermob-proxy 功能是否有真正的竞争者</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/</link>
-      <description><![CDATA[因此，我一直在使用 browsermob-proxy 进行编程代理访问，到目前为止非常满意。现在我的需求已经发生了变化，并且由于没有维护的 browsermob-proxy 已经很旧并且不支持 wss 等，我陷入了困境。  mitmproxy 很棒并且维护得很好，但我无法通过受控会话创建 har，在其中我可以执行 new_har 的操作，然后在与客户端相同的程序运行时中处理所有请求。 我希望能够以编程方式控制代理会话，并且需要对 HTTP/2 和 HTTP/2 的支持。 QUIC 对于 websocket 来说会很棒，当然对于 ssl 终止等也是如此。 在这种情况下要考虑的正确方法甚至正确的代理是什么。    由   提交/u/droned-s2k   /u/droned-s2k  reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[因此，我一直在使用 browsermob-proxy 进行编程代理访问，到目前为止非常满意。现在我的需求已经发生了变化，并且由于没有维护的 browsermob-proxy 已经很旧并且不支持 wss 等，我陷入了困境。  mitmproxy 很棒并且维护得很好，但我无法通过受控会话创建 har，在其中我可以执行 new_har 的操作，然后在与客户端相同的程序运行时中处理所有请求。 我希望能够以编程方式控制代理会话，并且需要对 HTTP/2 和 HTTP/2 的支持。 QUIC 对于 websocket 来说会很棒，当然对于 ssl 终止等。 在这种情况下要考虑的正确方法甚至正确的代理是什么。    由   提交/u/droned-s2k   /u/droned-s2k  reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/</guid>
       <pubDate>Sat, 18 May 2024 10:21:04 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>用于 Ai 语言模型的 C++ Tokenizer（类似句子）</title>
       <link>https://www.reddit.com/r/opensource/comments/1cu820n/c_tokenizer_sentence_piece_like_for_ai_language/</link>
-      <description><![CDATA[大家好，我一直在使用 pytorch 的 c++ 版本 libtorch，我需要一个用于我正在创建的语言模型的标记器。我在网上没有看到，所以我花了一两天时间做了一个。 这个标记器的工作原理就像句子片段从训练文本中收集单词和单词片段标记。单词、单词片段和空格/标点符号标记由标记器收集。 这是开源仓库：https://github.com/wbf22/Tokenizer/tree/main 干杯！    提交人    /u/Critical-Volume2360   [链接] [评论]]]></description>
+      <description><![CDATA[嘿你们，我一直在使用 pytorch 的 c++ 版本 libtorch，我需要一个用于我正在创建的语言模型的分词器。网上没有看到，所以我花了一两天做了一个。  此标记器的工作原理类似于从训练文本中收集单词和单词片段标记的句子片段。单词、单词片段和空格/标点符号由分词器收集。 这是开源存储库：https://github.com/wbf22/Tokenizer/tree/main 干杯！   由   提交 /u/Critical-Volume2360    reddit.com/r/opensource/comments/1cu820n/c_tokenizer_sentence_piece_like_for_ai_language/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cu820n/c_tokenizer_sentence_piece_like_for_ai_language/</guid>
       <pubDate>Fri, 17 May 2024 15:25:39 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>OpenTofu 断言 Terraform 提供商的许可证不会改变的原因是什么？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cu2wcw/whats_the_reason_opentofu_asserts_that_the/</link>
-      <description><![CDATA[摘自 opentofu.org 上的 FAQ 页面：  OpenTofu 是否与 Terraform 合作的所有提供商兼容？ OpenTofu 不会有自己的提供商。Terraform 提供商尚未更改其许可证，并且 发生此类更改的可能性几乎为零。OpenTofu 与当前的 Terraform 提供商兼容，但它使用单独的注册表。  但是为什么我们可以确定他们的许可证不会改变？ Hashicorp（或现在的 IBM）难道不能决定将许可证更改为非开源许可证，例如 BSL，就像他们对 Terraform 本身所做的那样？ 有人可以解释一下为什么 OpenTofu 可以断言 Terraform 提供商的许可证不会改变吗？    提交人    /u/Several-Echidna3425   [link] [评论]]]></description>
+      <description><![CDATA[来自 opentofu.org 上的常见问题解答页面 ：  OpenTofu 是否可以与 Terraform 合作的所有提供商一起使用？ OpenTofu 不会有自己的提供商。 Terraform 提供商尚未更改其许可证，并且这种更改的可能性几乎为零。OpenTofu 与当前的 Terraform 提供商合作，但它使用单独的注册表。  &lt;但是为什么我们可以确定他们的许可证不会改变呢？难道 Hashicorp（或现在的 IBM）不能决定将许可证更改为非开源许可证，例如 BSL，就像他们为 Terraform 本身所做的那样？ 有人可以解释 OpenTofu 可以断言的原因吗？ Terraform 提供商的许可证不会改变？   由   提交 /u/Several-Echidna3425    reddit.com/r/opensource/comments/1cu2wcw/whats_the_reason_opentofu_asserts_that_the/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cu2wcw/whats_the_reason_opentofu_asserts_that_the/</guid>
       <pubDate>Fri, 17 May 2024 11:33:21 GMT</pubDate>
     </item>
