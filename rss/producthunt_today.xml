@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 19 May 2024 03:14:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 06:15:46 GMT</lastBuildDate>
     <item>
       <title>采访聊天</title>
       <link>https://www.producthunt.com/posts/interviews-chat</link>
@@ -51,18 +51,18 @@
       <title>Eklipse：AI-编辑</title>
       <link>https://www.producthunt.com/posts/eklipse-ai-edit</link>
       <description><![CDATA[
-在几秒钟内使用 meme、sfx、vfx 增强您的游戏剪辑
-
+            在几秒钟内使用模因、特效、视觉特效增强您的游戏剪辑
+          
 
 讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/eklipse-ai-edit</guid>
       <pubDate>Fri, 17 May 2024 15:26:31 GMT</pubDate>
     </item>
     <item>
-      <title>无人机好友</title>
+      <title>无人机伙伴</title>
       <link>https://www.producthunt.com/posts/drone-buddy-1</link>
       <description><![CDATA[
             无人机飞行员最好的朋友
@@ -104,7 +104,7 @@
       <pubDate>Fri, 17 May 2024 13:40:56 GMT</pubDate>
     </item>
     <item>
-      <title>参与意见箱</title>
+      <title>EngageWith 建议箱</title>
       <link>https://www.producthunt.com/posts/engagewith-suggestion-box</link>
       <description><![CDATA[
             员工匿名问答、建议、投票支持您的数字总部
@@ -177,12 +177,12 @@
       <title>应用商店</title>
       <link>https://www.producthunt.com/posts/appstor</link>
       <description><![CDATA[
-            轻松组织、管理和交易您的软件工具
-          
+轻松组织、管理和交易您的软件工具
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/appstor</guid>
       <pubDate>Thu, 09 May 2024 03:15:21 GMT</pubDate>
