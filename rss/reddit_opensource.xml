@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 20 May 2024 00:53:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 03:14:26 GMT</lastBuildDate>
     <item>
       <title>第一次在 Pypi 中发布并寻求任何反馈</title>
       <link>https://www.reddit.com/r/opensource/comments/1cvzpxb/first_time_publishing_in_pypi_and_looking_for_any/</link>
@@ -13,28 +13,21 @@
       <pubDate>Sun, 19 May 2024 22:05:27 GMT</pubDate>
     </item>
     <item>
-      <title>我们的第一个社区挑战：让我们最终互相了解并建立联系！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cvyvm2/our_first_community_challenge_lets_finally_get_to/</link>
-      <description><![CDATA[ 由   提交 /u/unknownstudentoflife   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cvyvm2/our_first_community_challenge_lets_finally_get_to/</guid>
-      <pubDate>Sun, 19 May 2024 21:27:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>显示热键 1.3.2 发布！使用热键立即应用显示设置！</title>
+      <title>显示热键 1.3.2 已发布！使用热键立即应用显示设置！</title>
       <link>https://www.reddit.com/r/opensource/comments/1cvnql2/display_hot_keys_132_released_instantly_apply/</link>
-      <description><![CDATA[网站：https://jon- mil-92.github.io/DisplayHotKeys/ 更改日志  清除热键按钮现在位于热键旁边键。 缩短了插槽指示器标签。 修复了启动时运行按钮在刷新应用程序后恢复到不正确状态的错误。&lt; /li&gt;  发行说明 此版本侧重于压缩 UI。 清除热键按钮已更改为热键旁边的小按钮，并且根据是否设置热键动态禁用和启用自身。插槽指示器标签也被缩短。 如果您事先安装了 Display Hot Keys 1.2.0 或更早版本，您必须先将其卸载，然后才能使用 1.3.2 版本的安装程序 。此外，如果更改主显示器，然后以某种方式更改显示配置，则应用程序可能会挂起并拒绝启动备份。目前，如果发生这种情况，重新启动 Windows 将阻止应用程序挂起并拒绝启动。 如果您发现此软件有用，请考虑为该项目授予“星”级。在 GitHub 页面上！如果您真的很慷慨，请考虑使用网站或应用程序中的 PayPal 捐赠按钮进行捐赠。谢谢！   由   提交/u/jonRock1992   [链接] [评论]]]></description>
+      <description><![CDATA[网站：https://jon- mil-92.github.io/DisplayHotKeys/ 更改日志  清除热键按钮现在位于热键旁边键。 缩短了插槽指示器标签。 修复了启动时运行按钮在刷新应用程序后恢复到不正确状态的错误。&lt; /li&gt; 在清除所有热键插槽时添加了确认弹出窗口。  发行说明 此版本侧重于压缩 UI。 清除热键按钮已更改为热键旁边的小按钮，并且根据是否设置热键动态禁用和启用自身。插槽指示器标签也被缩短。 如果您事先安装了 Display Hot Keys 1.2.0 或更早版本，您必须先将其卸载，然后才能使用 1.3.2 版本的安装程序 。此外，如果更改主显示器，然后以某种方式更改显示配置，则应用程序可能会挂起并拒绝启动备份。目前，如果发生这种情况，重新启动 Windows 将阻止应用程序挂起并拒绝启动。 如果您发现此软件有用，请考虑为该项目授予“星”级。在 GitHub 页面上！如果您真的很慷慨，请考虑使用网站或应用程序中的 PayPal 捐赠按钮进行捐赠。谢谢！   由   提交/u/jonRock1992   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cvnql2/display_hot_keys_132_released_instantly_apply/</guid>
       <pubDate>Sun, 19 May 2024 13:00:06 GMT</pubDate>
     </item>
     <item>
-      <title>a.i💔开源？</title>
+      <title>a.i 💔 开源吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cvlo3q/ai_open_source/</link>
-      <description><![CDATA[        提交人    /u/carlospinheirotorres   [链接] [评论] ]]></description>
+      <description><![CDATA[   /u/carlospinheirotorres   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cvlo3q/ai_open_source/</guid>
       <pubDate>Sun, 19 May 2024 10:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>LinkedIn 个人资料页面的替代品？</title>
+      <title>LinkedIn 个人资料页面的替代方案？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cvf0ju/alternative_to_linkedin_profile_page/</link>
       <description><![CDATA[我正在寻找可以在自己的域上托管的与 LinkedIn 个人资料页面（不是职位匹配或社交提要）等效的内容。我想为我的个人资料托管一个登陆页面，同时尽可能坚持 LinkedIn 的设计。 为什么不直接使用 LinkedIn？ 非 LinkedIn 无法访问 LinkedIn 个人资料页面用户。 URL 有一个技巧可以实现，但它不一致，它要么让您访问个人资料，要么要求您连接您的帐户。这就是为什么我想自己托管它，以获得更好的控制和一致的行为。将我的个人资料提取为 PDF，然后托管 - 这是一个选项，但 .pdf 版本不如网站美观，并且不&#39; t 显示诸如“项目”之类的部分。 为什么坚持 LinkedIn 的设计/格式？LinkedIn 是我的专业领域中的一个众所周知的平台。遵循此模板将简化招聘人员浏览我的个人资料的过程（对于那些使用 LinkedIn 的人）。 仅作为一些视觉定制进行链接，它迫使我们以非常有限的方式关注内容效率和创造力。这对我的域名来说是一个很好的品质，所以我希望保留它。我真的很喜欢将媒体嵌入到各个部分的可能性。 我愿意听到与 LinkedIn 解决方案不太相似的解决方案，因为我知道我很难希望得到一份副本。 ^^   由   提交 /u/Tungill   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cvf0ju/alternative_to_linkedin_profile_page/</guid>
@@ -55,7 +48,7 @@
       <pubDate>Sat, 18 May 2024 15:21:36 GMT</pubDate>
     </item>
     <item>
-      <title>有没有自定义缓存大小的 YouTube PC/Web 客户端？</title>
+      <title>有没有具有自定义缓存大小的 YouTube PC/Web 客户端？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuv28v/any_youtube_pcweb_client_with_custom_cache_size/</link>
       <description><![CDATA[我想要 mpv 之类的东西，但具有与原始 YouTube 类似的功能（例如主页）。另外，我想更改视频缓存大小，以确保它在我观看时缓存所有视频   由   提交/u/dream_nobody  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuv28v/any_youtube_pcweb_client_with_custom_cache_size/</guid>
@@ -64,7 +57,7 @@
     <item>
       <title>browsermob-proxy 功能是否有真正的竞争者</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/</link>
-      <description><![CDATA[因此，我一直在使用 browsermob-proxy 进行编程代理访问，到目前为止非常满意。现在我的需求已经发生了变化，并且由于没有维护的 browsermob-proxy 已经很旧并且不支持 wss 等，我陷入了困境。  mitmproxy 很棒并且维护得很好，但我无法通过受控会话创建 har，在其中我可以执行 new_har 的操作，然后在与客户端相同的程序运行时中处理所有请求。 我希望能够以编程方式控制代理会话，并且需要对 HTTP/2 和 HTTP/2 的支持。 QUIC 对于 websocket 来说会很棒，当然对于 ssl 终止等。 在这种情况下要考虑的正确方法甚至正确的代理是什么。    由   提交/u/droned-s2k   /u/droned-s2k  reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[因此，我一直在使用 browsermob-proxy 进行编程代理访问，到目前为止非常满意。现在我的需求已经发生了变化，并且由于没有维护的 browsermob-proxy 已经很旧并且不支持 wss 等，我陷入了困境。  mitmproxy 很棒并且维护得很好，但我无法通过受控会话创建 har，在其中我可以执行 new_har 的操作，然后在与客户端相同的程序运行时中处理所有请求。 我希望能够以编程方式控制代理会话，并且需要对 HTTP/2 和 HTTP/2 的支持。 QUIC 对于 websocket 来说会很棒，当然对于 ssl 终止等也是如此。 在这种情况下要考虑的正确方法甚至正确的代理是什么。    由   提交/u/droned-s2k   /u/droned-s2k  reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/</guid>
       <pubDate>Sat, 18 May 2024 10:21:04 GMT</pubDate>
     </item>
@@ -104,11 +97,18 @@
       <pubDate>Fri, 17 May 2024 16:59:41 GMT</pubDate>
     </item>
     <item>
-      <title>Winamp 宣布将开放其源代码，以便能够协作开发其传奇的 Windows 播放器。</title>
+      <title>Winamp 宣布将开放其源代码，以便协作开发其适用于 Windows 的传奇播放器。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cu8ri8/winamp_has_announced_that_it_is_opening_up_its/</link>
-      <description><![CDATA[    /u/Puzzleheaded-Eye8414   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        由    /u/Puzzleheaded-Eye8414 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cu8ri8/winamp_has_announced_that_it_is_opening_up_its/</guid>
       <pubDate>Fri, 17 May 2024 15:54:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源既不是社区也不是民主</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cu8l2l/open_source_is_neither_a_community_nor_a_democracy/</link>
+      <description><![CDATA[   /u/CrankyBear  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cu8l2l/open_source_is_neither_a_community_nor_a_democracy/</guid>
+      <pubDate>Fri, 17 May 2024 15:47:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
