@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 20 May 2024 03:13:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 06:16:25 GMT</lastBuildDate>
+    <item>
+      <title>ImageGlass 现在是付费应用程序吗？如果是这样，什么是真正好的免费替代方案？</title>
+      <link>https://www.reddit.com/r/software/comments/1cw5xqd/is_imageglass_a_pay_app_now_if_so_what_is_a_free/</link>
+      <description><![CDATA[最近有更新，看来您现在只能在 Microsoft Store 上获取 ImageGlass。价格为 9.99 美元或“免费试用”。我似乎记得在 ImageGlass 的网站或其他地方下载过它，没有特殊条件。此外，ImageGlass 有着糟糕的历史，开发人员将某种恶意软件或其他导致黑名单的东西打包，直到它被删除，所以谁知道开发人员现在在这个最新更新中做了什么。 那么是时候寻找替代方案还是仍然有免费的当前版本的 ImageGlass？   由   提交 /u/GoBackToLeddit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cw5xqd/is_imageglass_a_pay_app_now_if_so_what_is_a_free/</guid>
+      <pubDate>Mon, 20 May 2024 03:20:46 GMT</pubDate>
+    </item>
     <item>
       <title>您用拇指驱动器/U 盘做过的最酷的事情是什么？</title>
       <link>https://www.reddit.com/r/software/comments/1cw4u24/what_are_the_coolest_things_you_have_done_with/</link>
@@ -29,12 +36,12 @@
     <item>
       <title>软件工作建议</title>
       <link>https://www.reddit.com/r/software/comments/1cw10i3/software_job_advice/</link>
-      <description><![CDATA[我住在爱尔兰，最近完成了计算机科学高级证书（6 级）。我已经完成了四年制荣誉学士学位（8级）中的两年，几年前我放弃了该学位，但我保留了其中的大部分知识。我没有IT行业的工作经验。我希望在 IT 领域获得初级职位，最好是担任开发人员。我只专注于加快我的职业生涯，不太热衷于返回完成我开始的学士学位。我听说毕业生毕业后的前景不太高。我正在寻找一些建议。  我了解 HTML、CSS、Python 和一些 Javascript。我目前正在自学 MERN 堆栈，并希望自己制作几个项目并将它们保存在一个文件夹中。  我应该回去完成8级荣誉学位吗？我应该利用在线课程并自己学习这些东西吗？一旦我可以证明我的知识，在线课程就足够了吗？我应该怎么做才能早点被录用？ 我愿意做任何事，只是害怕走入死胡同。如果该行业有人受聘，我很乐意收到您的来信。   由   提交/u/Gisa_Flavour  [链接] [评论]]]></description>
+      <description><![CDATA[我住在爱尔兰，最近完成了计算机科学高级证书（6 级）。我已经完成了四年制荣誉学士学位（8级）中的两年，几年前我放弃了该学位，但我保留了其中的大部分知识。我没有IT行业的工作经验。我希望在 IT 领域获得初级职位，最好是担任开发人员。我只专注于加快我的职业生涯，不太热衷于返回完成我开始的学士学位。我听说毕业生毕业后的前景不太高。我正在寻找一些建议。  我了解 HTML、CSS、Python 和一些 Javascript。我目前正在自学 MERN 堆栈，并希望自己制作几个项目并将它们保存在一个文件夹中。  我应该回去完成8级荣誉学位吗？我应该利用在线课程并自己学习这些东西吗？一旦我可以证明我的知识，在线课程就足够了吗？我应该做什么才能早点被录用？ 我愿意做任何事，只是害怕走入死胡同。如果该行业有人受聘，我很乐意收到您的来信。   由   提交/u/Gisa_Flavour  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cw10i3/software_job_advice/</guid>
       <pubDate>Sun, 19 May 2024 23:05:10 GMT</pubDate>
     </item>
     <item>
-      <title>客户的电脑上到底发生了什么？我在上面安装了全新 Windows 7，但无论是 x64 还是 x32，除了 Chrome 之外，我都无法安装任何东西，因为出现此错误 - “C:\\Users\Peter\Desktop\OperaSetup.exe 不是有效的 Win32 应用程序。”</title>
+      <title>客户的电脑到底怎么了？我在上面安装了干净的 Windows 7，除了 Chrome 之外，无论是 x64 还是 x32，我都无法安装任何东西，因为这个错误 - “C:\\Users\Peter\Desktop\OperaSetup.exe 不是有效的 Win32 应用程序。”</title>
       <link>https://www.reddit.com/r/software/comments/1cw0yqp/what_the_fuck_is_going_on_customers_computer_i/</link>
       <description><![CDATA[“C:\Users\Peter\Desktop\OperaSetup.exe 不是有效的 Win32 应用程序。” i已经尝试安装 Windows x64 并遇到了同样的错误...  PC 有 4GB 内存，之前安装了一些充满病毒的修改 Windows 8 版本，现在我几乎无法安装任何东西（当前使用 Windows 7 x32） )   由   提交 /u/usuariocabuloso   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cw0yqp/what_the_fuck_is_going_on_customers_computer_i/</guid>
@@ -69,7 +76,7 @@
       <pubDate>Sun, 19 May 2024 14:28:04 GMT</pubDate>
     </item>
     <item>
-      <title>有人可以推荐一些软件来创建放松景观吗？一些可以装饰房屋并听到雨声、风声和动物声音的东西。我想开始循环制作视频。</title>
+      <title>有人可以推荐一些软件来创建放松景观吗？可以装饰房屋并听到雨声、风声和动物声音的东西。我想开始循环制作视频。</title>
       <link>https://www.reddit.com/r/software/comments/1cvobak/can_some_suggest_software_to_create_relaxation/</link>
       <description><![CDATA[寻找软件推荐。   由   提交/u/highlandgirl64  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cvobak/can_some_suggest_software_to_create_relaxation/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>带叠加功能的马赛克制作软件</title>
       <link>https://www.reddit.com/r/software/comments/1cvhtqa/mosaic_making_software_with_overlay/</link>
-      <description><![CDATA[大家好！我想用图片制作马赛克（如果可以这样称呼的话），我试过使用 Andrea Mosaic，效果很好，但现在我想知道是否有应用程序/软件可以让您将图片定向到任何方向（不仅是 90 度或 180 度，例如 45 度或 68 度等），而不必成为网格的一部分，并让图像叠加。这是一个例子。谢谢！    提交人    /u/Parisix78   [link] [评论]]]></description>
+      <description><![CDATA[大家好！所以我想用图片制作马赛克（如果可以这样称呼的话），我尝试过使用 Andrea Mosaic，效果很好，但我现在想是否有应用程序/软件可以让你定向任何方向的图片（不仅是 90 或 180°，例如 45 或 68° 等），无需成为网格的一部分，并且让图像重叠。这是一个例子。谢谢！   由   提交/u/Parisix78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cvhtqa/mosaic_making_software_with_overlay/</guid>
       <pubDate>Sun, 19 May 2024 06:26:28 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我想知道是否有一些免费软件具有与 Photoshop 类似的功能。我以前使用过 Photoshop，我喜欢它并想继续使用它，但它对我来说太贵了，我希望找到免费的替代品。谢谢！   由   提交/u/MagicRegan  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cvf8le/looking_for_any_photoshop_alternative_that_look/</guid>
       <pubDate>Sun, 19 May 2024 03:46:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件可以让我的手机在收到来自特定电子邮件的电子邮件时崩溃</title>
-      <link>https://www.reddit.com/r/software/comments/1cveak8/software_to_make_my_phone_blowup_upon_receiving/</link>
-      <description><![CDATA[我兼职工作，我接受轮班的方式是他们向我发送一封电子邮件，告知有轮班，然后我可以通过以下方式接受或拒绝轮班：他们的应用程序。问题是当我看到电子邮件时，班次已被其他人接受。当我收到来自该特定电子邮件的电子邮件时，是否可以通过电话让铃声或闹钟响起？我有一部小米手机。谢谢   由   提交 /u/MrGustav101   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cveak8/software_to_make_my_phone_blowup_upon_receiving/</guid>
-      <pubDate>Sun, 19 May 2024 02:53:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
