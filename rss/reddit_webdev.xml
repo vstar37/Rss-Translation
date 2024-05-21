@@ -3,8 +3,8 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 21 May 2024 03:13:48 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Tue, 21 May 2024 06:17:26 GMT</lastBuildDate>
     <item>
       <title>在 Astro 的 Starlight 文档框架中添加结构化数据</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwxsqj/adding_structured_data_in_astros_starlight/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>为什么用户代理是“Screenjesus”？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwxpl7/why_is_the_useragent_screenjesus/</link>
-      <description><![CDATA[      https://preview.redd.it/nirt1cze1p1d1.jpg?width=2199&amp;format=pjpg&amp;auto=webp&amp;s=785501084bcfe9484fcec338472a243d0038030b 我查看了我的 NGINX 日志，发现我的几个 get 请求的用户代理为“Screenjesus”。这是什么意思呢    提交人    /u/Acornless   [链接] [评论] ]]></description>
+      <description><![CDATA[      https://preview.redd.it/nirt1cze1p1d1.jpg?width=2199&amp;format=pjpg&amp;auto=webp&amp;s=785501084bc fe9484fcec338472a243d0038030b 我查看了 NGINX 日志，注意到我的几个获取请求的用户代理为“Screenjesus”。这到底是什么意思   由   提交 /u/Acornless   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwxpl7/why_is_the_useragent_screenjesus/</guid>
       <pubDate>Tue, 21 May 2024 02:50:02 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>如今，您是否需要知道如何编写 HTML 和 CSS 才能成为一名 Web 开发人员，或者您可以使用预制的组件库并跳过它吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwx9i2/do_you_need_to_know_how_to_write_html_and_css_to/</link>
-      <description><![CDATA[有人告诉我，现在开发人员都使用 UI 框架，所以几乎没有人写 HTML 和 CSS。 那又怎么样？你？ 有些人可能会说，“好吧，我写的是 sass，不是 css。对于这个问题，这很重要。 有些人可能会说，“我不使用 HTML，我使用 PHP、pug、liquid、JSX 或 Vue。”这只是编写 HTML 的另一种方式。对于这个问题，这很重要。 有些人可能会说，“好吧，我使用 HTML 并调整它或添加 aria 标签或调整 CSS，但我不”不要写它，”但我认为这很重要。调整主题或者其他仍在调整 HTML 或 CSS 的内容，对吧？在某些情况下，例如 HTML 电子邮件和其他专业领域，您可能需要了解更多信息。 我认为每个人 — 从在小学图书馆制作第一个 HTML 页面的人开始午餐时，调整子主题的人、制作定制组件的人、设计设计系统的人——都是庞大行业的一部分——而且有各种各样的角色和技能水平。 &lt; p&gt;我很好奇，如果您不得不猜测，有多少百分比的 Web 开发人员需要了解 HTML 和 CSS（达到合理的水平）才能完成他们的工作？ 有多少比例的前端开发人员了解 HTML 和 CSS？现在使用 HTML 和 CSS 了吗？   由   提交 /u/sheriffderek   [链接] [评论]]]></description>
+      <description><![CDATA[有人告诉我，现在开发人员都使用 UI 框架，所以几乎没有人写 HTML 和 CSS。 那又怎么样？你？ 有些人可能会说，“好吧，我写的是 sass，不是 css。对于这个问题，这很重要。 有些人可能会说，“我不使用 HTML，我使用 PHP、pug、liquid、JSX 或 Vue。”这只是编写 HTML 的另一种方式。对于这个问题，这很重要。 有些人可能会说，“好吧，我使用 HTML 并调整它或添加 aria 标签或调整 CSS，但我不”不写，”但我认为这很重要。调整主题或者其他仍在调整 HTML 或 CSS 的内容，对吗？在某些情况下，例如 HTML 电子邮件和其他专业领域，您可能需要了解更多信息。 我认为每个人 — 从在小学图书馆制作第一个 HTML 页面的人开始午餐时，调整子主题的人、制作定制组件的人、设计设计系统的人——都是庞大行业的一部分——而且有各种各样的角色和技能水平。 &lt; p&gt;我很好奇，如果您不得不猜测，有多少百分比的 Web 开发人员需要了解 HTML 和 CSS（达到合理的水平）才能完成他们的工作？ 有多少比例的前端开发人员了解 HTML 和 CSS？现在使用 HTML 和 CSS 了吗？   由   提交 /u/sheriffderek   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwx9i2/do_you_need_to_know_how_to_write_html_and_css_to/</guid>
       <pubDate>Tue, 21 May 2024 02:26:07 GMT</pubDate>
     </item>
@@ -43,21 +43,21 @@
     <item>
       <title>与免费代码训练营类似的网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwwhx0/similar_websites_to_free_code_camp/</link>
-      <description><![CDATA[嗨，我很难理解免费代码营希望我如何处理他们提出问题的方式。很多次我尝试这个问题，但发现自己在双重猜测或只是不理解它的含义，最终使用了我不想做的 chatgpt，然后我最终感到沮丧。  我可以尝试类似的事情吗？我是一个非常实干的人，而不是一个读者。我喜欢免费代码训练营的方式，它给你一点，然后你练习，然后给你一点，然后你练习。  谢谢。    由   提交/u/Scary_Onion1668   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我很难理解免费代码营希望我如何处理他们提出问题的方式。很多次我尝试这个问题，但发现自己在双重猜测或只是不理解它的含义，最终使用了我不想做的 chatgpt，然后我最终感到沮丧。  我可以尝试类似的事情吗？我是一个非常实干的人，而不是一个读者。我喜欢免费代码营的方式，它给你一点，然后你练习，然后给你一点，然后你练习。  谢谢。    由   提交/u/Scary_Onion1668   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwwhx0/similar_websites_to_free_code_camp/</guid>
       <pubDate>Tue, 21 May 2024 01:46:46 GMT</pubDate>
     </item>
     <item>
       <title>通过 Drive API 从 Google Drive 获取图片并在网站上使用</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwufs6/fetching_images_from_google_drive_to_use_on/</link>
-      <description><![CDATA[所以我使用 Google Drive 来存储我的摄影作品，我想展示并让用户可以选择通过我的网站下载图像。我正在考虑使用 googledrive api 从 googledrive 获取图像并将其显示在网站上。这可能吗？这里有人有这方面的经验吗？ 感谢任何帮助，谢谢。 编辑：我应该注意，我目前正在使用 php这个   由   提交 /u/JudeaPeoplesFront   [链接] [评论]]]></description>
+      <description><![CDATA[因此，我使用 Google Drive 存储我的摄影作品，并且我想显示并让用户选择通过我的网站下载图片。我考虑使用 Google Drive API 从 Google Drive 获取图片并将它们显示在网站上。这可能吗？这里有人有这方面的经验或类似经验吗？ 任何帮助都值得赞赏，谢谢。 编辑：我应该注意，我目前正在为此使用 php    提交人    /u/JudeaPeoplesFront   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwufs6/fetching_images_from_google_drive_to_use_on/</guid>
       <pubDate>Tue, 21 May 2024 00:04:30 GMT</pubDate>
     </item>
     <item>
       <title>NameCheap 与 Wordpress.com 网站构建器？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwu9bb/namecheap_versus_wordpresscom_website_builder/</link>
-      <description><![CDATA[我计划为我正在创办的企业制作一个非常简单的网站。由于它的简单性和我自己缺乏知识，我想坚持使用拖放式 CMS。我的计划是注册网站并通过 NameCheap 接收电子邮件，但通过 Wordpress.com 托管并使用他们的网站构建器 CMS（网站构建器和托管是一回事，当您购买一个时，您会得到另一个）。现在我看到 NameCheap 有自己的网站构建器，同样免费，适用于任何托管计划。有人用过 NameCheap 的建站工具吗？有人知道它与 Wordpress.com 相比如何吗？我知道 Wordpress 比 NameCheap 更主要以 CMS 为中心，所以我可能期望它的网站建设有更多的功能、内容和支持——但我不知道。 NameCheap 也便宜一些，使用他们的网站构建器意味着将网站的所有组件保留在同一平台上。有什么建议吗？   由   提交/u/Pspecial-Pepper-64   [链接] [评论]]]></description>
+      <description><![CDATA[我计划为我正在创办的企业制作一个非常简单的网站。由于它的简单性和我自己缺乏知识，我只想坚持使用拖放式 CMS。我的计划是注册网站并通过 NameCheap 接收电子邮件，但通过 Wordpress.com 托管并使用他们的网站构建器 CMS（网站构建器和托管是一回事，当您购买一个时，您会得到另一个）。现在我看到 NameCheap 有自己的网站构建器，同样免费，适用于任何托管计划。有人用过 NameCheap 的建站工具吗？有人知道它与 Wordpress.com 相比如何吗？我知道 Wordpress 比 NameCheap 更主要以 CMS 为中心，所以我可能期望它的网站建设有更多的功能、内容和支持——但我不知道。 NameCheap 也便宜一点，使用他们的网站构建器意味着将网站的所有组件保留在同一平台上。有什么建议吗？   由   提交/u/Pspecial-Pepper-64   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwu9bb/namecheap_versus_wordpresscom_website_builder/</guid>
       <pubDate>Mon, 20 May 2024 23:56:04 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>您的工作或个人设置是什么样的？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwr77x/what_do_your_work_or_personal_setups_look_like/</link>
-      <description><![CDATA[一段时间以来，我一直固步自封，我倾向于在主机上安装所有东西（语言、驱动程序），这样我就可以管理更少的东西。但我想稍微现代化一点。在我使用 VM 的日子里，我使用过 vagrant + virtual box，我假设现在每个人都已经转向容器甚至云服务了。所以我想知道你喜欢如何开展项目？我可能很快就会从事自由职业，所以我的项目环境可能看起来彼此非常不同。我在 MBP M 系列上，我选择的想法是 web/php storm，我应该如何现代化？    提交人    /u/IAmRules   [链接] [评论]]]></description>
+      <description><![CDATA[我已经坚持自己的方式有一段时间了，我倾向于喜欢主机上安装的所有内容（语言、驱动程序），这样我就可以管理更少的事情。但我想现代化一点。回到我的虚拟机时代，我使用 vagrant + virtual box，我假设现在每个人都已经转移到容器甚至云服务上。所以我想知道你喜欢如何进行项目工作？我可能很快就会成为自由职业者，所以我的项目环境可能看起来彼此非常不同。我使用的是 MBP M 系列，我选择的 IDE 是 web/phpstorm，我应该如何现代化？   由   提交 /u/IAmRules   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwr77x/what_do_your_work_or_personal_setups_look_like/</guid>
       <pubDate>Mon, 20 May 2024 21:37:58 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>数据库连接，如何允许从任何地方访问。</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwqdjb/database_connection_how_to_allow_access_from/</link>
-      <description><![CDATA[现在我正在开发一个网络应用程序。我完成了用户注册和身份验证并将其连接到我的 PostgreSQL 数据库。  我遇到的问题：数据库托管在我的本地主机上。所以无法从任何地方访问它。稍后，来自任何地方的人们都应该能够从任何地方创建用户帐户。 （我知道网络应用程序也必须托管在其他地方，而不是在我的本地主机上，但这在这一点上不是问题。）  我的问题是是否有一种方法来托管数据库，以便可以从任何地方访问它吗？ 有人告诉我，AWS 等云服务可以使用。但这看起来工作量很大。 我是一名计算机科学家学生，实际上没有任何 webdev 经验。这是我们的项目所需要的。一个基于 jodel 的网络应用程序。 非常感谢任何关于去哪里的想法。   由   提交 /u/-SchlauchbootlippeN-   /u/-SchlauchbootlippeN- reddit.com/r/webdev/comments/1cwqdjb/database_connection_how_to_allow_access_from/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[现在我正在开发一个网络应用程序。我完成了用户注册和身份验证并将其连接到我的 PostgreSQL 数据库。  我遇到的问题：数据库托管在我的本地主机上。因此无法从任何地方访问它。稍后，来自任何地方的人们都应该能够从任何地方创建用户帐户。 （我知道网络应用程序也必须托管在其他地方，而不是在我的本地主机上，但这在这一点上不是问题。）  我的问题是是否有一种方法来托管数据库，以便可以从任何地方访问它吗？ 有人告诉我，AWS 等云服务可以使用。但这看起来工作量很大。 我是一名计算机科学家学生，实际上没有任何 webdev 经验。这是我们的项目所需要的。一个基于 jodel 的网络应用程序。 非常感谢任何关于去哪里的想法。   由   提交 /u/-SchlauchbootlippeN-   /u/-SchlauchbootlippeN- reddit.com/r/webdev/comments/1cwqdjb/database_connection_how_to_allow_access_from/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwqdjb/database_connection_how_to_allow_access_from/</guid>
       <pubDate>Mon, 20 May 2024 21:02:58 GMT</pubDate>
     </item>
