@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
-    <description>一个致力于音乐的社区，从最少的事情中获得最大的收益。老游戏风格的音乐，例如C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD等。</description>
-    <lastBuildDate>Tue, 21 May 2024 06:17:14 GMT</lastBuildDate>
+    <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
+    <lastBuildDate>Tue, 21 May 2024 09:14:00 GMT</lastBuildDate>
+    <item>
+      <title>“希豪”准将 64</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1cx1nk5/heehaw_commodore_64/</link>
+      <description><![CDATA[     &lt; /td&gt; 原始曲子最初在 PS5 上在梦中起作用，听起来像 Sid 曲子，因为我没有实际的 C64。    由   提交/u/Ok-Ability-6965   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1cx1nk5/heehaw_commodore_64/</guid>
+      <pubDate>Tue, 21 May 2024 06:55:08 GMT</pubDate>
+    </item>
     <item>
       <title>Escape to Planet-X（famitracker 原创歌曲）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cwqsod/escape_to_planetx_famitracker_original_song/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>[Chiptune-Chiplike Rock] “Middle Age Misfit” (EXPLICIT) by Bits of joshua (No A.I.) <3 <3 <3</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cwlvtr/chiptunechiplike_rock_middle_age_misfit_explicit/</link>
-      <description><![CDATA[  由    /u/Melwing  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/Melwing  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cwlvtr/chiptunechiplike_rock_middle_age_misfit_explicit/</guid>
       <pubDate>Mon, 20 May 2024 17:58:45 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>NES 吃豆人混音 (2A03+N163+SNES)</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cw3ehc/nes_pac_man_remix_2a03n163snes/</link>
-      <description><![CDATA[      听起来怎么样    提交人    /u/SamViolet3   [链接] [评论] ]]></description>
+      <description><![CDATA[      这听起来怎么样 &lt; !-- SC_ON --&gt;  由   提交/u/SamViolet3  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cw3ehc/nes_pac_man_remix_2a03n163snes/</guid>
       <pubDate>Mon, 20 May 2024 01:04:34 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>构建 CC0 许可的 Genesis/Mega Drive 音乐集</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cvwpfq/building_a_collection_of_cc0licensed_genesismega/</link>
-      <description><![CDATA[        提交人    /u/safetystoatstudios   [链接] [评论] ]]></description>
+      <description><![CDATA[   /u/safetystoatstudios   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cvwpfq/building_a_collection_of_cc0licensed_genesismega/</guid>
       <pubDate>Sun, 19 May 2024 19:51:49 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Sun, 19 May 2024 09:21:48 GMT</pubDate>
     </item>
     <item>
-      <title>Bernard Herrmann – 谋杀 (Sega Genesis/Megadrive Cover)</title>
+      <title>伯纳德·赫尔曼 - 谋杀案（Sega Genesis/Megadrive 封面）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cvh5wt/bernard_herrmann_the_murdersega_genesismegadrive/</link>
       <description><![CDATA[       由   提交/u/Horrorlover656   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cvh5wt/bernard_herrmann_the_murdersega_genesismegadrive/</guid>
@@ -99,16 +106,9 @@
     <item>
       <title>如何为恐怖游戏制作主题？</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cuxkol/how_do_i_make_a_theme_for_a_horror_game/</link>
-      <description><![CDATA[Sega Genesis 风格。有什么提示/指示吗？   由   提交/u/Horrorlover656  [链接] [评论]]]></description>
+      <description><![CDATA[世嘉 Genesis 风格。有什么提示/指示吗？    提交人    /u/Horrorlover656   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cuxkol/how_do_i_make_a_theme_for_a_horror_game/</guid>
       <pubDate>Sat, 18 May 2024 13:40:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Delta (C64) 标题曲在原始面包箱上使用 SDI 进行跟踪和 1541</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1cusoyh/delta_c64_title_tune_tracked_using_sdi_on_an/</link>
-      <description><![CDATA[https://youtu.be/7P5DvIJO94E?si =vImXoE65l05wyJl8   由   提交/u/Ok-Ability-6965   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1cusoyh/delta_c64_title_tune_tracked_using_sdi_on_an/</guid>
-      <pubDate>Sat, 18 May 2024 08:30:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
