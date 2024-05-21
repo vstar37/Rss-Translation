@@ -4,9 +4,16 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 21 May 2024 00:51:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 03:13:29 GMT</lastBuildDate>
     <item>
-      <title>React Conf 2024 的最新动态</title>
+      <title>Python基础知识直播</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwwrxz/python_basics_live_stream/</link>
+      <description><![CDATA[高级后端开发人员介绍的Python教程，以及一些有趣且易于使用的库。加入并提出问题或提出建议   由   提交/u/whitechoc6  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwwrxz/python_basics_live_stream/</guid>
+      <pubDate>Tue, 21 May 2024 02:00:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>React Conf 2024 的新增内容</title>
       <link>https://www.reddit.com/r/programming/comments/1cwv536/whats_new_at_react_conf_2024/</link>
       <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwv536/whats_new_at_react_conf_2024/</guid>
@@ -15,7 +22,7 @@
     <item>
       <title>🚀 来认识一下 genson-rs：为千兆字节的数据快速生成 JSON 模式！</title>
       <link>https://www.reddit.com/r/programming/comments/1cwuy3j/meet_gensonrs_blazingfast_json_schema_generation/</link>
-      <description><![CDATA[ 由   提交/u/gopherman12  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/gopherman12  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwuy3j/meet_gensonrs_blazingfast_json_schema_generation/</guid>
       <pubDate>Tue, 21 May 2024 00:29:33 GMT</pubDate>
     </item>
@@ -41,21 +48,21 @@
       <pubDate>Mon, 20 May 2024 23:14:26 GMT</pubDate>
     </item>
     <item>
-      <title>saalikmubeen/go-grpc-实现: Golang + Gin + Docker + gRPC + NGINX</title>
+      <title>saalikmueen/go-grpc-实现：Golang + Gin + Docker + gRPC + NGINX</title>
       <link>https://www.reddit.com/r/programming/comments/1cwsmua/saalikmubeengogrpcimplementation_golang_gin/</link>
-      <description><![CDATA[  由    /u/saalik_m  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/saalik_m   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwsmua/saalikmubeengogrpcimplementation_golang_gin/</guid>
       <pubDate>Mon, 20 May 2024 22:40:22 GMT</pubDate>
     </item>
     <item>
       <title>gRPC、Java 和 Spring Boot 中的 Protobuf 验证</title>
       <link>https://www.reddit.com/r/programming/comments/1cwrlqs/protobuf_validation_in_grpc_java_and_spring_boot/</link>
-      <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/congolomera  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwrlqs/protobuf_validation_in_grpc_java_and_spring_boot/</guid>
       <pubDate>Mon, 20 May 2024 21:55:20 GMT</pubDate>
     </item>
     <item>
-      <title>Apple II 的 Reversing Choplifter —— Blondihacks 上的源代码和文章</title>
+      <title>逆转 Apple II 的 Choplifter - 源代码和文章来自 Blondihacks</title>
       <link>https://www.reddit.com/r/programming/comments/1cwr4pk/reversing_choplifter_for_apple_ii_source_code_and/</link>
       <description><![CDATA[ 由   提交/u/r_retrohacking_mod2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwr4pk/reversing_choplifter_for_apple_ii_source_code_and/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>当人工智能帮助你编码时，谁拥有成品？</title>
       <link>https://www.reddit.com/r/programming/comments/1cwqmzs/when_ai_helps_you_code_who_owns_the_finished/</link>
-      <description><![CDATA[  由    /u/stronghup  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/stronghup  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwqmzs/when_ai_helps_you_code_who_owns_the_finished/</guid>
       <pubDate>Mon, 20 May 2024 21:14:03 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/waterslurpingnoises   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwlede/optimizing_sql_queries_postgresql_best_practices/</guid>
       <pubDate>Mon, 20 May 2024 17:38:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cample-html - 新的开源工具，用于轻松获取服务器端 HTML 并将其添加到 DOM。</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwklmw/camplehtml_new_open_source_tool_for_easily/</link>
-      <description><![CDATA[ 由   提交/u/antonmak1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwklmw/camplehtml_new_open_source_tool_for_easily/</guid>
-      <pubDate>Mon, 20 May 2024 17:05:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
