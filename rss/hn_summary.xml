@@ -4,99 +4,109 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 21 May 2024 21:03:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 00:16:49 GMT</lastBuildDate>
     <item>
-      <title>[媒体]美国的肮脏历史</title>
-      <link>https://t.me/hn_summary/90784</link>
-      <description><![CDATA[美国食品安全的肮脏历史凸显了监管的重要性
-1800 年代，美国食品安全几乎不存在，导致掺假和危险食品的广泛消费。普利策新闻奖得主黛博拉·布鲁姆 (Deborah Blum) 在她的《毒药小队》一书中强调了这段悲惨的历史。美国农业部的化学家哈维·华盛顿·威利发起了首次联邦食品安全调查，进行了有争议的“毒物小组”实验来揭露有害添加剂。他与厄普顿·辛克莱 (Upton Sinclair) 等活动家一起努力，制定了 1906 年《联邦肉类检验法》和《纯净食品和药品法》，这是现代食品安全监管的基础法律。尽管取得了这些进步，行业阻力仍然对监管工作构成挑战，正如《食品可追溯性增强法案》等最近的立法提案所表明的那样，该法案可能会削弱 FDA 跟踪食源性疾病爆发的能力。]]></description>
-      <guid>https://t.me/hn_summary/90784</guid>
-      <pubDate>Tue, 21 May 2024 21:03:13 GMT</pubDate>
+      <title>[媒体]人工智能革命是由强大的计算基础设施驱动的，这对于科学研究至关重要 [...]</title>
+      <link>https://t.me/hn_summary/90831</link>
+      <description><![CDATA[计算访问现状：如何弥合新的数字鸿沟
+人工智能革命是由强大的计算基础设施推动的，这对于科学进步和生产力至关重要。计算能力（包括 GPU 和 CPU 等硬件以及软件）对于人工智能和数据服务等现代进步至关重要。托尼·布莱尔研究所 (TBI) 强调，由于计算资源访问不平等，数字鸿沟日益扩大。投资计算基础设施的国家正在进步，而其他国家则落后，这影响了创新和增长。 TBI 的报告以 Omdia 的研究为基础，对全球计算访问进行了全面分析，并提供了弥合这一鸿沟的政策建议。值得注意的是，该报告强调了合作伙伴关系和有针对性的投资对于增强全球计算能力的重要性。 （根据故事文本的 37% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/90831</guid>
+      <pubDate>Wed, 22 May 2024 00:16:49 GMT</pubDate>
     </item>
     <item>
-      <title>Embedded Rustacean 很高兴地宣布发布“简化的嵌入式 Rust 书”。</title>
-      <link>https://t.me/hn_summary/90783</link>
-      <description><![CDATA[简化嵌入式 Rust 书发布
-Embedded Rustacean 很高兴地宣布发布“简化的嵌入式 Rust 书”。本综合指南旨在使所有技能水平的开发人员都能更轻松地使用 Rust 进行嵌入式系统编程。本书涵盖了基本概念、实践示例和高级技术，全部以清晰简洁的方式呈现。本书的一个独特之处是它关注现实世界的应用，为读者提供实践经验。尽管这本书受到了广泛好评，但社区中的一些人对其简化复杂主题的方法进行了争论，认为它可能过于简单化了关键细节。尽管如此，对于任何想要深入研究嵌入式 Rust 编程的人来说，它都是一个宝贵的资源。]]></description>
-      <guid>https://t.me/hn_summary/90783</guid>
-      <pubDate>Tue, 21 May 2024 21:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>问 HN：为什么风险投资公司不“忍气吞声”并支付给创始人有竞争力的薪水？</title>
-      <link>https://t.me/hn_summary/90782</link>
-      <description><![CDATA[问 HN：为什么 VC 不“忍耐”并向创始人支付有竞争力的薪水？
-在 Hacker News 的讨论中，作者质疑为什么风险投资家 (VC) 不简单地“忍气吞声”并向初创公司创始人支付有竞争力的薪水。他们认为，大多数初创公司创始人和早期员工的收入约为谷歌、微软和 Meta 等大型科技公司的一半。这种差异导致了几个问题：潜在的初创公司永远无法起步，只有富有的创始人才能承担得起风险，而且创始人和投资者在退出策略方面存在不一致。虽然部分创始人收购可以缓解这种不一致，但它也凸显了这个问题。作者表示，如果风险投资公司加大投资以提供有竞争力的薪酬，那么每个人都会受益，并指出人工智能领域已经发生了这种情况，以吸引顶尖人才。他们强调，当前的模式对初创企业员工不公平，他们有效地补贴了风险投资的利润，却没有获得同样的多元化福利。]]></description>
-      <guid>https://t.me/hn_summary/90782</guid>
-      <pubDate>Tue, 21 May 2024 21:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]5月13日，OpenAI通过现场对话展示了一款全新的AI语音助手，揭示了 [...]</title>
-      <link>https://t.me/hn_summary/90781</link>
-      <description><![CDATA[斯嘉丽约翰逊事件让 OpenAI 显得绝望
-5 月 13 日，OpenAI 通过实时对话展示了一款新的 AI 语音助手，展现出熟悉且令人不安的聊天机器人声音。 OpenAI 首席执行官萨姆·奥尔特曼 (Sam Altman) 暗示该公司的灵感来自科幻小说，尤其是电影《她》，其中斯嘉丽·约翰逊为人工智能配音。然而，当约翰逊声称 OpenAI 未经许可使用她的声音时，引发了争议，凸显了对奥特曼和 OpenAI 无视创作权的批评。这一事件，加上OpenAI“超级对齐”团队关键员工的辞职，让人对该公司作为技术先锋的说法产生了怀疑。相反，它显得绝望并与内部和外部的挑战作斗争。]]></description>
-      <guid>https://t.me/hn_summary/90781</guid>
-      <pubDate>Tue, 21 May 2024 20:55:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Wikimedia Enterprise 提供专为大型语言模型 (LLM)、AI [...]</title>
-      <link>https://t.me/hn_summary/90780</link>
-      <description><![CDATA[Wikimedia Enterprise – 用于法学硕士、人工智能培训等的 API
-Wikimedia Enterprise 提供专为大型语言模型 (LLM)、人工智能培训等而设计的强大 API。我们的服务提供机器可读的数据，允许用户从结构良好且记录良好的来源中解析和提取特定信息。通过访问多种数据格式和全球一致的标识符，我们的 API 响应可以满足广泛的需求，无论您是请求单篇文章、整个项目的快照还是实时数据流。这确保了各种应用程序的无缝集成和高效的数据利用。]]></description>
-      <guid>https://t.me/hn_summary/90780</guid>
-      <pubDate>Tue, 21 May 2024 20:55:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于体验不佳，我最近在 G2 上对 Merge.dev 发表了 1 星评论。</title>
-      <link>https://t.me/hn_summary/90779</link>
-      <description><![CDATA[G2 在未经我同意的情况下将我的 1 星评论编辑为 5 星评论
-我最近在 G2 上发布了 Merge.dev 的 1 星评论由于体验不佳。我使用我的公司帐户进行审核，但我在 2023 年中期离开了该公司。令我惊讶的是，我发现我的评论在 2024 年 1 月未经我同意的情况下被更改为 5 星评级。这引发了关于此类行为的合法性以及我可能拥有哪些追索权的严重问题。如何允许这种情况发生？我可以采取哪些步骤来解决这个问题？]]></description>
-      <guid>https://t.me/hn_summary/90779</guid>
-      <pubDate>Tue, 21 May 2024 20:34:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 站点：vin01.github.io</title>
-      <link>https://t.me/hn_summary/90778</link>
-      <description><![CDATA[滥用 iTerm2 和 Hyper 中的 URL 处理来执行代码 
-标题：滥用 iTerm2 和 Hyper 中的 URL 处理来执行代码
-站点：vin01.github.io
+      <title>[媒体]网站：www.askamanager.org</title>
+      <link>https://t.me/hn_summary/90830</link>
+      <description><![CDATA[一份工作申请询问我酷刑是否比卖淫更糟糕（2018） 
+标题：一份求职信问我酷刑是否比卖淫更糟糕（2018）
+网站：www.askamanager.org
 
-现代终端支持各种功能的转义序列，例如颜色、光标样式和超链接。一个显着的功能是 OSC 8，它允许直接在终端中生成超链接。但是，此功能可能会被用于恶意目的。 
+作者：艾莉森·格林，2018 年 2 月 12 日
 
-漏洞 #1：iTerm2 对 x-man-page:// URL 方案的处理容易通过参数注入执行代码。精心设计的链接可以打开计算器应用程序。 补丁 (CVE-2023-46321)。
-
-漏洞 #2：iTerm2 对 ssh:// URL 方案的处理允许任意文件写入，可能导致代码执行延迟。 补丁 (CVE-2023-46322)。
-
-漏洞#3：Hyper 将自身注册为 ssh:// URL 的处理程序，可以使用 IFS 进行命令注入来利用该处理程序。 补丁。
-
-一个独特而聪明的方面是使用 Docker 将转义序列注入终端模拟器，创建一个未打补丁的 PoC。这凸显了这些漏洞的更广泛影响。
-
-争议：去年披露的未修补的 Docker 漏洞仍然是一个潜在的攻击媒介，引发了人们对广泛使用的工具中安全补丁的响应能力的担忧。]]></description>
-      <guid>https://t.me/hn_summary/90778</guid>
-      <pubDate>Tue, 21 May 2024 20:32:39 GMT</pubDate>
+一位从文案写作过渡到行政协助的读者遇到了一份奇怪的工作申请，需要对各种项目进行排名，包括“折磨人”和“卖淫”等暴行。提交简历和求职信后，读者被引导至一份在线表格，最初要求提供特质排名，这似乎很典型。然而，它随后提出了一长串项目，从最好到最差进行评级，混合了平凡和极端的场景。读者质疑这种方法的优点，怀疑它是伪科学而不是有效的招聘工具。艾莉森·格林对此表示同意，她将这种做法贴上了荒谬的标签，并强调了此类性格测试的实用性值得怀疑。]]></description>
+      <guid>https://t.me/hn_summary/90830</guid>
+      <pubDate>Tue, 21 May 2024 23:47:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Openpanel 是一种开源分析工具，旨在替代 Mixpanel，com [...]</title>
-      <link>https://t.me/hn_summary/90777</link>
-      <description><![CDATA[Mixpanel 的开源替代品
-Openpanel 是一款开源分析工具，旨在作为 Mixpanel 的替代品，结合了 Mixpanel 和 Plausible 的功能。它允许用户在 Web、应用程序和后端记录事件，并提供各种数据可视化选项，例如图表、漏斗图和地图。主要功能包括高级过滤、实时事件跟踪、GDPR 合规性以及无需 cookie 的隐私友好操作。它支持云或自托管，并提供可预测的定价。该项目处于早期阶段，使用的技术堆栈包括 Next.js、Fastify、Postgres、Clickhouse 和 Redis。未来的自托管选项可能会涉及 CapRover 和 Docker Compose。]]></description>
-      <guid>https://t.me/hn_summary/90777</guid>
-      <pubDate>Tue, 21 May 2024 20:30:30 GMT</pubDate>
+      <title>[媒体] 在“旨在崩溃：安东诺夫 An-28 HA-LAJ 及其消亡的故事”中，作者 d [...]</title>
+      <link>https://t.me/hn_summary/90829</link>
+      <description><![CDATA[旨在崩溃：安东诺夫 An-28 HA-LAJ 的故事及其消亡
+在《设计坠毁：安东诺夫 An-28 HA-LAJ 及其消亡的故事》一书中，作者深入研究了 An-28 复杂的电气系统，强调了导致 HA-LAJ 坠毁的一个关键设计缺陷。电动襟翼系统和螺旋桨自动羽化机构均依赖于接线盒 A6X1 中的通用接地螺钉。随着时间的推移，该螺丝因振动而松动，导致高电阻连接，使电流通过意外路径转移。当飞行员收起襟翼时，这个缺陷导致螺旋桨顺桨，发动机关闭，扰流板展开，导致推力和升力灾难性损失。值得注意的是，迫降在玉米地时，19 名乘客和机组人员全部生还。
+
+争议：An-28 未获得跳伞操作或后门拆除飞行认证，引发了对其适航认证和操作批准的质疑。
+
+独特/聪明：作者用“管子里的头发”比喻来解释电阻，使技术细节更容易理解。 （根据 87% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/90829</guid>
+      <pubDate>Tue, 21 May 2024 23:42:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 今天早些时候，苹果发布了 iOS 和 iPadOS 17.5.1，以解决删除照片的错误 [...]</title>
-      <link>https://t.me/hn_summary/90776</link>
-      <description><![CDATA[Apple 需要解释重新出现已删除照片的错误 
-今天早些时候，Apple 发布了 iOS 和 iPadOS 17.5.1，以解决由于数据库损坏而导致删除的照片重新出现的错误。虽然修补软件是例行公事，但真正的问题是苹果缺乏透明度。已删除的照片预计将继续删除，这使得多年以前的照片突然重新出现成为一个重大的隐私问题。这引发了人们对苹果如何存储照片数据以及用户是否可以相信他们删除的数据确实消失的疑问。尽管多次请求置评，但苹果公司一直保持沉默，这让用户不确定该漏洞的严重程度及其影响。这种沉默令人不安，尤其是对于一家以隐私为荣的公司而言。透明度和负责任的披露对于维持用户信任至关重要，而苹果目前的做法还不够。]]></description>
-      <guid>https://t.me/hn_summary/90776</guid>
-      <pubDate>Tue, 21 May 2024 20:23:21 GMT</pubDate>
+      <title>CircuitBored.com 上的文章，题为“财富不平等背后的驱动力，没有人会 [...]</title>
+      <link>https://t.me/hn_summary/90828</link>
+      <description><![CDATA[没人会告诉你财富不平等背后的驱动力&lt; /a&gt;
+CircuitBored.com 上的文章，标题为“财富背后的驱动力”没有人会告诉你这种不平等。”他认为，大多数富有的人一开始就富有，这一事实使财富不平等长期存在。作者认为，现代企业的成功——无论是在加密货币、股票还是社交媒体名声方面——都需要大量的时间和财务投资，而这对于那些并非天生富有的人来说往往是遥不可及的。这篇文章强调了一个有争议的观点，即许多富人通过裙带关系和税收优惠的慈善机构而不是真正的功绩来维持自己的地位。作者用渔夫的比喻来描述自己的旅程，强调在没有大量初始资源的情况下实现财务独立的困难。文章的结论是，由于缺乏多元化观点和不受约束的精英主义而导致的财富不平等，对社会稳定构成了重大威胁。 （根据 99% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/90828</guid>
+      <pubDate>Tue, 21 May 2024 23:38:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 Kotlin 2.0.0 中，JetBrains 引入了稳定的 Kotlin K2 编译器，现在默认为 [...]</title>
-      <link>https://t.me/hn_summary/90775</link>
-      <description><![CDATA[Kotlin 2.0.0 的新增功能
-在 Kotlin 2.0.0 中，JetBrains 引入了稳定的 Kotlin K2 编译器，现在是所有目标平台（JVM、Native、Wasm、JS）的默认编译器。这个新的编译器提供了显着的性能提升、更快的语言功能开发以及多平台项目的统一架构。稳定过程涉及 18,000 名开发商和 80,000 个项目。可以使用迁移指南来简化过渡。值得注意的是，智能转换改进现在允许更多场景，包括逻辑 OR 运算符、内联函数和异常处理。但是，使用低于 8.3 的 Gradle 版本的项目存在限制。该更新还通过确保编译期间公共源集和平台源集的严格分离来增强 Kotlin Multiplatform。 （根据故事文本的 19% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/90775</guid>
-      <pubDate>Tue, 21 May 2024 20:13:13 GMT</pubDate>
+      <title>[媒体]当我毕业并考虑创业时，我兄弟会的一位校友取得了成功 [...]</title>
+      <link>https://t.me/hn_summary/90827</link>
+      <description><![CDATA[斯坦福创业公司和麻省理工学院创业公司
+当我毕业并考虑创业时，我兄弟会的一位校友，一位成功的企业家，分享了一些深刻的建议。他强调了麻省理工学院和斯坦福创业公司针对同一市场的一个关键区别。斯坦福创业公司快速推出产品、迭代，并利用网络效应或病毒式增长来快速获得回报。相反，麻省理工学院的创业公司专注于开发无懈可击的技术优势，一丝不苟地优化他们的产品。例如，麻省理工学院的创业公司可能会创造一种突破性的氨生产化学工艺，而斯坦福创业公司则销售具有成熟客户模型的可持续家用产品。投资者发现斯坦福方法风险较小，因为它具有市场吸引力，而麻省理工学院的方法虽然具有革命性，但需要大量的审查和资金。要点：成功的初创企业通常将技术开发与市场战略相结合，但从第一天起营销就至关重要。]]></description>
+      <guid>https://t.me/hn_summary/90827</guid>
+      <pubDate>Tue, 21 May 2024 23:28:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]Amber 是一种直接编译为 Bash 的尖端编程语言，提供 [...]</title>
+      <link>https://t.me/hn_summary/90826</link>
+      <description><![CDATA[Amber – 编译为 Bash 的编程语言
+Amber 是一种可直接编译为 Bash 的尖端编程语言，为脚本编写提供现代、类型安全和运行时安全的环境。通过在编译过程中捕获许多错误和错误，Amber 可确保脚本更可靠、无错误。这种创新方法使开发人员能够利用现代语言的稳健性，同时仍使用无处不在的 Bash 进行执行。]]></description>
+      <guid>https://t.me/hn_summary/90826</guid>
+      <pubDate>Tue, 21 May 2024 23:23:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网站：kittenlabs.de</title>
+      <link>https://t.me/hn_summary/90825</link>
+      <description><![CDATA[macOS 和 iOS 上为 25GBit/S
+标题：macOS 和 iOS 上的 25GBit/S
+网站：kittenlabs.de
+
+现代 macOS 和 iOS 设备可以通过 USB4/Thunderbolt 使用 NVIDIA/Mellanox ConnectX 网卡实现极高的网络速度。从 macOS Ventura/13 开始，这些系统包含 AppleEthernetMLX5 驱动程序，支持 ConnectX-4、5 和 6 卡。虽然 ConnectX-4 卡提供双端口 25 GBit/s 连接，但较新的卡可达到 200 GBit/s，但 Thunderbolt/USB4 接口将吞吐量限制在 40 Gbit/s 左右。值得注意的是，不支持 ConnectX-2 和 ConnectX-3 卡。令人惊讶的是，即使是 iPad Pro (M1) 也可以使用此设置进行连接，但只有配备 Apple Silicon/M 系列处理器的型号才支持 Thunderbolt/USB4。巧妙的硬件设置涉及使用 Thunderbolt/USB4 NVMe 存储外壳作为外部 PCIe 外壳。然而，电源要求超出了 USB-C 端口所能提供的范围，因此需要外部电源。虽然此设置还可以将外部 GPU 连接到 Intel/x86 Windows 和 Linux 计算机，但由于硬件限制，它在当前一代 Apple Silicon 上不可行。]]></description>
+      <guid>https://t.me/hn_summary/90825</guid>
+      <pubDate>Tue, 21 May 2024 23:11:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]我很高兴地宣布在 Build 上推出 Copilot+ PC，这是 Windo 的一个新类别 [...]</title>
+      <link>https://t.me/hn_summary/90824</link>
+      <description><![CDATA[Windows Copilot 运行时
+我很高兴地宣布在 Build 大会上推出 Copilot+ PC，这是一种在各个级别都集成了 AI 的 Windows PC 的新类别。这些 PC 具有强大的神经处理单元 (NPU)，与传统 PC 相比，其处理 AI 工作负载的能力提高了 20 倍，效率提高了 100 倍。从高通 Snapdragon X 系列处理器开始，这些设备将于 6 月上市，英特尔和 AMD 将于今年晚些时候推出更多设备。此外，高通适用于 Windows 的 Snapdragon 开发套件提供了一个具有强大规格和环保设计的开发人员友好平台。
+
+我们还推出了 Windows Copilot Runtime，这是一个面向开发人员的综合 AI 平台。其中包括 Windows Copilot 库，该库具有由 40 多个设备上 AI 模型提供支持的 API，以及 Windows 语义索引和 Phi Silica（一种为 NPU 定制的最先进的小语言模型）等新功能。通过 DirectML 和 Web 神经网络 (WebNN) 开发者预览版对 Windows 上的 PyTorch 进行本机支持也是该计划的一部分，使开发人员能够在本机和 Web 应用程序中利用本地芯片实现 AI。
+
+这个新的生态系统旨在实现人工智能开发的民主化，提供工具和框架来加速为超过十亿用户创造创新的人工智能体验。我们致力于使 Windows 成为最开放的 AI 开发平台，通过我们的 Responsible AI 原则确保安全、公平和可信。 （根据 48% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/90824</guid>
+      <pubDate>Tue, 21 May 2024 22:41:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Venture 上的文章“Mojo Rising：人工智能优先编程语言的复兴”[...]</title>
+      <link>https://t.me/hn_summary/90823</link>
+      <description><![CDATA[Mojo 崛起：人工智能优先编程语言的复兴
+VentureBeat 上的文章“Mojo Rising：AI 优先编程语言的复兴”讨论了专门为 AI 开发量身定制的新编程语言的出现。从历史上看，LISP 和 Prolog 这样的语言在人工智能的早期阶段至关重要，引入了符号处理和动态类型等概念。如今，人工智能的需求正在突破 Python、Java 和 C 等流行语言的极限，从而催生了 Mojo、Bend 和适用于 TensorFlow 的 Swift 等人工智能优先语言。 Mojo 由 Modular AI 开发，承诺将 Python 的易用性与高性能结合起来，速度比 Python 快 35,000 倍。这种复苏意味着向满足人工智能独特需求的专用工具的转变，可能会彻底改变人工智能开发和硬件优化。
+
+争议点：文章强调了 Python 在人工智能方面的性能限制，这在其庞大的用户群中可能存在争议。
+
+独特/聪明的方面：Mojo 与现有 Python 生态系统的集成，同时提供显着的性能提升，是弥合易用性和高效率之间差距的聪明方法。]]></description>
+      <guid>https://t.me/hn_summary/90823</guid>
+      <pubDate>Tue, 21 May 2024 22:40:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>问 HN：为什么允许 ChatGPT 通过提示抓取其他网站的数据？</title>
+      <link>https://t.me/hn_summary/90822</link>
+      <description><![CDATA[询问 HN：为什么允许 ChatGPT 通过提示抓取其他网站？
+标题：询问 HN：为什么允许 ChatGPT 通过提示抓取其他网站？
+网站：news.ycombinator.com
+
+作者质疑使用 ChatGPT 从任何 URL 提取 HTML 内容的合法性和道德影响，暗示它可能违反许多网站的服务条款 (TOS)。他们对抓取的合法性表示困惑，尤其是出于商业目的，并怀疑他们是否忽略了这种做法的一些基本内容。该帖子强调了有关使用人工智能工具进行网络抓取的可允许性和道德考虑的潜在争议，这通常不鼓励用于以盈利为目的的项目。]]></description>
+      <guid>https://t.me/hn_summary/90822</guid>
+      <pubDate>Tue, 21 May 2024 22:38:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
