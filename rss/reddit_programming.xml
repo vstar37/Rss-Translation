@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 22 May 2024 00:51:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 03:14:46 GMT</lastBuildDate>
+    <item>
+      <title>Python + Flutter Web/移动应用开发直播</title>
+      <link>https://www.reddit.com/r/programming/comments/1cxouhv/python_flutter_webmobile_app_dev_live_stream/</link>
+      <description><![CDATA[跨平台全栈应用开发    提交人    /u/whitechoc6   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cxouhv/python_flutter_webmobile_app_dev_live_stream/</guid>
+      <pubDate>Wed, 22 May 2024 01:48:38 GMT</pubDate>
+    </item>
     <item>
       <title>第一次在 X 上实现 OAuth：想法</title>
       <link>https://www.reddit.com/r/programming/comments/1cxn7j0/first_time_implementing_oauth_on_x_thoughts/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>Kotlin 2.0.0 的新增功能</title>
       <link>https://www.reddit.com/r/programming/comments/1cxmzqy/whats_new_in_kotlin_200/</link>
-      <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cxmzqy/whats_new_in_kotlin_200/</guid>
       <pubDate>Wed, 22 May 2024 00:13:37 GMT</pubDate>
     </item>
@@ -25,13 +32,6 @@
       <description><![CDATA[ 由   提交/u/Privann   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cxlp62/from_computer_to_production_with_nix/</guid>
       <pubDate>Tue, 21 May 2024 23:12:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我坐在这里再一次站立时的一些想法</title>
-      <link>https://www.reddit.com/r/programming/comments/1cxl5of/some_thoughts_as_i_sit_here_in_another_standup/</link>
-      <description><![CDATA[ 由   提交/u/LloydAtkinson   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cxl5of/some_thoughts_as_i_sit_here_in_another_standup/</guid>
-      <pubDate>Tue, 21 May 2024 22:47:22 GMT</pubDate>
     </item>
     <item>
       <title>“[PATCH] mmc：核心：允许检测锁定的卡”，作者：Daniel Kucera [CMD42、sd 卡、密码]</title>
@@ -55,7 +55,7 @@
       <pubDate>Tue, 21 May 2024 21:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Stripe 的 monorepo 开发人员环境</title>
+      <title>Stripe 的 monorepo 开发者环境</title>
       <link>https://www.reddit.com/r/programming/comments/1cxhkbk/stripes_monorepo_developer_environment/</link>
       <description><![CDATA[ 由   提交/u/Dezgeg  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cxhkbk/stripes_monorepo_developer_environment/</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>JetBrains RustRover 发布并包含免费的非商业选项</title>
       <link>https://www.reddit.com/r/programming/comments/1cxgwmr/jetbrains_rustrover_is_released_and_includes_a/</link>
-      <description><![CDATA[  由    /u/ignatovs  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/ignatovs  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cxgwmr/jetbrains_rustrover_is_released_and_includes_a/</guid>
       <pubDate>Tue, 21 May 2024 19:47:14 GMT</pubDate>
     </item>
