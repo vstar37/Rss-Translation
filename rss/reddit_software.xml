@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 22 May 2024 12:21:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 15:13:08 GMT</lastBuildDate>
+    <item>
+      <title>剪贴板实用程序，根据指示将所有剪辑记录在文本文件中</title>
+      <link>https://www.reddit.com/r/software/comments/1cy24ip/clipboard_utility_that_records_all_the_clippings/</link>
+      <description><![CDATA[嗨！ 我需要一些东西，当我尝试时，它会开始将我的所有 Ctrl + C 转储到文本文件中。 这将使我需要执行的一些轻量级网页抓取更快。 Windows 10 有类似的东西吗？ 谢谢大家！    提交人    /u/Propenso   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cy24ip/clipboard_utility_that_records_all_the_clippings/</guid>
+      <pubDate>Wed, 22 May 2024 14:51:15 GMT</pubDate>
+    </item>
     <item>
       <title>有没有什么好用的PDF阅读软件？</title>
       <link>https://www.reddit.com/r/software/comments/1cxyera/is_there_some_good_app_to_read_aloud_pdfs/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>有什么软件可以把mp3等音频文件转换成sps吗？</title>
       <link>https://www.reddit.com/r/software/comments/1cxx7v4/any_software_that_can_convert_audio_files_such_as/</link>
-      <description><![CDATA[我正在尝试将 mp3 文件转换为 sps 文件，以便可以将它们添加到我的游戏中（nfs mw 2012）我只发现将 sps 转换为 mp3 的提及，但我找不到将 mp3 转换为 sps 的任何内容。    提交人    /u/CheeseisYummy1234   [link] [评论]]]></description>
+      <description><![CDATA[我正在尝试将 mp3 文件转换为 sps 文件，以便我可以将它们添加到我的游戏中(nfs mw 2012) 我只发现提及将 sps 转换为 mp3，但我找不到任何有关将 mp3 转换为 sps 的信息。   由   提交 /u/CheeseisYummy1234   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cxx7v4/any_software_that_can_convert_audio_files_such_as/</guid>
       <pubDate>Wed, 22 May 2024 10:44:43 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Wed, 22 May 2024 08:39:24 GMT</pubDate>
     </item>
     <item>
-      <title>寻找一种可以将 WhatsApp 聊天内容从 iOS 转移到 Android 的软件。</title>
+      <title>正在寻找一款可以将 WhatsApp 聊天从 iOS 转移到 Android 的软件。</title>
       <link>https://www.reddit.com/r/software/comments/1cxu4a9/looking_for_a_software_that_would_allow_to/</link>
       <description><![CDATA[我父亲有两部手机（旧的 iPhone 和较新的 Android），它们都有 WhatsApp。最近，iPhone 变得非常慢并且卡住（这对于 iPhone 来说并不常见，这个是旧的并且被滥用）所以，我一直在寻找一个可以帮助我将 iPhone 的 WhatsApp 转移到 Android 的软件，通过还保持 Android 的 WhatsApp 完好无损并正常运行。基本上，一部手机带有来自 2 个不同 SIM 卡的 2 个 WhatsApp。 请帮助我，iPhone 无法使用。   由   提交/u/akasaiga  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cxu4a9/looking_for_a_software_that_would_allow_to/</guid>
@@ -69,7 +76,7 @@
       <pubDate>Wed, 22 May 2024 04:59:56 GMT</pubDate>
     </item>
     <item>
-      <title>我需要一些关于如何开发类似 Waze 或 Google Maps 的应用程序的建议</title>
+      <title>我需要一些关于如何开发 Waze 或 Google 地图等应用程序的建议</title>
       <link>https://www.reddit.com/r/software/comments/1cxqqq6/i_need_some_advice_to_how_to_do_an_app_like_waze/</link>
       <description><![CDATA[在我的学校，我有一个关于制作一个应用程序的项目，该应用程序可以跟踪一个人使用手机的情况，并在发生崩溃或故障时向该人显示道路前方发生事故。用户将能够报告是否发生任何事故（例如在 Waze 中，哈哈），以及是否有其他可能的方法向用户展示如何避免该事故。 我认为我可以使用 Google 地图的 Api给我们指路，但我不确定它是否也会告诉我事故。 如果没有效果，我也在考虑使用 OpenStreetMap，它就像一个开放且免费的 Google 地图版本 如果有人可以帮助我完成这个项目，我会非常高兴。   由   提交 /u/Head-Photograph2374    reddit.com/r/software/comments/1cxqqq6/i_need_some_advice_to_how_to_do_an_app_like_waze/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cxqqq6/i_need_some_advice_to_how_to_do_an_app_like_waze/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>寻找一个允许任何窗口显示为覆盖的软件</title>
       <link>https://www.reddit.com/r/software/comments/1cxmyl8/looking_for_a_software_that_allows_any_window_to/</link>
-      <description><![CDATA[是否有任何软件可以让我在全屏时点击另一个窗口时，一个窗口变得透明并且不会进入另一个窗口的后面？我希望它允许窗口像覆盖层一样透明，这样我就可以跟踪另一个窗口上的信息，同时专注于另一个窗口的全屏   由   提交 /u/Best-Development9783    reddit.com/r/software/comments/1cxmyl8/looking_for_a_software_that_allows_any_window_to/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[是否有任何软件可以让我在全屏时点击另一个窗口时，一个窗口变得透明并且不会进入另一个窗口的后面？我希望它允许窗口像覆盖层一样透明，这样我就可以跟踪另一个窗口上的信息，同时专注于另一个窗口的全屏   由   提交 /u/Best-Development9783   /u/Best-Development9783 reddit.com/r/software/comments/1cxmyl8/looking_for_a_software_that_allows_any_window_to/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cxmyl8/looking_for_a_software_that_allows_any_window_to/</guid>
       <pubDate>Wed, 22 May 2024 00:12:07 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Tue, 21 May 2024 23:21:03 GMT</pubDate>
     </item>
     <item>
-      <title>“[PATCH] mmc：核心：允许检测锁定的卡”作者：Daniel Kucera [CMD42，SD 卡，密码]</title>
+      <title>“[PATCH] mmc：核心：允许检测锁定的卡”，作者：Daniel Kucera [CMD42、sd 卡、密码]</title>
       <link>https://www.reddit.com/r/software/comments/1cxl2yl/patch_mmc_core_allow_detection_of_locked_cards_by/</link>
       <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cxl2yl/patch_mmc_core_allow_detection_of_locked_cards_by/</guid>
       <pubDate>Tue, 21 May 2024 22:43:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>可执行文件</title>
-      <link>https://www.reddit.com/r/software/comments/1cxk4x8/executables/</link>
-      <description><![CDATA[.exe 或 .apk 是如何制作的？我读到我们使用打包软件编译（不知道如何）python 可执行文件（假设代码部分是用 python 编写的）和其他代码。这是如何工作的？ 比如，它如何自动链接两个代码？ 想象一下，bat 文件 1、2、3 在安装应用程序（下一个 bat 文件在其上运行）时预计会在另一个文件之后运行 您将如何链接它或打包它，以便它作为单个可执行文件工作？ 如果 python 不在 exe 中更新，这不是一个安全问题吗？你是单独更新它还是创建应用程序的版本来更新其组件？即使你单独更新它，Python通常会在更新中丢弃许多关键字和命令，并用替代方案替换它们。如何这有效吗？ 我认为这里更好的方法是一起更新整个包（python 和其他）并更改代码，以便应用程序不会中断，而不是单独更新组件。这是一个愚蠢的问题，但我想知道你的想法。  tl/dr：我是应用程序开发新手，我想知道应该如何开始以及它是如何工作的   由   提交 /u/The_Better_Paradox   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cxk4x8/executables/</guid>
-      <pubDate>Tue, 21 May 2024 22:02:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
