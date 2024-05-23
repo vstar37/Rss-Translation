@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 23 May 2024 06:17:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 09:15:45 GMT</lastBuildDate>
+    <item>
+      <title>FOSS 基本视频编辑器？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cym8pp/foss_basic_video_editors/</link>
+      <description><![CDATA[我只想能够从视频中剪辑出部分内容，然后将视频拼接在一起。我希望能够  通过输入时间或帧号来设置剪辑的开始和结束，而不仅仅是在“大约正确的时间”暂停。 在剪切之前播放我选择的部分（即在所选部分的末尾自动暂停）  Avidemux 和 VidCutter 似乎都不能满足我的要求。我非常希望小于 500MB 的内容，但我愿意接受任何我能接受的内容。    提交人    /u/Iybraesil   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cym8pp/foss_basic_video_editors/</guid>
+      <pubDate>Thu, 23 May 2024 06:32:38 GMT</pubDate>
+    </item>
     <item>
       <title>GPU Faker - 绕过 Arena Breakout Infinite 等游戏施加的 GPU 限制</title>
       <link>https://www.reddit.com/r/opensource/comments/1cyitap/gpu_faker_bypass_gpu_limitations_imposed_by_games/</link>
@@ -34,14 +41,14 @@
       <pubDate>Wed, 22 May 2024 17:55:14 GMT</pubDate>
     </item>
     <item>
-      <title>JIRA、ASANA 和 Monday 的自托管开源替代品</title>
+      <title>JIRA、ASANA 和 Monday 的自托管开源替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1cy4ufg/selfhosted_open_source_alternative_to_jira_asana/</link>
-      <description><![CDATA[大家好！🌟 我们很高兴地宣布，我们的开源工作管理工具 WorkLenz 在 GitHub 上已获得 600 多颗星！🚀 WorkLenz 旨在帮助团队高效地管理任务和资源。如果您正在寻找 JIRA、ASANA 或 Monday 的自托管可定制替代方案，WorkLenz 可能正是您所需要的。 我们正在不断改进和添加新功能，包括简单的 HR 和 CRM 模块。 在这里查看：https://github.com/Worklenz/worklenz 感谢大家的支持！    提交人    /u/kalintush   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 🌟 我们很高兴地宣布，我们的开源工作管理工具 WorkLenz 在 GitHub 上的星数已超过 600 颗！ 🚀 WorkLenz 旨在帮助团队高效管理任务和资源。如果您正在寻找 JIRA、ASANA 或 Monday 的自托管可定制替代方案，WorkLenz 可能正是您所需要的。 我们正在不断改进和添加新功能，包括简单的 HR 和 CRM模块。 在这里查看：https://github.com/Worklenz/worklenz 感谢大家的支持！   由   提交 /u/kalintush   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cy4ufg/selfhosted_open_source_alternative_to_jira_asana/</guid>
       <pubDate>Wed, 22 May 2024 16:42:02 GMT</pubDate>
     </item>
     <item>
-      <title>开源移动应用程序，用于在通过设备数据增强的多模式法学硕士上试验视觉提示</title>
+      <title>开源移动应用程序，用于试验通过设备数据增强的多模 LLM 上的视觉提示</title>
       <link>https://www.reddit.com/r/opensource/comments/1cxxfd4/opensource_mobile_app_for_experimenting_with/</link>
       <description><![CDATA[   /u/Anais9  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cxxfd4/opensource_mobile_app_for_experimenting_with/</guid>
@@ -92,21 +99,14 @@
     <item>
       <title>Lootcode - 一款练习数据结构和算法的奇幻编码游戏</title>
       <link>https://www.reddit.com/r/opensource/comments/1cx9mcj/lootcode_a_fantasy_coding_game_to_practice_data/</link>
-      <description><![CDATA[我和几个朋友完成了这个名为 lootcode 的项目，这是一个奇幻主题的游戏，可以帮助你练习数据结构和算法。它是为 UCF 俱乐部的项目计划构建的，并获得第一名，希望大家尝试一下并提供反馈。 对于所有问题，输入来自标准输入，输出应打印为标准输出。源代码是可用的，但由于问题在站点内的各个区域中相互锁定，我不希望您自己破坏任何内容，因此请谨慎浏览。享受吧:) 这是源代码：https://github.com/Lootcode-Dev/lootcode 这是网站链接：https://www.lootcode.dev 不和谐：https://discord.com/invite/7G7kJzc4pd   由   提交 /u/EvenOddAvg   [链接] [评论]]]></description>
+      <description><![CDATA[我和几个朋友完成了这个名为 lootcode 的项目，这是一个奇幻主题的游戏，可以帮助你练习数据结构和算法。它是为 UCF 俱乐部的项目计划构建的，并获得第一名，希望大家尝试一下并提供反馈。 对于所有问题，输入来自标准输入，输出应打印为标准输出。源代码是可用的，但由于问题在站点内的区域中相互锁定，我不希望您自己破坏任何内容，因此请谨慎浏览。享受吧:) 这是源代码：https://github.com/Lootcode-Dev/lootcode 这是网站链接：https://www.lootcode.dev 不和谐：https://discord.com/invite/7G7kJzc4pd   由   提交 /u/EvenOddAvg   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cx9mcj/lootcode_a_fantasy_coding_game_to_practice_data/</guid>
       <pubDate>Tue, 21 May 2024 14:45:34 GMT</pubDate>
     </item>
     <item>
-      <title>TabSessionManager (sienori)：Chrome 和 Firefox 的备份/恢复会话（Windows/选项卡）| FOSS WebExtension - GitHub</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cx168t/tabsessionmanager_sienori_backuprestore/</link>
-      <description><![CDATA[       由   提交 /u/RedditNoobie777   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cx168t/tabsessionmanager_sienori_backuprestore/</guid>
-      <pubDate>Tue, 21 May 2024 06:21:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在考虑开源人工智能文章生成器，希望得到您关于如何实现它的意见</title>
+      <title>我正在考虑开源一个人工智能文章生成器，希望听听你的意见</title>
       <link>https://www.reddit.com/r/opensource/comments/1cx0on1/i_am_thinking_about_opensourcing_an_ai_article/</link>
-      <description><![CDATA[当我开始第一个项目时，我遇到了获得 SEO 可见性以及生成内容和排名需要多长时间的问题。一个捷径是通过人工智能生成博客文章，但大多数工具质量都很低。 所以我开始尝试结合网络抓取和法学硕士，结果要好得多，内容丰富这更有意义（减少“深入研究”......）。我最终将其产品化（人工智能博客文章）。但我相信对于 OSS 社区来说，拥有一个任何人都可以用来启动他们的 SEO 流量的自托管版本可能会很棒。另外，社区的贡献会让它变得更好。 免责声明：我希望你们中的一些人批评人工智能生成的内容，我也这样做。然而，我认为这是流量开始进入的起点 - 这就是人性化发挥作用的点，重写非常有意义。 您认为这样做会有用吗？它开源吗？   由   提交/u/rbatista191  [链接] [评论]]]></description>
+      <description><![CDATA[当我开始第一个项目时，我遇到了获得 SEO 可见性以及生成内容和排名需要多长时间的问题。一个捷径是通过人工智能生成博客文章，但大多数工具质量都很低。 所以我开始尝试结合网络抓取和法学硕士，结果要好得多，内容丰富这更有意义（减少“深入研究”......）。我最终将其产品化（人工智能博客文章）。但我相信对于 OSS 社区来说，拥有一个任何人都可以用来启动 SEO 流量的自托管版本可能会很棒。另外，社区的贡献会让它变得更好。 免责声明：我希望你们中的一些人批评人工智能生成的内容，我也这样做。然而，我将其视为流量开始进入的起点 - 这就是人性化发挥作用的点，重写非常有意义。 您认为这样做会有用吗？它开源吗？   由   提交/u/rbatista191  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cx0on1/i_am_thinking_about_opensourcing_an_ai_article/</guid>
       <pubDate>Tue, 21 May 2024 05:48:05 GMT</pubDate>
     </item>
