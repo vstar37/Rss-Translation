@@ -3,28 +3,42 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 22 May 2024 21:13:46 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Thu, 23 May 2024 00:51:35 GMT</lastBuildDate>
+    <item>
+      <title>所以我最终把我的js脚本变成了一个chrome扩展，可以让你以15倍的速度观看精彩的Youtube广告。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyfjdh/so_i_finally_turned_my_js_script_into_a_chrome/</link>
+      <description><![CDATA[所以我想在尽可能短的时间内观看尽可能多的广告，我想出了这个想法。  您可以从我的 github 存储库下载扩展文件，然后拖放到您的扩展选项卡中。  https://github.com/Longshoez/skip-ad    由   提交/u/Longshoez  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyfjdh/so_i_finally_turned_my_js_script_into_a_chrome/</guid>
+      <pubDate>Thu, 23 May 2024 00:15:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>维基百科适合我吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cydogg/would_a_wiki_be_right_for_me/</link>
+      <description><![CDATA[我目前正在使用 OneNote 和 Onedrive 来存储一堆基于特定主题的文本、图片、pdf、excel 文件等。我想要一些更加基于网络和统一的东西。 基本上是历史文档、演讲、图片等。如果可能的话，我希望能够引用一堆不同的文件到特定的人、地点、事件或任何。还有其他更好的东西吗？  谢谢。    由   提交/u/GrayManTech  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cydogg/would_a_wiki_be_right_for_me/</guid>
+      <pubDate>Wed, 22 May 2024 22:46:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何购买活跃域名？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyd6i0/how_to_buy_an_active_domain/</link>
+      <description><![CDATA[有人有关于如何请求您想要的已注册域名的资源吗？例如，我想要 abc.com，但它已注册...我该如何联系以要求购买它？   由   提交 /u/LosoTheRed   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyd6i0/how_to_buy_an_active_domain/</guid>
+      <pubDate>Wed, 22 May 2024 22:24:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何建立一个这样的网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cybykp/how_to_build_a_site_like_this/</link>
+      <description><![CDATA[大家好！第一篇文章在这里... 我对为自己建立一个网站作为博客非常感兴趣，也许还可以为我可能想要为其创建网站的其他副项目创建一些其他网站。我对块构建器等非常熟悉，但我一直很想知道这些其他网站到底是如何构建的...那些没有明确说明正在使用 Wordpress 的网站。 例如，这样做吗页面使用Wordpress？ https://eunoia.world/ 如果没有，如何在 WordPress 之外构建网站？我见过一些人谈论框架和其他事情，但这对我来说都是新的。  我是一名数字营销人员，对 Html/Css/JS 有非常基本的了解，过去曾使用这些知识为客户调整登陆页面，但除此之外，还有 WordPress 和托管，对我来说一切都是新的。  p&gt; 我使用 wappalizer chrome 扩展来构建一些网站以及builtwith网站，但我看到的只是框架和编程语言。 这样的页面是如何构建的？这是从头开始构建的还是有模板？这样的事情是如何完成的？我习惯于付费托管，然后在 WordPress 上进行构建。   由   提交 /u/Para-Mount   /u/Para-Mount  reddit.com/r/webdev/comments/1cybykp/how_to_build_a_site_like_this/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cybykp/how_to_build_a_site_like_this/</guid>
+      <pubDate>Wed, 22 May 2024 21:32:40 GMT</pubDate>
+    </item>
     <item>
       <title>关于如何构建某些东西的建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1cyadif/recommendations_on_how_to_build_something/</link>
       <description><![CDATA[我正在尝试构建一些我确实找不到太多研究的东西。我知道这是可以做到的，因为这是一种相当大的媒体消费形式。我正在尝试制作一个文章创建/查看网站。我建立了一个管理页面，可以在其中创建文章，每篇文章都是不同的，并且整篇文章都有图像。我当前的文章架构是 MySQL，我存储 VehicleType、ArticleType、Author、Title、DateUploaded、ThumbnailUrl。我可能把这个问题复杂化了，但是我应该如何让所写的文章能够在网站上查看。我拥有的 WYSIWYG 编辑器创建并返回平面 HTML，但我不知道我是否喜欢这种方法，因为它可能会导致一些漏洞和样式问题，除了将原始 HTML 存储在数据库中之外，这在以下方面也不是很好性能方面。这里有人尝试过制作类似的东西吗？我在网上找到的所有内容都只是关于制作硬编码博客的蹩脚 YouTube 教程。虽然我想要一些我能写出来的东西，但还是把它发布出来。我独自一人从事这个项目，感觉我可能把它变得过于复杂了。 有关堆栈的信息：前端：Vue.js后端：Kotlin Spring (目前正在迁移到 Go）数据库：MySQL（但一直在讨论 MongoDB）我有三个应用程序，我的前端网站，后端，然后是一个文档存储系统，用于存储照片并通过HTTP 请求。   由   提交 /u/Rinsakiii   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cyadif/recommendations_on_how_to_build_something/</guid>
       <pubDate>Wed, 22 May 2024 20:25:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找SaaS套件的前端重度合作伙伴</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cya7xx/looking_for_frontend_heavy_partner_for_saas_kit/</link>
-      <description><![CDATA[我目前在 breakneck.dev 运行 saas 样板工具包 它与通常的 nextjs/laravel 全栈有点不同，因为它只是 c# / aspnetcore 中的后端部分，因此人们可以构建 api 产品、Web 项目或移动应用程序。 &lt;我正在考虑添加所有其他样板所具有的更多可视化部分和功能，但我不想自己编写代码。我的反应还好，但仅此而已。我也不是特别喜欢构建前端。 我正在寻找真正喜欢前端并且可能喜欢设计的人。我认为这会带来更好的产品，也会让我承担更多责任，而且会更有趣。 也许会把它变成更优质的样板产品。后端功能更加丰富，并且由真正了解后端的人构建。而且正面看起来更好看，而且是由真正了解设计的人制作的。  卖点不是“3天内构建你的SaaS”，而是“构建高质量的产品”。反而。我认为无论如何，船舶快速方法都被夸大了。 如果您有兴趣，请通过私信联系我。我已经在做销售了。虽然时间不多，但仍然如此。   由   提交 /u/Venisol   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cya7xx/looking_for_frontend_heavy_partner_for_saas_kit/</guid>
-      <pubDate>Wed, 22 May 2024 20:19:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我很紧张。请烤我的网站 v1.0。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cya64l/im_nervous_please_roast_v10_of_my_site/</link>
-      <description><![CDATA[我需要反馈。我知道一些小事情，但总体印象将不胜感激。  决定​​网络和软件开发   由   提交 /u/Rexcovering   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cya64l/im_nervous_please_roast_v10_of_my_site/</guid>
-      <pubDate>Wed, 22 May 2024 20:16:55 GMT</pubDate>
     </item>
     <item>
       <title>如何整理作品集</title>
@@ -36,7 +50,7 @@
     <item>
       <title>收集客户个人数据的最佳方式</title>
       <link>https://www.reddit.com/r/webdev/comments/1cy9djd/best_way_to_collect_client_personal_data/</link>
-      <description><![CDATA[大家好。您如何收集客户的个人数据，例如，如果您需要银行信息来设置电子商务商店，该怎么办？或者您只是让他们在您转入网站时这样做。或者，如果您需要 paypal、stripe 或 clover 信息来与他们的 POS 系统同步，该怎么办？不亲自到场的情况下，最安全的方法是什么？提前致谢。    提交人    /u/DanCruzNyc   [link] [评论]]]></description>
+      <description><![CDATA[大家好。您如何收集客户的个人数据，例如，如果您需要银行信息来设置电子商务商店，该怎么办？或者你只是让他们在你移交网站时这样做。或者，如果您需要 paypal、stripe 或 clover 信息与他们的 POS 系统同步怎么办？无需亲自进行此操作最安全的方法是什么？提前致谢。   由   提交/u/DanCruzNyc   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cy9djd/best_way_to_collect_client_personal_data/</guid>
       <pubDate>Wed, 22 May 2024 19:44:45 GMT</pubDate>
     </item>
@@ -50,14 +64,14 @@
     <item>
       <title>填写联系我们表单的机器人如何知道垃圾邮件何时被丢弃？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cy7n1h/how_can_bots_filling_out_a_contact_us_form_know/</link>
-      <description><![CDATA[如果这不是适合提出此类问题的正确 subreddit，请提前致歉。 最近我建立了一个小网站，几分钟之内我就通过联系页面收到了垃圾邮件提交。而且我每小时都会收到多封。表单包含姓名、电子邮件和消息字段，100％ 的垃圾邮件都来自 .ru 电子邮件。 有趣的是，我修改了我的 PHP 脚本，该脚本 (a) 通过电子邮件通知我我有新的咨询，并且 (b) 将咨询添加到数据库，以便对所有以 .ru 结尾的电子邮件咨询跳过这两个步骤，但仍显示“感谢您的留言”页面，然后所有垃圾邮件立即开始通过以 .pl 结尾的虚假电子邮件发送。 垃圾邮件机器人如何知道他们的消息已被服务器端过滤掉，并找到绕过此问题的方法？是否仅仅是因为脚本现在运行速度稍微快了一点？    提交人    /u/lostinyourstereo   [link] [comments]]]></description>
+      <description><![CDATA[如果这不是此类问题的正确 subreddit，请提前致歉。 最近为自己建立了一个小网站，几分钟之内我就收到了通过联系页面提交的垃圾邮件。而且我仍然每小时收到多个。该表单包含“姓名”、“电子邮件”和“消息”字段，100% 的垃圾邮件来自 .ru 电子邮件。 有趣的是，我修改了我的 PHP 脚本，(a) 通过电子邮件向我发送了新的询问(b) 将查询添加到数据库中，对于电子邮件以 .ru 结尾但仍显示“谢谢您的消息”的所有查询，跳过这两个步骤。页面，所有垃圾邮件立即开始通过以 .pl 结尾的虚假电子邮件发送。 垃圾邮件机器人如何知道他们的邮件已被服务器端过滤掉，并找到绕过此问题的方法？仅仅是因为脚本现在运行速度快了一些吗？   由   提交 /u/lostinyourstereo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cy7n1h/how_can_bots_filling_out_a_contact_us_form_know/</guid>
       <pubDate>Wed, 22 May 2024 18:34:27 GMT</pubDate>
     </item>
     <item>
-      <title>我如何让人工智能为我创建消息？</title>
+      <title>我如何让 AI 为我创建消息？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cy7f7t/how_do_i_have_ai_create_messages_people_for_me/</link>
-      <description><![CDATA[我经常向来自中国/印度的人发送消息，他们是我可能与之合作的潜在供应商。  如何让人工智能先提出问题，然后筛选他们，并与他们来回回复一段时间？ 我通常在微信/whatsapp 上向他们发送消息，但我可以使用另一个如果需要的话。我的桌面上也有这两个键盘，所以如果有一个可以自动打字和发送消息的人工智能键盘那就完美了。但我如何将其连接到 Chat GPT？ 希望得到您的意见！   由   提交/u/databoy-thatsme  /u/databoy-thatsme  reddit.com/r/webdev/comments/1cy7f7t/how_do_i_have_ai_create_messages_people_for_me/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我经常给来自中国/印度的人发消息，他们可能是我合作的潜在供应商。  我如何让人工智能提出问题来筛选他们，然后与他们来回回复一段时间？ 我通常在微信/WhatsApp 上给他们发消息，但如果有必要，我也会使用其他应用程序。我的桌面上也有这两个应用程序，所以如果有一个可以自动输入和发送消息的人工智能键盘那就太完美了。但我该如何将它连接到 Chat GPT？ 很想听听你对此的意见！    提交人    /u/databoy-thatsme   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cy7f7t/how_do_i_have_ai_create_messages_people_for_me/</guid>
       <pubDate>Wed, 22 May 2024 18:25:51 GMT</pubDate>
     </item>
@@ -69,7 +83,7 @@
       <pubDate>Wed, 22 May 2024 18:15:20 GMT</pubDate>
     </item>
     <item>
-      <title>在网站上托管 AI 模型和创意生成器</title>
+      <title>在网站上托管人工智能模型和创意生成器</title>
       <link>https://www.reddit.com/r/webdev/comments/1cy6971/hosting_ai_models_and_creative_generators_on_a/</link>
       <description><![CDATA[嗨，我目前正在构建一个个人网络应用程序，该应用程序将有不同的 AI 工具可供使用（AI 帖子标题生成器、AI 作家、重写器、图像生成等） 由于我对机器学习世界还很陌生，是否有一个网站拥有可用的托管模型，可以使用  嵌入到网站上？或者类似的东西？ Hugging Face Spaces 是个不错的地方，但有时他们的社区应用程序处于离线状态，也没有简单定制的选项  &amp;# 32；由   提交 /u/majklfromld   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cy6971/hosting_ai_models_and_creative_generators_on_a/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[     &lt;。 /td&gt;  由   提交 /u/oxparadoxpa   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cy50l0/font_not_displaying_correctly_on_browser_it_is/</guid>
       <pubDate>Wed, 22 May 2024 16:49:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>编码还是不编码（我自己）？关于UI套件的一个问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cy3bbm/to_code_or_not_to_code_by_myself_a_question_about/</link>
-      <description><![CDATA[抱歉，如果这是一个菜鸟问题，但我已经自学 webdev 一段时间并进入了中级水平，我有一个问题这个简单的谷歌搜索...提供的主要是在线争论，而不是明确的答案。 问题：我的一个朋友需要一个基本的登陆页面网站。我想为他们创建它，作为新技术的练习。我选择顺风来检查复制粘贴 UI 块，然后调整它们。由于某种奇怪的原因，顺风在我脸上吹了几次。上次我几乎完成了一个页面，但它编译得很糟糕并破坏了整个网站。就像所有 css 都已损坏并且恢复更改不起作用一样，重新安装节点也不起作用。烦恼中浪费了几个小时。 问题：我是否应该使用 tailwindcss 和 bootstrap 等工具？我知道我在自定义 CSS 和响应能力方面遇到了问题 - 我从头开始编写了几个页面，这是一项大量的工作，结果我错过了几个屏幕，而且我的网站只是不起作用。我觉得 Bootstrap 至少让我可以用其响应式 Flex 容器覆盖一些基础，但我自己编写了大部分 CSS 并覆盖了大部分内容。 现在，我喜欢 TailwindCSS 的想法开源组件，但我觉得我可以自己创建这样的组件，然后从我自己的基础上复制粘贴它们，而不用冒外部代码搞乱我的工作的风险。我知道这是一场漫长的争论，但到目前为止，我只有足够的信心来制作登陆页面，然后再进入更复杂的领域。 你有什么建议？ 我希望这不是一个糟糕的子项目，mod 不会立即删除它。 编辑：附加背景 - 我是一名经过培训的平面设计师，我的客户预算很大，可以定制一切，但我也遇到有简单需求的客户（比如所说的只有登陆页面的网站，有点像在线传单）。我想帮助初创企业和低预算的客户，但重新发明轮子的成本很高，而且由于我还没有为自己创建一个库，我想知道 Tailwind/Bootstrap/等是否可以。是要走的路。   由   提交/u/Rare-Insurance5405  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cy3bbm/to_code_or_not_to_code_by_myself_a_question_about/</guid>
-      <pubDate>Wed, 22 May 2024 15:40:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在构建时重命名 tailwindcss 类名？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cy300h/how_to_rename_tailwindcss_classnames_on_build/</link>
-      <description><![CDATA[我有一个 React 项目，它是一个可重复使用的 Web 组件，将插入到 ecom 商店中。像平常一样构建顺风的问题是导致与电子商务商店现有的类名发生冲突，并且弄乱了商店的整个布局。所以我想知道是否有一种方法可以使用 postcss 插件或 webpack 插件重命名构建上的 tailwind 类，可以做到这一点？ 另外，如果不存在这样的插件，我想构建这样，如果您有任何可以提取项目中使用的所有 tailwindcss 类及其相应 css 的插件的信息，那就更好了。 非常感谢任何帮助。 &lt; /div&gt;  由   提交 /u/HelloPipl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cy300h/how_to_rename_tailwindcss_classnames_on_build/</guid>
-      <pubDate>Wed, 22 May 2024 15:27:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
