@@ -4,20 +4,27 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 23 May 2024 18:15:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 21:11:51 GMT</lastBuildDate>
     <item>
-      <title>Openthesia：类似于 Synthesia 的开源替代方案</title>
+      <title>宣布 Pomerium v​​0.26！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cz3dm1/announcing_pomerium_v026/</link>
+      <description><![CDATA[ 由   提交/u/Pomerium_CMo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cz3dm1/announcing_pomerium_v026/</guid>
+      <pubDate>Thu, 23 May 2024 20:52:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>mailmerge-js：具有“模糊”AI 模板的开源 Gmail 自动化 CLI</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cz0pxg/mailmergejs_opensource_gmail_automation_cli_with/</link>
+      <description><![CDATA[我和我的联合创始人发现我们最近发送了很多冷外展邮件，并且对那里的邮件工具不太满意。我们构建了 mailmerge-js 供内部使用，以帮助我们起草定制邮件，现在我们将其开源，看看其他人是否会发现它有用。  https://github.com/WarmSaluters/mailmerge-js   由   提交 /u/warmsaluter   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cz0pxg/mailmergejs_opensource_gmail_automation_cli_with/</guid>
+      <pubDate>Thu, 23 May 2024 19:02:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Openthesia：类似于 Synthesia 的开源替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1cyyn4l/openthesia_open_source_alternative_similar_to/</link>
       <description><![CDATA[大家好，只是想与像我这样的普通钢琴爱好者分享我在过去 2/3 周内制作的这个小软件。它是一个 midi 可视化工具，具有一些功能，如 midi 播放和录制/导出、风格个性化、注释符号、不同的播放和移动速度等。 网站：https://openthesia.pages.dev/ 源代码：https:// github.com/ImAxel0/Openthesia 展示视频：https://youtu.be/PMJwmzkHlSo    由   提交 /u/Im-_-Axel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cyyn4l/openthesia_open_source_alternative_similar_to/</guid>
       <pubDate>Thu, 23 May 2024 17:35:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Geogebra 正在悄悄放弃对 Linux 的支持</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cyxx4e/geogebra_is_silently_dropping_support_for_linux/</link>
-      <description><![CDATA[ 由   提交/u/medin2023  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cyxx4e/geogebra_is_silently_dropping_support_for_linux/</guid>
-      <pubDate>Thu, 23 May 2024 17:05:26 GMT</pubDate>
     </item>
     <item>
       <title>GitHub - cladur/沉默</title>
@@ -41,7 +48,7 @@
       <pubDate>Thu, 23 May 2024 12:01:01 GMT</pubDate>
     </item>
     <item>
-      <title>即将推出的全新开源数字工作场所</title>
+      <title>即将推出的新开源数字工作场所</title>
       <link>https://www.reddit.com/r/opensource/comments/1cyp7l8/new_upcoming_open_source_digital_workplace/</link>
       <description><![CDATA[Twake Workplace 旨在 100% 安全可靠。通过真正的开源一体化数字套件提高您的效率。增强您职业和私人生活各个方面的安全性。  在 twake.app 上发现更多信息，并开始您的更安全、更高效的工作流程之旅！    由   提交/u/Twake-App  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cyp7l8/new_upcoming_open_source_digital_workplace/</guid>
@@ -62,7 +69,7 @@
       <pubDate>Thu, 23 May 2024 03:05:41 GMT</pubDate>
     </item>
     <item>
-      <title>Phi-3 Vision：微软的小型但高效的多模式模型</title>
+      <title>Phi-3 Vision：微软推出的一款小巧而高效的多模态模型</title>
       <link>https://www.reddit.com/r/opensource/comments/1cydkns/phi3_vision_a_small_yet_efficient_multimodal/</link>
       <description><![CDATA[微软已经完成了 Phi-3 系列模型的发布，其中还有 Phi-3 Vision，这是一款由 Phi 提供支持的多模式模型-3 Mini，只有（是的，只有！）4.2B 参数。尽管如此，它还是能够达到并与其他强大的多式联运车型相媲美……我希望看到越来越多的车型朝着这个方向发展！啊...此外，它是一个完整的开源模型！！！ 有关它的指南：https://didyouknowbg8.wordpress.com/2024/05/23/phi-3-vision-seeing-and-understanding- the-world-with-ai/ 希望有用！   由   提交 /u/Gloomy-Log-2607   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cydkns/phi3_vision_a_small_yet_efficient_multimodal/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[      由   提交/u/yossthedev  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cxx0rh/i_am_building_this_image_optimization_tool/</guid>
       <pubDate>Wed, 22 May 2024 10:31:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们很高兴地宣布推出一个新的播客，展示“𝐎𝐩𝐞𝐧 S𝐨𝐮𝐫𝐜𝐞 𝐟𝐨𝐫 𝐂𝐥𝐢𝐦𝐚𝐭𝐞”及其背后的人物和故事的变革力量。开源运动是带来可信知识、技术和集体行动的关键。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cxv1uc/we_are_excited_to_announce_the_launch_of_a_new/</link>
-      <description><![CDATA[    /u/augspurger  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cxv1uc/we_are_excited_to_announce_the_launch_of_a_new/</guid>
-      <pubDate>Wed, 22 May 2024 08:09:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
