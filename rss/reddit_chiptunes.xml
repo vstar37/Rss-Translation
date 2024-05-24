@@ -3,10 +3,17 @@
   <channel>
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
-    <description>一个致力于用最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Fri, 24 May 2024 06:17:02 GMT</lastBuildDate>
+    <description>一个致力于音乐的社区，从最少的事情中获得最大的收益。老游戏风格的音乐，例如C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD等。</description>
+    <lastBuildDate>Fri, 24 May 2024 09:14:08 GMT</lastBuildDate>
     <item>
-      <title>[POKEY] Koto 的“Visitors”，空间合成器经典之作。</title>
+      <title>yalk DX - “特别凯特/凯瑟琳的剪辑”（schismtracker/.it EP 现已在原理图记录中推出）</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1cze6ac/yalk_dx_special_kate_katherines_cut/</link>
+      <description><![CDATA[       由   提交/u/breakfastsquid  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1cze6ac/yalk_dx_special_kate_katherines_cut/</guid>
+      <pubDate>Fri, 24 May 2024 06:20:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[POKEY] Koto 的“Visitors”，一首太空合成器经典。</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cz00z4/pokey_kotos_visitors_a_spacesynth_classic/</link>
       <description><![CDATA[       由   提交/u/makarybrauner  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cz00z4/pokey_kotos_visitors_a_spacesynth_classic/</guid>
@@ -18,13 +25,6 @@
       <description><![CDATA[      😌👌   由   提交/u/we8bit  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cyy0hy/end_of_the_dark_16bit_no_console_limits_yt_link/</guid>
       <pubDate>Thu, 23 May 2024 17:09:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>听到这个你第一个想到的游戏是什么？</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1cyxd11/whats_the_first_game_you_think_of_when_you_hear/</link>
-      <description><![CDATA[   /u/WhichFuel3835   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1cyxd11/whats_the_first_game_you_think_of_when_you_hear/</guid>
-      <pubDate>Thu, 23 May 2024 16:42:53 GMT</pubDate>
     </item>
     <item>
       <title>2A03 带有 DPCM 鼓样本的草图</title>
@@ -48,7 +48,7 @@
       <pubDate>Wed, 22 May 2024 20:56:42 GMT</pubDate>
     </item>
     <item>
-      <title>GINKO ULTRA 的饥饿电路仪式（ft. Neutral Labs）</title>
+      <title>GINKO ULTRA 的 Starved Circuit Ritual（ft. Neutral Labs）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cy2d0s/starved_circuit_ritual_by_ginko_ultra_ft_neutral/</link>
       <description><![CDATA[      由 GINKO ULTRA 现场创作/表演/录制     由   提交  /u/GINKO-ULTRA-3000   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cy2d0s/starved_circuit_ritual_by_ginko_ultra_ft_neutral/</guid>
@@ -57,19 +57,19 @@
     <item>
       <title>LoFi Gameboy Chill Beats</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cy0n63/lofi_gameboy_chill_beats/</link>
-      <description><![CDATA[https://www.youtube.com /watch?v=2ybnmCkdWZg 我工作时总是听LoFi音乐，所以我想整理一个LoFi Girl风格的GB音乐合集。更多内容即将推出。   由   提交/u/beatscribe  [链接] [评论]]]></description>
+      <description><![CDATA[https://www.youtube.com/watch?v=2ybnmCkdWZg 我工作时总是听 LoFi 音乐，所以我想整理一个 LoFi Girl 风格的 GB 音乐合集。更多内容正在制作中。    提交人    /u/beatscribe   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cy0n63/lofi_gameboy_chill_beats/</guid>
       <pubDate>Wed, 22 May 2024 13:46:37 GMT</pubDate>
     </item>
     <item>
-      <title>有没有办法轻松编辑 Gameboy 音乐文件？</title>
+      <title>有没有办法可以轻松编辑 Gameboy 音乐文件？</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cxo617/is_there_a_way_to_easily_edit_gameboy_music_files/</link>
       <description><![CDATA[您好！这里是芯片音乐的忠实粉丝，但在制作方面却完全是新手。我是一名配音演员，以录制同人小说为生，令人惊讶的是，我获得了乔恩·邓恩 (Jon Dunn) 的许可，在 Gameboy 的《侏罗纪公园》中使用他的音乐作为片头和片尾音乐床。 （是的，我确切地告诉了他它的用途。他是一个非常好的人。）我在编辑方面所寻找的只是非常简单的东西，与为我想要的音乐片段找到良好的截止点有关使用，这样我就可以在持续和弦上结束乐句，而不是立即过渡到下一个部分。有没有软件可以让这件事变得相对简单？我发现了一些扩展名为 .ftm 的文件，这足以满足我的目的吗？   由   提交/u/samgabrielvo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cxo617/is_there_a_way_to_easily_edit_gameboy_music_files/</guid>
       <pubDate>Wed, 22 May 2024 01:13:14 GMT</pubDate>
     </item>
     <item>
-      <title>“嘿嘿”准将 64</title>
+      <title>“希豪”准将 64</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cx1nk5/heehaw_commodore_64/</link>
       <description><![CDATA[     &lt; /td&gt; 原始曲子最初在 PS5 上在梦中起作用，听起来像 Sid 曲子，因为我没有实际的 C64。    由   提交/u/Ok-Ability-6965   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cx1nk5/heehaw_commodore_64/</guid>
