@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 24 May 2024 12:21:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 15:15:00 GMT</lastBuildDate>
+    <item>
+      <title>有哪些很酷的工具？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1czmn0x/what_cool_tools_are_out_there/</link>
+      <description><![CDATA[在我的工作中，我们有一个技术探索周，我们可以花几天时间研究对我们的开发团队有益的新/酷工具。我们的想法是研究其中一些工具，并制作一个演示/原型（如果适用）。 我们现有的技术堆栈是 PHP / Laravel / Apache / AWS / MySQL / Vue.js，因此理想情况下它应该是可以补充这些工具的东西。但是，我们目前不在寻找新的框架/UI 库/IDE。 它也不必是可安装的软件包，它可以是在线服务的形式，例如 CI / CD 服务。 我很想听听那里的情况。最近有什么让你大吃一惊的事情，或者让你的生活变得轻松很多的事情吗？    提交人    /u/uk_g   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1czmn0x/what_cool_tools_are_out_there/</guid>
+      <pubDate>Fri, 24 May 2024 14:53:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何验证组件优化？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1czkl1y/how_to_verify_component_optimization/</link>
+      <description><![CDATA[您好， 我目前正在优化一个页面，该页面嵌入了图表库的框架。具体来说，图表具有获取数据的挂钩、呈现图形的函数、交互元素（弹出窗口、条件呈现、工具提示）以及以不同方式格式化和显示数据的图形选项。 问题是，如何我验证我的优化技术有效吗？我尝试通过（1）延迟加载、（2）记忆、（3）回调和（4）代码分割来优化代码，但我不知道如何具体测试“性能”是否正常。改善与否。我想到的性能指标是加载速度、内存使用量和使用的存储量。 如果有人可以分享他们如何测试组件性能，或者是否有任何其他测试，那就太好了我应该研究的优化方法。 提前致谢。   由   提交 /u/furriestsnake   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1czkl1y/how_to_verify_component_optimization/</guid>
+      <pubDate>Fri, 24 May 2024 13:20:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>在通过 POST 上传到后端之前创建一个 gzip 压缩的 tar 球</title>
+      <link>https://www.reddit.com/r/webdev/comments/1czkgey/creating_a_gzipped_tar_ball_before_uploading_to/</link>
+      <description><![CDATA[你好， 我正在尝试找到一种方法，从我从一个文件中获得的一组文件中创建一个 gzip 压缩的 tar 文件。输入 type=“file”的 html 标签。我似乎找不到任何可以在我的反应应用程序中使用的库。我尝试过 tar-js 和 node-tar，但在使用 vite 构建的 React 应用程序中使用它时运气不佳。 有人能给我指出正确的方向吗？或者这是不可能的?   由   提交/u/Logan064  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1czkgey/creating_a_gzipped_tar_ball_before_uploading_to/</guid>
+      <pubDate>Fri, 24 May 2024 13:14:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于那些处于初级水平并且对人工智能感到怀疑的人，你有什么建议？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1czk6f0/what_advice_would_you_give_to_someone_who_is_at/</link>
+      <description><![CDATA[如果你在 2024 年开始你的职业生涯，伴随着人工智能的炒作，你会做什么？  我真的不知道该相信哪个来源。还值得继续吗？我应该回去施工吗？绑个绳子..？  我真的不知道。我看到了这样的趋势：  如果我问一位前辈，他会拒绝我，并说人工智能在成为值得担心的事情之前还有 10 年的时间。  如果我问一个在他们的领域还不错的人 - 人工智能将在下个月取代所有人，我们会挨饿......？   任何地方都没有明确的信息来源……我很抱歉写了这样一篇可悲且充满恐惧的帖子。任何建议将不胜感激。   由   提交/u/Cataclyps-  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1czk6f0/what_advice_would_you_give_to_someone_who_is_at/</guid>
+      <pubDate>Fri, 24 May 2024 13:01:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一个简单的网络工具的起点</title>
+      <link>https://www.reddit.com/r/webdev/comments/1czk2pi/looking_for_where_to_start_for_a_simple_web_tool/</link>
+      <description><![CDATA[我玩的游戏有一个角色 构建者 &lt; /a&gt;但老实说，它对于社区当前的需求来说确实很糟糕。我认为尝试自己构建一个可能是一项有趣的任务，但大多数“开箱即用”的任务都是由我自己构建的。网络开发网站专注于制作烹饪博客或销售自制蜡烛。我只是想知道对于零网络开发经验的人来说，制作这样一个简单工具的良好起点在哪里。我有一些使用 python 的经验，所以如果有帮助的话，我对编程并不陌生。另外，我并不是想以此为职业，只是认为这将是一个有趣的小副项目。谢谢！   由   提交 /u/alpineGiant   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1czk2pi/looking_for_where_to_start_for_a_simple_web_tool/</guid>
+      <pubDate>Fri, 24 May 2024 12:55:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何处理后端错误钻取？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1czjn28/how_to_handle_backend_error_drilling/</link>
+      <description><![CDATA[在我们公司，我们有 10 多个后端 REST 服务相互通信。有时服务会出错并返回 413，处理方式取决于服务。有些会透明地将错误返回给客户端，有些会捕获错误并重新抛出新的错误。这样做的问题是，这使得追踪原始错误的来源变得非常困难。是来自顶层后端的吗？它在微服务之一中吗？如何处理一般 HTTP 错误并通过后端链有效地跟踪它们？   由   提交/u/butifarra_exiliada   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1czjn28/how_to_handle_backend_error_drilling/</guid>
+      <pubDate>Fri, 24 May 2024 12:32:52 GMT</pubDate>
+    </item>
     <item>
       <title>咆哮：平面设计师与网页设计师</title>
       <link>https://www.reddit.com/r/webdev/comments/1czjcjs/rant_graphic_designers_vs_web_designers/</link>
@@ -15,7 +57,7 @@
     <item>
       <title>溢出自动元素填充父级宽度的 100%，这是一个弹性项目</title>
       <link>https://www.reddit.com/r/webdev/comments/1czj615/overflow_auto_element_fill_100_of_parents_width/</link>
-      <description><![CDATA[https://jsfiddle.net/tnfd8ru6/22/  所以基本上列表（黄色）有 overlflow: auto; 我希望它填充整个宽度（由于溢出自动隐藏的项目（绿色）通过滚动显示），但父项（橙色）没有固定宽度，因为它是一个弹性项目，允许作为其同级的侧边菜单（棕色）。 如果您单击内容，列表类将改变尝试不同的东西，如固定宽度，100vw和align-self：拉伸（橙色是带有方向列的柔性） 有什么想法如何修复它吗？ 换句话说：我希望列表不延伸到屏幕边缘的右侧。 （由于菜单的原因，100vw 太宽，fixed_width 太小，其他选项将其扩展到所有项目 [= 太宽] )   由   提交/u/luiluilui4  [链接] [评论]]]></description>
+      <description><![CDATA[https://jsfiddle.net/qfwo5rtL/  所以基本上列表（黄色）有 overlflow: auto; 我希望它填充整个宽度（由于溢出自动，隐藏的项目（绿色）通过滚动显示），但父项（橙色）没有固定宽度，因为它是一个弹性项目，允许其同级菜单（棕色）。 如果您单击内容，列表类将更改为尝试不同的东西，如固定宽度，100vw和align-self：拉伸（橙色是带有方向列的柔性） 有什么想法如何修复它吗？ 换句话说：我想要列表不延伸到屏幕边缘右侧。 （由于菜单的原因，100vw 太宽，fixed_width 太小，其他选项将其扩展到所有项目 [= 太宽]）   由   提交/u/luiluilui4  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1czj615/overflow_auto_element_fill_100_of_parents_width/</guid>
       <pubDate>Fri, 24 May 2024 12:06:46 GMT</pubDate>
     </item>
@@ -36,21 +78,21 @@
     <item>
       <title>TestDome“面试”评估</title>
       <link>https://www.reddit.com/r/webdev/comments/1czi2zj/testdome_assessment_for_interview/</link>
-      <description><![CDATA[刚刚完成 TestDome 上的考试，如果您曾经遇到过同样的事情，我只是想警告您一些事情：  必须在整个采访过程中录制整个屏幕、网络摄像头和麦克风 无法在代码文本框内进行 Tab 键操作，因此请准备好 replit 或您的 IDE -他们禁用了说明上的文本选择，因此，如果您打开 IDE 或 replit，请准备好拆分窗格解决方案，因为您可以在工作时阅读说明 您可以在问题之间休息一下，但仅限如果您在时间结束之前提交了问题。因此，如果您感到压力，请确保不要让计时器耗尽，如果您自己不结束它，它会自动开始下一个问题 这是主观的，但时间限制因为其中一些问题是荒谬的。 2 分钟阅读并回答有关 React Portal 的问题（如果这是您第一次使用某些东西并需要参考，祝您好运）  坦白说，这是迄今为止我经历过的最糟糕的面试经历我的网络摄像头必须一直开着，这一事实使得这也是最尴尬的采访之一。我已经通过 Zoom 进行了实时代码面试。 如果我必须再次这样做，我会请求带回家测试。或请求是否可以遮盖网络摄像头。很难想象还有比这更糟糕、更容易引发焦虑的面试场景。    由   提交 /u/GludiusMaximus   [链接] [评论]]]></description>
+      <description><![CDATA[刚刚完成 TestDome 上的考试，如果您曾经遇到过同样的事情，我只是想警告您一些事情：  必须在整个采访过程中录制整个屏幕、网络摄像头和麦克风 无法在代码文本框内进行 Tab 键操作，因此请准备好 replit 或您的 IDE -他们禁用了说明上的文本选择，因此，如果您打开 IDE 或 replit，请准备好拆分窗格解决方案，因为您可以在工作时阅读说明 您可以在问题之间休息一下，但仅限如果您在时间结束前提交了问题。因此，如果您感到压力，请确保不要让计时器耗尽，如果您自己不结束它，它会自动开始下一个问题 这是主观的，但时间限制因为其中一些问题是荒谬的。 2 分钟阅读并回答有关 React Portal 的问题（如果这是您第一次使用某些东西并需要参考，祝您好运）  坦白说，这是迄今为止我经历过的最糟糕的面试经历我的网络摄像头必须一直开着，这一事实使得这也是最尴尬的采访之一。我已经通过 Zoom 进行了实时代码面试。 如果我必须再次这样做，我会请求带回家测试。或请求是否可以遮盖网络摄像头。很难想象还有比这更糟糕、更容易引发焦虑的面试场景。    由   提交 /u/GludiusMaximus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1czi2zj/testdome_assessment_for_interview/</guid>
       <pubDate>Fri, 24 May 2024 11:02:31 GMT</pubDate>
     </item>
     <item>
-      <title>数字名片</title>
+      <title>数字访问卡</title>
       <link>https://www.reddit.com/r/webdev/comments/1czhzpz/digital_visit_card/</link>
-      <description><![CDATA[大家好，我希望我没有问一个复杂的问题。也就是说，我的老板有一张只包含二维码的名片，扫描该二维码后，会显示他的数字名片的 URL。他想要的是只有拥有实体名片的人才能访问该二维码。具体来说，当打开数字名片的链接并将相同的链接发送给其他人时，接收该链接的其他人无法打开他的数字名片。 我感兴趣的是这是否可能以及如何实现？ 提前谢谢您，祝一切顺利！   由   提交 /u/hablekeke   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我希望我没有问一个复杂的问题。也就是说，我的老板有一张只包含二维码的名片，扫描该二维码后，会显示他的数字名片的 URL。他想要的是只有拥有实体名片的人才能访问该二维码。具体来说，当打开数字名片的链接并将同一链接发送给其他人时，接收该链接的其他人无法打开他的数字名片。 我感兴趣的是这是否可能以及如何实现？ 提前谢谢您，祝一切顺利！   由   提交 /u/hablekeke   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1czhzpz/digital_visit_card/</guid>
       <pubDate>Fri, 24 May 2024 10:56:56 GMT</pubDate>
     </item>
     <item>
-      <title>关于 CSS 和网站上源/显示中图标的不同颜色的初级问题。</title>
+      <title>关于 CSS 和网站源/显示中图标的不同颜色的初级问题。</title>
       <link>https://www.reddit.com/r/webdev/comments/1czhdr7/junior_question_about_css_and_different_color_of/</link>
-      <description><![CDATA[您好，我目前正在开发自己的项目网站，该网站与英雄联盟游戏相关。我参考了很多他们的官方网站，我偶然发现了这个问题：他们的网站上有不同的图标。在开发控制台中，我找到了这些图标的源代码以在我自己的项目中使用，但问题是：图标的源代码具有一种颜色（对于 示例），但在网站上有不同的 颜色。谁能解释一下他们是如何改变颜色的，因为我查看了代码，但无法复制它。 编辑：我成功了，感谢您的回复。如果有人遇到同样的问题，这就是我修复它的方法：将带有 src 的 img 标签用于图标 svg，并在 scss 中应用“过滤器”带有所需的参数。使用此网站来选择颜色。   由   提交 /u/Amplify_Magic   [链接] [评论]]]></description>
+      <description><![CDATA[您好，我目前正在开发自己的项目网站，该网站与游戏《英雄联盟》相关。我参考了很多他们的官方网站，但遇到了这个问题：他们的网站上有不同的图标。在开发控制台中，我找到了这些图标的源代码，可以在自己的项目中使用，但问题是：图标的源代码有一种颜色（例如示例），但在网站上它有不同的颜色。有人能解释一下他们是如何改变颜色的吗，因为我查看了代码但无法复制它。 编辑：我让它工作了，谢谢回复。如果有人遇到同样的问题，这就是我修复它的方法：使用带有 src 的 img 标签到图标 svg，并在 scss 中应用带有所需参数的“filter”。使用此网站选择颜色。    提交人    /u/Amplify_Magic   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1czhdr7/junior_question_about_css_and_different_color_of/</guid>
       <pubDate>Fri, 24 May 2024 10:15:52 GMT</pubDate>
     </item>
@@ -67,48 +109,6 @@
       <description><![CDATA[如标题所示。如此多的网站/网络应用程序只有最低限度或不安全的 CSP...为什么会这样？他们是否依靠其他方法来保护其平台免受攻击和注入？ （我知道 HTTP 标头可以防止某些形式的攻击，但是它们可以使 CSP 变得多余吗？）   由   提交/u/ExplorerTechnical808  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1czh9dx/why_is_content_security_policy_neglected_by_so/</guid>
       <pubDate>Fri, 24 May 2024 10:07:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>数学帮助，大范围概率的随机结果</title>
-      <link>https://www.reddit.com/r/webdev/comments/1czh0qr/math_help_random_outcome_from_a_very_large_range/</link>
-      <description><![CDATA[大家好， 正如你所猜测的，数学不是我的强项，这是我认为我应该回到大学学习计算机科学的情况之一！啊！ 好吧，不管怎样。 我需要在 PHP 中根据这些概率生成一个随机结果，但我在为此创建函数时遇到了麻烦。 是的，我已经问过聊天 gpt，但答案似乎不准确。 有人愿意帮忙吗？ 如果结果 3 的百分比没有那么低，这会更容易 非常感谢 概率：  结果 1 - 10% 结果 2 - 85% 结果 3 - 1 / 302344 结果 4 - 其余概率保留为 100%     提交人    /u/Nunoc11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1czh0qr/math_help_random_outcome_from_a_very_large_range/</guid>
-      <pubDate>Fri, 24 May 2024 09:49:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>一遍又一遍地使用相同的代码。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1czgt4j/using_the_same_code_over_and_over/</link>
-      <description><![CDATA[嘿伙计们，几个月前，我构建了一个应用程序。在应用程序中，我创建了一个注册和登录页面。 现在，每当我构建另一个应用程序时，我只需获取该页面的后端代码并复制它，根据需要更改一些内容。它节省了很多时间，但我开始怀疑它是否会毁掉我的学习，因为我现在不会；甚至认为大部分时间我都在使用该代码。 重用代码是不好还是很好？我也许可以再次弄清楚，但这需要我一天而不是一两个小时。我应该这样做吗？   由   提交 /u/Tesla420A   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1czgt4j/using_the_same_code_over_and_over/</guid>
-      <pubDate>Fri, 24 May 2024 09:34:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monorepo、NX 和部署</title>
-      <link>https://www.reddit.com/r/webdev/comments/1czgoit/monorepo_nx_deployments/</link>
-      <description><![CDATA[你好！ 我目前正在开发一个新项目，我和我的团队选择了 monorepo 方法（前面仅-结束）。我们的目的是最终将其他 Angular 应用程序迁移到这个 monorepo 中。这个决定是有道理的，因为所有应用程序都是同一产品的一部分，共享大量功能和界面，并且由相同的开发人员维护。 当前堆栈： - &lt; strong&gt;NX（具有一个根 package.json 的集成样式）19.0.7 - Angular 17.3.0 - GitLab 用于存储库托管和处理 CI/CD 管道 要求： - 每个应用程序都需要按照自己的发布计划单独部署。 - 每个应用程序都需要自己的版本号。 - 我们可能会发布也需要自己的版本控制和部署计划的库。 最初，我们选择使用单个 package.json 来保持一致性，特别是对于 Angular 版本更新，使我们能够同时迁移所有应用程序当新版本发布时。 挑战和问题：  分别对应用程序和库进行版本控制：  我们如何管理 monorepo 中每个应用程序和可发布库的单独版本控制？  CI/ CD 管道：  我们如何处理部署、变更日志和版本冲突的管道？理想情况下，我们希望： 手动触发管道进行部署。 更新应用程序/lib的版本。 生成正确的变更日志。 生成正确的变更日志。 li&gt; 升级版本。 自动部署到我们的临时环境。 为我们的生产环境创建一个作业，稍后可以手动触发。   变更日志和发行说明：  我们如何管理变更日志和发行说明有效吗？ 我们如何跟踪具有单独部署计划的不同项目的提交？   示例场景： - 我们有两个应用程序，app-1 和 app-2，它们都依赖于共享库 lib-x。 - 如果 lib-x 已更新，并且 app-1 在第 1 周部署，则 app-1 的变更日志和发行说明应反映对 lib-x 的更新。 - 如果 app-2 在第 3 周部署（没有对 lib-x 进行任何进一步更新），则 app-2 的变更日志和发行说明&gt; 还应包括对 lib-x 的先前更新。 具体问题： - 我们如何跟踪不同部署中共享库的更新各种应用程序的时间表？ - 在项目不指定共享库版本的集成风格中，我们如何确保这些库的更新反映在依赖应用程序的部署和变更日志中？ 任何有洞察力的输入或资源非常多感谢，因为我一直在努力寻找这方面的有凝聚力的资源。   由   提交 /u/Wigglystoff   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1czgoit/monorepo_nx_deployments/</guid>
-      <pubDate>Fri, 24 May 2024 09:24:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>您将如何从数据库动态构建这样的图表？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1czglpw/how_would_you_build_a_diagram_like_this/</link>
-      <description><![CDATA[       由   提交/u/Prior_Car_7115   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1czglpw/how_would_you_build_a_diagram_like_this/</guid>
-      <pubDate>Fri, 24 May 2024 09:18:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于查询捕获（如反应查询）来说是不错的选择，但是对于有状态服务器？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1czgkpm/good_options_for_query_catching_like_react_query/</link>
-      <description><![CDATA[最近在研究 Web 套接字，并试图弄清楚是否有一个类似于 React 查询但有意义的良好数据获取库并在通过 websocket 连接的有状态服务器上工作。目的是管理有状态服务器上的缓存和加载/错误状态。因此，前端由于发送一些 websocket 消息而触发服务器上的获取，服务器会回复缓存值或加载状态，并随后发送包含所需数据的后续消息。  axios 是解决这类事情的首选，然后自己推出自己的解决方案，还是还有其他建议？    由   提交 /u/JohntheAnabaptist   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1czgkpm/good_options_for_query_catching_like_react_query/</guid>
-      <pubDate>Fri, 24 May 2024 09:16:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>JSON 架构注册表</title>
-      <link>https://www.reddit.com/r/webdev/comments/1czfoxb/json_schema_registry/</link>
-      <description><![CDATA[我有一个问题，它与 https://&quot;&gt;https:// /www.schemastore.org/json/、Apache Kafka、Avro、Confluence 我们开发 REST 接口，并使用 JSON 架构重用和传达预期的数据格式。我们尝试通过在模式中 $ref-ing 来重用概念。 我们想要的是一种 JSON 模式知识库、一个 json 模式存储或 json 模式注册表，这有助于识别现有的 JSON 模式以及存储在这些模式中的概念=实体。 有任何解决方案吗？   由   提交/u/JohnDoe365  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1czfoxb/json_schema_registry/</guid>
-      <pubDate>Fri, 24 May 2024 08:09:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
