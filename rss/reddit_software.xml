@@ -4,11 +4,11 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 25 May 2024 18:14:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 21:11:06 GMT</lastBuildDate>
     <item>
       <title>寻找硬盘监控软件</title>
       <link>https://www.reddit.com/r/software/comments/1d0huu4/looking_for_hard_disk_monitoring_software/</link>
-      <description><![CDATA[我正在寻找一款适用于 Windows 11 的安全且免费的硬盘监控软件，很久以前我听说过一款可以用来检查磁盘使用时间的软件，如果有人能告诉我该程序或类似程序的名称，我将不胜感激    提交人    /u/ovelx2   [link] [评论]]]></description>
+      <description><![CDATA[我正在寻找 Windows 11 中可用的安全且免费的硬盘监控软件，很久以前我听说过一个可以用来检查的软件你的磁盘的使用时间，如果有人能告诉我该程序或类似程序的名称，我将不胜感激   由   提交/u/ovelx2  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d0huu4/looking_for_hard_disk_monitoring_software/</guid>
       <pubDate>Sat, 25 May 2024 18:09:20 GMT</pubDate>
     </item>
@@ -20,7 +20,7 @@
       <pubDate>Sat, 25 May 2024 17:29:33 GMT</pubDate>
     </item>
     <item>
-      <title>我需要 Windows 上的软件通过右键单击图像来为图像添加自定义水印。</title>
+      <title>我需要 Windows 上的软件来通过右键单击图像来添加自定义水印。</title>
       <link>https://www.reddit.com/r/software/comments/1d0gtxy/i_need_software_on_windows_to_add_a_custom/</link>
       <description><![CDATA[ 由   提交/u/zizo999  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d0gtxy/i_need_software_on_windows_to_add_a_custom/</guid>
@@ -29,7 +29,7 @@
     <item>
       <title>Windows 图片库程序</title>
       <link>https://www.reddit.com/r/software/comments/1d0fooi/windows_image_gallery_program/</link>
-      <description><![CDATA[我正在寻找图像查看程序中非常具体的功能，我不希望一个程序包含所有这些功能，但至少其中大部分是：  缩略图预览 收藏夹支持 “文件夹”功能支持 查看/排序过滤 EXIF查看器/编辑器 查看模式选项 自定义文件夹设置 自定义文件夹预览缩略图  理想情况下，程序能够自动扫描%userprofile%\Picrures\，和/或可以将自定义文件夹设置为扫描或排除。图库中包含的每个文件夹都会有一个缩略图预览，可以根据内容自动生成，也可以手动设置。 我正在寻找的最大功能是以下的图库视图与实际文件夹相同的层次结构。我使用图库软件时遇到的一个常见问题是，它们倾向于将每个子目录中的每个图像分组到一个文件夹中。我正在根据我的列表寻找主要用于家庭照片的软件。这样，我可以根据存储方式打开特定文件夹。 例如： 2023 &gt; 亚利桑那州 &gt; 塞多纳 我对免费和付费选项持开放态度。   由   提交/u/Mr_Mendelli  [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找图像查看程序中非常具体的功能，我不希望一个程序包含所有这些功能，但至少其中大部分是：  缩略图预览 收藏夹支持 “文件夹”功能支持 查看/排序过滤 EXIF查看器/编辑器 查看模式选项 自定义文件夹设置 自定义文件夹预览缩略图  理想情况下，程序能够自动扫描%userprofile%\Picrures\，和/或可以将自定义文件夹设置为扫描或排除。图库中包含的每个文件夹都会有一个缩略图预览，可以根据内容自动生成，也可以手动设置。 我正在寻找的最大功能是以下的图库视图与实际文件夹相同的层次结构。我使用图库软件时遇到的一个常见问题是，它们倾向于将每个子目录中的每个图像分组到一个文件夹中。我正在根据我的列表寻找主要用于家庭照片的软件。这样，我可以根据存储方式打开特定文件夹。 E.G.： 2023 &gt; 亚利桑那州 &gt; 塞多纳 我对免费和付费选项持开放态度。   由   提交/u/Mr_Mendelli  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d0fooi/windows_image_gallery_program/</guid>
       <pubDate>Sat, 25 May 2024 16:26:34 GMT</pubDate>
     </item>
@@ -62,30 +62,30 @@
       <pubDate>Sat, 25 May 2024 05:36:21 GMT</pubDate>
     </item>
     <item>
-      <title>批量 AI 视频转录工具（590 个 MP4 文件，1.2TB）</title>
+      <title>AI视频批量转录工具（590个MP4文件，1.2TB）</title>
       <link>https://www.reddit.com/r/software/comments/1d02ukr/ai_video_transcription_tool_in_bulk_590_mp4_files/</link>
-      <description><![CDATA[我姐姐去年去世了。几年来，她创作了数百个精彩/富有洞察力的 YT 视频。我一直在关注（并使用多种）人工智能工具来处理各种事情，但不包括转录。我希望有人遇到了一个可以在本地运行的最新 (Windows) 工具，这样我就可以批量转录这 590 个视频，这样我就可以为她的孩子创建一个小搜索索引。有任何想法吗？或者我必须一次复制一份抄本？ :\   由   提交 /u/wiintah_was_broken   [链接] [评论]]]></description>
+      <description><![CDATA[我姐姐去年去世了。几年来，她制作了数百个优秀/有见地的 YouTube 视频。我一直在关注（并使用几种）AI 工具来做各种事情，但不是转录。我希望有人遇到一个可以在本地运行的最新（Windows）工具，这样我就可以批量转录这 590 个视频，这样我就可以为她的孩子创建一个小搜索索引。有什么想法吗？还是我只能一次复制一个转录？:\    提交人    /u/wiintah_was_broken   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d02ukr/ai_video_transcription_tool_in_bulk_590_mp4_files/</guid>
       <pubDate>Sat, 25 May 2024 03:24:36 GMT</pubDate>
     </item>
     <item>
       <title>需要销售 CRM</title>
       <link>https://www.reddit.com/r/software/comments/1d00fzg/sales_crm_needed/</link>
-      <description><![CDATA[我正在寻找一个可以处理销售数据并可以生成像 Excel 数据透视表那样的大量报告的软件。虽然 Excel 可以很好地处理这个问题，但数据不断增长，超过 4000 行，Excel 变得很慢。 该软件可以是免费的，也可以是付费的。免费或免费增值更好，甚至来自 github，开源。   由   提交/u/awaixjvd  [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一种处理销售数据并能生成大量报告的软件，就像 excel 的数据透视表一样。虽然 excel 可以很好地处理这个问题，但数据在增长，超过 4000 行，excel 变得越来越慢。 该软件可以免费或付费。最好是免费或免费增值版，甚至可以从 github 开源。    提交人    /u/awaixjvd   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d00fzg/sales_crm_needed/</guid>
       <pubDate>Sat, 25 May 2024 01:09:18 GMT</pubDate>
     </item>
     <item>
       <title>最好的在线/免费工具来编制调查并将其转变为文字云，但有一些变化？</title>
       <link>https://www.reddit.com/r/software/comments/1cztfg5/best_onlinefree_tool_to_compile_a_survey_and_turn/</link>
-      <description><![CDATA[大家好！我不知道这是否是正确的子，但我希望你能帮助我！ 我需要一个平台，允许我执行以下操作：我必须向多个客户发送几份调查，然后，我的客户客户的客户必须对这些调查做出回应。他们会用几句话（最多四个）来回应，我想将结果放在一起形成一种图表。我想到了一个词云，或者可能是一个列表，将重复次数最多的单词放在顶部。我还希望平台或工具能够编译答案中重复的单词并将它们作为一个结果。例如，如果我问你最喜欢的足球运动员是谁，一个人回答“莱昂内尔·梅西”而另一个人只回答“Messi”，我只想出现一个结果：“Messi”。回答这个问题的人数是两个（我不想要两个不同的结果，一个是全名，另一个只是姓氏）。这就是为什么我想到了词云，但是我在网上找到的工具有一个错误，即它们不编译重复的单词。 （所以现在我在想，如果第一个选项不存在，也许结果列表会更好）我也希望一旦调查（这只是一个问题）得到回答，它就会把他们带到这个他们可以在图形面板中看到结果并查看其他人正在输入的内容。他们还可以通过重新输入同一链接来多次响应。我找到了www.mentimeter.com，但它缺乏收集相似单词的能力。然而，它是我最喜欢的一个，因为它简单且能够通过电话接听，这对我的案例非常重要。  &amp;# 32；由   提交/u/JohnnyBeGood88  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我不知道这是否是正确的子，但我希望你能帮助我！ 我需要一个平台，允许我执行以下操作：我必须向多个客户发送几份调查，然后，我的客户客户的客户必须对这些调查做出回应。他们会用几句话（最多四个）来回应，我想将结果放在一起形成一种图表。我想到了一个词云，或者可能是一个列表，将重复次数最多的单词放在顶部。我还希望平台或工具能够编译答案中重复的单词并将它们作为一个结果。例如，如果我问你最喜欢的足球运动员是谁，一个人回答“莱昂内尔·梅西”而另一个人只回答“Messi”，我只想出现一个结果：“Messi”。回答这个问题的人数是两个（我不想要两个不同的结果，一个是全名，另一个只是姓氏）。这就是为什么我想到了词云，但是我在网上找到的工具有一个错误，即它们不编译重复的单词。 （所以现在我在想，如果第一个选项不存在，也许结果列表会更好）我也希望一旦调查（这只是一个问题）得到回答，它就会把他们带到这个他们可以在图形面板中看到结果并查看其他人正在输入的内容。他们还可以通过重新输入同一链接来多次响应。我找到了www.mentimeter.com，但它缺乏收集相似单词的能力。然而，它是我最喜欢的一个，因为它简单且适合通过电话接听，这对我的案例非常重要。  &amp;# 32；由   提交/u/JohnnyBeGood88  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cztfg5/best_onlinefree_tool_to_compile_a_survey_and_turn/</guid>
       <pubDate>Fri, 24 May 2024 19:43:26 GMT</pubDate>
     </item>
     <item>
       <title>将 C 驱动器克隆到外部磁盘，以便在获得更大的 C 驱动器/C 驱动器已满时使用</title>
       <link>https://www.reddit.com/r/software/comments/1czpltr/cloning_c_drive_onto_external_disk_to_be_used/</link>
-      <description><![CDATA[我使用 Windows 备份，我认为它可以工作，但我正在尝试找到一些可以让我复制所有内容的东西，以便当我获得新驱动器时我可以只需将副本放入其中并将其用作 C 驱动器替代品即可。  我以前从来没有做过这种事情，但我的 C 盘已满，除了文档和下载量最大之外，我所有的游戏都迁移到了 D 盘，我不明白为什么它已满，我&#39;我已经进行了碎片整理和优化，AVG 试图向我推销的是所有下载内容，但 1.08TB 中的 99GB 并没有加起来。  无论如何，感谢您的建议和帮助。    由   提交/u/M-Yvraine912   /u/M-Yvraine912 reddit.com/r/software/comments/1czpltr/cloning_c_drive_onto_external_disk_to_be_used/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我使用 Windows 备份，我认为它可以工作，但我正在尝试找到一些可以让我复制所有内容的东西，以便当我获得新驱动器时我可以只需将副本放入其中并将其用作 C 驱动器替换即可。  我以前从未做过这种事情，但我的 C 盘已满，除了文档和下载量最大之外，我所有的游戏都迁移到了 D 盘，我不明白为什么它已满，我&#39;我已经进行了碎片整理和优化，AVG 试图向我推销的是所有下载内容，但 1.08TB 中的 99GB 并没有加起来。  无论如何，感谢您的建议和帮助。    由   提交 /u/M-Yvraine912   /u/M-Yvraine912 reddit.com/r/software/comments/1czpltr/cloning_c_drive_onto_external_disk_to_be_used/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czpltr/cloning_c_drive_onto_external_disk_to_be_used/</guid>
       <pubDate>Fri, 24 May 2024 17:00:35 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Fri, 24 May 2024 16:23:32 GMT</pubDate>
     </item>
     <item>
-      <title>适用于移动设备和 PC 的隐形 unicode</title>
+      <title>手机和电脑上不可见的unicode</title>
       <link>https://www.reddit.com/r/software/comments/1cznf07/invisible_unicode_for_mobile_and_pc/</link>
       <description><![CDATA[是否存在在移动设备和 PC 上都看不见的 unicode？我不是在谈论空格，而是在谈论不可见的实际字符。   由   提交/u/Stab_me_goodnight  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cznf07/invisible_unicode_for_mobile_and_pc/</guid>
