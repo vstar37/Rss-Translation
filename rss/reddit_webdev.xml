@@ -4,20 +4,27 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 25 May 2024 00:50:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 03:15:16 GMT</lastBuildDate>
     <item>
-      <title>我编写了一个算法来尝试以视觉上令人愉悦的方式定位任意宽度的矩形。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1czzu53/i_wrote_an_algorithm_to_try_and_position/</link>
-      <description><![CDATA[https:/ /drive.google.com/file/d/1OuY56xyyh6I92_DgQfafDobWjcyoMEWm/view?usp=sharing 已经有类似的东西了吗？也许有一种方法可以做得更好，并且 CPU 成本更低？我知道马赛克布局是相似的......但如果你仔细观察，这比那要复杂一点。看看你是否能辨认出行和列。提示：你不能，它们实际上不在那里。 我可以将我想要的任何尺寸的面板放入其中，而无需编写太多代码，并且它会自动将其布局得非常漂亮，在任何屏幕宽度。 是否值得花时间将其放入库中并努力使其可供其他人使用？老实说这对我来说非常有用。就像我说的，我可以指定一些块空间。它所需要的只是最大宽度，并且需要知道子面板的大小。从那里开始，考虑到容器的限制，它会吐出它们应该处于的位置，而我只是让 Angular/Vue/无论什么都及时更新位置。我觉得当你有一个项目列表，其中项目之间的大小可能有很大差异时，它比许多其他选项更好。如果没有这样的东西，您必须使所有内容的尺寸统一，以避免布局中出现大间隙/空白，这确实限制了您的 UI。 就目前情况而言，此布局中的任何面板可以更改其大小，并且布局将重新组织以适应元素的新大小。也可以添加或删除新元素。它是完全响应式的。如果你使用得当，我认为你可以在网站上的几乎每个页面上使用这种布局，没有人会更明智，而且它看起来会..体面。立即生效。   由   提交/u/johnsdowney  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1czzu53/i_wrote_an_algorithm_to_try_and_position/</guid>
-      <pubDate>Sat, 25 May 2024 00:37:04 GMT</pubDate>
+      <title>需要建议，在 Wordpress 中构建具有高级过滤功能的大型图像存储库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d00vja/need_advice_building_a_large_image_repository/</link>
+      <description><![CDATA[我正在制作我的第一个网站开发，其中涉及大量内容。我需要一些建议，了解我使用的工具是否足够，或者我是否可能遇到托管成本、带宽或性能问题。 以下是我的设置的简要概述： 前端使用 WordPress + Elementor 和 JetEngine + 使用开发 JetEngine 的同一家公司的 JetSmartFilters。这允许使用元字段过滤自定义帖子类型，并且可以很好地协同工作（同一生态系统） 该网站本质上是一个类似于 Shutterstock 的图像存储库，具有高级过滤功能。用户将能够根据主题、周围物体、风格等来过滤图像。这需要大约 250 个自定义字段，每个字段平均有 10 个可用于在每个帖子中进行过滤的选项。 我希望有人拥有该领域的经验或知识可以帮助回答以下几个问题： 我是否需要优化数据库或查询以确保搜索时间低于 3 秒？插件和 WordPress 结构是否足以实现快速性能？ 用户会消耗大量带宽吗？我应该投资高于平均水平的托管服务来处理这个问题吗？ 考虑到基础已经是使用 WordPress 和这些插件构建的，我是否应该考虑从不同的框架开始，或者这个设置是否足以实现它工作吗？ 该网站将采用订阅模式。如果成本很高，在付费专区后面放置广泛的过滤选项是否有意义？ 我知道我没有提供有关该项目的详尽详细信息以准确了解它将如何执行，但我不想这样做发布 TLDR。一些可能很重要的额外信息。  查询后用户将看到的列表将包括一张精选图像，每个图像都与图库帖子类型相关联+有关图库作者的一些信息，通过喷气发动机中称为关系的东西将与画廊相关的自定义帖子类型分开。 过滤器具有 OR 逻辑，允许用户在雨天、夜间搜索跑车或校车一个人穿着黑色皮夹克或绿色连帽衫，带着悲伤的表情跳舞等。 搜索结果可能会返回，比如说，50 个画廊。列出的每个画廊都会显示上述信息。然后，用户可以通过点击来访问该帖子。  有关此主题的任何建议或信息将不胜感激！ 提前致谢 ^^   由   提交 /u/danilodlr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d00vja/need_advice_building_a_large_image_repository/</guid>
+      <pubDate>Sat, 25 May 2024 01:32:50 GMT</pubDate>
     </item>
     <item>
-      <title>关于如何清理这个可折叠侧边栏概念的意见？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1czvy0g/input_on_how_to_approach_cleaning_up_this/</link>
-      <description><![CDATA[我希望可以在这里提问。 我有一个使用可折叠侧边栏选项卡的设计，我用一种方式拼凑在一起让它们发挥作用，但我现在正在尝试对它们进行一些清理&amp;我不确定是否有一个明确的“最佳”方案是否接近它的方法。 左侧的选项卡是单独的“抽屉”。因为缺乏更好的词，右侧的选项卡是组成真正侧边栏的一组。 我的主要问题是，如果当前单击选项卡，同时如果单击不同的选项卡，仍然会切换锚点。 但我也只是想知道是否有更好的方法来设置折叠（必须是正确的？哈哈）&lt; /p&gt; codepen 这里  &amp;# 32；由   提交/u/zzzzzooted  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1czvy0g/input_on_how_to_approach_cleaning_up_this/</guid>
-      <pubDate>Fri, 24 May 2024 21:33:18 GMT</pubDate>
+      <title>有什么方法可以减少 srt 文件中每行的字数吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d00fr0/any_way_decrease_words_per_line_in_srt_file/</link>
+      <description><![CDATA[[已解决] 我正在节点中制作视频制作脚本，并使用 AWS Transcribe 生成字幕文件（srt），但每行大约有 8 个单词。有没有办法将其缩短为 2-3 个单词并保持正确的时机？ 我不知道应该在哪里问这个问题，但这是我最好的猜测。    由   提交 /u/iHateRollerCoaster   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d00fr0/any_way_decrease_words_per_line_in_srt_file/</guid>
+      <pubDate>Sat, 25 May 2024 01:08:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>我编写了一个算法，尝试以视觉上令人愉悦的方式定位任意宽度的矩形。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1czzu53/i_wrote_an_algorithm_to_try_and_position/</link>
+      <description><![CDATA[https://drive.google.com/file/d/1OuY56xyyh6I92_DgQfafDobWjcyoMEWm/view?usp=sharing 现在有类似的东西了吗？也许有更好的，并且 CPU 成本更低的？我知道马赛克布局是相似的……但如果你仔细观察，你会发现这比那要复杂一些。看看你是否能分辨出行和列。提示：你不能，它们实际上不在那里。 我可以将任意大小的面板放入其中，而无需编写太多代码，它会在任何屏幕宽度下自动将其布局得相当不错。 花时间将它放入库中并努力让其他人真正使用它是否值得？老实说，这对我来说非常有用。就像我说的，我可以指定一些块空间。它所需要的只是一个最大宽度，它需要知道子面板的大小。从那里，它会根据容器的限制找出它们应该在的位置，我只需要使用 angular/vue/whatever 及时更新位置。当你有一个项目列表，并且项目之间的大小可能有很大差异时，我觉得它比许多其他选项要好。如果没有类似的东西，您必须使所有内容大小统一，以避免布局中出现较大的间隙/空白，这确实会限制您的用户界面。 就目前情况而言，此布局中的任何面板都可以更改其大小，并且布局将重新组织以适应元素的新大小。 也可以添加或删除新元素。 它完全响应。 如果您玩得好，我认为您可以将此布局用于您网站上的几乎每个页面，没有人会更聪明，而且它看起来会.. 不错。 马上。    提交人    /u/johnsdowney   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1czzu53/i_wrote_an_algorithm_to_try_and_position/</guid>
+      <pubDate>Sat, 25 May 2024 00:37:04 GMT</pubDate>
     </item>
     <item>
       <title>制作数码产品商店网站的最快方法</title>
@@ -64,21 +71,21 @@
     <item>
       <title>副业还值得吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1czubm9/side_hustling_still_worth_it/</link>
-      <description><![CDATA[大家好，感谢您的阅读。 我已经成为开发者近 25 年了。在那段时间里，我这样做是为了工作，但也是业余时间。然而，这是一个简单得多的时代，创建网站实际上需要一定程度的知识和技能。现在到处都有提供几乎免费服务的服务。 我的问题是我最近离婚了，在子女抚养费和高租金方面陷入了一些经济困境。我全职工作并且喜欢我的工作，所以我宁愿不离开，不幸的是加薪也不是一个选择。考虑到税务问题、这一切的皮塔饼和要求，如果我不能在工作时间投入精力，私下进行网络工作是否仍然值得？   由   提交 /u/DesertWanderlust   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，感谢您的阅读。 我已经成为开发者近 25 年了。在那段时间里，我这样做是为了工作，但也是业余时间。然而，这是一个简单得多的时代，创建网站实际上需要一定程度的知识和技能。现在到处都有提供几乎免费服务的服务。 我的问题是我最近离婚了，在子女抚养费和高租金方面在经济上有些挣扎。我全职工作并且喜欢我的工作，所以我宁愿不离开，不幸的是加薪也不是一个选择。考虑到税务问题、这一切的皮塔饼和要求，如果我不能在工作时间投入精力，私下进行网络工作是否仍然值得？   由   提交 /u/DesertWanderlust   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1czubm9/side_hustling_still_worth_it/</guid>
       <pubDate>Fri, 24 May 2024 20:21:09 GMT</pubDate>
     </item>
     <item>
       <title>在哪里可以托管使用 Envato 网站模板构建的网站？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cztwbm/where_can_i_host_a_site_built_with_a_website/</link>
-      <description><![CDATA[我工作的公司要求我重新设计他们自己托管的网站。他们已经从 Envato 市场购买了一个模板并要求我使用它。我不是网页设计师，但我能够反复试验，实际上在制作过程中获得了很多乐趣。 现在我想使用相同的模板并使用它创建一个个人网站，但我必须自己托管它。我看到 Github 页面推荐了很多，但我可以将其与 Envato 的网站模板一起使用吗？如果不行，我还能用什么？我想使用相同的模板，因为我已经从以前使用的模板中学会了如何做我需要的一切。该模板仅使用 HTML、CSS 和 JS。    提交人    /u/coffeegrapes   [链接] [评论]]]></description>
+      <description><![CDATA[我工作的公司要求我重新设计他们自行托管的网站。他们已经从 Envato 市场购买了一个模板并要求我使用它。我不是网页设计师，但能够通过自己的方式进行尝试和犯错，并且实际上在制作过程中获得了很多乐趣。 现在我想使用相同的模板并用它制作一个个人网站但我必须自己主持。我看到很多推荐的 Github 页面，但我可以将其与 Envato 的网站模板一起使用吗？如果没有我还能用什么？我想使用相同的模板，因为我已经从以前使用过的模板中学会了如何完成我需要的一切。该模板仅使用 HTML、CSS 和JS.   由   提交 /u/coffeegrapes   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cztwbm/where_can_i_host_a_site_built_with_a_website/</guid>
       <pubDate>Fri, 24 May 2024 20:02:59 GMT</pubDate>
     </item>
     <item>
       <title>全栈应用程序的堆栈（首次客户端）</title>
       <link>https://www.reddit.com/r/webdev/comments/1czthiq/stack_for_a_full_stack_application_first_time/</link>
-      <description><![CDATA[大家好，我真的需要你们的建议，关于构建一个全栈应用程序。 我目前是一名前端开发人员（VueJS），我的一个亲戚有一家大型牙科诊所，诊所里有很多医生...... 他想要一个在线托管的系统，他可以从任何地方访问它，来管理医生、病人和发票等等...... 所以，系统中会有（医生、接待员、管理员......） 显然，该系统将是一个全栈系统...... 我有 C#、ReactJS、VueJS 方面的经验（我是一种万事通，什么都不精通），我真的很讨厌这些，我觉得自己很蠢...... 客户并不着急，也不想付那么多钱......因为公司向他要了很多钱。  我主要担心： 1. 使用 C# 作为后端是否会有点过头，或者我应该选择其他东西。 2. 我是否应该考虑使用 Azure 作为数据库和 API 托管？ 3. 关于文件存储，Amazone S3 还是 Azure blob 存储 4. 我在想我是否可以将这个项目真正转变为 SaaS，这可以实现吗？这只是我心中的一个问题和一个愿望 5. 将这样的系统托管在线并供公众访问是个好主意吗？最好的方法是什么？ 6. 作为一名独立开发人员（8 到 5）可以实现这些吗？ 我在这个行业的经验是 1 年半... 除了我的软件工程学士学位  我将不胜感激任何建议。    提交人    /u/al-doori   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我真的需要你们关于构建全栈应用程序的建议。  我目前是前端开发人员（VueJS），有一个亲戚有一个很大的牙科诊所，诊所有很多医生......他想要一个托管的系统在线，他可以从任何地方访问它，管理医生、患者和发票等等...所以，系统中会有（医生、接待员、管理员...） &lt; p&gt;显然，这个系统将是一个全栈系统... 我有 C#、ReactJS、VueJS 的经验（我是个万事通），我真的很讨厌这些，而且我觉得自己很蠢....  客户并不着急，他也不想付那么多钱...因为公司向他要很多钱。  我的主要担忧： 1. 关于 C# 作为后端是否会过度杀伤力，或者我应该选择其他东西。 2. 我是否应该考虑使用 Azure 进行数据库和 API 托管？ 3.关于文件存储，Amazone S3或Azure blob存储4.我在想如果我真的可以把这个项目变成SaaS，可以实现吗？只是我心中的一个问题和一个愿望 5. 在线托管这样一个系统并供公众访问是一个好主意吗？最好的方法是什么？6.作为一个单独的开发人员（8 到 5）工作可以实现这个目标吗？  我在该行业的经验是一年半......除了我的软件工程学士学位 我将不胜感激任何建议和建议。   由   提交/u/al-doori  /u/al-doori  reddit.com/r/webdev/comments/1czthiq/stack_for_a_full_stack_application_first_time/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1czthiq/stack_for_a_full_stack_application_first_time/</guid>
       <pubDate>Fri, 24 May 2024 19:45:52 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>在创建 OAuth 身份提供者时，谁应该设置身份验证 cookie？</title>
       <link>https://www.reddit.com/r/webdev/comments/1czs8e3/while_making_an_oauth_identity_provider_who/</link>
-      <description><![CDATA[有谁知道有关于 OAuth 最佳实践的好文章吗？我一直在尝试制作一个符合 OAuth 2.1 的身份提供者。目前，我使用独立的 Vue SPA 作为身份提供者登录屏幕的前端，使用独立的 .NET 应用程序作为身份提供者的后端。 我不知道谁应该设置身份验证 cookie，比如，Vue SPA 应该生成一些 cookie 并将其设置在本地机器上，还是 .NET 后端应该发送一些响应 cookie 来设置。 我只想知道整个会话是如何验证的，比如 Vue 客户端如何知道请求是否是有效请求并应显示错误页面，以及 API 如何确定传入的请求是有效的。    提交人    /u/ParaPsychic   [链接] [评论]]]></description>
+      <description><![CDATA[有人知道有关 OAuth 最佳实践的好文章吗？我一直在尝试制作一个兼容 OAuth 2.1 的身份提供程序。目前，我使用独立的 Vue SPA 作为身份提供程序登录屏幕的前端，并使用独立的 .NET 应用程序作为身份提供程序的后端。 我很困惑谁应该设置身份验证 cookie，例如，Vue SPA 是否应该生成一些 cookie 并将其设置在本地计算机上，或者 .NET 后端是否应该发送一些要设置的响应 cookie。  我只是想知道整个会话是如何验证的，比如 Vue 客户端如何知道该请求是否是有效请求并应显示错误页面，以及 API 如何确定该请求传入的请求是有效的。   由   提交 /u/ParaPsychic   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1czs8e3/while_making_an_oauth_identity_provider_who/</guid>
       <pubDate>Fri, 24 May 2024 18:52:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS Lightsail 发行版上限</title>
-      <link>https://www.reddit.com/r/webdev/comments/1czs4bq/cap_on_aws_lightsail_distributions/</link>
-      <description><![CDATA[      我是一名独立的网络开发人员，经营着自己的商店。几年前，我从使用 EC2/RDS/Cloudfront 转向使用 Lightsail（为了易于使用）。我昨天去设置一个新的分发，并收到此错误：“Error CreateDistribution[us-east-1] 抱歉，您已经达到每个帐户的分发限制 (20)。 400”。经过一番阅读后，您似乎无法请求增加配额。我还尝试将所有内容设置在不同的区域，但这并不重要。其他的 wedev 在 20 岁之后都在做什么？我不会创建一个新帐户并拥有所有的 2 个帐户。有人遇到过这个问题吗？你是如何克服这个问题的？我需要能够继续为我的客户提供 CDN。 您是否有更好的工作流程可以代替发行版？任何见解、建议或一般信息将不胜感激！ https://preview.redd.it/q8nmr0b17f2d1.png?width=611&amp;format=png&amp;auto=webp&amp;s=1283ee89de94216b40ab4a504344bcc17eb50 d89   由   提交 /u/ParkchopManwiches   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1czs4bq/cap_on_aws_lightsail_distributions/</guid>
-      <pubDate>Fri, 24 May 2024 18:47:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
