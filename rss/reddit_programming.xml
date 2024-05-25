@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 25 May 2024 09:12:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 12:20:49 GMT</lastBuildDate>
+    <item>
+      <title>虚幻引擎的编码标准</title>
+      <link>https://www.reddit.com/r/programming/comments/1d0askv/coding_standards_for_unreal_engine/</link>
+      <description><![CDATA[  由    /u/tonefart  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d0askv/coding_standards_for_unreal_engine/</guid>
+      <pubDate>Sat, 25 May 2024 12:19:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>3 分钟内使用 Rust 进行流量控制！</title>
+      <link>https://www.reddit.com/r/programming/comments/1d08nk2/flow_control_with_rust_in_3_minutes/</link>
+      <description><![CDATA[ 由   提交/u/Techie_Tessie  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d08nk2/flow_control_with_rust_in_3_minutes/</guid>
+      <pubDate>Sat, 25 May 2024 09:59:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用跟踪来避免破坏性更改</title>
+      <link>https://www.reddit.com/r/programming/comments/1d083zx/using_traces_to_avoid_breaking_changes/</link>
+      <description><![CDATA[ 由   提交/u/congolomera  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d083zx/using_traces_to_avoid_breaking_changes/</guid>
+      <pubDate>Sat, 25 May 2024 09:18:53 GMT</pubDate>
+    </item>
     <item>
       <title>52% 的 ChatGPT 编码答案是错误的吗？</title>
       <link>https://www.reddit.com/r/programming/comments/1d07lyk/are_52_of_chatgpt_coding_answers_incorrect/</link>
@@ -22,7 +43,7 @@
     <item>
       <title>🚀 了解如何使用 AWS、OpenAI 和 Elasticsearch 构建高级图像搜索系统！</title>
       <link>https://www.reddit.com/r/programming/comments/1d06zcd/discover_how_to_build_an_advanced_image_search/</link>
-      <description><![CDATA[查看 Medium 上的完整文章，立即开始构建您自己的图像搜索系统！欢迎您提供反馈和问题！ 👉文章中提供了完整的代码 MachineLearning #AWS #OpenAI #Elasticsearch #CLIP #Serverless #ImageSearch #AI #Tech   由   提交 /u/pardhu--   [链接] [评论]]]></description>
+      <description><![CDATA[查看 Medium 上的完整文章，立即开始构建您自己的图像搜索系统！欢迎您的反馈和提问！ 👉 完整代码可在文章中找到  MachineLearning #AWS #OpenAI #Elasticsearch #CLIP #Serverless #ImageSearch #AI #Tech    提交人    /u/pardhu--   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d06zcd/discover_how_to_build_an_advanced_image_search/</guid>
       <pubDate>Sat, 25 May 2024 07:55:31 GMT</pubDate>
     </item>
@@ -69,7 +90,7 @@
       <pubDate>Sat, 25 May 2024 00:53:01 GMT</pubDate>
     </item>
     <item>
-      <title>[IntelliJ Plugin] HoverNumberConverter - 即时数字转换信息</title>
+      <title>[IntelliJ Plugin] HoverNumberConverter - 动态数字转换信息</title>
       <link>https://www.reddit.com/r/programming/comments/1czyqec/intellij_plugin_hovernumberconverter_onthefly/</link>
       <description><![CDATA[ 由   提交/u/ronmen91  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czyqec/intellij_plugin_hovernumberconverter_onthefly/</guid>
@@ -78,7 +99,7 @@
     <item>
       <title>使用 Jai 独特且强大的编译器来构建类型安全单元</title>
       <link>https://www.reddit.com/r/programming/comments/1czyj4u/using_jais_unique_and_powerful_compiler_for/</link>
-      <description><![CDATA[ 由   提交/u/NX18  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/NX18  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czyj4u/using_jais_unique_and_powerful_compiler_for/</guid>
       <pubDate>Fri, 24 May 2024 23:32:12 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/nanochess  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czxs5u/released_c_source_code_for_cvbasic_basic_language/</guid>
       <pubDate>Fri, 24 May 2024 22:57:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>适合 LLM 的用户友好的 WebUI。</title>
-      <link>https://www.reddit.com/r/programming/comments/1czxfrr/userfriendly_webui_for_llms/</link>
-      <description><![CDATA[ 由   提交/u/Longjumping_Ad_8227   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1czxfrr/userfriendly_webui_for_llms/</guid>
-      <pubDate>Fri, 24 May 2024 22:41:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>扩散模型</title>
-      <link>https://www.reddit.com/r/programming/comments/1czx9y3/diffusion_models/</link>
-      <description><![CDATA[ 由   提交/u/reasonableklout  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1czx9y3/diffusion_models/</guid>
-      <pubDate>Fri, 24 May 2024 22:33:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>系统设计访谈：现实世界的成功策略</title>
-      <link>https://www.reddit.com/r/programming/comments/1czx7jl/systems_design_interview_realworld_strategies_for/</link>
-      <description><![CDATA[  由    /u/superc0w  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1czx7jl/systems_design_interview_realworld_strategies_for/</guid>
-      <pubDate>Fri, 24 May 2024 22:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
