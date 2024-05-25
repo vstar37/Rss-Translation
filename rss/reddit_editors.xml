@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新投稿：编辑</title>
+    <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sat, 25 May 2024 15:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 18:14:27 GMT</lastBuildDate>
+    <item>
+      <title>有人可以推荐有关编辑的书籍/课程吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1d0egxv/can_somebody_recommend_bookscourses_about_editing/</link>
+      <description><![CDATA[我学习编辑已经很长时间了，大概有四年了。现在我正在考虑要学习什么才能继续进步。最适合您的书籍/课程是什么，可以帮助您提高编辑水平？ （请不要是基本的） 我非常感谢您提供的任何建议！   由   提交 /u/Pleasant_End9969   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1d0egxv/can_somebody_recommend_bookscourses_about_editing/</guid>
+      <pubDate>Sat, 25 May 2024 15:28:15 GMT</pubDate>
+    </item>
     <item>
       <title>对于每周 7 天坐着 12 小时以上的人，您会推荐哪种缓解背痛的最佳办公椅？</title>
       <link>https://www.reddit.com/r/editors/comments/1d043so/what_are_the_best_office_chairs_for_back_pain/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>使用素材帮助简化励志视频编辑</title>
       <link>https://www.reddit.com/r/editors/comments/1czsugh/help_streamlining_motivational_video_editing_with/</link>
-      <description><![CDATA[嘿朋友们！作为一名视频编辑，我遇到了一个障碍，这占用了我大量的时间。我的一位客户给了我一个激励脚本，并希望我仅使用库存素材（特别是 Storyblocks 中的素材）创建视频。但我告诉你，找到与剧本或画外音相匹配的合适镜头就像大海捞针一样！有人能建议一种更简单的方法来做到这一点吗？我非常感谢您提出的任何建议！   由   提交/u/sadekAD277   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，朋友们！作为一名视频编辑，我遇到了一个难题，它浪费了我大量的时间。我的一位客户给了我一个激励脚本，希望我仅使用库存素材（特别是来自 Storyblocks 的素材）制作视频。但让我告诉你，找到与脚本或画外音相匹配的合适素材就像大海捞针！有人能建议一种更简单的方法来做到这一点吗？我真的很感激你们的任何建议！    提交人    /u/sadekAD277   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1czsugh/help_streamlining_motivational_video_editing_with/</guid>
       <pubDate>Fri, 24 May 2024 19:18:12 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>耳机推荐</title>
       <link>https://www.reddit.com/r/editors/comments/1czlb6a/headphones_reccomendation/</link>
-      <description><![CDATA[我正在寻找一款可以进行蓝牙和有线连接的耳机，因为我想用它来玩轻度游戏和编辑，并且不产生任何延迟，同时我还希望它具有 ANC 功能    提交人    /u/Salty_Comparison3580   [link] [comments]]]></description>
+      <description><![CDATA[我正在寻找一款可以进行蓝牙和有线功能的耳机，因为我想用它进行轻度游戏和编辑，没有延迟，我也希望它有 ANC   由   提交 /u/Salty_Comparison3580   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1czlb6a/headphones_reccomendation/</guid>
       <pubDate>Fri, 24 May 2024 13:54:57 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[想知道是否有人可以帮助我 - 尽管我明白这可能更多是一个 DIT/DW 问题，而不是编辑的问题。 我有一个短片的档案，是使用 Hedge OffShoot 在片场卸载的。每个源视频文件都附有一个包含 MD5 和 SHA1 哈希值的 MHL 文件。 然后将其卸载到 NAS，我们后来意识到该文件受到了位腐烂的影响 - 来自其他项目的一些文件已损坏并且我现在完全不信任存储在其中的任何其他内容。 是否有任何明显的方法可以验证素材是否仍与 MHL 文件中记录的校验和匹配？我有点假设 OffShoot 能够进行后期验证，但我完全不知道如何进行。很高兴使用另一个软件，但我不确定要谷歌搜索什么（或者我看不到正确的结果）。任何建议将不胜感激。 编辑：系统：MacOS 16.6.6 / M2-Max / 64gb RAM。如果更容易的话，还可以访问 Windows 或 Linux。 软件：OffShoot Pro 版本 24.2（内部版本 1610）（很高兴使用其他东西进行验证） 素材：来自多个摄像机的各种音频和视频文件. MHL 示例：  &lt;哈希列表版本=“1.1”&gt; &lt;哈希&gt; &lt;文件&gt;PANA0001.MOV &lt;尺寸&gt;7489217991 2024-05-20T17:22:11Z; 41a6ad86c5bbf902 02f9bbc586ada641 04ef02c71bdcceee3c07b2836e2fee9a e8f4ae21b32149120d72c5859f9105fe18d18637 &lt;c4&gt;c427p8YFaEo5HtoHJoZDeKKp79WePDcNovgsJe3AFH2oSVbkMABSWRSwWfPKGQjptp9ruYaDdcbCJDP4xzFQebF2MU&lt;/c4&gt; 2024-05-20T21:08:30Z; &lt;/哈希&gt; &lt;/哈希列表&gt;    由   提交 /u/SarcasmWarning   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1czdbx1/how_to_verify_archived_footage_from_mhl_files/</guid>
       <pubDate>Fri, 24 May 2024 05:24:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>电脑或苹果机</title>
-      <link>https://www.reddit.com/r/editors/comments/1cza59u/pc_or_mac/</link>
-      <description><![CDATA[在我的国家，他们以 1500 美元的价格出售 mac pro m2 14 英寸，我正在考虑 1500 美元的带显示器的电脑。我应该考虑买什么，需要一些建议，谢谢（我做 4k 编辑和 2d 动画）   由   提交/u/Wat_rHi_p67   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cza59u/pc_or_mac/</guid>
-      <pubDate>Fri, 24 May 2024 02:18:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
