@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 26 May 2024 15:13:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 18:14:32 GMT</lastBuildDate>
+    <item>
+      <title>文件查找 | 一个简单的文件搜索实用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d16mg8/file_find_a_simple_filesearch_utility/</link>
+      <description><![CDATA[过去两年我一直在致力于我的第一个更大的开源项目。现在它已经达到了某种程度的稳定状态，并推出了第一个候选版本。  使用文件查找，您可以轻松查找文件并过滤结果。在搜索结果中，您可以找到重复的文件或将它们与其他搜索结果进行比较。文件查找也无法连接到互联网。  您可以查看它： https://github .com/Pixel-Master/File-Find  或访问网站：https ://pixel-master.github.io/File-Find/ 它目前适用于 macOS 和 Windows。当从源代码构建时，它与 Linux 兼容，但由于某种原因，二进制文件只能在本地系统上运行。我还没弄清楚。 如果您能尝试一下并报告问题，那就太好了。  &amp;# 32；由   提交 /u/PixelMqster   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d16mg8/file_find_a_simple_filesearch_utility/</guid>
+      <pubDate>Sun, 26 May 2024 17:37:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android 应用程序有子类别吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d16dwu/android_apps_that_have_subcategories/</link>
+      <description><![CDATA[我正在寻找像 Recipe Keeper 这样的应用程序，它允许我将食谱分类为类别、子类别，并将它们分配到集合中。集合可以过滤您的食谱（可以有多个），而子类别可以让您更好地组织。大照片还有助于选择菜肴，而不是阅读大量文字。不幸的是，我对该应用程序的性能和缺乏自定义功能不满意。我将不胜感激任何建议 - 如果有一种方法可以减少另一个应用程序（例如笔记应用程序）的使用，也欢迎。我已经尝试过 Google Play 中的前 50 个食谱应用程序，并尝试过使用三星笔记，但这些应用程序太垂直而无法工作。谢谢。   由   提交 /u/EternalShadowBan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d16dwu/android_apps_that_have_subcategories/</guid>
+      <pubDate>Sun, 26 May 2024 17:27:01 GMT</pubDate>
+    </item>
     <item>
       <title>开源英雄联盟 |一次尝试</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0zzl2/open_source_league_of_legends_an_attempt/</link>
@@ -34,7 +48,7 @@
       <pubDate>Sun, 26 May 2024 07:54:03 GMT</pubDate>
     </item>
     <item>
-      <title>适用于 python 和 react 的代码审查代理？</title>
+      <title>python 和 React 的代码审查代理？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0vou2/code_review_agent_for_python_and_react/</link>
       <description><![CDATA[当我开始构建一个开源项目时，我希望能够尽可能地控制代码的质量和标准。&lt; /p&gt; 我想知道你的 Python/React 项目使用什么代码审查代理/工具。我正在寻找一个涵盖以下内容的内容：  命名约定和寻找好名称 检测错误 提高效率 最佳实践  此外，它应该与 GitHub、VSCode 或两者集成。   由   提交/u/Alternative_Shape_74   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0vou2/code_review_agent_for_python_and_react/</guid>
@@ -55,7 +69,7 @@
       <pubDate>Sun, 26 May 2024 03:54:11 GMT</pubDate>
     </item>
     <item>
-      <title>连接客户和供应商的软件/平台</title>
+      <title>可以将客户与供应商连接起来的软件/平台</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0r3nd/software_platforms_that_can_connect_clients_to/</link>
       <description><![CDATA[大家好，我正在寻找特定的软件/平台包，例如可以将客户与特定利基行业的供应商连接起来的市场类型解决方案。有什么已知的选择吗？提前致谢！    由   提交 /u/Disastrous-Ad-5003   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0r3nd/software_platforms_that_can_connect_clients_to/</guid>
@@ -71,7 +85,7 @@
     <item>
       <title>是否有任何开源 Android 启动器具有这些 Nova 功能？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d08kd0/does_any_open_source_android_launcher_have_these/</link>
-      <description><![CDATA[ 向上滑动文件夹可打开不在该文件夹中的应用 单击文件夹可打开不在该文件夹中的应用程序（向上滑动以打开文件夹）  GIF ：第一个是点击打开文件夹，滑动打开手机，第二个是点击打开文件夹，滑动打开短信，第三个是滑动打开文件夹，点击打开相机。 请不要如果您没有亲自检查这些功能是否存在，请勿推荐应用。 谢谢   由   提交/u/KaKi_87  [链接] [评论]]]></description>
+      <description><![CDATA[ 在文件夹上向上滑动即可打开文件夹中不存在的应用程序 单击文件夹即可打开文件夹中不存在的应用程序（向上滑动即可打开文件夹）  GIF ：第一个是单击打开文件夹并滑动打开手机，第二个是单击打开文件夹并滑动打开短信，第三个是滑动打开文件夹并单击打开相机。 如果您没有亲自检查这些功能是否存在，请不要推荐应用程序。 谢谢    提交人    /u/KaKi_87   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d08kd0/does_any_open_source_android_launcher_have_these/</guid>
       <pubDate>Sat, 25 May 2024 09:52:45 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>HTML 到 Docx 硬分叉，积极维护和支持</title>
       <link>https://www.reddit.com/r/opensource/comments/1czz7su/htmltodocx_hard_fork_actively_maintained_and/</link>
-      <description><![CDATA[   你好/r/opensource 社区！ 我们很高兴能够揭晓我们公司开发者之旅中的一个重要里程碑。我们致力于支持开发人员和开源项目，今天，我们很自豪地推出我们积极维护和增强的 html-to-docx 库硬分叉。 为什么这很重要：TurboDocx html-to-docx 的硬分叉是一个强大的工具，旨在简化 HTML 到 DOCX 文档的转换。该工具非常适合寻求高效、可靠的文档自动化解决方案的开发人员。 主要功能： - 高质量转换：确保您的 HTML 内容准确转换为结构良好的 DOCX 文件。 - 主动维护：定期更新和改进，使图书馆保持最佳状态。 - 一如既往 - 开源：我们相信社区的力量，并欢迎世界各地开发者的贡献。 我们的故事：这个项目最初是由我们的好朋友 privateOmega 启动的。我个人多年来一直深入参与这个项目，与他建立了良好的合作和友谊。我们致力于将该工具推向新的高度，并感谢 privateOmega 奠定的基础。 加入我们：我们邀请开源社区做出贡献、提供反馈，并与我们一起实现这一目标工具甚至更好。您的见解和贡献对我们来说非常宝贵。 查看我们的 GitHub 存储库并探索 html 到 docx 的 TurboDocx 硬分叉。感谢您的支持，我们期待与您的合作！   由   提交/u/nicolascoding  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      你好 /r/opensource 社区！ 我们很高兴揭晓我们公司开发之旅的一个重要里程碑。我们致力于支持开发人员和开源项目，今天，我们很自豪地推出我们积极维护和增强的 html-to-docx 库硬分叉。 为什么这很重要：html-to-docx 的 TurboDocx 硬分叉是一个强大的工具，旨在简化 HTML 到 DOCX 文档的转换。此工具非常适合寻求高效、可靠的文档自动化解决方案的开发人员。 主要特点： - 高质量转换：确保您的 HTML 内容准确转换为结构良好的 DOCX 文件。 - 主动维护：定期更新和改进以使库保持最佳状态。 - 一如既往 - 开源：我们相信社区的力量，欢迎来自世界各地开发者的贡献。 我们的故事：这个项目最初是由我们的好朋友 privateOmega 发起的。我个人多年来一直深入参与这个项目，与他建立了良好的合作和友谊。我们致力于将这个工具推向新的高度，并感谢 privateOmega 奠定的基础。 加入我们：我们邀请开源社区做出贡献、提供反馈并加入我们，使这个工具变得更好。您的见解和贡献对我们来说是无价的。 查看我们的 GitHub Repo 并探索 html-to-docx 的 TurboDocx 硬分叉。感谢您的支持，我们期待与您合作！    提交人    /u/nicolascoding   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1czz7su/htmltodocx_hard_fork_actively_maintained_and/</guid>
       <pubDate>Sat, 25 May 2024 00:04:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Brisk 是一个完整的 CICD 测试工具，现已开源。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1czx3vk/brisk_a_complete_cicd_testing_tool_is_now_open/</link>
-      <description><![CDATA[Brisk 是一个用于运行持续集成测试的工具，比如 CircleCI，但速度更快。 而不是在上面构建测试环境每次运行我们都会预先构建环境，以便您的测试尽可能快地运行。  如果您想自行托管或在自己的本地运行，或者您只是对 CICD 有一些奇怪的事情，您现在可以自己运行整个系统。  https://github.com/brisktest/brisk   由   提交 /u/reillyse   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1czx3vk/brisk_a_complete_cicd_testing_tool_is_now_open/</guid>
-      <pubDate>Fri, 24 May 2024 22:25:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助您快速将多个代码文件发送到AI语言模型的脚本</title>
-      <link>https://www.reddit.com/r/opensource/comments/1czs7qo/script_that_helps_you_send_multiple_code_files_to/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1czs7qo/script_that_helps_you_send_multiple_code_files_to/</guid>
-      <pubDate>Fri, 24 May 2024 18:51:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
