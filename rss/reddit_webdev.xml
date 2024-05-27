@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 27 May 2024 00:52:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 03:15:35 GMT</lastBuildDate>
+    <item>
+      <title>我可以在 Weebly 中使用什么所见即所得编辑器？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d1hw2c/what_wysiwyg_editor_can_i_use_for_weebly/</link>
+      <description><![CDATA[大家好。无论如何，我都不是一名 Web 开发人员，所以除了现在已经死了的旧 adobe muse 之外，我对 HTML 没有太多经验。我是一名平面设计师，所以我在 Illustrator 上为我的网站制作了模型，但我正在尝试将该布局等转移到我的 Weebly。过去我尝试过一些所见即所得的网络程序，但我不知道太多。关于将我所拥有的内容转移到 HTML 页面上，有什么建议吗？顺便说一句，我有 Weebly 的专业版。谢谢！   由   提交/u/ilovecrocodiles1999   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d1hw2c/what_wysiwyg_editor_can_i_use_for_weebly/</guid>
+      <pubDate>Mon, 27 May 2024 02:59:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求专用服务器包的推荐</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d1hrq9/looking_for_recommendations_for_dedicated_server/</link>
+      <description><![CDATA[我们目前与 Digital Pacific 合作。那里有一个强大的专用服务器，目前每月花费 900 美元。我们有大约 70 个网站 - 几乎都是 Wordpress。  最近，我们对 Digital Pacific 提供的支持越来越感到沮丧。他们曾经在澳大利亚有一个很棒的技术团队，但现在已经外包，你现在可以联系讲印度语的技术人员，他们真的很难理解，而且常常对任何问题不屑一顾。他们的一贯反应是“更新你的插件”或其他完全无用的建议。我们最终和他们一起兜圈子，直到最终在坚持之后他们发现实际上这不是更新的插件问题而是其他问题。 无论如何，尽管事实上移动所有的东西是一个巨大的痛苦。网站、电子邮件等，我们已经受够了，想要搬家。因此，我正在寻找一家提供专用 Linux 服务器的公司的建议。我们的网站都没有很高的流量 - 它们几乎都是中小型企业。   由   提交 /u/repomonkey   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d1hrq9/looking_for_recommendations_for_dedicated_server/</guid>
+      <pubDate>Mon, 27 May 2024 02:52:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁有一份脏话列表以及可以替代的脏话吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d1h0w9/anyone_have_a_list_of_cuss_words_with/</link>
+      <description><![CDATA[仅标题。在 Google 上找不到任何内容    由   提交  /u/iHateRollerCoaster   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d1h0w9/anyone_have_a_list_of_cuss_words_with/</guid>
+      <pubDate>Mon, 27 May 2024 02:08:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我不知道我在后端网络开发方面要做什么，所以有人可以帮帮我吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d1g7b7/i_have_no_idea_what_i_am_doing_regarding_back_end/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d1g7b7/i_have_no_idea_what_i_am_doing_regarding_back_end/</guid>
+      <pubDate>Mon, 27 May 2024 01:20:55 GMT</pubDate>
+    </item>
     <item>
       <title>将 mug/t-shift 图像动态传递给 Shopify GraphQL API</title>
       <link>https://www.reddit.com/r/webdev/comments/1d1fhhc/dynamically_passing_a_mugtshift_image_to_the/</link>
@@ -41,7 +69,7 @@
       <pubDate>Sun, 26 May 2024 22:48:30 GMT</pubDate>
     </item>
     <item>
-      <title>我如何保护我的嵌入式小部件</title>
+      <title>如何保护我的嵌入式小部件</title>
       <link>https://www.reddit.com/r/webdev/comments/1d1crnx/how_can_i_secure_my_embeddable_widget/</link>
       <description><![CDATA[假设我有可以嵌入到任何网站的小部件。我可以将客户端 ID 传递给我的小部件。我如何保护并确保只有与其关联的客户端 ID 的客户端才能使用此小部件？   由   提交/u/kiryl_ch   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d1crnx/how_can_i_secure_my_embeddable_widget/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[尝试实施 Google 身份验证。他们推出了新事物“FedCM”并告诉我这将是唯一可用的选项，我需要迁移。 出现登录弹出窗口，但我不确定如何处理取消。它曾经是“提示”的参数。方法，但现在它会产生警告。 “您的客户端应用程序使用 Google One Tap 提示 UI 状态方法之一，当 FedCM 强制执行时，该方法可能会停止运行。” 但我不知道如何收到用户改变主意并执行操作的通知不想再使用 Google 登录。 我的代码： window.google.accounts.id.initialize({ client_id: &#39;xxxxxxx&#39;, use_fedcm_for_prompt: true, callback : (p: any) =&gt; { console.log(p) //仅在用户登录时调用。 } }); （任意窗口）.google.accounts.id.prompt();    由   提交 /u/gevorgter   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d1bdew/google_oauth_question/</guid>
       <pubDate>Sun, 26 May 2024 21:13:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>讨论/论坛 - 寻找定制功能人才</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d1b6s4/discourseforum_finding_talent_for_custom/</link>
-      <description><![CDATA[嗨，任何人都可以推荐一个具有开发基于 Discourse 或其他社区形式的自定义网站/应用程序经验的特定个人、团队或机构等吗？基于平台？我有一些相当复杂的功能，我正在尝试添加基于论坛的网站（目前是 Discourse），并且正在寻找具有这种特定类型经验的人。  谢谢   由   提交/u/reddituser1902yes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d1b6s4/discourseforum_finding_talent_for_custom/</guid>
-      <pubDate>Sun, 26 May 2024 21:05:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我兄弟制作了这个扩展，可以帮助您跟踪打开的选项卡并寻求反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d1b542/my_brother_made_this_extension_that_helps_you/</link>
-      <description><![CDATA[    /u/Japnack   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d1b542/my_brother_made_this_extension_that_helps_you/</guid>
-      <pubDate>Sun, 26 May 2024 21:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>针对我的第一个 SaaS 的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d1ar2u/advice_for_my_first_saas/</link>
-      <description><![CDATA[嘿，我的开发同事们， 我和我的朋友正在开发一个 SaaS 项目，我们确实需要一些建议。我们的服务将允许用户上传他们的简历和他们正在申请的职位的职位描述。然后，我们的机器学习模型将分析比赛，提供改进建议，并生成量身定制的简历。 ML 模型完全在 Streamlit 上开发和托管。 这是我们正在考虑的技术堆栈：  Next.js 用于两个前端和后端 Clerk 用于身份验证 TailwindCSS 和 Shadcn 用于样式 &lt; li&gt;MongoDB 和 Mongoose 进行数据库管理  我们对这些技术感到满意，但我们面临着一些挑战：  支付网关集成：我们如何为用户设置支付网关来访问我们的专业计划？ 连接Streamlit 模型：将 Streamlit 托管的 ML 模型连接到 Web 应用程序的最佳方式是什么？  我们愿意就该技术堆栈是否合适或是否适合提供反馈。我们把事情过于复杂化了。任何有关改进或简化的建议将不胜感激。 提前感谢您的帮助！   由   提交/u/JoyRyder619  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d1ar2u/advice_for_my_first_saas/</guid>
-      <pubDate>Sun, 26 May 2024 20:45:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>学位还是自学？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d1aomc/degree_or_self_teach/</link>
-      <description><![CDATA[我拥有大学其他专业的学士学位，但我正在权衡我的选择，以了解如何过渡到 Web 开发。在当前的市场下，自学是个好主意，还是应该寻求某种学位？顺便说一句，我的学位是公共卫生。    由   提交/u/scorpgirl00  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d1aomc/degree_or_self_teach/</guid>
-      <pubDate>Sun, 26 May 2024 20:42:11 GMT</pubDate>
     </item>
     </channel>
 </rss>

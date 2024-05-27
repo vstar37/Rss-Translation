@@ -4,7 +4,7 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 27 May 2024 00:52:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 03:15:09 GMT</lastBuildDate>
     <item>
       <title>如何使 Firebase Genkit 模板与纯 JavaScript 配合使用</title>
       <link>https://www.reddit.com/r/programming/comments/1d1dnbj/how_to_make_the_firebase_genkit_template_work/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>Swabai（Sway/i3/Yabai 平铺窗口管理器的包装器）</title>
       <link>https://www.reddit.com/r/programming/comments/1d1d1ny/swabai_wrapper_for_the_swayi3yabai_tiling_window/</link>
-      <description><![CDATA[  由    /u/deepCelibateValue  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/deepCelibateValue  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d1d1ny/swabai_wrapper_for_the_swayi3yabai_tiling_window/</guid>
       <pubDate>Sun, 26 May 2024 22:33:55 GMT</pubDate>
     </item>
@@ -27,13 +27,6 @@
       <pubDate>Sun, 26 May 2024 21:35:18 GMT</pubDate>
     </item>
     <item>
-      <title>“简单”脚本的摩擦和复杂性</title>
-      <link>https://www.reddit.com/r/programming/comments/1d1a95q/frictions_and_complexities_of_simple_scripts/</link>
-      <description><![CDATA[ 由   提交/u/LloydAtkinson   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d1a95q/frictions_and_complexities_of_simple_scripts/</guid>
-      <pubDate>Sun, 26 May 2024 20:22:15 GMT</pubDate>
-    </item>
-    <item>
       <title>随时随地编码：我从海平面到 40,000 英尺的全功能旅行开发设置</title>
       <link>https://www.reddit.com/r/programming/comments/1d19mik/coding_wherever_my_fullyfeatured_travel_dev_setup/</link>
       <description><![CDATA[ 由   提交 /u/geo-ant   [链接] [评论]]]></description>
@@ -41,9 +34,9 @@
       <pubDate>Sun, 26 May 2024 19:54:03 GMT</pubDate>
     </item>
     <item>
-      <title>nlboy1/.album-文件类型</title>
+      <title>nlboy1/.专辑文件类型</title>
       <link>https://www.reddit.com/r/programming/comments/1d19f3k/nlboy1albumfiletype/</link>
-      <description><![CDATA[我解决音乐囤积问题的方法 看看我的一个新小项目：.album，非常简单，只是一个重命名的 zip 文件，可以用 vlc 打开，我认为这可以帮助那些处理 100+gb 的 flacs/mp3 甚至 wav 的人（我哈哈）。所以请提供反馈    提交人    /u/admin_NLboy   [link] [评论]]]></description>
+      <description><![CDATA[我囤积音乐的解决方案 来认识一下我的一个小新项目：.album，非常简单，它只是一个重命名的 zip vlc 可以打开的文件，我认为这可以帮助那些正在处理 100+GB 的 flacs/mp3 甚至 wavs 的人（我哈哈）。所以呃请提供反馈   由   提交/u/admin_NLboy  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d19f3k/nlboy1albumfiletype/</guid>
       <pubDate>Sun, 26 May 2024 19:44:20 GMT</pubDate>
     </item>
@@ -85,14 +78,14 @@
     <item>
       <title>VBScript 弃用：时间表和后续步骤</title>
       <link>https://www.reddit.com/r/programming/comments/1d121q9/vbscript_deprecation_timelines_and_next_steps/</link>
-      <description><![CDATA[ 由   提交/u/brokenisthenewnormal  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/brokenisthenewnormal  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d121q9/vbscript_deprecation_timelines_and_next_steps/</guid>
       <pubDate>Sun, 26 May 2024 14:02:30 GMT</pubDate>
     </item>
     <item>
       <title>talkd/dialog开源项目已入选2024年GitHub加速器</title>
       <link>https://www.reddit.com/r/programming/comments/1d11j5l/talkddialog_open_source_project_has_been_selected/</link>
-      <description><![CDATA[  由    /u/avelino0  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/avelino0  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d11j5l/talkddialog_open_source_project_has_been_selected/</guid>
       <pubDate>Sun, 26 May 2024 13:36:30 GMT</pubDate>
     </item>
@@ -104,11 +97,18 @@
       <pubDate>Sun, 26 May 2024 11:51:08 GMT</pubDate>
     </item>
     <item>
-      <title>麻省理工学院新闻 2020：对于大脑来说，阅读计算机代码与阅读语言不同</title>
+      <title>MIT 新闻 2020：对于大脑来说，阅读计算机代码与阅读语言不同</title>
       <link>https://www.reddit.com/r/programming/comments/1d0yi1j/mit_news_2020_to_the_brain_reading_computer_code/</link>
       <description><![CDATA[ 由   提交/u/GrueneBuche  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0yi1j/mit_news_2020_to_the_brain_reading_computer_code/</guid>
       <pubDate>Sun, 26 May 2024 10:30:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>由专人领导项目的 5 个理由</title>
+      <link>https://www.reddit.com/r/programming/comments/1d0wdx9/the_5_reasons_to_have_someone_leading_a_project/</link>
+      <description><![CDATA[ 由   提交 /u/strategizeyourcareer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d0wdx9/the_5_reasons_to_have_someone_leading_a_project/</guid>
+      <pubDate>Sun, 26 May 2024 07:49:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
