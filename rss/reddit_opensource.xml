@@ -4,9 +4,16 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 27 May 2024 06:18:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 09:14:20 GMT</lastBuildDate>
     <item>
-      <title>您如何处理来自提出有关错误和其他支持需求问题的公司的支持请求？</title>
+      <title>适合初学者的云架构 Python 项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d1mbvr/beginnerfriendly_cloud_architecture_python_project/</link>
+      <description><![CDATA[如果有人愿意提供帮助，初学者（及以上）可以为一个项目做出贡献，该项目理想地成为 Cloudockit 和 Lucidscale 的开源替代品。 这个想法是以编程方式连接到 Azure 以获取所有资源、所有详细信息并自动创建这些资源的架构图和文档。 https://github.com/sander110419/Cloud-infra-visualization 如果您没有用于测试的 Azure 凭据，请给我发送消息。   由   提交/u/allbyoneguy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d1mbvr/beginnerfriendly_cloud_architecture_python_project/</guid>
+      <pubDate>Mon, 27 May 2024 07:49:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何处理来自提出有关错误和其他支持需求的问题的公司的支持请求？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1k2i9/how_do_you_handle_support_requests_from_companies/</link>
       <description><![CDATA[   /u/anehzat   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1k2i9/how_do_you_handle_support_requests_from_companies/</guid>
@@ -15,21 +22,21 @@
     <item>
       <title>移除.bg API 替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1idyp/removebg_api_alternatives/</link>
-      <description><![CDATA[有没有更便宜的可靠的 remove.bg 级别替代品？remove.bg 成本非常高，最好是删除 png/svg 背景并且具有成本效益的东西。    提交人    /u/Agreeable_Ad6424   [link] [comments]]]></description>
+      <description><![CDATA[是否有可靠且更便宜的remove.bg级别替代品？ remove.bg 的成本非常高，任何最好删除 png/svg 背景并且具有成本效益的东西。   由   提交 /u/Agreeable_Ad6424   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1idyp/removebg_api_alternatives/</guid>
       <pubDate>Mon, 27 May 2024 03:28:52 GMT</pubDate>
     </item>
     <item>
       <title>您认为扎克伯格转向开源人工智能的举措很棒吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1gd5e/do_you_think_zuckerbergs_move_to_open_source_ai/</link>
-      <description><![CDATA[马克·扎克伯格将 LLaMA 开源，允许任何人免费使用、修改和分发它。您认为这就是开源人工智能的未来吗？你有什么想法？   由   提交 /u/conventionseeker   [链接] [评论]]]></description>
+      <description><![CDATA[Mark Zuckerberg 将 LLaMA 开源，允许任何人免费使用、修改和分发它。你认为这是开源 AI 的未来吗？你有什么看法？    提交人    /u/conventionseeker   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1gd5e/do_you_think_zuckerbergs_move_to_open_source_ai/</guid>
       <pubDate>Mon, 27 May 2024 01:30:18 GMT</pubDate>
     </item>
     <item>
-      <title>很高兴与大家分享 tdlib-rs 的第一个版本🦀</title>
+      <title>很高兴分享 tdlib-rs 的第一个版本 🦀</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1c6xm/happy_to_share_the_first_release_of_tdlibrs/</link>
-      <description><![CDATA[嘿伙计们！ 🦀 我们很高兴地告诉您，我们终于发布了 tdlib-rs。 &lt; p&gt;与其他库相比，我们很荣幸带来了这些改进：  它是跨平台的，它可以在 Windows、Linux 和 MacOS 上运行。 不需要 &lt; code&gt;pkg-config 来构建库和关联的导出变量。 不需要在系统上编译并安装 tdlib。 可以从 GitHub 版本下载 tdlib 库。  当我们开始开发时tgt，我们意识到编译电报库（构建说明）不会导致其他开发人员为该项目做出贡献，因为构建需要 20 到 30 分钟。 因此，我们决定创建这个库，以尽量减少开发 Telegram 客户端或机器人的工作量，因此也 tgt。  p&gt; 欢迎任何改进或贡献！ ❤️‍🔥   由   提交 /u/FedericoBruzzone   [链接] [评论]]]></description>
+      <description><![CDATA[嘿伙计们！ 🦀 我们很高兴地告诉您，我们终于发布了 tdlib-rs。 &lt; p&gt;与其他库相比，我们很荣幸带来了这些改进：  它是跨平台的，它可以在 Windows、Linux 和 MacOS 上运行。 不需要 &lt; code&gt;pkg-config 来构建库和关联的导出变量。 不需要在系统上编译和安装 tdlib。 可以从 GitHub 版本下载 tdlib 库。  当我们开始开发时tgt，我们意识到编译电报库（构建说明）不会导致其他开发人员为该项目做出贡献，因为构建需要 20 到 30 分钟。 因此，我们决定创建这个库，以最大限度地减少开发 Telegram 客户端或机器人的工作量，因此也 tgt。  p&gt; 欢迎任何改进或贡献！ ❤️‍🔥   由   提交 /u/FedericoBruzzone   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1c6xm/happy_to_share_the_first_release_of_tdlibrs/</guid>
       <pubDate>Sun, 26 May 2024 21:53:00 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>文件查找 |一个简单的文件搜索实用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1d16mg8/file_find_a_simple_filesearch_utility/</link>
-      <description><![CDATA[过去两年我一直在致力于我的第一个更大的开源项目。现在它已经达到了某种程度的稳定状态，并推出了第一个候选版本。  使用文件查找，您可以轻松查找文件并过滤结果。在搜索结果中，您可以找到重复的文件或将它们与其他搜索结果进行比较。文件查找也无法连接到互联网。  您可以查看它： https://github .com/Pixel-Master/File-Find  或访问网站：https ://pixel-master.github.io/File-Find/ 它目前适用于 macOS 和 Windows。当从源代码构建时，它与 Linux 兼容，但由于某种原因，二进制文件只能在本地系统上运行。我还没弄清楚。 如果您能尝试一下并报告问题，那就太好了。  &amp;# 32；由   提交 /u/PixelMqster   [链接] [评论]]]></description>
+      <description><![CDATA[因此，过去两年我一直致力于我的第一个更大的开源项目。现在它已经达到了某种程度的稳定状态，并推出了第一个候选版本。  使用文件查找，您可以轻松查找文件并过滤结果。在搜索结果中，您可以找到重复的文件或将它们与其他搜索结果进行比较。文件查找也无法连接到互联网。  您可以查看它： https://github .com/Pixel-Master/File-Find  或访问网站：https ://pixel-master.github.io/File-Find/ 它目前适用于 macOS 和 Windows。当从源代码构建时，它与 Linux 兼容，但由于某种原因，二进制文件只能在本地系统上运行。我还没弄清楚。 如果您能尝试一下并报告问题，那就太好了。  &amp;# 32；由   提交 /u/PixelMqster   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d16mg8/file_find_a_simple_filesearch_utility/</guid>
       <pubDate>Sun, 26 May 2024 17:37:49 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>如何开始为开源做出贡献。</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0y9j1/how_to_get_started_with_contributing_to_open/</link>
-      <description><![CDATA[我是一名软件开发人员，我想开始为开源项目做贡献。但是，我在软件方面经验不多——我大约有 2 年的经验，包括 9 个月的实习（主要是移动和后端）。那么，我如何才能找到相对容易的任务（或更容易/更小的项目）来帮助我开始为开源做贡献？ 提前致谢。    提交人    /u/Zakariyyay   [link] [评论]]]></description>
+      <description><![CDATA[我是一名软件开发人员，我想开始为开源项目做出贡献。然而，我在软件方面的经验并不多——我有大约 2 年的经验，包括 9 个月的实习（主要是移动和后端）。那么，我怎样才能找到相对更容易的任务（或更容易/更小的项目）来完成，以帮助我开始进行开源贡献？提前致谢。   由   提交 /u/Zakariyyay   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0y9j1/how_to_get_started_with_contributing_to_open/</guid>
       <pubDate>Sun, 26 May 2024 10:13:30 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>python 和 React 的代码审查代理？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0vou2/code_review_agent_for_python_and_react/</link>
-      <description><![CDATA[当我开始构建一个开源项目时，我希望能够尽可能地控制代码的质量和标准。&lt; /p&gt; 我想知道你的 Python/React 项目使用什么代码审查代理/工具。我正在寻找一个涵盖以下内容的内容：  命名约定和寻找好名称 检测错误 提高效率 最佳实践  此外，它应该与 GitHub、VSCode 或两者集成。   由   提交/u/Alternative_Shape_74   [链接] [评论]]]></description>
+      <description><![CDATA[当我开始构建一个开源项目时，我希望能够尽可能地控制代码的质量和标准。&lt; /p&gt; 我想知道你的 Python/React 项目使用什么代码审查代理/工具。我正在寻找一个涵盖以下内容的内容：  命名约定和找到好名称 检测错误 提高效率 最佳实践  此外，它应该与 GitHub、VSCode 或两者集成。   由   提交/u/Alternative_Shape_74   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0vou2/code_review_agent_for_python_and_react/</guid>
       <pubDate>Sun, 26 May 2024 06:58:20 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[这是我第一次这样做，我很高兴向您介绍 ZAMP 服务器，这是一个简化设置过程的应用程序建立和管理本地 Web 开发环境。借助 ZAMP，您可以获得一个零配置堆栈，其中包括 Apache、MySQL 和 PHP，所有这些都捆绑到一个用户友好的包中。ZAMP 允许在应用内加载多个项目，以便更轻松地导航并节省时间。 不要犹豫，请访问 github 存储库以了解有关 ZAMP 的更多信息 功能：  零配置：只需安装并运行。无需花费数小时配置您的环境。 集成管理：通过单一界面轻松管理 Apache、MySQL 和 PHP 服务。 扩展管理：通过简单的复选框界面启用或禁用 PHP 扩展。 版本控制：轻松下载并在不同的 PHP 版本之间切换。 &lt; li&gt;拖放项目设置：只需将项目文件夹拖放到 ZAMP 中即可开始。  我需要您的帮助： 我正在创建这个应用程序，希望它对其他人来说确实有用，并且它可以帮助新的网络开发人员创建应用程序。 目前，该项目刚刚开始创建，我要求你们提供反馈意见以改进它。 此外，我需要你们帮助我找到好的新想法来实施，同时也人们做出贡献 到项目。我现在19岁，我怀念经验：这就是为什么我需要你的帮助。如果你认为这个项目有趣，请留下一个星星：D Github 上的下载链接   由   提交 /u/Dovahkciin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0synm/introducing_zamp_zero_configuration_apache_mysql/</guid>
       <pubDate>Sun, 26 May 2024 03:54:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以将客户与供应商连接起来的软件/平台</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d0r3nd/software_platforms_that_can_connect_clients_to/</link>
-      <description><![CDATA[大家好，我正在寻找特定的软件/平台包，例如可以将客户与特定细分行业的供应商联系起来的市场类型解决方案。有任何已知的选择吗？提前致谢！    提交人    /u/Disastrous-Ad-5003   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d0r3nd/software_platforms_that_can_connect_clients_to/</guid>
-      <pubDate>Sun, 26 May 2024 02:00:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
