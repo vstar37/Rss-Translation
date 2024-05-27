@@ -4,13 +4,13 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Mon, 27 May 2024 12:21:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 15:13:47 GMT</lastBuildDate>
     <item>
-      <title>插件在生产工作流程中不起作用</title>
-      <link>https://www.reddit.com/r/editors/comments/1d1ponq/plugins_not_working_in_production_workflow/</link>
-      <description><![CDATA[大家好， 我正在 Premiere 24.3 中使用制作工作流程，由于某种原因，我的插件都无法运行我的镜头。我正在使用代理工作流程。我已经尝试过常见的嫌疑，重新启动和折腾首选项。有人有主意吗。这个项目运行良好一周，然后突然我注意到我直接应用于项目面板中的素材的 lut 在我的弦乐输出中不再起作用。  提前感谢您的帮助！   由   提交/u/Jaketotheb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1d1ponq/plugins_not_working_in_production_workflow/</guid>
-      <pubDate>Mon, 27 May 2024 11:48:53 GMT</pubDate>
+      <title>有人尝试过 Jesse Koepke 的《寻找一致的工作》吗？值这个价钱吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1d1st6e/has_anyone_tried_find_consistent_work_by_jesse/</link>
+      <description><![CDATA[https://buildmyeditingcareer.com/l/work 只是好奇这里是否有人尝试过。   由   提交/u/kaninepete  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1d1st6e/has_anyone_tried_find_consistent_work_by_jesse/</guid>
+      <pubDate>Mon, 27 May 2024 14:29:25 GMT</pubDate>
     </item>
     <item>
       <title>询问专业人士 - 每周 - 2024 年 5 月 27 日星期一 - 没有愚蠢的问题！如果您不以此为生，这就是您发帖的地方！规则+职业问题？</title>
@@ -20,13 +20,6 @@
       <pubDate>Mon, 27 May 2024 09:00:18 GMT</pubDate>
     </item>
     <item>
-      <title>如何将 Avid 项目传输到 Final Cut Pro？ （更新）</title>
-      <link>https://www.reddit.com/r/editors/comments/1d1my11/how_to_transfer_an_avid_project_to_final_cut_pro/</link>
-      <description><![CDATA[      大家好， 我一直在 Avid Media Composer 中处理一个项目，我想将其转移到 Final Cut Pro。我做了一些研究，但我发现关于最佳方法的信息参差不齐。这里有人成功从 Avid 切换到 FCP 并能提供一些指导吗？ 我们在外部三星 T7 磁盘（1TB）上有一个组织整齐的摄像机源素材库。我已经将所有这些文件导入 Final Cut Pro X，文件保留在原处。因此，原始摄像机媒体库已经在 Final Cut 中。  我希望导入来自 Avid 时间线的 XML，该 XML 将使用原始摄像机媒体库自动在 Final Cut 中创建序列。 这是 Avid 中的时间线： Avid Media Composer 时间线 我知道效果不会很好地转换，甚至根本无法转换。对我来说，这次转换中唯一重要的部分是视频和声音的序列，以及它们链接到原始摄像机源文件。  这是将其导入 Davinci 后的样子： Davinci Resolve（免费版）时间线 此后，我们从 Avid 导出了 Final Cut XML，但 Final Cut 并未将文件链接到序列中。它只创建了一个空白序列，并在空白处进行了剪切。 我们还尝试从 DaVinci Resolve 导出渲染队列，它导出了时间线中的剪辑以及“fcpxmld”。 Final Cut 成功打开了此文件并创建了一个序列，但序列中的剪辑链接到的是导出的文件，而不是原始相机文件。从 Davinci 导出的文件是 1080p Avid Media，这不是我想要的。 我知道不建议进行此类转移，但如果能提供任何帮助我将不胜感激，因为对我来说，将这个项目准确地转移到 Final Cut Pro 至关重要。提前感谢您的帮助！    提交人    /u/Altruistic_Visual_71   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1d1my11/how_to_transfer_an_avid_project_to_final_cut_pro/</guid>
-      <pubDate>Mon, 27 May 2024 08:35:55 GMT</pubDate>
-    </item>
-    <item>
       <title>解决这个问题吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1d1mn3z/fix_to_this/</link>
       <description><![CDATA[您好！因此，当我在节拍上编辑某些内容时，我会使用左右箭头逐帧移动播放头，这样我就能听到歌曲的完美剪切时间（在节拍发生时听到正确的节拍）。 问题是，现在，我以同样的方式移动播放头，但音频无法播放，你知道如何解决这个问题吗？  抱歉，如果我没说清楚   由   提交 /u/vagasbundo   [链接] [评论]]]></description>
@@ -34,9 +27,9 @@
       <pubDate>Mon, 27 May 2024 08:12:57 GMT</pubDate>
     </item>
     <item>
-      <title>如何校准显示器进行色彩校正</title>
+      <title>如何校准显示器以进行色彩校正</title>
       <link>https://www.reddit.com/r/editors/comments/1d1lnht/how_do_i_calibrate_my_monitor_for_color_correction/</link>
-      <description><![CDATA[您好。 最近我注意到我用于色彩校正的显示器与我的其他显示器和笔记本电脑有很大不同。（它是 MSI Optix MAG322CQR） 如何校准它才能准确进行色彩校正？ 或者，如果我应该购买新的显示器进行色彩校正，您会推荐什么？    提交人    /u/timmy6255   [链接] [评论]]]></description>
+      <description><![CDATA[您好。 最近我注意到我用于色彩校正的显示器与我的显示器有很大不同其他显示器和我的笔记本电脑。 （它是 MSI Optix MAG322CQR） 如何校准它才能准确进行色彩校正？ 或者，如果我应该购买新的显示器进行色彩校正，您会推荐什么？   由   提交/u/timmy6255  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d1lnht/how_do_i_calibrate_my_monitor_for_color_correction/</guid>
       <pubDate>Mon, 27 May 2024 07:00:47 GMT</pubDate>
     </item>
@@ -55,7 +48,7 @@
       <pubDate>Mon, 27 May 2024 04:57:01 GMT</pubDate>
     </item>
     <item>
-      <title>到底怎么找到AE呢？</title>
+      <title>那么你到底如何找到 AE？</title>
       <link>https://www.reddit.com/r/editors/comments/1d1f534/how_the_heck_do_you_find_an_ae/</link>
       <description><![CDATA[我知道这不是找到入门级编辑器的地方。但多年来，这个潜艇对我来说“非常宝贵”。我从这里的成员那里学到了很多东西。 问题：我到底如何在拉斯维加斯找到入门级助理编辑？当我在洛杉矶时，这很容易。维加斯，没那么多。 如果有人有朋友的朋友或表兄弟想要进入这个行业，请告诉我。我付的钱很好。我们的工作室很有趣。时间很轻松。厨房备货齐全。 即使是生的人，但态度良好，我们也会训练。他们将开始进行基本的拉线和选择。然后是一些场景布局。但我们会教他们想学的任何东西。我们做了很多绿屏。很多旋转。现场工作、操作摄像机、音响；做遥控器。我们将进行培训。 我们刚刚安装了一个带有虚幻引擎的虚拟制作工作室。我是一名 UE 兽医，也会教这一点。 但是，当我找到你的时候。如果这里有摄影指导想要短期/快速的工作来帮助我们找出几个不同布景的灯光，请联系我们。我们在照明方面很糟糕。 （但是如果你看过我的节目，你就已经知道这一点了） 联系方式：没有 DM。我被他们淹没了。电子邮件：why files dot com 团队 Mods - 如果这是这篇文章的错误位置，我深表歉意。我要在 /videoediting 中进行半 x-post   由   提交 /u/OMGTheWhyFiles   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d1f534/how_the_heck_do_you_find_an_ae/</guid>
@@ -76,7 +69,7 @@
       <pubDate>Sun, 26 May 2024 22:24:03 GMT</pubDate>
     </item>
     <item>
-      <title>运动阵列贪婪？</title>
+      <title>运动阵列很贪婪？</title>
       <link>https://www.reddit.com/r/editors/comments/1d176ej/motion_array_being_greedy/</link>
       <description><![CDATA[大家好，我搞砸了！我重置了笔记本电脑，在此过程中，我丢失了“视频墙徽标”文件。我仍然可以下载许可证，但徽标本身似乎消失了。有谁知道我怎样才能再次获得该文件？任何帮助都是救星！   由   提交 /u/potatotosss   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d176ej/motion_array_being_greedy/</guid>
@@ -99,16 +92,23 @@
     <item>
       <title>RTX 2060 对于 4K 视频编辑来说足够好/值得吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1d130z5/is_rtx_2060_good_enoughworth_it_for_4k_video/</link>
-      <description><![CDATA[我主要分别使用 Premiere Pro、DaVinci Resolve 和 After Effects。还有比这更好的选择吗？  光线追踪在渲染 4k 素材方面真的是一个优点吗？   由   提交 /u/CineTechWiz   [链接] [评论]]]></description>
+      <description><![CDATA[我主要使用 Premiere Pro、DaVinci Resolve 和 After Effects。还有比这更好的选择吗？ 在渲染 4k 素材方面，光线追踪真的是一个加分点吗？    提交人    /u/CineTechWiz   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d130z5/is_rtx_2060_good_enoughworth_it_for_4k_video/</guid>
       <pubDate>Sun, 26 May 2024 14:49:54 GMT</pubDate>
     </item>
     <item>
       <title>您使用什么文件格式来制作 DCP？</title>
       <link>https://www.reddit.com/r/editors/comments/1d0rx5z/what_file_format_do_you_use_to_make_a_dcp/</link>
-      <description><![CDATA[刚刚完成我的故事片！将渲染的文件发送到 DCP O MATIC 以制作 DCP。 我应该将影片从 Premiere 导出为哪种文件格式？ ProRes 422？我估计如果这样做的话电影文件可能会超过 200GBs，但这也许是正常的？ 谢谢！   由   提交 /u/solidsimpson   [链接] [评论]]]></description>
+      <description><![CDATA[刚刚完成我的故事片！将渲染后的文件发送到 DCP O MATIC 以制作 DCP。 我应该将影片从 Premiere 导出为哪种文件格式？ ProRes 422？我估计如果这样做的话电影文件可能会超过 200GBs，但这也许是正常的？ 谢谢！   由   提交 /u/solidsimpson   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d0rx5z/what_file_format_do_you_use_to_make_a_dcp/</guid>
       <pubDate>Sun, 26 May 2024 02:49:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们中有人使用 OneNote 吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1d0rqmv/do_any_of_you_use_onenote/</link>
+      <description><![CDATA[我对一款可以结合视频、文本、图像和其他内容的日记应用程序感兴趣。我还喜欢 OneNote 有更多的自由结构，感觉就像一个基于节点的工作流程（lmao） 想知道这里的其他人是否有任何使用它的经验，以及是否值得尝试并投入时间。    由   提交 /u/T00Human   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1d0rqmv/do_any_of_you_use_onenote/</guid>
+      <pubDate>Sun, 26 May 2024 02:38:20 GMT</pubDate>
     </item>
     </channel>
 </rss>

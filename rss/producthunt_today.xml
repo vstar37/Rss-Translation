@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt——每天最好的新产品</title>
+    <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 27 May 2024 12:21:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 15:14:36 GMT</lastBuildDate>
+    <item>
+      <title>斯彭</title>
+      <link>https://www.producthunt.com/posts/spon</link>
+      <description><![CDATA[
+            Spon 帮助社区建设者参与、发展和盈利
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/spon</guid>
+      <pubDate>Mon, 27 May 2024 09:38:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>日光 DC1 平板电脑</title>
+      <link>https://www.producthunt.com/posts/daylight-dc1-tablet</link>
+      <description><![CDATA[
+速度最快的 60 Hz Android E-Ink 平板电脑
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/daylight-dc1-tablet</guid>
+      <pubDate>Mon, 27 May 2024 07:39:25 GMT</pubDate>
+    </item>
     <item>
       <title>条纹66</title>
       <link>https://www.producthunt.com/posts/streaks66</link>
@@ -23,12 +51,12 @@
       <title>&udm=14</title>
       <link>https://www.producthunt.com/posts/udm-14</link>
       <description><![CDATA[
-无需额外工作即可快速获得 AI 免费搜索的方法
+            无需任何额外工作即可快速获得免费人工智能搜索的方法
+          
 
-
-讨论
-|
-链接
+讨论&lt; /a&gt;
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/udm-14</guid>
       <pubDate>Mon, 27 May 2024 03:35:44 GMT</pubDate>
@@ -37,7 +65,7 @@
       <title>字符映射表4.0</title>
       <link>https://www.producthunt.com/posts/charmap-4-0</link>
       <description><![CDATA[
-            适用于 iPhone 和 iPhone 的 Unicode 查看器和键盘
+            适用于 iPhone 和 iPad 的 Unicode 查看器和键盘
           
 
 讨论
@@ -48,24 +76,10 @@
       <pubDate>Sun, 26 May 2024 17:45:59 GMT</pubDate>
     </item>
     <item>
-      <title>产品是什么</title>
-      <link>https://www.producthunt.com/posts/what-the-product</link>
-      <description><![CDATA[
-            您的即时产品分析工具
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/what-the-product</guid>
-      <pubDate>Sat, 25 May 2024 23:33:59 GMT</pubDate>
-    </item>
-    <item>
       <title>ChatGPT 记事本</title>
       <link>https://www.producthunt.com/posts/chatgpt-notepad</link>
       <description><![CDATA[
-            编辑更少，创建更多 – 非常适合格式化 GPT 内容
+            编辑更少，创建更多，完美格式化 GPT 内容
           
 
 讨论&lt; /a&gt;
@@ -74,20 +88,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/chatgpt-notepad</guid>
       <pubDate>Sat, 25 May 2024 13:37:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>超级爬行</title>
-      <link>https://www.producthunt.com/posts/hypercrawl</link>
-      <description><![CDATA[
-            用于LLM开发的超快速网络爬行
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/hypercrawl</guid>
-      <pubDate>Sat, 25 May 2024 08:33:17 GMT</pubDate>
     </item>
     <item>
       <title>爱奇艺</title>
@@ -121,12 +121,12 @@
       <title>人工智能建造者思维</title>
       <link>https://www.producthunt.com/posts/ai-menti-builder</link>
       <description><![CDATA[
-            人工智能生成民意调查、调查和测验
-          
+AI 生成的民意调查、调查和测验
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/ai-menti-builder</guid>
       <pubDate>Wed, 22 May 2024 08:48:00 GMT</pubDate>
@@ -146,7 +146,7 @@
       <pubDate>Tue, 21 May 2024 06:58:58 GMT</pubDate>
     </item>
     <item>
-      <title>重新强化</title>
+      <title>恢复</title>
       <link>https://www.producthunt.com/posts/rehance</link>
       <description><![CDATA[
             硬核 SaaS 的 AI 副驾驶
@@ -160,7 +160,7 @@
       <pubDate>Wed, 08 May 2024 15:37:35 GMT</pubDate>
     </item>
     <item>
-      <title>玛莉</title>
+      <title>玛丽</title>
       <link>https://www.producthunt.com/posts/marlee</link>
       <description><![CDATA[
             利用人工智能更快地打造更好的团队
@@ -188,6 +188,20 @@
       <pubDate>Wed, 01 May 2024 02:17:58 GMT</pubDate>
     </item>
     <item>
+      <title>杰克特艾</title>
+      <link>https://www.producthunt.com/posts/jector-ai</link>
+      <description><![CDATA[
+            AI 工具可拍摄令人惊叹的产品照片
+          
+
+讨论&lt; /a&gt;
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/jector-ai</guid>
+      <pubDate>Mon, 29 Apr 2024 05:16:57 GMT</pubDate>
+    </item>
+    <item>
       <title>贴纸AI艺术</title>
       <link>https://www.producthunt.com/posts/stickeraiart</link>
       <description><![CDATA[
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/stickeraiart</guid>
       <pubDate>Wed, 17 Apr 2024 15:06:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>CoinPays支付网关</title>
-      <link>https://www.producthunt.com/posts/coinpays-payment-gateway</link>
-      <description><![CDATA[
-            使用加密货币安全快速地支付
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/coinpays-payment-gateway</guid>
-      <pubDate>Thu, 28 Mar 2024 08:49:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
