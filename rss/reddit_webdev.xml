@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 28 May 2024 00:52:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 03:13:30 GMT</lastBuildDate>
+    <item>
+      <title>我该如何改进这个用户界面？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d293g9/how_do_i_improve_this_ui/</link>
+      <description><![CDATA[       由   提交 /u/burgerburglar   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d293g9/how_do_i_improve_this_ui/</guid>
+      <pubDate>Tue, 28 May 2024 02:38:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以解释一下 React 吗</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d28snj/will_someone_please_explain_react/</link>
+      <description><![CDATA[我一直在从事 Web 开发，我了解 html、css 和 js，做了一些后端的东西，我了解 Node。 ChatGPT 只是无法将 React 实际所做的事情翻译成英语。有人可以解释一下它的意义是什么吗？就像我在普通网站上看到的常见事物以及它的反应一样。谢谢。我已经束手无策了。   由   提交/u/PatternFar2989   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d28snj/will_someone_please_explain_react/</guid>
+      <pubDate>Tue, 28 May 2024 02:22:22 GMT</pubDate>
+    </item>
     <item>
       <title>使用 VPS 或其他解决方案为客户托管</title>
       <link>https://www.reddit.com/r/webdev/comments/1d272sn/hosting_for_clients_with_vps_or_other_solutions/</link>
@@ -25,13 +39,6 @@
       <description><![CDATA[我在查看日志时注意到大量路由错误。据我所知，它们只是导致预期的 404。但是，我很好奇其他人是否看到这些奇怪的路径，请求者正在寻找什么，以及我是否可以/应该做更多的事情。两大类及示例如下： 1．老虎机 示例：`/slot-deposit-gopay`、`/westeurope/slotmania`、`/slot-luar-negeri` 等。 我想他们正在寻找对于某种在线赌场或那些糟糕的手机游戏之一。我们与赌博、游戏或移动设备根本无关，这些术语很难搜索，因为它们自然会带来一堆赌场和社交游戏。 FWIW“negeri”是印度尼西亚语“国家”的意思（如在政府实体中）。此外，正在请求“/bumi138”，这也与印度尼西亚插槽相关。 2。 fleischerstudios 这已经与像“/fleischerstudios/slot-deposit-dana”这样的插槽结合在一起，但它几乎总是“/fleischerstudios/panda138”。 “panda138”调出可能未连接的人的用户名和“fleischerstudios”拉起一个类似名称的“Fleischer Studios”。他们是一家已停业的动画工作室，在 20 世纪 30 年代制作了《贝蒂娃娃》等动画片，最终被派拉蒙收购。 FWIW，我们与卡通、流媒体、媒体或娱乐无关。 我并不十分担心，因为我收到了大量对 `/.env`、`/.git` 和各种内容的请求WordPress 端点（我们不是 WP 站点）并且这些端点可能整天都处于 404 状态。然而我很好奇，无法想象我是唯一一个得到这些奇怪的东西的人。   由   提交 /u/jakechance   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d25fji/odd_requests_in_logs_anyone_else_seeing_these/</guid>
       <pubDate>Mon, 27 May 2024 23:28:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一名网络开发人员来构建网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d245zr/looking_for_a_web_developer_to_hire_for_building/</link>
-      <description><![CDATA[嘿，我正在成立一个新机构，需要一名可以帮助我们构建网站的开发人员。如果您能帮助我们，请私信我   由   提交 /u/lazystring1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d245zr/looking_for_a_web_developer_to_hire_for_building/</guid>
-      <pubDate>Mon, 27 May 2024 22:28:26 GMT</pubDate>
     </item>
     <item>
       <title>我是不是被搞乱了？ Upwork 的潜在客户希望我将这个网站构建为 1 对 1 的复制品，以便他对我的技能感到满意并雇用我</title>
@@ -57,7 +64,7 @@
     <item>
       <title>人们如何实现像这个网站上那样的动画（我说的是漂浮在 DOM 上的对象）</title>
       <link>https://www.reddit.com/r/webdev/comments/1d20yi5/how_do_people_achieve_animations_like_there_are/</link>
-      <description><![CDATA[这是一个关于我正在谈论的内容的参考网站站点   由   提交 /u/JubieFN   [链接] [评论]]]></description>
+      <description><![CDATA[这里有一个关于我所谈论内容的参考网站网站    提交人    /u/JubieFN   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d20yi5/how_do_people_achieve_animations_like_there_are/</guid>
       <pubDate>Mon, 27 May 2024 20:09:36 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Mon, 27 May 2024 20:09:22 GMT</pubDate>
     </item>
     <item>
-      <title>关于托管大文件进行流式传输和下载的最佳位置的建议</title>
+      <title>关于托管用于流媒体和下载的大型文件的最佳位置的建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1d2068f/suggestions_on_the_best_place_to_host_large_files/</link>
       <description><![CDATA[我正在为 Webflow 中的一个客户构建一个网站，他们的业务是一家音频样本包公司。 部分该解决方案包括音频播放器，用于流式传输产品演示曲目的音频文件，并提供产品下载的原始文件。产品下载文件每个（zip）文件大小在 200MB 到 800MB 之间。 我想到的两个选项是：  VPS 存储（我有一个专用的云 VPS ，尽管这是与我运营的其他网站共享的）； Dropbox 或类似的（我有一个企业帐户，但我知道存在与稳定性等相关的轶事缺点）； &lt; /ul&gt; 其他人将如何解决这个问题以实现最大的稳定性和最小的复杂性，是否有其他方法来托管这些我将视而不见的大文件？ 更新：&lt; /strong&gt; 感谢您的回复，我最终使用自定义域设置了 Cloudflare R2 - 这很容易，而且效果会很完美。唯一需要考虑的是缺乏文件夹层次结构，但这些文件通常是设置并忘记文件的，所以它就可以了。   由   提交/u/infj-t   /u/infj-t  reddit.com/r/webdev/comments/1d2068f/suggestions_on_the_best_place_to_host_large_files/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d2068f/suggestions_on_the_best_place_to_host_large_files/</guid>
@@ -97,18 +104,11 @@
       <pubDate>Mon, 27 May 2024 19:26:31 GMT</pubDate>
     </item>
     <item>
-      <title>以盲人前端 Web 开发人员的身份编写前端网站/Web 应用程序设计文档</title>
+      <title>作为盲人前端 Web 开发人员的前端网站/Web 应用程序设计文档</title>
       <link>https://www.reddit.com/r/webdev/comments/1d1zmia/frontend_siteweb_app_design_docs_as_a_blind/</link>
       <description><![CDATA[大家好，这个问题是针对本子中的盲人网络开发人员的。当设计师向您提供包含构建网站或网络应用程序所需的所有规范的设计文档时，您如何处理？据推测，这些模型和诸如此类的东西大多是在像Figma这样的视觉效果中完成的，所以你只是得到一个带有文本描述的规格的Word文档或PDF吗？或者你做别的事吗？我真的很好奇它是如何工作的。   由   提交 /u/ThatWeirdPomegranate   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d1zmia/frontend_siteweb_app_design_docs_as_a_blind/</guid>
       <pubDate>Mon, 27 May 2024 19:21:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否还有支持 ASP.NET 的 Web 托管服务？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d1yt7k/are_there_any_web_hosting_services_left_that/</link>
-      <description><![CDATA[我会说“最好是免费的”，但目前如果有的话我会感到惊讶。所以我会将其调整为“最好是以可承受的价格”。 十多年前有一个免费主机，但免费帐户在 30 天后过期...所以每个月我都会创建一个新帐户并更新我的链接...是的，我当时很穷。 如果你想“wtf，ASP.NET很简单！我有很多 VB.NET 项目，最终用户可以通过 Web 浏览器更方便地访问。但是，它们不值得用 JS/PHP/等重写。如果您不熟悉，您基本上可以通过复制/粘贴将 VB 转换为 ASP，快速执行“查找→替换”，并在顶部添加几行。就是这样，只需不到 5 分钟！ 现在还有支持 ASP.NET 的经济实惠的网络主机吗？还是我运气不好？    提交人    /u/Honkmaster   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d1yt7k/are_there_any_web_hosting_services_left_that/</guid>
-      <pubDate>Mon, 27 May 2024 18:48:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
