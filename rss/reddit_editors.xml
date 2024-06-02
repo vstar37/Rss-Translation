@@ -4,13 +4,13 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sun, 02 Jun 2024 15:11:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 18:15:41 GMT</lastBuildDate>
     <item>
-      <title>自然纪录片编辑软件</title>
-      <link>https://www.reddit.com/r/editors/comments/1d6f895/editing_software_for_nature_documentary/</link>
-      <description><![CDATA[我计划在接下来的几个月里制作一部纪录片 esc 视频。我有使用 iMovie 的经验，但我不确定它是否能胜任这项工作。有人能推荐一款免费软件（或者我可以破解的软件），让我可以在接下来的几周内学会使用吗？    提交人    /u/evan848   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1d6f895/editing_software_for_nature_documentary/</guid>
-      <pubDate>Sun, 02 Jun 2024 15:01:20 GMT</pubDate>
+      <title>从 Resolve 导出的 Quicktime 文件颜色错误？</title>
+      <link>https://www.reddit.com/r/editors/comments/1d6gt05/quicktime_files_exported_from_resolve_are_wrong/</link>
+      <description><![CDATA[我尝试导出视频的 Quicktime 文件，它总是使黑色变暗，颜色稍微饱和一些。当我导出 H264 时，它不会发生这种情况。我尝试过 ProRes 422 HQ 和 ProRes 4444 XQ，结果相同。有人知道发生了什么吗？ 我在 2017 iMac 上使用 DaVinci Resolve 18.6，运行 Ventura 13.6.4，配备 3.4 GHz 四核 Intel Core i5 处理器、Radeon Pro 570 4 GB 显卡和 64GB RAM。 项目颜色设置为： 色彩科学：Davinci YRGB 时间线色彩空间：Rec.709（场景） 输出色彩空间：Rec.709（场景） 在导出中，色彩空间标签和伽马标签设置为“与项目相同”。 谢谢您的帮助！    提交人    /u/c8bb8ge   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1d6gt05/quicktime_files_exported_from_resolve_are_wrong/</guid>
+      <pubDate>Sun, 02 Jun 2024 16:13:47 GMT</pubDate>
     </item>
     <item>
       <title>（截止日期）需要将主文件发送给 DCP 供应商，但太大。需要在截止日期前完成。</title>
