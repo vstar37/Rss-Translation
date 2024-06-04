@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 04 Jun 2024 03:15:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 06:16:47 GMT</lastBuildDate>
     <item>
       <title>KQIR：Apache Kvrocks 的查询引擎，支持 SQL 和 RediSearch 查询</title>
       <link>https://www.reddit.com/r/opensource/comments/1d7m385/kqir_a_query_engine_for_apache_kvrocks_that/</link>
@@ -85,7 +85,7 @@
     <item>
       <title>BalvanChat - 使用 Python 开发的 E2E 加密桌面聊天应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1d72atu/balvanchat_e2e_encrypted_desktop_chat_app_made_in/</link>
-      <description><![CDATA[嗨， 几周前，我将一个玩具 Python 项目推送到 GitHub，它就像一个聊天应用程序，但没有中间人。它就像是 Windows 的 telnet，具有 E2E 加密功能。我用它设计系统和 UI 真的很开心。它教会了我很多关于 Python 模块化设计的知识。 我刚刚更新了 UI，使其更加用户友好，所以我想也许其他人会喜欢它。 无论如何，它在这里 :): https://github.com/xxzoltanxx/Balvan-Chat/    提交人    /u/Reasonable-Zone-7909   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 几周前，我将一个玩具 Python 项目推送到 GitHub，它就像一个聊天应用程序，但没有中间人。它就像是 Windows 的 telnet，具有 E2E 加密功能。我真的很喜欢用它设计系统和 UI。它教会了我很多关于 Python 模块化设计的知识。 我刚刚更新了 UI，使其更加用户友好，所以我想也许其他人会喜欢它。 无论如何，它在这里 :): https://github.com/xxzoltanxx/Balvan-Chat/    提交人    /u/Reasonable-Zone-7909   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d72atu/balvanchat_e2e_encrypted_desktop_chat_app_made_in/</guid>
       <pubDate>Mon, 03 Jun 2024 11:39:04 GMT</pubDate>
     </item>
