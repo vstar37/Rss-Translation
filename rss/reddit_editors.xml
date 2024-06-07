@@ -4,13 +4,13 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 07 Jun 2024 15:12:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 18:16:46 GMT</lastBuildDate>
     <item>
-      <title>视频中的图片受版权保护吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1daczxi/copyrighted_images_in_videos/</link>
-      <description><![CDATA[编辑们好， 我很快就要编辑我自己的 YouTube 视频了，我想知道如果我在视频中放置漫画面板，每个面板大约 5 秒钟，它会被删除或受到版权保护吗？我正在以讲故事的形式复述漫画的几章。视频本身会将我置于画面中，漫画面板会在我旁边过渡最多 5 秒钟。 这会影响我的频道状态，删除视频吗？货币化是否受影响？ 提前谢谢！    提交人    /u/FakeSupplements   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1daczxi/copyrighted_images_in_videos/</guid>
-      <pubDate>Fri, 07 Jun 2024 15:04:59 GMT</pubDate>
+      <title>将 ARRI 2K 缩小至 1080p</title>
+      <link>https://www.reddit.com/r/editors/comments/1dafgkn/downscale_arri_2k_to_1080p/</link>
+      <description><![CDATA[嗨， 我们正在拍摄一个广播纪录片系列，最终交付将采用 1080i25。 我们将使用 ARRI ALEXA Mini 并以 16:9 2K 25p 拍摄，以便为我们提供更多的稳定性空间。由于从 2K 到高清的缩放系数不是偶数，我不确定质量是否会有损失。 你对此有什么经验？以高清拍摄是否更好以避免像素不均匀？    提交人    /u/domka92   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1dafgkn/downscale_arri_2k_to_1080p/</guid>
+      <pubDate>Fri, 07 Jun 2024 16:47:24 GMT</pubDate>
     </item>
     <item>
       <title>寻求建议 - Premiere Pro 插件</title>
@@ -27,16 +27,9 @@
       <pubDate>Fri, 07 Jun 2024 12:52:51 GMT</pubDate>
     </item>
     <item>
-      <title>Avid MC 安装程序 23.12.0</title>
-      <link>https://www.reddit.com/r/editors/comments/1da9lik/avid_mc_installer_for_23120/</link>
-      <description><![CDATA[大家好， 我正在做一个新项目，我想知道是否有人有此版本 Media Composer 的链接？我似乎在任何地方都找不到它。 非常感谢！    提交人    /u/hbomb927   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1da9lik/avid_mc_installer_for_23120/</guid>
-      <pubDate>Fri, 07 Jun 2024 12:37:29 GMT</pubDate>
-    </item>
-    <item>
       <title>屏幕下三分之一处有发言者，时间不同</title>
       <link>https://www.reddit.com/r/editors/comments/1da6t7u/lower_thirds_with_speakers_on_screen_for/</link>
-      <description><![CDATA[我正在开展一个项目，其中一个品牌拥有的下三分之一模板（带有演讲者姓名和头衔）与另一位摄像师制作的编辑同步良好，除了最后两位演讲者。  他们出现在特写镜头中很短的时间内，然后在他们讲话时拍摄了其他东西的广角镜头。本质上，这意味着他们的姓名和头衔漂浮在与他们无关的镜头上 - 但我猜他们是在说话。 这里的最佳做法是什么？即使其他演讲者不在屏幕上，也要保持他们的时间和长度？还是在他们离开屏幕后立即将其缩短？ 谢谢！    提交人    /u/Foddashow   [链接] [评论]]]></description>
+      <description><![CDATA[我正在开展一个项目，其中一个品牌拥有的下三分之一模板（带有演讲者姓名和头衔）与另一位摄像师制作的编辑同步良好，除了最后两位演讲者。  他们出现在特写镜头中很短的时间内，然后在他们讲话时拍摄了其他东西的广角镜头。本质上，这意味着他们的姓名和头衔漂浮在与他们无关的镜头上 - 但我想他们正在讲话。 这里的最佳做法是什么？即使其他演讲者不在屏幕上，也要保持他们的时间和长度？还是在他们离开屏幕后立即将其缩短？ 谢谢！    提交人    /u/Foddashow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1da6t7u/lower_thirds_with_speakers_on_screen_for/</guid>
       <pubDate>Fri, 07 Jun 2024 09:50:35 GMT</pubDate>
     </item>
@@ -57,7 +50,7 @@
     <item>
       <title>现场工作流程和存储</title>
       <link>https://www.reddit.com/r/editors/comments/1da57xx/on_site_workflow_and_storage/</link>
-      <description><![CDATA[有时我会与另一位编辑在同一个项目上合作，但地点不同。我在想我们需要一台可以直接连接的服务器，如果能从中工作就更好了。我们正在使用 Premiere Pro，可能会制作一部作品，但硬件是主要问题。目前我们使用 SSD，当然很快就会变得一团糟。 我发现的唯一产品是 Lumaforge OWC Jellyfish Mobile，但我也读过一些关于他们产品的负面评论。价格可能很高，但成本不是问题，但成本较低的好产品当然更好。 该公司还在考虑使用云和 Frameio，但这可能需要一段时间，而且您需要良好的连接，而我们工作的地方可能并不总是这样。 我想知道其他人在使用什么，以及是否还有其他我遗漏的解决方案？   由    /u/A_Wonder_Named_Stevi  提交  [链接] [评论]]]></description>
+      <description><![CDATA[有时我会与另一位编辑在同一个项目上合作，但地点不同。我在想我们需要一台可以直接连接的服务器，如果我们能从它那里工作就更好了。我们正在使用 Premiere Pro，可能会制作一个作品，但硬件是主要问题。目前我们使用 SSD，当然很快就会变得一团糟。 我发现的唯一产品是 Lumaforge OWC Jellyfish Mobile，但我也读过一些关于他们产品的负面评论。价格可能很高，但成本不是问题，但成本较低的好产品当然更好。 该公司也在考虑使用云和 Frameio，但这可能需要一段时间，而且你需要一个好的连接，而我们工作的地方可能并不总是这样。 我想知道其他人在使用什么，以及是否还有其他我遗漏的解决方案？   由    /u/A_Wonder_Named_Stevi  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1da57xx/on_site_workflow_and_storage/</guid>
       <pubDate>Fri, 07 Jun 2024 07:51:15 GMT</pubDate>
     </item>
@@ -92,7 +85,7 @@
     <item>
       <title>口型同步偏离很远 - 而且不是 VFR。</title>
       <link>https://www.reddit.com/r/editors/comments/1d9su9l/lip_sync_way_off_and_its_not_vfr/</link>
-      <description><![CDATA[CBR 源，24.00fps。三个源，A 是视频会议参与者之一，B 是另一个会议参与者，C 是他们两个并排在一起。Premiere 序列设置为 24.00fps。 唯一具有正确口型同步的文件是源 A，一个参与者的镜头。同步对他来说是完美的，对于他作为源 C（双镜头）的一部分的镜头也是如此。另一方面，B 源至少偏离了 5 秒。就好像有人移动了音频并使用不同步的音频重新编码了视频。他的独立源和并排源的同步都关闭了。 我尝试根据唇部运动和波形手动同步音频，但说到一半时同步又关闭了。用肉眼看来，源看起来在某些时候速度变慢了，但是损坏的素材的文件长度与源 A（具有完美音频同步的视频）的长度相同。 任何帮助都值得赞赏！ 系统规格：https://pcpartpicker.com/list/PVQbPV Windows 10 Pro OS Build 19045.4412 素材是 .mp4 容器。每个 MediaInfo 的编解码器是 avc1。 原始来源未知。我的客户是主要编辑。 编辑：仔细检查后，不同步的视频在某些地方加速，在其他地方减慢，尽管素材是恒定的 24fps。但最终长度不知何故是正确的。   由    /u/TabascoWolverine  提交  [链接] [评论]]]></description>
+      <description><![CDATA[CBR 源，24.00fps。三个源，A 是一个视频会议参与者，B 是另一个会议参与者，C 是他们两个并排在一起。Premiere 序列设置为 24.00fps。 唯一具有正确口型同步的文件是源 A，一个参与者的镜头。同步对他来说是完美的，对于他作为源 C（双镜头）的一部分的镜头也是如此。另一方面，B 源至少偏离了 5 秒。就好像有人移动了音频并使用不同步的音频重新编码了视频。他的独立源和并排源的同步是关闭的。 我尝试根据唇部运动和波形手动同步音频，但说到一半时同步又偏离了。用肉眼看来，源看起来在某些时候速度变慢了，但是损坏的素材的文件长度与源 A（具有完美音频同步的视频）的长度相同。 任何帮助都值得赞赏！ 系统规格：https://pcpartpicker.com/list/PVQbPV Windows 10 Pro OS Build 19045.4412 素材是 .mp4 容器。每个 MediaInfo 的编解码器是 avc1。 原始来源未知。我的客户是主要编辑。 编辑：仔细检查后，不同步的视频在某些地方加速，在其他地方减慢，尽管素材是恒定的 24fps。但最终长度不知何故是正确的。   由    /u/TabascoWolverine  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d9su9l/lip_sync_way_off_and_its_not_vfr/</guid>
       <pubDate>Thu, 06 Jun 2024 20:54:29 GMT</pubDate>
     </item>
@@ -104,9 +97,16 @@
       <pubDate>Thu, 06 Jun 2024 20:27:38 GMT</pubDate>
     </item>
     <item>
+      <title>有没有办法拍下时间线的照片</title>
+      <link>https://www.reddit.com/r/editors/comments/1d9rk2p/is_there_a_way_to_take_a_picture_of_the_timeline/</link>
+      <description><![CDATA[  由    /u/minimand60  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1d9rk2p/is_there_a_way_to_take_a_picture_of_the_timeline/</guid>
+      <pubDate>Thu, 06 Jun 2024 20:03:00 GMT</pubDate>
+    </item>
+    <item>
       <title>电视广告片场的视频编辑</title>
       <link>https://www.reddit.com/r/editors/comments/1d9r1e8/video_editor_on_set_of_a_tv_commercial/</link>
-      <description><![CDATA[大家好，我将在一档零食电视广告的片场担任视频编辑。这是我第一次做这个，尽管我已经做了 8 年的专业编辑，所以我有点紧张。 我所知道的是，我将带着一台 MacBook 和一张采集卡去捕捉他们录制的视频，这样我就可以现场编辑了，对吧？然后给客户看。 我从来没有用过采集卡，我知道我会买这张 https://www.holdan.co.uk/Blackmagic+Design/UltraStudio+Express 有人能告诉我我应该设置什么，做什么吗？人们告诉我这很容易，但我不太确定。 任何指点都很好，提前谢谢了。    提交人    /u/AdExternal5845   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我将在一档零食电视广告的片场担任视频编辑。这是我第一次做这个，尽管我已经做了 8 年的专业编辑，所以我有点紧张。 我所知道的是，我将带着一台 MacBook 和一张采集卡去捕捉他们录制的视频，这样我就可以现场编辑了，对吧？然后给客户看。 我从来没有用过采集卡，我知道我会买这张https://www.holdan.co.uk/Blackmagic+Design/UltraStudio+Express 谁能告诉我应该设置什么，做什么？人们告诉我这很容易，但我不太确定。 任何指点都很好，提前谢谢了。    提交人    /u/AdExternal5845   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d9r1e8/video_editor_on_set_of_a_tv_commercial/</guid>
       <pubDate>Thu, 06 Jun 2024 19:42:11 GMT</pubDate>
     </item>
