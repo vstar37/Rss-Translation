@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目提要</description>
-    <lastBuildDate>Wed, 12 Jun 2024 09:14:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 01:02:05 GMT</lastBuildDate>
     <item>
-      <title>FlashST</title>
-      <link>https://www.opensourceagenda.com/projects/flashst</link>
-      <description><![CDATA[[ICML&#39;2024]“FlashST：一种简单通用的交通预测快速调整框架”]]></description>
-      <guid>https://www.opensourceagenda.com/projects/flashst</guid>
-      <pubDate>Wed, 12 Jun 2024 09:14:24 GMT</pubDate>
+      <title>時間農場</title>
+      <link>https://www.opensourceagenda.com/projects/timefarm</link>
+      <description><![CDATA[TimeFarm Telegram BOT]]></description>
+      <guid>https://www.opensourceagenda.com/projects/timefarm</guid>
+      <pubDate>Thu, 13 Jun 2024 01:02:04 GMT</pubDate>
     </item>
     <item>
-      <title>奇斯尔</title>
-      <link>https://www.opensourceagenda.com/projects/chissl</link>
-      <description><![CDATA[创建 HTTPS 反向隧道的工具]]></description>
-      <guid>https://www.opensourceagenda.com/projects/chissl</guid>
-      <pubDate>Wed, 12 Jun 2024 09:14:24 GMT</pubDate>
+      <title>PDF 转 XLSX</title>
+      <link>https://www.opensourceagenda.com/projects/pdf-to-xlsx</link>
+      <description><![CDATA[读取目录中的所有 PDF 文档并创建一个两列电子表格来记录文件名和可填写的 PDF 字段。**需要 PyPDF 和 pandas 库**]]></description>
+      <guid>https://www.opensourceagenda.com/projects/pdf-to-xlsx</guid>
+      <pubDate>Thu, 13 Jun 2024 01:02:04 GMT</pubDate>
     </item>
     <item>
-      <title>Pytest 编辑</title>
-      <link>https://www.opensourceagenda.com/projects/pytest-edit</link>
-      <description><![CDATA[输入 `pytest --edit` 打开失败的测试代码✨]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pytest-edit</guid>
-      <pubDate>Wed, 12 Jun 2024 09:14:24 GMT</pubDate>
+      <title>发送</title>
+      <link>https://www.opensourceagenda.com/projects/bitiful-send</link>
+      <description><![CDATA[基于 Bitiful S4 对象存储的 “Simul-Transfer（即传即下）”  技术实现的大文件实时多人分享，Wetransfer 或 奶牛快传 的相似开源替代品。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/bitiful-send</guid>
+      <pubDate>Thu, 13 Jun 2024 01:02:04 GMT</pubDate>
     </item>
     <item>
-      <title>社交距离</title>
-      <link>https://www.opensourceagenda.com/projects/sociallydistant</link>
-      <description><![CDATA[即将在 Steam 上推出的叙事驱动黑客游戏]]></description>
-      <guid>https://www.opensourceagenda.com/projects/sociallydistant</guid>
-      <pubDate>Wed, 12 Jun 2024 09:14:23 GMT</pubDate>
+      <title>Bootstrap3D</title>
+      <link>https://www.opensourceagenda.com/projects/bootstrap3d</link>
+      <description><![CDATA[Bootstrap3D 官方实现：利用合成数据改进 3D 内容创建]]></description>
+      <guid>https://www.opensourceagenda.com/projects/bootstrap3d</guid>
+      <pubDate>Thu, 13 Jun 2024 01:02:03 GMT</pubDate>
     </item>
     <item>
-      <title>CM大学网</title>
-      <link>https://www.opensourceagenda.com/projects/cm-unet</link>
+      <title>ChrisTitusTech Linux 设置</title>
+      <link>https://www.opensourceagenda.com/projects/christitustech-linux-setup</link>
+      <description><![CDATA[Arch - Debian - Fedora 的终极 Linux 安装脚本]]></description>
+      <guid>https://www.opensourceagenda.com/projects/christitustech-linux-setup</guid>
+      <pubDate>Thu, 13 Jun 2024 01:01:57 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.opensourceagenda.com/projects/android-native-import-hide</link>
+      <description><![CDATA[用于隐藏和检索 ELF 二进制文件中的导入的库。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/android-native-import-hide</guid>
+      <pubDate>Thu, 13 Jun 2024 01:01:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>高斯城</title>
+      <link>https://www.opensourceagenda.com/projects/gaussiancity</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cm-unet</guid>
-      <pubDate>Wed, 12 Jun 2024 09:14:23 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/gaussiancity</guid>
+      <pubDate>Thu, 13 Jun 2024 01:01:56 GMT</pubDate>
     </item>
     <item>
-      <title>下载</title>
-      <link>https://www.opensourceagenda.com/projects/wxdown</link>
-      <description><![CDATA[微信公众号文章离线保存]]></description>
-      <guid>https://www.opensourceagenda.com/projects/wxdown</guid>
-      <pubDate>Wed, 12 Jun 2024 09:14:23 GMT</pubDate>
+      <title>ID 转 3D</title>
+      <link>https://www.opensourceagenda.com/projects/id-to-3d</link>
+      <description><![CDATA[此存储库包含工作 ID-to-3D 的代码。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/id-to-3d</guid>
+      <pubDate>Thu, 13 Jun 2024 01:01:56 GMT</pubDate>
     </item>
     <item>
-      <title>点点情报</title>
-      <link>https://www.opensourceagenda.com/projects/pip-intel</link>
-      <description><![CDATA[PIP-INTEL 是一种使用各种开源工具和 pip 包设计的 OSINT（开源情报）工具。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pip-intel</guid>
-      <pubDate>Wed, 12 Jun 2024 09:14:23 GMT</pubDate>
+      <title>ComfyUI Qwen 2</title>
+      <link>https://www.opensourceagenda.com/projects/comfyui-qwen-2</link>
+      <description><![CDATA[在 ComfyUI 中使用 Qwen-2]]></description>
+      <guid>https://www.opensourceagenda.com/projects/comfyui-qwen-2</guid>
+      <pubDate>Thu, 13 Jun 2024 01:01:53 GMT</pubDate>
     </item>
     <item>
-      <title>PG</title>
-      <link>https://www.opensourceagenda.com/projects/pgai</link>
-      <description><![CDATA[AI 工作流程的辅助函数]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pgai</guid>
-      <pubDate>Wed, 12 Jun 2024 09:14:22 GMT</pubDate>
+      <title>异步差异</title>
+      <link>https://www.opensourceagenda.com/projects/asyncdiff</link>
+      <description><![CDATA[“AsyncDiff：通过异步去噪并行化扩散模型”的官方实现]]></description>
+      <guid>https://www.opensourceagenda.com/projects/asyncdiff</guid>
+      <pubDate>Thu, 13 Jun 2024 01:01:46 GMT</pubDate>
     </item>
     <item>
-      <title>RTX AI 工具包</title>
-      <link>https://www.opensourceagenda.com/projects/rtx-ai-toolkit</link>
-      <description><![CDATA[NVIDIA RTX™ AI Toolkit 是一套工具和 SDK，供 Windows 开发人员在 RTX PC 和云端定制、优化和部署 AI 模型。 ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/rtx-ai-toolkit</guid>
-      <pubDate>Wed, 12 Jun 2024 09:14:22 GMT</pubDate>
+      <title>Nativelink 规则 Mojo</title>
+      <link>https://www.opensourceagenda.com/projects/nativelink-rules-mojo</link>
+      <description><![CDATA[Mojo 的前沿构建系统🔥]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nativelink-rules-mojo</guid>
+      <pubDate>Thu, 13 Jun 2024 01:01:46 GMT</pubDate>
     </item>
     <item>
-      <title>斯拉梅奥 LE3D</title>
-      <link>https://www.opensourceagenda.com/projects/srameo-le3d</link>
-      <description><![CDATA[HDR 3D 场景编辑！]]></description>
-      <guid>https://www.opensourceagenda.com/projects/srameo-le3d</guid>
-      <pubDate>Wed, 12 Jun 2024 09:14:22 GMT</pubDate>
+      <title>Walletlib</title>
+      <link>https://www.opensourceagenda.com/projects/walletlib</link>
+      <description><![CDATA[统一接口，用于处理加密货币 wallet.dat、.wallet、.key 文件。可以自动尝试通过前缀找出 .dat 钱包包含的货币类型。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/walletlib</guid>
+      <pubDate>Thu, 13 Jun 2024 01:01:45 GMT</pubDate>
     </item>
     <item>
-      <title>格邦风 Docker 镜像</title>
-      <link>https://www.opensourceagenda.com/projects/gebangfeng-docker-mirror</link>
-      <description><![CDATA[整理各大docker,容器镜像仓库的国内镜像源]]></description>
-      <guid>https://www.opensourceagenda.com/projects/gebangfeng-docker-mirror</guid>
-      <pubDate>Wed, 12 Jun 2024 09:14:21 GMT</pubDate>
+      <title>税额</title>
+      <link>https://www.opensourceagenda.com/projects/mev-tax</link>
+      <description><![CDATA[🩸 用于 MEV 税的最小 Solidity 库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/mev-tax</guid>
+      <pubDate>Thu, 13 Jun 2024 01:01:45 GMT</pubDate>
     </item>
     <item>
-      <title>稳健的重量转移</title>
-      <link>https://www.opensourceagenda.com/projects/robust-weight-transfer</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/robust-weight-transfer</guid>
-      <pubDate>Wed, 12 Jun 2024 09:14:21 GMT</pubDate>
+      <title>命令行上的语言模型</title>
+      <link>https://www.opensourceagenda.com/projects/language-models-on-the-command-line</link>
+      <description><![CDATA[我关于 LLM 和 CLI 工具的演讲讲义]]></description>
+      <guid>https://www.opensourceagenda.com/projects/language-models-on-the-command-line</guid>
+      <pubDate>Thu, 13 Jun 2024 01:01:45 GMT</pubDate>
     </item>
     <item>
-      <title>GoRedOps</title>
-      <link>https://www.opensourceagenda.com/projects/goredops</link>
-      <description><![CDATA[🦫 | GoRedOps 是一个致力于为红队收集和分享先进技术和攻击性恶意软件的存储库，特别关注 Go 编程语言，所有内容仅用于教育目的。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/goredops</guid>
-      <pubDate>Wed, 12 Jun 2024 09:14:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>钢筋混凝土变压器</title>
-      <link>https://www.opensourceagenda.com/projects/rcc-transformer</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/rcc-transformer</guid>
-      <pubDate>Wed, 12 Jun 2024 09:14:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>快递AM6 AM8</title>
-      <link>https://www.opensourceagenda.com/projects/express-am6-am8</link>
-      <description><![CDATA[俄罗斯“DX”卫星覆盖跨大西洋，其播放的内容包括多个有争议的俄罗斯、叙利亚和伊朗（新闻）频道。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/express-am6-am8</guid>
-      <pubDate>Wed, 12 Jun 2024 09:14:20 GMT</pubDate>
+      <title>政府破解者</title>
+      <link>https://www.opensourceagenda.com/projects/govcracker</link>
+      <description><![CDATA[GovCracker 是 Hashcat、John the Ripper、PRINCE、Maskprocessor、Wordlister、CUPP 等的最佳包装器和 GUI。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/govcracker</guid>
+      <pubDate>Thu, 13 Jun 2024 01:01:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

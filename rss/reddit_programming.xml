@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 12 Jun 2024 09:13:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 01:01:01 GMT</lastBuildDate>
     <item>
-      <title>介绍如何使用 .NET SDK CLI 命令行工具在 .NET 平台上进行软件开发</title>
-      <link>https://www.reddit.com/r/programming/comments/1de20hu/introduction_to_using_net_sdk_cli_command_line/</link>
-      <description><![CDATA[  由    /u/xanthium_in  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1de20hu/introduction_to_using_net_sdk_cli_command_line/</guid>
-      <pubDate>Wed, 12 Jun 2024 08:53:59 GMT</pubDate>
+      <title>我用 Python 创建了一个小型网络爬虫</title>
+      <link>https://www.reddit.com/r/programming/comments/1demeti/i_created_a_tiny_web_crawler_in_python/</link>
+      <description><![CDATA[  由    /u/Outrageous_Bee1412  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1demeti/i_created_a_tiny_web_crawler_in_python/</guid>
+      <pubDate>Thu, 13 Jun 2024 00:48:21 GMT</pubDate>
     </item>
     <item>
-      <title>什么才是好的 REST API？</title>
-      <link>https://www.reddit.com/r/programming/comments/1de1sm6/what_makes_a_good_rest_api/</link>
-      <description><![CDATA[  由    /u/itssimon86  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1de1sm6/what_makes_a_good_rest_api/</guid>
-      <pubDate>Wed, 12 Jun 2024 08:38:04 GMT</pubDate>
+      <title>Quizinator：根据 Youtube 视频自动生成测验</title>
+      <link>https://www.reddit.com/r/programming/comments/1dejtsy/quizinator_automatically_generating_quizzes_from/</link>
+      <description><![CDATA[  由    /u/th3_artificery  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dejtsy/quizinator_automatically_generating_quizzes_from/</guid>
+      <pubDate>Wed, 12 Jun 2024 22:44:44 GMT</pubDate>
     </item>
     <item>
-      <title>简单解释一下神经网络的最新进展</title>
-      <link>https://www.reddit.com/r/programming/comments/1de0wkj/the_latest_advance_in_neural_networks_simply/</link>
-      <description><![CDATA[  由    /u/StellarNavigator  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1de0wkj/the_latest_advance_in_neural_networks_simply/</guid>
-      <pubDate>Wed, 12 Jun 2024 07:32:51 GMT</pubDate>
+      <title>自动问题分配器 Github Bot</title>
+      <link>https://www.reddit.com/r/programming/comments/1dejqby/automatic_issue_assigner_github_bot/</link>
+      <description><![CDATA[  由    /u/varun_kolanu  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dejqby/automatic_issue_assigner_github_bot/</guid>
+      <pubDate>Wed, 12 Jun 2024 22:40:26 GMT</pubDate>
     </item>
     <item>
-      <title>解释 AudioSpectrogramTransformer — 用于音频分类的 XAI</title>
-      <link>https://www.reddit.com/r/programming/comments/1de0m30/explaining_the_audiospectrogramtransformer_xai/</link>
-      <description><![CDATA[  由    /u/bitter-cognac  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1de0m30/explaining_the_audiospectrogramtransformer_xai/</guid>
-      <pubDate>Wed, 12 Jun 2024 07:12:16 GMT</pubDate>
+      <title>基于目录的配置，简化 git 工作流程</title>
+      <link>https://www.reddit.com/r/programming/comments/1degp29/directory_based_config_for_easy_git_workflow/</link>
+      <description><![CDATA[  由    /u/pyployer  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1degp29/directory_based_config_for_easy_git_workflow/</guid>
+      <pubDate>Wed, 12 Jun 2024 20:29:23 GMT</pubDate>
     </item>
     <item>
-      <title>用 C 语言编写的小型 BitTorrent 客户端</title>
-      <link>https://www.reddit.com/r/programming/comments/1ddz5q0/a_small_toy_bittorrent_client_written_in_c/</link>
-      <description><![CDATA[  由    /u/Ocelot-Complete  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ddz5q0/a_small_toy_bittorrent_client_written_in_c/</guid>
-      <pubDate>Wed, 12 Jun 2024 05:34:17 GMT</pubDate>
+      <title>第四个故事（1995）</title>
+      <link>https://www.reddit.com/r/programming/comments/1deg914/a_forth_story_1995/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1deg914/a_forth_story_1995/</guid>
+      <pubDate>Wed, 12 Jun 2024 20:10:52 GMT</pubDate>
     </item>
     <item>
-      <title>8 个很酷的 Python 单行代码，让你成为更好的开发人员</title>
-      <link>https://www.reddit.com/r/programming/comments/1ddxx2c/8_cool_python_oneliners_thatll_make_you_a_better/</link>
-      <description><![CDATA[  由    /u/skaihugger  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ddxx2c/8_cool_python_oneliners_thatll_make_you_a_better/</guid>
-      <pubDate>Wed, 12 Jun 2024 04:17:48 GMT</pubDate>
+      <title>你的节点正在泄漏内存？setTimeout 可能是原因</title>
+      <link>https://www.reddit.com/r/programming/comments/1deg8za/your_node_is_leaking_memory_settimeout_could_be/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1deg8za/your_node_is_leaking_memory_settimeout_could_be/</guid>
+      <pubDate>Wed, 12 Jun 2024 20:10:49 GMT</pubDate>
     </item>
     <item>
-      <title>Mycelial SQLite 初学者课程</title>
-      <link>https://www.reddit.com/r/programming/comments/1ddxsw1/the_mycelial_sqlite_for_beginners_course/</link>
-      <description><![CDATA[  由    /u/pmz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ddxsw1/the_mycelial_sqlite_for_beginners_course/</guid>
-      <pubDate>Wed, 12 Jun 2024 04:11:02 GMT</pubDate>
+      <title>Fuzz Map 是一款 GUI 模糊测试器，可使用代码覆盖率自动识别状态并构建可视化地图</title>
+      <link>https://www.reddit.com/r/programming/comments/1deg81a/fuzz_map_is_a_fuzzer_for_guis_that_automatically/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1deg81a/fuzz_map_is_a_fuzzer_for_guis_that_automatically/</guid>
+      <pubDate>Wed, 12 Jun 2024 20:09:45 GMT</pubDate>
     </item>
     <item>
-      <title>在 Windows 上完整安装 Flutter - 您的第一个 Flutter 应用程序 | 从 Adob​​e XD 到 Flutter 应用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1ddudm8/full_installation_of_flutter_on_windows_your/</link>
-      <description><![CDATA[  由    /u/MostTranslator6612  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ddudm8/full_installation_of_flutter_on_windows_your/</guid>
-      <pubDate>Wed, 12 Jun 2024 01:06:14 GMT</pubDate>
+      <title>如何在容器化环境中为 Next.js 13 实现企业级身份验证</title>
+      <link>https://www.reddit.com/r/programming/comments/1deg7n2/how_to_implement_enterpriselevel_authentication/</link>
+      <description><![CDATA[  由    /u/ozdemirrulass  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1deg7n2/how_to_implement_enterpriselevel_authentication/</guid>
+      <pubDate>Wed, 12 Jun 2024 20:09:16 GMT</pubDate>
     </item>
     <item>
-      <title>Slack 将 AST 与 LLM 相结合，自动转换 15,000 个单元测试中的 80%</title>
-      <link>https://www.reddit.com/r/programming/comments/1ddtvnf/slack_combines_asts_with_llms_to_automatically/</link>
-      <description><![CDATA[  由    /u/estiller  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ddtvnf/slack_combines_asts_with_llms_to_automatically/</guid>
-      <pubDate>Wed, 12 Jun 2024 00:40:40 GMT</pubDate>
+      <title>后端开发人员努力工作却无所作为</title>
+      <link>https://www.reddit.com/r/programming/comments/1deg7dk/backend_developers_work_hard_to_make_nothing/</link>
+      <description><![CDATA[  由    /u/2urnesst  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1deg7dk/backend_developers_work_hard_to_make_nothing/</guid>
+      <pubDate>Wed, 12 Jun 2024 20:08:59 GMT</pubDate>
     </item>
     <item>
-      <title>使用 JUnit 进行 Java 单元测试：初学者指南 | 第 1 部分</title>
-      <link>https://www.reddit.com/r/programming/comments/1ddtp69/java_unit_testing_with_junit_a_beginners_guide/</link>
-      <description><![CDATA[  由    /u/joaogaino  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ddtp69/java_unit_testing_with_junit_a_beginners_guide/</guid>
-      <pubDate>Wed, 12 Jun 2024 00:31:36 GMT</pubDate>
+      <title>Rye 中的一级上下文</title>
+      <link>https://www.reddit.com/r/programming/comments/1deg6os/first_class_contexts_in_rye/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1deg6os/first_class_contexts_in_rye/</guid>
+      <pubDate>Wed, 12 Jun 2024 20:08:14 GMT</pubDate>
     </item>
     <item>
-      <title>非常值得一读：按年龄划分的布隆过滤器</title>
-      <link>https://www.reddit.com/r/programming/comments/1ddoqrc/a_very_good_read_agepartitioned_bloom_filters/</link>
-      <description><![CDATA[  由    /u/StellarNavigator  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ddoqrc/a_very_good_read_agepartitioned_bloom_filters/</guid>
-      <pubDate>Tue, 11 Jun 2024 20:49:01 GMT</pubDate>
+      <title>CPython 垃圾收集：内部机制和算法</title>
+      <link>https://www.reddit.com/r/programming/comments/1deg64i/cpython_garbage_collection_the_internal_mechanics/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1deg64i/cpython_garbage_collection_the_internal_mechanics/</guid>
+      <pubDate>Wed, 12 Jun 2024 20:07:36 GMT</pubDate>
     </item>
     <item>
-      <title>GDPR 开发人员速查表</title>
-      <link>https://www.reddit.com/r/programming/comments/1ddm42n/a_developer_cheat_sheet_for_gdpr/</link>
-      <description><![CDATA[  由    /u/NotTheRadar24  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ddm42n/a_developer_cheat_sheet_for_gdpr/</guid>
-      <pubDate>Tue, 11 Jun 2024 19:01:21 GMT</pubDate>
+      <title>同源：可读且简洁的连接编程</title>
+      <link>https://www.reddit.com/r/programming/comments/1deg61w/cognate_readable_and_concise_concatenative/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1deg61w/cognate_readable_and_concise_concatenative/</guid>
+      <pubDate>Wed, 12 Jun 2024 20:07:31 GMT</pubDate>
     </item>
     <item>
-      <title>用通俗易懂的语言解释 AI 大型语言模型的工作原理</title>
-      <link>https://www.reddit.com/r/programming/comments/1ddl3uz/a_jargonfree_explanation_of_how_ai_large_language/</link>
-      <description><![CDATA[  由    /u/StellarNavigator  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ddl3uz/a_jargonfree_explanation_of_how_ai_large_language/</guid>
-      <pubDate>Tue, 11 Jun 2024 18:20:39 GMT</pubDate>
+      <title>我使用 Rust 制作解释器的经验</title>
+      <link>https://www.reddit.com/r/programming/comments/1deg5yv/my_experience_crafting_an_interpreter_with_rust/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1deg5yv/my_experience_crafting_an_interpreter_with_rust/</guid>
+      <pubDate>Wed, 12 Jun 2024 20:07:25 GMT</pubDate>
     </item>
     <item>
-      <title>Eicrud：基于 NestJS 的 CRUD/授权框架</title>
-      <link>https://www.reddit.com/r/programming/comments/1ddl3jv/eicrud_a_crudauthorization_framework_based_on/</link>
-      <description><![CDATA[  由    /u/acrosett  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ddl3jv/eicrud_a_crudauthorization_framework_based_on/</guid>
-      <pubDate>Tue, 11 Jun 2024 18:20:17 GMT</pubDate>
+      <title>Python wheel 文件名没有规范形式</title>
+      <link>https://www.reddit.com/r/programming/comments/1deg4r2/python_wheel_filenames_have_no_canonical_form/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1deg4r2/python_wheel_filenames_have_no_canonical_form/</guid>
+      <pubDate>Wed, 12 Jun 2024 20:06:04 GMT</pubDate>
     </item>
     <item>
-      <title>NULL BITMAP 构建数据库 #2：进入内存表</title>
-      <link>https://www.reddit.com/r/programming/comments/1ddl3df/null_bitmap_builds_a_database_2_enter_the_memtable/</link>
-      <description><![CDATA[  由    /u/eatonphil  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ddl3df/null_bitmap_builds_a_database_2_enter_the_memtable/</guid>
-      <pubDate>Tue, 11 Jun 2024 18:20:06 GMT</pubDate>
+      <title>Swift 静态 Linux SDK</title>
+      <link>https://www.reddit.com/r/programming/comments/1deg4jg/swift_static_linux_sdk/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1deg4jg/swift_static_linux_sdk/</guid>
+      <pubDate>Wed, 12 Jun 2024 20:05:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

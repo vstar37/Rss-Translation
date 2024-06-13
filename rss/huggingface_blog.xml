@@ -4,7 +4,21 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Fri, 07 Jun 2024 18:16:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 00:59:56 GMT</lastBuildDate>
+    <item>
+      <title>🧨 Diffusers 欢迎稳定版 Diffusion 3</title>
+      <link>https://huggingface.co/blog/sd3</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/sd3</guid>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 RL 重新放入 RLHF</title>
+      <link>https://huggingface.co/blog/putting_rl_back_in_rlhf_with_rloo</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/putting_rl_back_in_rlhf_with_rloo</guid>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>搞清楚这一混乱局面</title>
       <link>https://huggingface.co/blog/transformers-docs-redesign</link>
@@ -87,20 +101,6 @@
       <link>https://huggingface.co/blog/spaces-dev-mode</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/spaces-dev-mode</guid>
-      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用 Dell Enterprise Hub 在本地构建 AI</title>
-      <link>https://huggingface.co/blog/dell-enterprise-hub</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/dell-enterprise-hub</guid>
-      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD Instinct MI300 GPU 上的拥抱脸</title>
-      <link>https://huggingface.co/blog/huggingface-amd-mi300</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/huggingface-amd-mi300</guid>
       <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
