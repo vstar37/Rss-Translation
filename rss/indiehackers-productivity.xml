@@ -4,20 +4,7 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Tue, 18 Jun 2024 06:17:55 GMT</lastBuildDate>
-    <item>
-      <title>如何为你的软件团队聘请专门的开发人员</title>
-      <link>https://feed.indiehackers.world/post/385fb5c28c</link>
-      <description><![CDATA[🔹 保持质量和生产力：了解如何确保您的远程或离岸团队保持高质量和高生产力标准。
-无论您是初创公司创始人还是经验丰富的企业家，本指南旨在帮助您建立一支强大、专注的开发团队，推动您的业务向前发展。查看并让我们知道您的想法！
-在此处阅读完整指南：如何为您的软件团队聘请专职开发人员
-期待您的反馈和讨论！
-#Hiring #Developers #SoftwareTeam #RemoteWork #IndieHackers #TheScalers
-来源：https://thescalers.com/how-to-hire-dedicated-developers-for-your-software-team/
-Discord Indiehackers Chat广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/385fb5c28c</guid>
-      <pubDate>Tue, 18 Jun 2024 04:44:28 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Jun 2024 09:14:56 GMT</lastBuildDate>
     <item>
       <title>你的自由职业者效率如何？</title>
       <link>https://feed.indiehackers.world/post/3b73c5841c</link>
@@ -25,22 +12,6 @@ Discord Indiehackers Chat广告此处]]></description>
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/3b73c5841c</guid>
       <pubDate>Sun, 16 Jun 2024 10:27:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>新鲜事：如何创作优质内容</title>
-      <link>https://feed.indiehackers.world/post/e07dc0d4cb</link>
-      <description><![CDATA[授权您的团队
-授权您的团队，让他们有信心根据情况负责自己的任务和职责。无论情况或环境如何变化，这都能保证最大的生产力和产出。确保团队成员了解：
-
-每项任务的“为什么”：如果人们了解他们的工作为组织带来的价值，他们就更有可能为自己的工作感到自豪。这也会提高他们的整体工作满意度。
-
-每项任务背后的“什么”：不要将请求打包成命令。让事情协作起来，帮助团队成员保持正轨。此外，一定要确定团队成员是否非常独立，或者是否需要更多指导。这将有助于您进行沟通。
-
-
-尊重团队成员，让他们提供指导。表现出对团队和组织整体成功的真正兴趣。问问为什么某件事对企业至关重要，以及为什么做这件事会为企业和客户带来最好的结果。 
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/e07dc0d4cb</guid>
-      <pubDate>Sat, 15 Jun 2024 02:20:22 GMT</pubDate>
     </item>
     <item>
       <title>死亡、比特币和继承</title>
@@ -91,7 +62,7 @@ Discord Indiehackers Chat广告此处]]></description>
       <pubDate>Thu, 13 Jun 2024 09:02:34 GMT</pubDate>
     </item>
     <item>
-      <title>破除关于软件开发的 8 大迷思</title>
+      <title>破除关于软件开发的 8 大误区</title>
       <link>https://feed.indiehackers.world/post/baedc4a373</link>
       <description><![CDATA[误区 6：软件发布后，项目就结束了
 开发过程中始终存在一个持续的过程，需要升级和更新以确保软件有效且高效。软件发布后，会立即转而收集用户反馈并将其纳入其中，以增强其使用和功能。
@@ -192,6 +163,43 @@ Discord Indiehackers Chat广告此处]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/72b458e3c3</guid>
       <pubDate>Tue, 19 Mar 2024 03:44:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>AiFormat - CLI 工具，可将文件转换为针对 Claude 优化的格式</title>
+      <link>https://feed.indiehackers.world/post/79759f89d5</link>
+      <description><![CDATA[大家好！
+上周，我发布了 AiFormat，反响非常好！
+如果您还没有使用过它，它是一个简单的 CLI 工具，可以进行复制和轻而易举地将文件粘贴到 Claude 中。
+将它与 Claude Opus 一起使用大大提高了我的工作效率。
+我刚刚发布了一个新版本，希望您会喜欢：
+
+添加了在深层嵌套文件中的搜索功能。
+
+添加了使用 Tab 键展开/折叠文件夹的功能。
+
+添加了表情符号以区分文件夹（🗂️）和文件（📄）。
+
+完全代码重写，包括基于 ID 的导航。
+
+
+该项目在 MIT 许可下完全开源，欢迎贡献者！
+这是 Github repo 的链接，其中包含有关如何开始的说明（非常简单）：
+https://github.com/farouqaldori/aiformat/
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/79759f89d5</guid>
+      <pubDate>Mon, 18 Mar 2024 11:56:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为了努力学习所做的事情</title>
+      <link>https://feed.indiehackers.world/post/2a427e7fdb</link>
+      <description><![CDATA[
+循环播放我喜欢的 Spotify 歌曲。
+戴着耳机听歌。
+全神贯注地工作，没有设定目标！
+
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/2a427e7fdb</guid>
+      <pubDate>Mon, 18 Mar 2024 09:35:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
