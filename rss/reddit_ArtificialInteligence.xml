@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 20 Jun 2024 18:16:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 21:12:42 GMT</lastBuildDate>
+    <item>
+      <title>需要人工智能工程师/开发人员 - 全职，工作地点位于南非</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dkmcxs/ai_engineerdeveloper_needed_full_time_based_in/</link>
+      <description><![CDATA[大家好，我和我的商业伙伴刚刚接到一个大项目，需要一名全职的人工智能人员。 知道哪里可以找到这样的人才吗？    提交人    /u/gazzagp   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dkmcxs/ai_engineerdeveloper_needed_full_time_based_in/</guid>
+      <pubDate>Thu, 20 Jun 2024 21:00:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找 AI 视频生成器</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dkmac5/looking_for_an_ai_video_generator/</link>
+      <description><![CDATA[大家好！我正在寻找一个 AI 视频生成器来帮助我为 Instagram 制作一些内容。我是一名诗人，正在寻找可以读取文本、根据文本生成一些视觉效果并可能添加一些背景音乐的东西。  有人知道可以做到这一点的软件吗？    提交人    /u/quin01   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dkmac5/looking_for_an_ai_video_generator/</guid>
+      <pubDate>Thu, 20 Jun 2024 20:57:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 数据分析师 - 连接您的数据源并提出问题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dklk1q/ai_data_analyst_connect_your_data_sources_and_ask/</link>
+      <description><![CDATA[嗨 Reddit，我想分享 AI Data Analyst 工具 及其背后的故事。 产品 AI Data Analyst 允许您上传电子表格并轻松连接您的数据源（例如 GA4、Google Ads、Hubspot 等），并使用自然语言询问有关您的数据的问题。 背景 我们的团队已经致力于自然语言查询工具很长时间了。早在 LLM 时代之前，我们就推出了一款自然语言 SQL 初创公司，后来被收购。然后，我们创办了一家新的 BI 公司，其论点是，营销人员等商业用户并不总是知道如何提出数据问题，因此我们的目标是构建一种产品，在用户提出问题之前主动生成数据洞察。 进化 生成式 AI 走向主流的总体动态创造了一个有趣的机会。我们仍然相信，BI 的未来在于主动分析和轻松的数据集成。然而，随着 AI 意识的增强，我们看到用户对自然语言功能非常感兴趣，因此我们决定将其提升到一个新的水平。 为什么不 直接使用 ChatGPT？ ChatGPT 和其他基于聊天的 LLM 工具的问题在于它们会产生很多幻觉。ChatGPT 的答案看起来很合理，因此大多数用户都不愿意验证答案是否与实际数据相符。然而，我们的研究表明，对于或多或少复杂的数据集（例如 Google Search Console 数据），ChatGPT 的幻觉率为 47%。对于业务数据分析而言，准确性是关键。因为错误的答案可能会导致错误的决策。另一个限制是数据集成。AI 数据分析师带有预先构建的数据集成，因此您可以轻松连接数据源，例如 GA4、Google Ads、Google Search Console、FB Ads、Hubspot 和 Salesforce。更多数据源即将推出，我们也在进行自定义集成。 期待您的反馈！您可以在此处查看我们的产品视频。    提交人    /u/NBI_story   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dklk1q/ai_data_analyst_connect_your_data_sources_and_ask/</guid>
+      <pubDate>Thu, 20 Jun 2024 20:25:16 GMT</pubDate>
+    </item>
     <item>
       <title>思考被高估了。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dki4hp/thinking_is_overrated/</link>
@@ -43,16 +64,9 @@
     <item>
       <title>[问题] 从本地照片库进行人脸识别的 API</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dkbih5/question_api_for_face_recognition_from_local/</link>
-      <description><![CDATA[嗨， 我是一家小型博物馆的志愿者，该博物馆致力于一个不存在的玻璃厂。  玻璃厂对当地居民产生了巨大影响，引发了当地村庄和定居点的发展，对来这里工作并在此度过余生的人们起到了“磁石”的作用。 该工厂于 1921 年至 2005 年间运营。  目前，自 2024 年 4 月起，我们正试图通过组织我们的小博物馆来保留记忆。人们给我们带来了很多个人记忆、照片、文件、设备零件等。很高兴看到我们可以使用和保存的材料越来越多。 长话短说：我们的图片收藏越来越多，从 1928 年（最早的日期）到 1980 年代。目前我们正在扫描这些照片，打算将它们用于未来的展览。当人们向我们的博物馆捐赠照片时，他们就同意展示这些照片（我强调这一点是为了避免将来的问题）。 问题是这些照片没有日期，质量和状态各不相同。我们想以某种方式对它们进行分类，其中一种方法是按描绘的人物进行分类。但考虑到所有情况，手动进行分类真的很麻烦。 我想知道是否有某种工具可以帮助我 - 类似于 PIMeye，但使用本地照片存储库。这不必 100% 准确，但任何形式的自动化过程都会受到赞赏。如果提议的工具可以免费用于非商业目的，那么更受欢迎 :) 有什么提示？想法？    提交人    /u/tsalarioth   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我是一家小型博物馆的志愿者，该博物馆致力于展示一家不存在的玻璃厂。  这家玻璃厂对当地居民产生了巨大影响，引发了当地村庄和定居点的发展，对来此工作并在此度过余生的人们起到了“磁石”的作用。 该工厂于 1921 年至 2005 年间运营。  目前，自 2024 年 4 月起，我们正尝试通过组织我们的小博物馆来保存记忆。人们给我们带来了很多个人记忆、照片、文件、设备零件等。很高兴看到我们可以使用和保存的材料越来越多。 长话短说：我们的图片收藏越来越多，从 1928 年（最早的日期）到 1980 年代。目前我们正在扫描这些照片，打算将它们用于未来的展览。当人们向我们的博物馆捐赠照片时，他们就同意展示这些照片（我强调这一点是为了避免将来的问题）。 问题是这些照片没有日期，质量和状态各不相同。我们想以某种方式对它们进行分类，其中一种方法是按描绘的人物进行分类。但考虑到所有情况，手动进行分类真的很麻烦。 我想知道是否有某种工具可以帮助我 - 类似于 PIMeye，但使用本地照片存储库。这不必 100% 准确，但任何形式的自动化过程都会受到赞赏。如果提议的工具可以免费用于非商业目的，那么更受欢迎 :) 有什么提示？想法？    提交人    /u/tsalarioth   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dkbih5/question_api_for_face_recognition_from_local/</guid>
       <pubDate>Thu, 20 Jun 2024 13:22:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>理解自动编码器和潜在空间</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dkbgtp/understanding_autoencoders_and_the_latent_space/</link>
-      <description><![CDATA[大家好， 我刚刚在我的 YouTube 频道上发布了一个关于自动编码器和潜在空间的新视频。我用 Manim 为所有内容制作动画。 欢迎任何反馈。:) 这是链接：https://youtu.be/hZ4a4NgM3u0 在视频中，我分解了：自动编码器的作用以及我们如何训练它们，潜在维度如何影响自动编码器的性能，以及最后的一些应用和限制。 希望你喜欢它。    提交人    /u/Commercial_Carrot460   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dkbgtp/understanding_autoencoders_and_the_latent_space/</guid>
-      <pubDate>Thu, 20 Jun 2024 13:20:15 GMT</pubDate>
     </item>
     <item>
       <title>AI教父Geoffrey Hinton加入CuspAI，旨在利用AI应对气候变化</title>
@@ -69,13 +83,6 @@
       <pubDate>Thu, 20 Jun 2024 12:43:33 GMT</pubDate>
     </item>
     <item>
-      <title>未来智能家居（GPT4o 和 Dalle 3）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dk9spo/futuristic_smart_home_gpt4o_dalle_3/</link>
-      <description><![CDATA[  由    /u/Maybe-reality842  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dk9spo/futuristic_smart_home_gpt4o_dalle_3/</guid>
-      <pubDate>Thu, 20 Jun 2024 11:56:31 GMT</pubDate>
-    </item>
-    <item>
       <title>OpenAI 联合创始人 Ilya Sutskever 宣布成立竞争对手 AI 初创公司</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dk6s4k/openai_cofounder_ilya_sutskever_announces_rival/</link>
       <description><![CDATA[https://www.ft.com/content/68cb9b1f-c3bb-4a90-a8b6-17b7e3ecd234    由   提交  /u/Mother_Techie   [链接] [评论]]]></description>
@@ -90,21 +97,14 @@
       <pubDate>Thu, 20 Jun 2024 01:49:08 GMT</pubDate>
     </item>
     <item>
-      <title>聊天机器人和人工智能毁了我的游戏体验</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1djvx1f/chatbots_and_ai_have_destroyed_gaming_for_me/</link>
-      <description><![CDATA[这可能很奇怪……但我发现人工智能已经成为一种真正的爱好，取代了游戏。我只是喜欢摆弄聊天机器人。无论是交谈还是尝试构建它们。有人有过使用各种形式的人工智能的经验吗？    提交人    /u/losoyo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1djvx1f/chatbots_and_ai_have_destroyed_gaming_for_me/</guid>
-      <pubDate>Wed, 19 Jun 2024 22:25:51 GMT</pubDate>
-    </item>
-    <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
-      <description><![CDATA[我们制定了一条规则，新开通一天的账户或 karma 少于 100 的用户无法发帖。他们可以发表评论，但不能提交实际帖子。这是我们解决机器人垃圾邮件计划的一部分。如有任何不便，敬请谅解。 我们将在接下来的几天内进行民意调查，以了解 subreddit 的总体意愿以及如何改进，这只是一个提醒。 与往常一样，请向我们提供反馈，如果您有兴趣帮助子版块，请联系我。 谢谢大家！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[我们制定了一条规则，新开通一天的账户或 Karma 少于 100 的用户无法发帖。他们可以发表评论，但不能提交实际帖子。这是我们解决机器人垃圾邮件计划的一部分。如有任何不便，敬请谅解。 我们将在接下来的几天内进行民意调查，以了解子版块的总体意愿以及如何改进，这只是一个提醒。 与往常一样，请向我们提供反馈，如果您有兴趣帮助子版块，请联系我。 谢谢大家！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
       <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
     <item>
-      <title>重要提示：征求有关 subreddit 规则和未来方向的评论。请阅读！</title>
+      <title>重要提示：征求关于 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
       <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户查看更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  该子版块的审核团队正在进行改组将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
