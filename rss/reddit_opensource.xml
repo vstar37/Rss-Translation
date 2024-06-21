@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 21 Jun 2024 09:13:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 12:22:05 GMT</lastBuildDate>
+    <item>
+      <title>我们没有食品追踪应用程序 Cronometer 的开源替代品吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dl05u6/we_dont_have_open_source_alternative_for_food/</link>
+      <description><![CDATA[这是一款不错的应用程序，但我讨厌他们的添加、功能锁定、垃圾邮件黄金订阅以及所有经典烦人的专有软件所做的事。     提交人    /u/mayhem-makers   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dl05u6/we_dont_have_open_source_alternative_for_food/</guid>
+      <pubDate>Fri, 21 Jun 2024 09:48:14 GMT</pubDate>
+    </item>
     <item>
       <title>初学者可以自愿参与的开源项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1dkv1zl/open_source_projects_where_a_beginner_can/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我希望得到一些支持和曝光，这样它就可以接触到志同道合的开发者，他们可能会觉得它很有趣 https://github.com/micro-gl/micro-gl    提交人    /u/hendrixstring   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dk6kry/nothing_special_just_me_showing_off_my_hard_work/</guid>
       <pubDate>Thu, 20 Jun 2024 08:24:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>解锁牧田电池。OpenBatteryInformation（交叉发布）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dk32h7/unlocking_makita_batteries_openbatteryinformation/</link>
-      <description><![CDATA[  由    /u/pdp10  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dk32h7/unlocking_makita_batteries_openbatteryinformation/</guid>
-      <pubDate>Thu, 20 Jun 2024 04:28:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
