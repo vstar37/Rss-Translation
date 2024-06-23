@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 23 Jun 2024 09:14:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 12:21:32 GMT</lastBuildDate>
     <item>
       <title>BloxGPT</title>
       <link>https://www.producthunt.com/posts/bloxgpt</link>
@@ -76,18 +76,18 @@
       <pubDate>Fri, 21 Jun 2024 23:18:03 GMT</pubDate>
     </item>
     <item>
-      <title>屎SaaS</title>
-      <link>https://www.producthunt.com/posts/shitsaas</link>
+      <title>登高</title>
+      <link>https://www.producthunt.com/posts/ascenscia</link>
       <description><![CDATA[
-展示并投票选出最差的创业想法
+专为科学实验室打造的 AI 语音助手
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/shitsaas</guid>
-      <pubDate>Fri, 21 Jun 2024 20:25:14 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/ascenscia</guid>
+      <pubDate>Fri, 21 Jun 2024 15:42:58 GMT</pubDate>
     </item>
     <item>
       <title>Safari 适用什么字体</title>
@@ -104,21 +104,35 @@
       <pubDate>Fri, 21 Jun 2024 14:16:52 GMT</pubDate>
     </item>
     <item>
-      <title>桨费计算器</title>
-      <link>https://www.producthunt.com/posts/paddle-fees-calculator</link>
+      <title>设置睡眠专业版</title>
+      <link>https://www.producthunt.com/posts/set-sleep-pro</link>
       <description><![CDATA[
-计算 Paddle 费用和收益
+让您的电脑进入睡眠状态
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/paddle-fees-calculator</guid>
-      <pubDate>Thu, 20 Jun 2024 11:28:10 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/set-sleep-pro</guid>
+      <pubDate>Fri, 21 Jun 2024 07:40:33 GMT</pubDate>
     </item>
     <item>
-      <title>Wallow：为创客打造的 Slack</title>
+      <title>知识专家</title>
+      <link>https://www.producthunt.com/posts/knowhiz</link>
+      <description><![CDATA[
+通过人工智能将材料转化为结构化学习
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/knowhiz</guid>
+      <pubDate>Thu, 20 Jun 2024 23:45:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wallow - 为开发者打造的 Slack</title>
       <link>https://www.producthunt.com/posts/wallow-slack-for-makers</link>
       <description><![CDATA[
 Slack，但专为我们设计
@@ -160,24 +174,10 @@ Slack，但专为我们设计
       <pubDate>Wed, 19 Jun 2024 05:07:26 GMT</pubDate>
     </item>
     <item>
-      <title>WAIT - 人工智能间歇性禁食</title>
-      <link>https://www.producthunt.com/posts/wait-ai-powered-intermittent-fasting</link>
-      <description><![CDATA[
-了解您的饮食习惯并轻松减肥
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/wait-ai-powered-intermittent-fasting</guid>
-      <pubDate>Thu, 13 Jun 2024 14:03:22 GMT</pubDate>
-    </item>
-    <item>
       <title>未来阳光灿烂</title>
       <link>https://www.producthunt.com/posts/sunny-days-ahead</link>
       <description><![CDATA[
-寻找最适合旅行、阳光最充沛的月份
+寻找最适合旅行、阳光最充足的月份
 
 
 讨论
@@ -205,7 +205,7 @@ Slack，但专为我们设计
       <title>故意的</title>
       <link>https://www.producthunt.com/posts/intentional</link>
       <description><![CDATA[
-人工智能干扰拦截器，让您专心工作
+人工智能干扰拦截器，让您专注工作
 
 
 讨论
