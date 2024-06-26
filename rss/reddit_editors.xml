@@ -4,7 +4,35 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 26 Jun 2024 12:23:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 15:13:45 GMT</lastBuildDate>
+    <item>
+      <title>现场视频团队的全闪存网络存储解决方案</title>
+      <link>https://www.reddit.com/r/editors/comments/1dp05rc/all_flash_network_storage_solution_for_onsite/</link>
+      <description><![CDATA[我正在为视频团队寻找 NAS 解决方案。他们目前正在使用 Amazon Storage Gateway 设备来保存项目文件并将其与 S3 同步。Amazon 的同步解决方案非常棒，将所有文件保存在云中并使用 S3 Intelligent Tiering 自动将它们移动到冷存储，但现场存储速度很慢（旋转磁盘）。每当编辑需要处理项目时，他们都会将该项目下载到本地 SSD，处理该项目，然后在编辑完成后将修改后的文件重新上传到 Storage Gateway。 我正在寻找一种全闪存解决方案，它仍然可以与我们的 AWS Storage Gateway 配合使用，但能为我们提供直接从存储进行编辑所需的速度。视频团队有 10 个人，在任何给定时间大约有 20 个活跃项目。活跃项目的总存储量为 20TB-40TB。 对于这种规模的团队及其存储要求，有什么建议吗？我目前正在研究 QNAP 全闪存系统，但也愿意听取其他建议。 提前致谢！    提交人    /u/CreativeUsername247   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1dp05rc/all_flash_network_storage_solution_for_onsite/</guid>
+      <pubDate>Wed, 26 Jun 2024 14:37:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>AE 担任 GFX 设计师</title>
+      <link>https://www.reddit.com/r/editors/comments/1dozt53/aes_as_gfx_designers/</link>
+      <description><![CDATA[我想听听大家对助理编辑必须做图形的看法。  在我个人看来，我确实认为作为助理编辑，我们应该具备 After Effects 和 Photoshop 的基本知识，但创建一整件作品对我来说很烦人。 我们不应该创建 gfx 模板，但我们应该具备修改它的基本知识。  你的想法是什么？     提交人    /u/nacxxasia   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1dozt53/aes_as_gfx_designers/</guid>
+      <pubDate>Wed, 26 Jun 2024 14:21:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果您工作 8 小时，您的小时工资是否高于日工资？</title>
+      <link>https://www.reddit.com/r/editors/comments/1doy5oa/is_your_hourly_rate_higher_than_your_day_rate_if/</link>
+      <description><![CDATA[所以我通常工作 8 小时，我的日薪就是以此为基础的。如果有人问你每小时的工资，你会在此基础上加一些百分比吗？比如，如果你按每小时的工资工作 8 小时，工资是一样还是更多？如果更多，多多少？    提交人    /u/Zeigerful   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1doy5oa/is_your_hourly_rate_higher_than_your_day_rate_if/</guid>
+      <pubDate>Wed, 26 Jun 2024 13:06:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>“层中断不在单元边界上”</title>
+      <link>https://www.reddit.com/r/editors/comments/1doxe0j/layer_break_not_on_cell_boundary/</link>
+      <description><![CDATA[DVD Studio Pro 4 中的项目输出为 .iso 磁盘映像 制造供应商已回复错误消息“层中断不在单元边界上”。  我在 DSP4 中将双层中断设置为自动。 我需要指定层中断吗？ 这样能解决问题吗？ MacBook Pro 2.4 GHz Intel Core 2 OS X 10.6.8 DVD Studio Pro 4.2 MPEG-2 DVD 非常感谢您的帮助，请原谅这个涉及古老技术的深奥问题    提交人    /u/joebot888   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1doxe0j/layer_break_not_on_cell_boundary/</guid>
+      <pubDate>Wed, 26 Jun 2024 12:28:24 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Google App Script 在 Google 表格中提供原生 SRT 支持</title>
       <link>https://www.reddit.com/r/editors/comments/1dow8yd/native_srt_support_in_google_sheets_using_google/</link>
@@ -15,14 +43,14 @@
     <item>
       <title>电话公司 Q</title>
       <link>https://www.reddit.com/r/editors/comments/1doodo9/phone_comp_q/</link>
-      <description><![CDATA[在获取手机屏幕合成的正确轨道时遇到了一些问题。无法让 mocha 真正粘住，而且从来没有真正做过屏幕的一部分而不是整个屏幕，所以我真的不确定如何创建样条线。基本 AE 轨道也是如此。仍然附着在镜头上（在运动中，镜头随着手指滑动而推入）。  https://imgur.com/a/ldDGGxs 非常希望得到任何提示！     提交人    /u/Jschwartz567   [链接] [评论]]]></description>
+      <description><![CDATA[在获取手机屏幕合成的正确轨道时遇到了一些问题。无法让 mocha 真正粘住，而且我从来没有真正做过屏幕的一部分而不是整个屏幕，所以我真的不确定如何创建样条线。基本 AE 轨道也是如此。仍然附着在镜头上（在运动中，镜头随着手指滑动而推入）。  https://imgur.com/a/ldDGGxs 非常希望得到任何提示！     提交人    /u/Jschwartz567   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1doodo9/phone_comp_q/</guid>
       <pubDate>Wed, 26 Jun 2024 03:00:20 GMT</pubDate>
     </item>
     <item>
       <title>如果我安装 RAID 管理器，我会丢失 Lacie 2big 上的数据吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1dom2m3/will_i_lose_data_on_my_lacie_2big_if_i_install/</link>
-      <description><![CDATA[MacBook Pro（15 英寸，2016 年）2.6 GHz 四核 Intel Core i7 16 GB 2133 MHz LPDDR3 Radeon Pro 450 2 GB 编辑以添加规格，但并不真正适用...... 基本上就是标题。我在安装之前断开了连接，现在 RAID 管理器已准备好扫描存储设备，只是担心扫描时会删除我的数据。 我从其他人那里继承了 RAID 并将其清空，现在正在将它用于我正在开展的项目，但直到现在从未安装过 RAID 管理器，我现在安装它的原因是因为我想看看前一个人是如何设置的以及每个驱动器的容量（容量在物理驱动器上不可见）。这是我第一次得到它时就应该做的事情，但当时我不太了解并忽略了它！ 我很感激任何帮助！谢谢！    由   提交  /u/cloudy-boy   [link] [comments]]]></description>
+      <description><![CDATA[MacBook Pro（15 英寸，2016 年）2.6 GHz 四核 Intel Core i7 16 GB 2133 MHz LPDDR3 Radeon Pro 450 2 GB 编辑以添加规格，但并不适用…… 基本上就是标题。我在安装之前断开了连接，现在 RAID 管理器已准备好扫描存储设备，只是担心扫描时会删除我的数据。 我从其他人那里继承了 RAID 并将其清空，现在正在将它用于我正在开展的项目，但直到现在从未安装过 RAID 管理器，我现在安装它的原因是因为我想看看前一个人是如何设置的以及每个驱动器的容量（容量在物理驱动器上不可见）。这是我第一次得到它时就应该做的事情，但当时我不太了解并忽略了它！ 我很感激任何帮助！谢谢！    由   提交  /u/cloudy-boy   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1dom2m3/will_i_lose_data_on_my_lacie_2big_if_i_install/</guid>
       <pubDate>Wed, 26 Jun 2024 01:03:18 GMT</pubDate>
     </item>
@@ -36,7 +64,7 @@
     <item>
       <title>7 年来第三台 Macbook Pro 被烧毁。</title>
       <link>https://www.reddit.com/r/editors/comments/1doj8yz/3rd_macbook_pro_burned_in_7_years/</link>
-      <description><![CDATA[大家好， 首先，请务必备份您的资料。幸运的是，我这样做了，除了一些下载的文件，虽然很麻烦，但我会找回它们。 其次，我认为这是一篇咆哮帖，但也是听取其他人故事的公开邀请…… 我于 2018 年搬到东京。不久之后，我 2015 年的 MacBook Pro 在我外出时烧坏了。我去了 Apple，等了一个月后，他们修好了它……花了 700 美元。 2020 年，我正在做一个繁重的 After Effects 项目。电脑的风扇发出刺耳的声音；它们熄灭了，电脑烧坏了——甚至还有烧焦的味道。 他们提出修理它，同样要花 700 美元，但那时，我决定买一台新的。我很不幸，在 2020 年，也就是新 M1 发布前几周，我买了一台 MB Pro，然后买了一台英特尔 Mac。 有时候这种糟糕的时机就会发生，我等不及了，我马上就需要一台电脑。 还不到四年……我在工作室工作了一整天后回到家，准备放松一下，看看 YouTube 视频……但电脑却开不了机。 我把它带到了苹果商店……逻辑板烧坏了……除了“嗯，这些电脑的周期是 3.5 到 5 年，所以这完全正常”之外，没有任何解释。 天哪，我奶奶还有一台还在用的旧 iMac G3……我还有一台至少 8 年旧的 MacBook Air…… 但是 MacBooks Pro 呢？出于某种原因，我永远都用不了超过 4 年。我知道我经常用它来渲染等等，但是伙计……我不是在渲染《怪物史莱克 2》……这对我来说不是正常的磨损…… 它通常通过 Thunderbolt 连接到我的 Apple Display……所以这不是交流电电压问题。（这也是一栋新房子，与上次不一样） 无论如何，没有什么可以做的。我买了一台新的 MacBook Pro……我仍然确定我不想转向 PC（我在办公室有一台 PC，我讨厌它）。 我想知道其他人对此的历史和感受。我真的运气不好吗？或者这比感觉的更常见？ 作为我主要从事工作的补充细节： 编辑（4K，有些项目确实很重，但我以前的 Mac 无法处理） 后期效果（这可能会变得非常繁重，我做了很多动态图形，有时还做 3D） Lightroom（这是我的个人爱好，老实说可以在 MacBook air 中完成 :P）    提交人    /u/WesternMiserable439   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 首先，请务必备份您的资料。幸运的是，我这样做了，除了一些下载的文件，虽然很麻烦，但我会找回它们。 其次，我认为这是一篇咆哮帖，但也是听取其他人故事的公开邀请…… 我于 2018 年搬到东京。不久之后，我 2015 年的 MacBook Pro 在我外出时烧坏了。我去了 Apple，等了一个月后，他们修好了它……花了 700 美元。 2020 年，我正在做一个繁重的 After Effects 项目。电脑的风扇发出刺耳的声音；它们熄灭了，电脑烧坏了——甚至还有烧焦的味道。 他们提出修理它，同样要花 700 美元，但那时，我决定买一台新的。我很不幸，在 2020 年，也就是新 M1 发布前几周，我买了一台 MB Pro，然后买了一台英特尔 Mac。 有时候这种糟糕的时机就会发生，我等不及了，我马上就需要一台电脑。 还不到四年……我在工作室工作了一整天后回到家，准备放松一下，看看 YouTube 视频……但电脑却开不了机。 我把它带到了苹果商店……逻辑板烧坏了……除了“嗯，这些电脑的周期是 3.5 到 5 年，所以这完全正常”之外，没有任何解释。&lt;/p&gt; 天哪，我奶奶还有一台还在用的旧 iMac G3……我还有一台至少 8 年旧的 MacBook Air…… 但是 MacBooks Pro？出于某种原因，我永远都用不了超过 4 年。我知道我经常用它来渲染等等，但是伙计……我不是在渲染《怪物史莱克 2》……这对我来说不是正常的磨损…… 它通常通过 Thunderbolt 连接到我的 Apple Display……所以这不是交流电电压问题。（这也是一栋新房子，与上次不一样） 无论如何，没有什么可以做的。我买了一台新的 MacBook Pro……我仍然确定我不想转向 PC（我在办公室有一台 PC，我讨厌它）。 我想知道其他人对此的历史和感受。我真的运气不好吗？或者这比感觉的更常见？ 作为我主要从事工作的补充细节： 编辑（4K，有些项目确实很重，但我以前的 Mac 无法处理） 后期效果（这可能会变得非常繁重，我做了很多动态图形，有时还做 3D） Lightroom（这是我的个人爱好，老实说可以在 MacBook air 中完成 :P）    提交人    /u/WesternMiserable439   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1doj8yz/3rd_macbook_pro_burned_in_7_years/</guid>
       <pubDate>Tue, 25 Jun 2024 22:49:52 GMT</pubDate>
     </item>
@@ -50,14 +78,14 @@
     <item>
       <title>打破常规，成为文档编辑</title>
       <link>https://www.reddit.com/r/editors/comments/1dogdhl/breaking_into_unscripted_as_a_doc_editor/</link>
-      <description><![CDATA[嗨，朋友们， 我真的在寻找任何实用的建议，以便做出改变（或增加我可以接受的工作列表），从一个万能的文档编辑变成在非剧本电视（现实或甚至是纪实性）中进行图片编辑或故事编辑 我知道图片编辑方面会很热衷，我正在重新学习它，但是故事编辑使用什么样的技能甚至技术软件？对于“可以”做图片或故事编辑工作，但以前没有在该领域或生态系统工作过的人，哪里是好的起点？当然，我知道我可能最终会做一些助理来了解节目世界，但我很乐意得到任何关于如何接触合适的人并推销我自己和我现有的经验的建议。 谢谢！   由    /u/Heart_of_Bronze  提交  [链接] [评论]]]></description>
+      <description><![CDATA[嗨，朋友们， 我真的在寻找任何实用的建议，以便做出改变（或增加我可以接受的工作列表），从一个万能的文档编辑变成在非剧本电视（现实或甚至是纪实性）中进行图片编辑或故事编辑 我知道图片编辑方面会很热衷，我正在重新学习它，但是故事编辑使用什么样的技能甚至技术软件？对于“可以”做图片或故事编辑工作，但以前从未在该领域或生态系统工作过的人来说，哪里是好的起点？当然，我知道我可能最终会做一些助理来了解节目世界，但我很乐意得到任何关于如何接触合适的人并推销我自己和我现有的经验的建议。 谢谢！   由    /u/Heart_of_Bronze  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1dogdhl/breaking_into_unscripted_as_a_doc_editor/</guid>
       <pubDate>Tue, 25 Jun 2024 20:47:18 GMT</pubDate>
     </item>
     <item>
       <title>自由职业算经验吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1dod4o7/does_freelancing_count_as_experience/</link>
-      <description><![CDATA[大家好，我目前是一名全职自由编辑，我在这个领域还很新，但过去两年来，我在与客户合作方面取得了可观的成功。我目前的目标是从零工工作过渡到公司的全职工作。我过去曾被聘用过短期全职职位，所以我肯定在那种工作流程方面有经验，但我的一位程序员朋友（她也刚刚开始进入专业市场）说，在她的领域，自由职业不算经验。这是一个让我非常担忧的概念，我只是好奇其他人对此有何看法/看法。     提交人    /u/thaguy901   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我目前是一名全职自由编辑，我在这个领域还很新，但过去两年来，我在与客户合作方面取得了可观的成功。我目前的目标是从零工工作过渡到公司的全职工作。我过去曾被聘用过短期全职职位，所以我肯定在那种工作流程方面有经验，但我的一位程序员朋友（她也刚刚开始进入专业市场）说，在她的领域，自由职业不算经验。这是一个让我非常担忧的概念，我只是好奇其他人对此有何看法/想法。     提交人    /u/thaguy901   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1dod4o7/does_freelancing_count_as_experience/</guid>
       <pubDate>Tue, 25 Jun 2024 18:31:54 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[你是做什么的？有什么关于如何展示自己的建议吗？市场怎么样？ 我一直在努力找工作——要么输给其他申请人，要么我不会说当地的语言。    提交人    /u/stresserprofisional   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1do86us/any_editors_working_in_the_netherlands/</guid>
       <pubDate>Tue, 25 Jun 2024 15:04:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们都做过哪些副业/应急工作？</title>
-      <link>https://www.reddit.com/r/editors/comments/1do6tfa/what_side_hustlesemergency_work_have_you_all/</link>
-      <description><![CDATA[众所周知，我们中的许多人都受到了这个陷入困境的行业的沉重打击。我一直焦虑不安，感觉如果我承诺从事任何临时或低薪工作，当出现更好的机会时，我可能会陷入困境。但我认为是时候让我认清自己了，因为住在纽约市地区太贵了，我已经到了即使我想搬到更便宜的地方也负担不起的地步。 问题是我从大学开始就从事这个职业，现在已经有 14 年了。我所知道的只是拍摄和编辑，以及介于两者之间的一切（导演、概念开发、略精通动态图形、色彩分级等）。我最后一次从事与视频无关的工作是在 10 年前，当时我在做全职制作工作的同时指导田径运动，哈哈。老实说，我不知道凭借我的技能，我还能找到什么其他能快速赚钱的非视频工作。 在这些艰难时期，除了电影/电视/视频，你还找到了什么工作？    提交人    /u/wordbird89   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1do6tfa/what_side_hustlesemergency_work_have_you_all/</guid>
-      <pubDate>Tue, 25 Jun 2024 14:04:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>之前有人制作过编辑证书吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1do47iu/did_anyone_make_editor_credential_before/</link>
-      <description><![CDATA[大家好， 我目前是一名有 9 年经验的专业视频编辑。我很幸运能与一所大型大学合作，用一天时间讲授视频编辑流程。但他们需要我发送证书给董事会。我只是好奇是否有人曾经这样做过？顺便问一下，证书中应该包含哪些内容？ *P/s：我没有学习电影学院，所以基本上我以前从未做过任何文书工作    提交人    /u/Either-Paper-6036   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1do47iu/did_anyone_make_editor_credential_before/</guid>
-      <pubDate>Tue, 25 Jun 2024 11:57:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>在非脚本工作流程中使用自动转录功能</title>
-      <link>https://www.reddit.com/r/editors/comments/1do44oc/using_auto_transcribe_feature_in_unscripted/</link>
-      <description><![CDATA[大家好， 我想知道是否有任何 AE 找到了将 Avid 的自动转录功能纳入其非脚本工作流程的好方法。    提交人    /u/dudewithlettuce   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1do44oc/using_auto_transcribe_feature_in_unscripted/</guid>
-      <pubDate>Tue, 25 Jun 2024 11:52:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Avid Composer 插件</title>
-      <link>https://www.reddit.com/r/editors/comments/1do275c/avid_composer_plugin/</link>
-      <description><![CDATA[大家好， 我们目前正在为 Avid Composer 开发一个新插件，非常希望得到您的意见。您认为发布我们插件的最佳地点是哪里？我们应该考虑 Avid Store、AE Scripts 还是其他网站？ 感谢您的帮助！    提交人    /u/privacy-enthousiast   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1do275c/avid_composer_plugin/</guid>
-      <pubDate>Tue, 25 Jun 2024 09:51:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
