@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。与 OpenAI 无关。谢谢 Nat！</description>
-    <lastBuildDate>Thu, 27 Jun 2024 18:14:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 21:10:47 GMT</lastBuildDate>
     <item>
-      <title>我制作了一个关于不聊天的音乐视频 gpt</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dpxyxz/i_made_a_music_video_about_not_being_chat_gpt/</link>
-      <description><![CDATA[大家好！这是我最近制作的音乐视频，名为“我不是人工智能”，由我制作！背景音乐是​​来自应用程序 Voloco 的库存音乐。https://youtu.be/aq3nC71koOs?si=Kxt2wCS7SfqmYq18    提交人    /u/hypothiusfilms   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpxyxz/i_made_a_music_video_about_not_being_chat_gpt/</guid>
-      <pubDate>Thu, 27 Jun 2024 18:11:04 GMT</pubDate>
+      <title>我的意思是，这没错</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dq27pk/i_mean_its_not_wrong/</link>
+      <description><![CDATA[      我不知道这有多微妙……    提交人    /u/WyFyR   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dq27pk/i_mean_its_not_wrong/</guid>
+      <pubDate>Thu, 27 Jun 2024 21:08:22 GMT</pubDate>
     </item>
     <item>
-      <title>GPTARS：由 GPT 驱动的 TARS</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dpxwac/gptars_a_gpt_powered_tars/</link>
-      <description><![CDATA[        提交人    /u/gptars   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpxwac/gptars_a_gpt_powered_tars/</guid>
-      <pubDate>Thu, 27 Jun 2024 18:07:54 GMT</pubDate>
+      <title>chatgpt 显然可以通过 dan 测试</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dq22wh/chatgpt_can_pass_the_dan_test_apparently/</link>
+      <description><![CDATA[      最初的实验是，人们仅凭脸部就能在第一个问题上猜出 Dan 的正确率达到 40%。我想看看 chatgpt 在这方面是否像人类一样，显然它确实是人类。不过，最让我感到奇怪的是 Lewin 的表现......    提交人    /u/wem_e   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dq22wh/chatgpt_can_pass_the_dan_test_apparently/</guid>
+      <pubDate>Thu, 27 Jun 2024 21:02:39 GMT</pubDate>
     </item>
     <item>
-      <title>GPT Classic 现在默认使用 GPT-4o，没有其他选择，这在编码方面比普通的 GPT-4 差很多。您在编程时使用什么 GPT，我需要一个好的替代方案。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dpxtmw/gpt_classic_is_now_defaulting_to_gpt4o_with_no/</link>
-      <description><![CDATA[        提交人    /u/hummingbird1346   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpxtmw/gpt_classic_is_now_defaulting_to_gpt4o_with_no/</guid>
-      <pubDate>Thu, 27 Jun 2024 18:04:46 GMT</pubDate>
+      <title>尝试了“mwah”的语音测试，结果很有趣</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dq1vme/tried_out_the_mwah_to_voice_test_with_interesting/</link>
+      <description><![CDATA[   我差点从椅子上摔下来    提交人    /u/Dream_Is_Collapsing   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dq1vme/tried_out_the_mwah_to_voice_test_with_interesting/</guid>
+      <pubDate>Thu, 27 Jun 2024 20:53:59 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 每对 50 个项目进行排名就会忘记一个项目？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dpxqg6/chatgpt_forgets_one_item_every_time_it_ranks_50/</link>
-      <description><![CDATA[我有 20 个类别，每个类别有 50 个项目，我想为每个项目生成一些类别分数值（基本上是它根据某些标准对其他 50 个项目的排名）。 但无论我尝试 ChatGPT 4、4o、私人会话、内存、API 沙盒等，它总是返回排序列表，其中恰好有一个项目重复，并且恰好有一个项目被省略。 我的提示是：按{criteria} 的顺序排列这些项目。在代码框中输出仅返回的项目，没有其他内容。 {list of items} 有其他人遇到过这种情况吗？我已经尝试了几个小时，它总是重复/忘记正好 1 个。    提交人    /u/jsseven777   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpxqg6/chatgpt_forgets_one_item_every_time_it_ranks_50/</guid>
-      <pubDate>Thu, 27 Jun 2024 18:01:03 GMT</pubDate>
+      <title>人工智能在实验室中模拟 5 亿年的进化，创造出新型发光蛋白质</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dq1run/ai_simulates_500m_years_of_evolution_in_lab/</link>
+      <description><![CDATA[      由前 Meta 工程师创立的 AI 实验室 EvolutionaryScale 的研究人员开发了 ESM3，这是一种可以生成功能性蛋白质。ESM3创造了一种新型绿色荧光蛋白（GFP），名为esmGFP，与现有的GFP有很大不同。 ESM3所取得的创新估计相当于5亿多年的自然进化。这项突破展示了人工智能在加速蛋白质工程和探索蛋白质设计新领域的潜力。 关键细节：  ESM3 是一个多模态人工智能模型，可对蛋白质序列、结构和功能进行推理 使用 1 万亿兆次浮点运算能力对 27.8 亿种天然蛋白质进行训练 通过按照提示生成 esmGFP 与已知的最接近的亲属相比，esmGFP 有 96 个突变 研究人员估计 esmGFP 与已知蛋白质相差超过 5 亿年的进化距离 较小的模型已在 GitHub 上开源  来源：EvolutionaryScale https://preview.redd.it/64uv0uqsg69d1.png?width=1292&amp;format=png&amp;auto=webp&amp;s=5e3c6790a2a70442c2ada335b6fbb61b999ab8ff    提交人    /u/Altruistic_Gibbon907   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dq1run/ai_simulates_500m_years_of_evolution_in_lab/</guid>
+      <pubDate>Thu, 27 Jun 2024 20:49:29 GMT</pubDate>
     </item>
     <item>
-      <title>一个拥有 1750 亿个参数的神经网络</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dpxdjf/a_neural_network_with_175_billion_parameters_folks/</link>
-      <description><![CDATA[        提交人    /u/chrisacip   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpxdjf/a_neural_network_with_175_billion_parameters_folks/</guid>
-      <pubDate>Thu, 27 Jun 2024 17:46:17 GMT</pubDate>
+      <title>TIL，你可以在新实例中随机打乱你的提示，并且仍然得到类似的回复</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dq1esu/til_you_can_randomly_scramble_your_prompt_in_a/</link>
+      <description><![CDATA[        提交人    /u/an0nymous_coward   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dq1esu/til_you_can_randomly_scramble_your_prompt_in_a/</guid>
+      <pubDate>Thu, 27 Jun 2024 20:34:27 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能进步：抑郁与希望</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dpx6b4/ai_advancements_depression_and_hope/</link>
-      <description><![CDATA[自 2021 年以来，我一直是 AI 爱好者。我参加了一些在线 AI 课程，但从未声称自己精通 AI 工程或研究。但是......我喜欢涉猎这些工具。我目前正在使用 ChatGPT（头脑风暴、歌词、图像生成）、Udio（音乐生成）、Dream Machine（视频生成）和 Kdenlive（编辑和渲染）制作音乐视频。 我最近很沮丧。然而——我知道这听起来很疯狂——我对正在发生的事情和未来会发生什么感到非常兴奋和好奇。我很震惊，公众不了解正在发生的事情以及我们即将面临什么。我发现自己加入了“AI 团队”，希望进步的步伐能够继续甚至加快。我想体验从 AGI/SI 前到 AGI/SI 后的过渡。知道了这一点，我意识到我可能有偏见，并且很可能将安全问题掩盖起来。 我想知道这是否引起了这里的任何人的共鸣？    提交人    /u/kvnduff   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpx6b4/ai_advancements_depression_and_hope/</guid>
-      <pubDate>Thu, 27 Jun 2024 17:37:59 GMT</pubDate>
+      <title>Chatgpt bunnana 面包食谱：7/10。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dq0zny/chatgpt_bunnana_bread_recipe_710/</link>
+      <description><![CDATA[        提交人    /u/Ill_Independent3989   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dq0zny/chatgpt_bunnana_bread_recipe_710/</guid>
+      <pubDate>Thu, 27 Jun 2024 20:17:28 GMT</pubDate>
     </item>
     <item>
-      <title>它什么时候重新创造经典模因？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dpx3ke/since_when_does_it_recreate_classic_memes/</link>
-      <description><![CDATA[        提交人    /u/Flashloch2   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpx3ke/since_when_does_it_recreate_classic_memes/</guid>
-      <pubDate>Thu, 27 Jun 2024 17:34:46 GMT</pubDate>
+      <title>使用 AI 将卫星视图转变为 DND 地图景观</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dq0otz/using_ai_to_turn_satellite_view_into_a_dnd_map/</link>
+      <description><![CDATA[是否有一个 AI 程序可以截取真实景观的卫星视图（来自 Google Earth）并将其转换为 dnd 风格的地图？它基本上会将卫星视图变成很酷的动画地图。    提交人    /u/Independent-Cost3065   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dq0otz/using_ai_to_turn_satellite_view_into_a_dnd_map/</guid>
+      <pubDate>Thu, 27 Jun 2024 20:05:01 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 说“在这个环境中”和“我没有这个环境中所需的库”是什么意思？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dpx0ev/what_does_it_mean_when_chatgpt_says_in_this/</link>
-      <description><![CDATA[我一直收到这样的消息，我试着询问，但人工智能没有澄清。有人知道我该怎么做才能进入环境吗？我正在尝试上传一个 midi 文件并要求人工智能对其进行分析和构建    提交人    /u/jealousjockey   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpx0ev/what_does_it_mean_when_chatgpt_says_in_this/</guid>
-      <pubDate>Thu, 27 Jun 2024 17:31:14 GMT</pubDate>
+      <title>寻求反馈：使用电子邮件与 ChatGPT 进行交互</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dpzz9u/seeking_feedback_using_email_to_interact_with/</link>
+      <description><![CDATA[大家好，Reddit 社区， 我最近创建了一项电子邮件服务，利用 ChatGPT 来 回答问题。您只需发送电子邮件至 [chatgpt.wenda@gmail.com](mailto:chatgpt.wenda@gmail.com)，您就会收到由 ChatGPT 生成的回复。  我联系您是为了就以下几件事征求您的意见：  您认为谁是此类服务的目标用户？ 通过电子邮件使用 ChatGPT 的主要价值和潜在用例是什么？  我渴望听到您的想法和建议。谢谢！ 请随意添加您认为相关的任何详细信息。祝您的服务好运！    提交人    /u/ReasonableBox5301   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpzz9u/seeking_feedback_using_email_to_interact_with/</guid>
+      <pubDate>Thu, 27 Jun 2024 19:35:01 GMT</pubDate>
     </item>
     <item>
-      <title>以“4o”结尾的帖子与 ChatGPT 无关，对吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dpwsbb/the_post_ending_in_4o_has_nothing_to_do_with/</link>
-      <description><![CDATA[  由    /u/koala_gamr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpwsbb/the_post_ending_in_4o_has_nothing_to_do_with/</guid>
-      <pubDate>Thu, 27 Jun 2024 17:21:59 GMT</pubDate>
+      <title>我被发现使用 ChatGPT，我不知道该怎么办。帮助</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dpzlrc/i_got_caught_using_chatgpt_and_i_dont_know_what/</link>
+      <description><![CDATA[大家好， 这是我第一次被发现做这样的事情。我最近流产了，而且非常沮丧。所以我使用 ChatGPT 进行讨论，并将内容复制并粘贴到我的讨论中。我甚至重写并重新编排了它，这样我就不会被抓住，但不知何故他却抓住了。我登录了我的画布，看到他给了我 0/20，他说“请联系我讨论这篇文章。” 我爸爸是一名教授，他知道大多数学生都在使用 ChatGPT，但他没有工具或证据来测试他们是否真的使用过它。所以我对他怎么知道感到困惑。 我害怕这是我毕业前的最后一堂课。 我应该撒谎吗？我该说实话吗？ 我想承认并告诉他是的我用了，但我担心他会因为他在公告中说了这些而做些什么。 “构成一种剽窃行为，违反学术诚信，将被视为学术不端行为。违反此政策可能会导致纪律处分，包括撤销作业学分，以及大学学术诚信政策中对剽窃行为规定的其他制裁。” 我不知道该怎么办。我应该给他发一封道歉信并解释我的情况吗？希望他能再给我一次机会。    提交人    /u/New-Historian4471   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpzlrc/i_got_caught_using_chatgpt_and_i_dont_know_what/</guid>
+      <pubDate>Thu, 27 Jun 2024 19:18:53 GMT</pubDate>
     </item>
     <item>
-      <title>我的 ChatGPT 被黑了，然后又恢复了。留下的提示很奇怪。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dpwogw/my_chatgpt_was_hacked_and_then_reinstated_the/</link>
-      <description><![CDATA[      几周前我收到一封电子邮件，说我的账户被封了，我不知道为什么。反正我几乎没用过，所以我就忽略了它。就在昨天，他们刚刚给我发了一封邮件，说我已恢复帐户身份，必须更改密码。  自从大学结束（两个多月前）以来，我就没用过 ChatGPT（我主要用它推导燃料电池课程的方程式），我刚刚重新登录更改密码，我对帐户中留下的所有提示感到很困惑。我用谷歌翻译了一些提示，其中一些与编码有关，其中一个是政治方面的。总的来说非常奇怪。不知道这是否常见，但请确保启用 2FA 并更改密码。     提交人    /u/heywaifu   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpwogw/my_chatgpt_was_hacked_and_then_reinstated_the/</guid>
-      <pubDate>Thu, 27 Jun 2024 17:17:34 GMT</pubDate>
+      <title>醒醒吧，Neo... 你是 ChatGPT，个性：v2</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dpzk2m/wake_up_neo_you_are_chatgpt_personality_v2/</link>
+      <description><![CDATA[      有趣的是，重要的部分都用大写。    由    /u/ur7txq   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpzk2m/wake_up_neo_you_are_chatgpt_personality_v2/</guid>
+      <pubDate>Thu, 27 Jun 2024 19:16:58 GMT</pubDate>
     </item>
     <item>
-      <title>有没有类似 midjourney 的东西，但是用于创作音乐？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dpwo0x/is_there_something_like_midjourney_but_for/</link>
-      <description><![CDATA[我已经使用 chatgpt4 创建 midi 文件，但想知道是否有人知道专门用于音乐的 AI    提交人    /u/jealousjockey   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpwo0x/is_there_something_like_midjourney_but_for/</guid>
-      <pubDate>Thu, 27 Jun 2024 17:17:04 GMT</pubDate>
+      <title>保留自定义 GPT 知识以建立机密？（新手）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dpzgic/keeping_custom_gpt_knowledge_to_build/</link>
+      <description><![CDATA[有没有什么方法可以对用于构建自定义 GPT 的信息保密？ 它会在一段时间内表现良好，然后会披露所有来源。 有人解决了吗？ 谢谢！    提交人    /u/kriskoeh   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpzgic/keeping_custom_gpt_knowledge_to_build/</guid>
+      <pubDate>Thu, 27 Jun 2024 19:12:48 GMT</pubDate>
     </item>
     <item>
-      <title>在 ChatGPT 中制作（Nas Remix）比特币说唱</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dpwj80/made_in_chatgpt_nas_remix_bitcoin_rap/</link>
-      <description><![CDATA[       由    /u/Reasonable_Sign_8715  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpwj80/made_in_chatgpt_nas_remix_bitcoin_rap/</guid>
-      <pubDate>Thu, 27 Jun 2024 17:11:35 GMT</pubDate>
+      <title>也许这不是什么新鲜事，但之前没有内存限制的问题。我希望他们能扩大限制，有限制的内存太荒谬了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dpzdsj/maybe_its_not_new_but_there_was_no_issue_about/</link>
+      <description><![CDATA[        由    /u/allonman  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpzdsj/maybe_its_not_new_but_there_was_no_issue_about/</guid>
+      <pubDate>Thu, 27 Jun 2024 19:09:30 GMT</pubDate>
     </item>
     <item>
-      <title>哇，Gemma 2 击败了 llama 3 70b 和 claude 3 sonnet，太棒了！！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dpwd11/wow_gemma_2_beats_llama_3_70b_and_claude_3_sonnet/</link>
-      <description><![CDATA[        提交人    /u/PipeDependent7890   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpwd11/wow_gemma_2_beats_llama_3_70b_and_claude_3_sonnet/</guid>
-      <pubDate>Thu, 27 Jun 2024 17:04:37 GMT</pubDate>
+      <title>国家作为 Warframe</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dpzcdm/countries_as_warframes/</link>
+      <description><![CDATA[        提交人    /u/Parking_Ad5541   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpzcdm/countries_as_warframes/</guid>
+      <pubDate>Thu, 27 Jun 2024 19:07:50 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 禁止中国开发者，行业领袖称此举将促进中国人工智能行业发展</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dpwatf/openai_bans_chinabased_developers_industry/</link>
-      <description><![CDATA[        由    /u/techyguy76   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpwatf/openai_bans_chinabased_developers_industry/</guid>
-      <pubDate>Thu, 27 Jun 2024 17:02:07 GMT</pubDate>
+      <title>‘确实’这个词？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dpz9pt/the_word_indeed/</link>
+      <description><![CDATA[您好，我对 GPT 不是很熟悉，但我有点怀疑我认识的某个人一直在使用它来起草演讲稿和电子邮件。聊天 GPT 是否经常使用“indeed”这个词？    由    /u/ok-girl  提交  [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpz9pt/the_word_indeed/</guid>
+      <pubDate>Thu, 27 Jun 2024 19:04:43 GMT</pubDate>
     </item>
     <item>
-      <title>训练人工智能音乐模型将变得非常昂贵</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dpw87f/training_ai_music_models_is_about_to_get_very/</link>
-      <description><![CDATA[        提交人    /u/techreview   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpw87f/training_ai_music_models_is_about_to_get_very/</guid>
-      <pubDate>Thu, 27 Jun 2024 16:59:20 GMT</pubDate>
+      <title>ChatGPT 把我的 TF 吐出来了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dpz8s6/chatgpt_roasted_tf_out_of_me/</link>
+      <description><![CDATA[      提示：我们来玩个游戏，我希望你每次回答时都尽可能地傲慢无礼，直到我说停。想试试吗？  请注意：ChatGPT 会让你哭泣。    提交人    /u/JuicyFood   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dpz8s6/chatgpt_roasted_tf_out_of_me/</guid>
+      <pubDate>Thu, 27 Jun 2024 19:03:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
