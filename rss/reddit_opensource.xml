@@ -4,9 +4,9 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 28 Jun 2024 21:13:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 00:53:22 GMT</lastBuildDate>
     <item>
-      <title>使用 Typescript 开发了 WhatsApp 应用程序构建 SDK</title>
+      <title>开发了一个使用 Typescript 构建 SDK 的 WhatsApp 应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1dqtev1/developed_a_whatsapp_application_building_sdk_in/</link>
       <description><![CDATA[我最近用 Typescript 为 Node.js 开发了这个 SDK，它可以用来非常轻松地开发基于 WhatsApp API 的应用程序。请在 github 上查看，文档位于 此处。 期待一些 beta 用户和反馈，以及有兴趣做出贡献的人。    提交人    /u/UnusualMeasurement10   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dqtev1/developed_a_whatsapp_application_building_sdk_in/</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>适用于 Android 14 的最佳 FOSS 笔记应用程序是什么？</title>
       <link>https://www.reddit.com/r/opensource/comments/1dq7uui/what_is_the_best_foss_notes_taking_app_for/</link>
-      <description><![CDATA[大家好！我想知道是否有人可以推荐适用于 Android 14 的最佳免费笔记应用程序。我发现 NotesNook 几乎完全符合我的要求，但需要付费。我不需要它进行服务器同步或适用于每个平台的应用程序。我唯一理想的功能我将在下面列出。提前感谢大家的帮助和时间！   功能 需求级别    无需登录 必需   设备存储 必需   设备加密 首选   设备备份 首选   创建笔记本以整理笔记 首选   个人笔记/笔记本生物识别/密码锁定 必需   应用程序生物识别/密码锁定 首选   提醒通知 必需（或 FOSS 提醒应用程序建议）   检查表 必需   图像附加 必需   手写（触控笔） 首选   项目符号/数字列表 首选   笔记固定 必需      提交人    /u/tdhadvocate   [link] [评论]]]></description>
+      <description><![CDATA[大家好！我想知道是否有人可以推荐适用于 Android 14 的最佳免费笔记应用程序。我发现 NotesNook 几乎完全符合我的要求，但被锁定在付费墙后面。我不需要它具有服务器同步或适用于每个平台的应用程序。我唯一理想的功能我将在下面列出。提前感谢大家的帮助和时间！   功能 需求级别    无需登录 必需   设备存储 必需   设备加密 首选   设备备份 首选   创建笔记本以整理笔记 首选   个人笔记/笔记本生物识别/密码锁定 必需   应用程序生物识别/密码锁定 首选   提醒通知 必需（或 FOSS 提醒应用程序建议）   检查表 必需   图像附加 必需   手写（触控笔） 首选   项目符号/数字列表 首选   笔记固定 必需      提交人    /u/tdhadvocate   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dq7uui/what_is_the_best_foss_notes_taking_app_for/</guid>
       <pubDate>Fri, 28 Jun 2024 01:33:50 GMT</pubDate>
     </item>
