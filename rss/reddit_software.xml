@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 29 Jun 2024 09:14:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 12:21:44 GMT</lastBuildDate>
+    <item>
+      <title>最好的保留原始口音的 AI 语音转换器？</title>
+      <link>https://www.reddit.com/r/software/comments/1dr8b5e/best_ai_voice_changer_that_preserves_original/</link>
+      <description><![CDATA[我正在为一些音乐项目使用 AI 语音转换器，我想知道是否有在线软件或服务可以让我在不改变口音的情况下改变我的声音（在我的情况下是意大利语）。不幸的是，直到现在，每次尝试后，我得到的声音都像一个美国人试图说意大利语，而不是流畅的意大利语。     提交人    /u/Giafly   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1dr8b5e/best_ai_voice_changer_that_preserves_original/</guid>
+      <pubDate>Sat, 29 Jun 2024 10:34:50 GMT</pubDate>
+    </item>
     <item>
       <title>安全且无广告的 YouTube 到 MP3 转换器</title>
       <link>https://www.reddit.com/r/software/comments/1dr6cyl/youtube_to_mp3_converter_that_is_safe_and_adfree/</link>
@@ -13,25 +20,11 @@
       <pubDate>Sat, 29 Jun 2024 08:12:42 GMT</pubDate>
     </item>
     <item>
-      <title>思源笔记，我用过的最好的笔记软件之一</title>
-      <link>https://www.reddit.com/r/software/comments/1dr5uza/siyuan_notes_one_of_the_best_notetaking_software/</link>
-      <description><![CDATA[思源笔记（siyuan-note/siyuan：一款隐私优先、自托管、完全开源的个人知识管理软件，用 typescript 和 golang 编写。（github.com））是我最近发现的一款特别好用的笔记软件。它结合了 Obsidian 和 Notion 的功能，而且完全开源，本地功能免费！ ​​​​ 首先，思源是一款完全离线开源的软件。这意味着你可以完全控制你的数据。相比之下，像 Notion 这样的应用程序只能在线访问，数据只存储在云端。而思源则允许你将数据同时存储在本地和云端，云端存储的内容经过加密，以避免云服务提供商的潜在审查，从而提供更好的隐私保护。虽然思源使用 SQLite 数据库，但它仅用于搜索目的；笔记数据还是以文件的形式存储，通过读取文件来构建数据库。 其次，思源支持Markdown基本语法，这个功能目前主流的本地软件大多都支持。 第三，思源支持多级目录，这个看似是笔记软件都应该有的基本功能，但是像Logseq就不支持，当然这也是Logseq的特点，它的核心理念就是把笔记串联起来。我个人不太赞同这个做法，可能是因为我觉得就算不需要多级目录也应该有，对于日记来说扁平化就好，但是对于某一科目的学习笔记来说，多级目录更有优势，不过Logseq也是一款非常优秀的笔记软件，拥有大量的用户。 除了以上这些功能，我认为思源在块功能上比Obsidian更有优势。 Obsidian 虽然也支持块引用，但是没有 SiYuan 那么流畅。Obsidian 的文档级引用足够流畅，但是粒度太大，我可能只想引用文档中的特定段落。SiYuan 允许你用 Ctrl + Shift + C 快速复制当前的块引用并粘贴到适当的位置，这是 Obsidian 无法做到的。    submitted by    /u/zhaoshengmu   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1dr5uza/siyuan_notes_one_of_the_best_notetaking_software/</guid>
-      <pubDate>Sat, 29 Jun 2024 07:36:57 GMT</pubDate>
-    </item>
-    <item>
       <title>您对 Microsoft Teams 有何看法？</title>
       <link>https://www.reddit.com/r/software/comments/1dr5mlt/what_is_your_opinion_about_microsoft_teams/</link>
       <description><![CDATA[我在 Linux 上使用 Teams 时经常出错，我正在考虑为它创建一个替代方案。我认为有很多地方可以改进……  你对 Microsoft Teams 有什么看法？你知道有什么好的替代方案吗？    提交人    /u/Independent-Back3441   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1dr5mlt/what_is_your_opinion_about_microsoft_teams/</guid>
       <pubDate>Sat, 29 Jun 2024 07:20:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的笔记软件，思源笔记</title>
-      <link>https://www.reddit.com/r/software/comments/1dr55v9/the_best_notes_software_siyuan_note/</link>
-      <description><![CDATA[强烈推荐思源笔记！从高考结束之后就一直想用记日记的习惯，现在终于通过思源笔记实现了，因为它的记录方式特别顺畅无压力，用电脑输入比手写看起来更快更好。有时候突然想记录一句话，可以直接在微信里发消息给思源助手同步到思源的收藏框里，这样记录会更及时，不用等APP启动。 思源笔记可以算是notion的本土开源版，它支持区块属性，所以它的各种功能的粒度很细，比如可以在日记里引用某个区块而不是今天的日记里引用整篇文章，这样定位更精准，效率更高。同时思源笔记功能比notion更加丰富，更适合团队协作。 思源笔记支持的功能非常多，相比于obsidian它的学习成本更低，因为obsidian中的很多插件都可以在思源本体中实现，这样就省去了很多寻找合适插件的时间。当然obsidian的众多插件也让它的社区支持比思源更好，这也是让我这个思源用户羡慕不已的一点。 在我看来，思源笔记是一款口碑并不好的产品，虽然它的实力不一定比logseq、obsidian、notion等热门笔记软件强，但我觉得是同一梯队，只是软件运营和推广比这些热门软件要差很多，用户体量也小很多。这也和创始人的技术背景，不太擅长运营和推广有关。 如果你在寻找一款融合了 notion 块属性、typora 所见即所得的编辑体验、logseq 的开源、以及 obsidian 的本地数据存储的软件，那么思源很适合你。如果你喜欢折腾，动手能力强，那么 obsidian 大概可以满足你的需求。如果你想要云端团队协作，那么 notion、flowus 等云笔记更适合你。如果你重视隐私，那么开源的 logseq 和思源都是不错的选择。 没有一款笔记软件适合所有人，但也许你的需求刚好被笔记软件满足了。所以，在一开始选择笔记软件的时候，可以多试几款软件，找到最合适的，毕竟后期迁移笔记软件太费劲了。    submitted by    /u/zhaoshengmu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1dr55v9/the_best_notes_software_siyuan_note/</guid>
-      <pubDate>Sat, 29 Jun 2024 06:48:44 GMT</pubDate>
     </item>
     <item>
       <title>匿名聊天服务器</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[正如标题所述，我的帐户中有多个 udemy 认证：  Java 17 大师班 (由 Tim Buchalka 编写) 100 DAYS of Code Python (由 Dr, Angela Yu 编写) Web 开发人员训练营 (由 Colt steele 编写) C++ (由 Tim Buchalka 编写) Angular (由 Maximilian Schwarzmüller 编写) ReactJs (由 Maximilian Schwarzmüller 编写) React Native (由 Maximilian Schwarzmüller 编写)  我已经随着时间的推移分别购买了它们，因此我可以完成它们，但是懒惰和愚蠢的我从未完成过它们，我开始了所有但从未完成它们，其中大多数都在 10%，是的，我知道我很懒，我正在努力，所以现在我的如果我想找到工作，我必须完成至少一两个认证，因为我所在的地方非常相信认证，尤其是 Udemy、Coursera 的认证（一位招聘人员告诉我这一点，并且大多数人都问我有关认证的问题）。 所以我在这里请你们帮我选择两个真正能影响我职业生涯开始的认证。 非常感谢。 我的一些背景，我在过去四五年里改变了我的职业，试图成为一名 Web 开发人员或软件工程师（嵌入式软件经典......）我对嵌入式软件有一些了解，我攻读学士学位（我总是后悔没有继续在那个领域发展，因为我真的很喜欢它）无论如何，现在我正在努力谋生，我正在寻找我的第一份软件工程师或 Web 开发人员的工作，即使我的内心告诉我我想要软件工程师（嵌入式或经典）。无论如何，我来这里寻求建议和帮助来选择。再次感谢大家，迫不及待地想阅读你们的评论。    提交人    /u/SPARTAN2412   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1dqlhk2/help_me_choose_wisely_please/</guid>
       <pubDate>Fri, 28 Jun 2024 14:51:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一款带有生日和周年纪念日的优质安卓日历应用</title>
+      <link>https://www.reddit.com/r/software/comments/1dql3eu/looking_for_a_good_android_calender_app_with/</link>
+      <description><![CDATA[Google 日历几乎不支持生日和周年纪念日，因为前者不显示年龄，后者根本不支持，甚至年度活动也不显示是哪个（第几个）周年纪念日。 我还想要一个带有主页小部件的应用程序，可以显示即将发生的事件（而不仅仅是今天的事件）。 这个应用近乎完美，您甚至可以将事件导出为云端的 txt 文件，如果手机丢失，您可以使用它来重新创建日历。但它不支持为每个事件自定义通知时间。 我知道我需要很多功能，但如果有人知道什么，我将不胜感激   由    /u/TheDeathstormer  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1dql3eu/looking_for_a_good_android_calender_app_with/</guid>
+      <pubDate>Fri, 28 Jun 2024 14:34:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
