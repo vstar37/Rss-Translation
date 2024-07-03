@@ -4,13 +4,13 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 03 Jul 2024 00:53:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 03:13:49 GMT</lastBuildDate>
     <item>
-      <title>线路覆盖率是一个彻头彻尾的可耻指标，任何相信它的人都是无知的！</title>
-      <link>https://www.reddit.com/r/software/comments/1du1d3z/line_coverage_is_a_downright_disgrace_of_a_metric/</link>
-      <description><![CDATA[行覆盖完全是胡说八道，看看我们如何使用 LLM 为语言无关的突变测试提供动力，以便正确进行测试：https://github.com/codeintegrity-ai/mutahunter    提交人    /u/Accurate_Rich_997   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1du1d3z/line_coverage_is_a_downright_disgrace_of_a_metric/</guid>
-      <pubDate>Wed, 03 Jul 2024 00:39:30 GMT</pubDate>
+      <title>将鼠标点击映射到键盘按键的方法</title>
+      <link>https://www.reddit.com/r/software/comments/1du40jt/a_way_to_map_mouse_clicking_to_keyboard_keys/</link>
+      <description><![CDATA[我有一台七英寸的笔记本电脑，不知为何，键盘上有两个鼠标按钮。问题是，如果没有按键重新映射器，这些按钮就无法工作。 我之前使用 atnsoft，但发现这是付费软件。有什么好的解决方案吗？我需要的只是将鼠标右键和左键单击映射到两个键上。    提交人    /u/GayCatgirl   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1du40jt/a_way_to_map_mouse_clicking_to_keyboard_keys/</guid>
+      <pubDate>Wed, 03 Jul 2024 02:55:21 GMT</pubDate>
     </item>
     <item>
       <title>蓝光数据刻录软件</title>
@@ -34,7 +34,7 @@
       <pubDate>Tue, 02 Jul 2024 18:49:04 GMT</pubDate>
     </item>
     <item>
-      <title>寻找一款可以记录动态笔记、允许使用 gif/视频的离线软件。</title>
+      <title>寻找一款可以离线记录动态笔记并允许使用 gif/视频的软件。</title>
       <link>https://www.reddit.com/r/software/comments/1dtsss1/looking_for_a_offline_software_to_take_dynamic/</link>
       <description><![CDATA[  由    /u/UnavailableUsername_  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1dtsss1/looking_for_a_offline_software_to_take_dynamic/</guid>
@@ -57,7 +57,7 @@
     <item>
       <title>从封闭形状生成波形动画的数学软件？</title>
       <link>https://www.reddit.com/r/software/comments/1dtoqlh/math_software_to_generate_waveform_animations/</link>
-      <description><![CDATA[有一次我看到了这张 GIF 图像，我想知道是否有软件或一些编程语言脚本可以让我从封闭形状生成波形动画？如果有，有教程吗？ 我会尝试在 r/math 中发布此内容，但是它可能不相关，而且没有人（甚至 GPT）会在 Python subs 中为我编写脚本，所以我会尝试在这里询问。 这个    提交人    /u/kubinka0505   [链接] [评论]]]></description>
+      <description><![CDATA[有一次我看到了这张 GIF 图像，我想知道是否有软件或某种编程语言脚本可以让我 从封闭形状生成波形动画？如果有，有教程吗？ 我会尝试在 r/math 中发布此内容，但是它可能不相关，而且没有人（甚至 GPT）会在 Python subs 中为我编写脚本，所以我会尝试在这里询问。 这个    提交人    /u/kubinka0505   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1dtoqlh/math_software_to_generate_waveform_animations/</guid>
       <pubDate>Tue, 02 Jul 2024 15:33:54 GMT</pubDate>
     </item>
