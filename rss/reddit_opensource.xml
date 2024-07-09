@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 09 Jul 2024 06:18:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 09:13:43 GMT</lastBuildDate>
     <item>
       <title>在自述中寻找其他人为你加星标的合适文案</title>
       <link>https://www.reddit.com/r/opensource/comments/1dyv9od/look_for_suitable_copywriting_that_others_have/</link>
@@ -13,7 +13,7 @@
       <pubDate>Tue, 09 Jul 2024 06:13:30 GMT</pubDate>
     </item>
     <item>
-      <title>家庭维基的更简单概念替代品</title>
+      <title>家庭维基的更简单概念替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1dyuce9/simpler_notion_alternative_for_family_wiki/</link>
       <description><![CDATA[嗨，我正在寻找简单的应用程序（自托管或 saas），它比用于创建具有良好移动视图（本机或网络）的小型共享 wiki 的概念更简单，我想要的基本上是文档网站的外观和感觉（侧边栏中有组织（手动排序）的部分（文件），主区域中有部分（文件）文本），但具有内联编辑功能（不需要花哨的块、数据库或其他概念功能） - 需要它像电子邮件编辑器或 reddit 编辑器一样简单。 有人知道吗？    提交人    /u/skorphil   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dyuce9/simpler_notion_alternative_for_family_wiki/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>版权建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1dx4jyv/copyright_advice/</link>
-      <description><![CDATA[嘿， 我正在制作一个浏览器扩展，完全没有经验，我想我可能会分享它，因为其他人可能需要它，嘿，也许有人可以改进我的烂代码。 但是，我正在从另一个使用 MIT 许可证的扩展中窃取大量代码。显然，我想正确地做事（即使他们实际上不可能发现），所以我想了解，当我包含版权内容时，我应该从原始内容中复制粘贴它，对吗？例如，版权所有者的姓名和日期应该与原始内容相同，我不应该在那里写上我的名字。    提交人    /u/SoulOuverture   [链接] [评论]]]></description>
+      <description><![CDATA[嘿， 我正在制作一个浏览器扩展，完全没有经验，我想我可以分享它，因为其他人可能需要它，嘿，也许有人可以改进我的烂代码。 但是，我正在从另一个使用 MIT 许可证的扩展中窃取大量代码。显然，我想正确地做事（即使他们实际上不可能发现），所以我想了解，当我包含版权内容时，我应该从原始内容中复制粘贴它，对吗？例如，版权所有者的姓名和日期应该与原始内容相同，我不应该在那里写上我的名字。    提交人    /u/SoulOuverture   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dx4jyv/copyright_advice/</guid>
       <pubDate>Sun, 07 Jul 2024 01:05:50 GMT</pubDate>
     </item>
