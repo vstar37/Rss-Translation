@@ -4,119 +4,112 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Tue, 16 Jul 2024 14:29:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 21:01:19 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 我开始翻译安德烈·普拉托诺夫的作品已经 50 年了，我深深地感到 [...]</title>
-      <link>https://t.me/hn_summary/99883</link>
-      <description><![CDATA[人脉关系：安德烈·普拉托诺夫的伟大之处
-我开始翻译安德烈·普拉托诺夫已经 50 年了，我非常感谢他带给我生活的各种各样的人——无论是真实的还是虚构的。普拉托诺夫出生于 1899 年 9 月 1 日，父亲是一名铁路工人，是革命的热情支持者。尽管他理想主义，但他敏锐的讽刺感和清晰的洞察力使他无法符合苏联的期望，导致他的大部分作品在他有生之年未出版或受到严厉批评。我与普拉托诺夫的旅程始于 1974 年在沃罗涅日，从那时起，他独特的风格和深刻的叙述就一直吸引着我。他的作品，如《切文古尔》和《基坑》，反映了他对人类苦难和韧性的深刻理解。普拉托诺夫的故事通常因残疾人、孤儿和自杀的主题而令人沮丧，但在我看来，这些故事是深刻肯定的，颂扬了持久的爱和对完整的追求。他将俄罗斯人民描绘成被革命剥夺的“集体孤儿”，这尤其令人心酸。普拉托诺夫的后期作品，如《灵魂》和《回归》，揭示了走向治愈和完整的运动，展示了他深刻的哲学和情感深度。（基于 65% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/99883</guid>
-      <pubDate>Tue, 16 Jul 2024 14:29:28 GMT</pubDate>
+      <title>[媒体] 在 Sync Labs，我们正在通过先进的视频技术彻底改变视频创作和交互方式 [...]</title>
+      <link>https://t.me/hn_summary/99944</link>
+      <description><![CDATA[Sync Labs (YC W24) 正在招聘一名高级工程师
+在 Sync Labs，我们正在通过先进的视频生成和操作模型彻底改变视频创作和互动。在不到六个月的时间内实现 100 万美元的 ARR 后，我们正致力于实现 1 亿美元以上的目标。我们正在招聘一名通晓多种语言的超级工程师来领导我们的技术方向和执行，并有可能发展成为 CTO 角色。该角色涉及为 1 亿以上用户构建和扩展我们的基础设施，领导顶级工程团队，并推动 AI/ML 模型的创新。理想的候选人在高增长环境中拥有良好的业绩记录、深厚的技术专长和创业思维。我们提供大量股权、完全自主权以及塑造视频技术未来的机会。加入我们，直接与首席执行官合作，打造一支世界一流的团队。]]></description>
+      <guid>https://t.me/hn_summary/99944</guid>
+      <pubDate>Tue, 16 Jul 2024 21:01:19 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇文章中，我们探讨从头开始创建统一内核映像（UKI），这对 [...]</title>
-      <link>https://t.me/hn_summary/99882</link>
-      <description><![CDATA[从头开始创建统一内核映像
-在这篇文章中，我们将探讨如何从头开始创建统一内核映像 (UKI)，这对 UEFI 系统非常有益，并简化了使用 iPXE 进行网络启动等任务。UKI 将 UEFI 启动存根、Linux 内核映像、initramfs 和其他资源组合成一个 UEFI PE 文件。该文件可由 UEFI 固件或通过引导加载程序直接调用。虽然存在用于创建 UKI 的工具（如 ukify），但本指南更深入地介绍了构建过程。我们使用 Arch Linux 存储库中的预编译内核，并使用 readpe 验证其 PE 可执行状态。这种详细的方法提供了对 UKI 创建的全面了解。 （根据 65% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/99882</guid>
-      <pubDate>Tue, 16 Jul 2024 14:27:17 GMT</pubDate>
+      <title>[媒体] 在 Brightball 上的文章“故事点毫无意义，测量队列”中，作者 [...]</title>
+      <link>https://t.me/hn_summary/99943</link>
+      <description><![CDATA[故事点毫无意义，测量队列
+在 Brightball 上的文章“故事点毫无意义，测量队列”中，作者批评了故事点在软件开发中的使用。故事点旨在估计工作量、复杂性、风险和不确定性，本质上存在缺陷且不可靠。它们造成混乱，应用不一致，并且经常被误用来比较团队绩效，导致任意的最后期限和技术债务。作者认为，故事点转换为时间指标，而它们并不是用来表示时间的，这会导致进一步的问题。相反，作者主张测量队列，这更有效地解决估计问题并提供更好的潜在问题指标。值得注意的是，故事点的创造者 Ron Jeffries 否认了它们的滥用，并强调了围绕其应用的争议。 （根据 38% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/99943</guid>
+      <pubDate>Tue, 16 Jul 2024 20:29:04 GMT</pubDate>
     </item>
     <item>
-      <title>硅谷的科技巨头们越来越多地与唐纳德·特朗普保持一致，这一点从他们的 [...]</title>
-      <link>https://t.me/hn_summary/99881</link>
-      <description><![CDATA[硅谷科技巨头纷纷向特朗普捐款
-硅谷科技巨头越来越多地向特朗普靠拢，他们向特朗普的竞选活动提供了大量捐款就是明证。鉴于科技行业传统上倾向于自由主义，这一趋势标志着政治格局的重大转变。《金融时报》重点报道了这一令人惊讶的发展，并指出大型科技公司的知名人士正在为特朗普的连任努力捐款。这一举动引发了争议，因为它与该行业通常对民主党候选人和进步事业的支持形成了鲜明对比。本文深入探讨了这种转变的潜在影响，并指出它可能会重塑美国科技与政治之间的关系。]]></description>
-      <guid>https://t.me/hn_summary/99881</guid>
-      <pubDate>Tue, 16 Jul 2024 14:12:04 GMT</pubDate>
+      <title>你好，Hacker News 社区，</title>
+      <link>https://t.me/hn_summary/99942</link>
+      <description><![CDATA[我使用了十年的 Apple 开发者帐户已被 Apple 锁定
+您好，Hacker News 社区，
+
+我正在寻求有关我的 Apple 开发者帐户的疯狂情况的建议和支持。自 2013 年 11 月以来，我一直是 Apple 开发者计划的成员，支付年度订阅费以维护我的小网站在 App Store 上的免费应用。
+
+我最近忘记续订会员资格，当我尝试登录重新订阅时，我收到一条消息，指出我的帐户已被锁定。他们说我可以要求审核以解锁，我照做了，但大约 12 小时后我收到一封电子邮件，说审核未成功。我通过电话联系了 Apple 支持，结果却被告知我的帐户已被永久锁定，无法恢复。该应用程序对我的用户来说很重要，我迫切希望找到解决方案。
+
+有没有人遇到过类似的事情？有什么建议可以告诉我可以采取哪些步骤，或者 Apple 内部有哪些人可以提供帮助？非常感谢您的见解和建议。
+
+谢谢。]]></description>
+      <guid>https://t.me/hn_summary/99942</guid>
+      <pubDate>Tue, 16 Jul 2024 20:18:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 文档一直是我编程生涯中的一个痛点，尤其是当我 [...]</title>
-      <link>https://t.me/hn_summary/99880</link>
-      <description><![CDATA[使用 ADR 记录您的架构决策
-记录一直是我编程生涯中的一个痛点，尤其是在架构方面。传统方法（如 Word 文档）很快就会过时且结构不合理，很难找到相关信息。这时架构决策记录 (ADR) 就派上用场了。ADR 捕获关键架构决策及其上下文，提供历史记录。它们易于维护，应存储在靠近代码的位置，最好存储在专用文件夹中。每个决策都有自己的文件，按顺序编号，并包含完整描述和考虑的替代方案。这种方法可使您的文档保持清晰、结构化和最新。您是否记录了您的架构？您是如何做到的？查看我们的进化架构存储库以获取示例。]]></description>
-      <guid>https://t.me/hn_summary/99880</guid>
-      <pubDate>Tue, 16 Jul 2024 14:10:59 GMT</pubDate>
+      <title>[媒体] 在cedardb.com上的博客文章“为什么德国弦乐无处不在”中，作者深入探讨了[...]</title>
+      <link>https://t.me/hn_summary/99941</link>
+      <description><![CDATA[为什么德语字符串无处不在
+在cedardb.com上的博客文章“为什么德语字符串无处不在”中，作者深入探讨了编程语言中字符串实现的复杂性，并强调了其自定义“德语字符串”的独特优势。与传统的 C 和 C++ 字符串不同，德语字符串具有诸如繁琐的内存管理和处理短字符串效率低下等限制，而德语字符串提供了高度优化的解决方案。这些字符串使用 128 位结构直接存储短字符串或带前缀的长字符串，从而提高了性能并减少了内存开销。这篇文章还介绍了存储类的概念——持久性、瞬态性和临时性，允许精确控制字符串的生命周期。这种创新方法已被 DuckDB、Apache Arrow、Polars 和 Facebook Velox 等系统采用。德国字符串的巧妙设计，特别是它们的不变性和高效的内存使用，使它们成为强大的数据处理工具，尽管它们要求开发人员仔细考虑字符串的生命周期和可变性。加入 CedarDB 的候补名单，亲身体验这些好处。]]></description>
+      <guid>https://t.me/hn_summary/99941</guid>
+      <pubDate>Tue, 16 Jul 2024 20:09:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Byju's 的估值曾达 220 亿美元，但被一家 [...] 巨头推入破产程序。</title>
-      <link>https://t.me/hn_summary/99879</link>
-      <description><![CDATA[Byju&#39;s 估值曾达 220 亿美元，现已进入破产程序
-Byju&#39;s 估值曾达 220 亿美元，印度法院已将其推入破产程序，此前印度板球管理委员会 (BCCI) 提出申请，要求从这家教育科技初创公司追回近 1900 万美元。法院的裁决任命了一名临时解决方案专家来管理 Byju&#39;s 的运营，将其创始人排除在外。这项裁决允许债权人、员工和供应商向该公司提出索赔。Byju&#39;s 陷入了治理问题和与 Prosus 和 Peak XV 等顶级投资者的法律纠纷，计划对该裁决提出上诉，并与 BCCI 寻求友好和解。该公司的估值暴跌，贝莱德已将其对 Byju&#39;s 的投资减记为零。]]></description>
-      <guid>https://t.me/hn_summary/99879</guid>
-      <pubDate>Tue, 16 Jul 2024 13:36:45 GMT</pubDate>
+      <title>[媒体] 初创玩具公司倒闭</title>
+      <link>https://t.me/hn_summary/99940</link>
+      <description><![CDATA[Dead Startup Toys
+deadstartuptoys.com 上的“Dead Startup Toys”将进化生物学中的“希望怪物”概念与风险投资界初创企业的兴衰进行了比较。作者认为，正如宏观进化突变可以创造出具有显著优势的生物一样，初创企业也可以凭借突破性的想法出现，但往往会以惊人的失败告终。这种有争议的类比被批评为大多数宏观进化突变都是致命的或使生物体不育，就像许多无法维持的初创企业一样。该网站以一种可怕但迷人的方式向这些失败的企业致敬，将它们比作“美丽的变种人”，他们的雄心勃勃的梦想提供了超现实的娱乐。巧妙之处在于，以一种通灵的方式庆祝这些“死亡的创业玩具”，纪念他们创新但注定失败的尝试。]]></description>
+      <guid>https://t.me/hn_summary/99940</guid>
+      <pubDate>Tue, 16 Jul 2024 19:44:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：ethz.ch</title>
-      <link>https://t.me/hn_summary/99878</link>
-      <description><![CDATA[气候变化正在改变地球自转并使白天变长
-标题：气候变化正在改变地球自转并使白天变长
-网站：ethz.ch
-
-一项新研究表明，人类引发的气候变化对地球自转速度的影响可能比月球的潮汐摩擦更大，后者已经影响了数十亿年的白天长度。这一令人惊讶的结论强调了人类对地球的深远影响。此外，发表在《自然地球科学》杂志上的这项研究表明，冰川融化和地球内部运动正在改变地球的自转轴。研究人员使用基于物理的神经网络（一种新颖的人工智能方法）对这些变化进行了全面的建模。虽然这些变化很小，并不值得担忧，但它们凸显了地球过程的相互关联以及气候变化的深远影响。]]></description>
-      <guid>https://t.me/hn_summary/99878</guid>
-      <pubDate>Tue, 16 Jul 2024 13:32:40 GMT</pubDate>
+      <title>[媒体] 我们与巴伐利亚广播公司 (BR) 的联合调查揭示了数据经纪人如何出售 [...]</title>
+      <link>https://t.me/hn_summary/99939</link>
+      <description><![CDATA[数据经纪人出售我们的位置数据并危害国家安全
+我们与巴伐利亚广播公司 (BR) 的联合调查揭示了数据经纪人如何出售德国数百万人的位置数据，这对国家安全构成了重大风险。我们从 Datastream Group 获得了一个包含 36 亿个位置点的数据集，显示了包括那些身处敏感政府职位的人在内的人员的流动情况。这些数据通常来自移动应用程序，可被外国情报机构利用进行间谍活动或破坏活动。尽管有 GDPR 法规，但数据共享的同意往往没有得到充分的信息。德国当局行动迟缓，政治人物呼吁制定更严格的法规。令人惊讶的是，甚至德国情报机构也可能购买此类数据。]]></description>
+      <guid>https://t.me/hn_summary/99939</guid>
+      <pubDate>Tue, 16 Jul 2024 19:38:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]你好！</title>
-      <link>https://t.me/hn_summary/99877</link>
-      <description><![CDATA[Godotcaml for Godot 4.2
-大家好！今天，我很高兴发布一个名为 Godotcaml 的早期开源项目，该项目将 Godot 游戏引擎（具体为 4.2 版）与 OCaml 编程语言集成并绑定在一起。
-
-为什么选择 Godot？Godot 是一款成熟、好用的游戏开发 IDE，适合中小型团队，可用于创建高质量的 2D 和 3D 游戏。它是免费的、开源的，是游戏开发者的绝佳选择。
-
-为什么选择 OCaml？虽然我喜欢 Haskell，但 OCaml 更适合游戏开发，因为它具有垃圾收集、函数式编程功能、默认的急切性以及易于处理副作用。OCaml 的 PPXes 还简化了代码生成，使其在游戏脚本编写中更加高效。
-
-当前功能：Godotcaml 允许从 OCaml 调用 Godot 函数、使用 Godot 运算符、构造 Godot 值以及在 OCaml 中定义新的 Godot 类和方法。然而，它仍在开发中，信号处理、垃圾收集和热重载等几个功能需要改进。
-
-争议点：我认为 Rust 尽管有优势，但由于其借用检查器和对垃圾收集的厌恶，并不适合游戏脚本，这可能会引发 Rust 爱好者的争论。
-
-独特之处：使用 OCaml 的 PPXes 进行代码生成特别巧妙，大大减少了所需的繁琐手写代码量。
-
-请继续关注更新，因为我将继续完善和扩展 Godotcaml 的功能！（基于 90% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/99877</guid>
-      <pubDate>Tue, 16 Jul 2024 13:31:36 GMT</pubDate>
+      <title>[媒体] 一名英国法官将自称是比特币发明者中本聪的克雷格·赖特 (Craig Wright) 移交给 [...]</title>
+      <link>https://t.me/hn_summary/99938</link>
+      <description><![CDATA[Craig Wright 声称自己发明了比特币，可能会因伪证罪被捕
+英国一名法官将自称是比特币发明者中本聪的 Craig Wright 移交给皇家检察署 (CPS)，可能面临伪证罪和伪造罪的刑事指控。英国高等法院法官 James Mellor 表示，Wright 曾多次撒谎并大规模伪造文件。该案源于加密开放专利联盟 (COPA) 的一项诉讼，旨在反驳 Wright 的说法并阻止他对比特币主张知识产权。Wright 目前下落不明，他涉嫌逃避服务。Mellor 批准了禁令，以防止 Wright 重新提起诉讼并威胁提起诉讼，但拒绝了删除其声明的额外命令。法官指出，赖特的言论被广泛视为“空谈”且“略显荒谬”，但允许 COPA 在必要时寻求进一步的禁令救济。]]></description>
+      <guid>https://t.me/hn_summary/99938</guid>
+      <pubDate>Tue, 16 Jul 2024 19:36:24 GMT</pubDate>
     </item>
     <item>
-      <title>PeerTube 6.2 已发布</title>
-      <link>https://t.me/hn_summary/99876</link>
-      <description><![CDATA[PeerTube 6.2 发布
-PeerTube 6.2 发布
-
-这个新版本旨在让您的生活更轻松。更轻松的审核、更轻松的字幕创建和更轻松的视频突出显示。让我们来看看吧！
-
-评论审核
-审核始终是最不令人兴奋的部分，也可能是最耗时的部分。为了帮助您管理这一点，PeerTube v6.2 不仅添加了一个新页面，列出了您视频上的所有评论（您现在可以手动批准），而且还提供了创建单词列表的功能，这些单词列表会自动将包含这些评论的评论放入审核队列！此功能也可供管理员使用，他们可以监控内容是否符合服务条款或病毒现象。此功能的想法来自德国 ISD 进行的一项研究。我们的目标是通过允许用户订阅和共享单词列表来改进此功能，以便将来更轻松地进行审核！
-
-自动转录
-在 5.2 版中，我们引入了 PeerTube runner，这是一个允许 PeerTube 远程执行繁重任务的小程序。运营 MOOC 平台的法国数字大学对此很感兴趣，并希望将其用于自己的用途。他们与 NLnet 基金会通过 NGI Zero Entrust 基金资助了 PeerTube 和 PeerTube runners 中的自动视频转录的开发。此转录使用 AI 工具 Whisper 自动创建字幕。管理员可以为新视频启用此功能，并根据需要为旧视频触发此功能。法国数字大学计划为其所有内容（代表 3,500 小时的视频）添加字幕。非常感谢 NLnet（不幸的是，其资金正面临枯竭的危险）和法国数字大学提供的帮助！
-
-还有更多……
-PeerTube 现在提供了一种新方法，可以直接从视频中的图像创建缩略图预览。直播会在“最近添加”、“趋势”、“帐户视频”和“频道视频”页面上突出显示。与往常一样，您可以在变更日志中找到所有错误修复、改进和其他更改！
-
-想帮助我们改进 PeerTube 吗？分享此信息，提出改进建议，如果可以，请向开发 PeerTube 的非营利组织 Framasoft 捐款。提前感谢您的支持！
-
-Framasoft]]></description>
-      <guid>https://t.me/hn_summary/99876</guid>
-      <pubDate>Tue, 16 Jul 2024 13:21:26 GMT</pubDate>
+      <title>[媒体] J.D.</title>
+      <link>https://t.me/hn_summary/99937</link>
+      <description><![CDATA[J.D. Vance 反对大型科技公司，支持加密货币
+2 月，Y Combinator 在彭博华盛顿特区办公室举办了一场会议，会议汇集了反垄断改革运动的关键人物，包括参议员伊丽莎白·沃伦和联邦贸易委员会主席莉娜·汗。令人惊讶的是，共和党参议员、特朗普的副总统人选 J.D. Vance 也赞同他们对控制大型科技公司的看法。Vance 通过彼得·泰尔与硅谷有联系，他称赞了汗在科技交易方面的积极立场，并呼吁拆分谷歌和 Facebook 等公司，理由是它们对政治进程有影响。有争议的是，Vance 支持 2020 年大选被窃取的说法，并称 1 月 6 日被捕的人是“政治犯”。此外，万斯主张放宽加密货币监管，批评美国证券交易委员会的做法。他反对谷歌、支持加密货币的立场与某些硅谷派系一致，他被视为特朗普第二任期内科技监管方面的强有力代言人。]]></description>
+      <guid>https://t.me/hn_summary/99937</guid>
+      <pubDate>Tue, 16 Jul 2024 19:35:21 GMT</pubDate>
     </item>
     <item>
-      <title>冰盖和全球冰川的融化导致海平面上升，并导致大规模迁移[...]</title>
-      <link>https://t.me/hn_summary/99875</link>
-      <description><![CDATA[气候变化对日长变化的影响日益显著
-冰盖和全球冰川的融化导致海平面上升，质量从两极向赤道转移，增加了地球的扁率，从而延长了日长 (LOD)。自 1900 年以来的观测表明，气候引起的 LOD 趋势在 20 世纪为 0.3 到 1.0 毫秒/世纪 (ms/cy)，但自 2000 年以来已加速至 1.33±0.03 ms/cy。这种加速完全可以通过表面质量输送来解释。此外，冰川均衡调整 (GIA) 导致 LOD 趋势下降 -0.80±0.10 ms/cy，从而深入了解地幔粘度。预测表明，在高排放情景下，到 2100 年，气候引起的 LOD 速率可能达到 2.62±0.79 ms/cy，超过月球潮汐摩擦成为长期 LOD 变化的主要因素。这凸显了气候变化对地球自转动力学的重大影响。]]></description>
-      <guid>https://t.me/hn_summary/99875</guid>
-      <pubDate>Tue, 16 Jul 2024 13:16:05 GMT</pubDate>
+      <title>[媒体] 今天早上，我看到一篇流行的网络帖子，批评了 [...]</title>
+      <link>https://t.me/hn_summary/99936</link>
+      <description><![CDATA[直觉
+
+今天早上，我看到一篇流行的互联网帖子，批评 macOS 上的“安装窗口”不直观。该帖子提到了一个 Finder 窗口，其中显示了来自 Slack 的磁盘映像 (DMG)，左侧是 Slack.app，右侧是指向“应用程序”文件夹的快捷方式，由蓝色箭头连接。回应两极分化：Mac 爱好者为拖放方法辩护，而其他人则认为它令人困惑。
+
+
+我分析了各种 macOS 安装方法：磁盘映像、软件包安装程序、App Store 和 ZIP。每种方法都有其优缺点，但没有一种是完美的。磁盘映像尤其容易让人困惑，因为它们的隐喻和呈现方式。软件包安装程序很麻烦，App Store 的身份验证步骤也很麻烦。ZIP 文件更清晰，但仍然不完美。
+
+“直观”一词是主观的，经常与本能混为一谈。虽然 macOS 旨在直观，但它需要一些思考和熟悉。长期使用 Mac 的用户发现磁盘映像很直观，但对于新手来说可能会令人困惑。这不是苹果的错，而是 Slack 选择的分发方法。Slack 可以考虑使用 ZIP 文件，尽管文件大小略有增加。
+
+好的设计应该适合所有人，苹果和 Slack 的分发方法都有改进的空间。]]></description>
+      <guid>https://t.me/hn_summary/99936</guid>
+      <pubDate>Tue, 16 Jul 2024 19:32:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：pdf7.app</title>
-      <link>https://t.me/hn_summary/99874</link>
-      <description><![CDATA[显示 HN：PDF7
-标题：显示 HN：PDF7
-网站：pdf7.app
+      <title>[媒体] HuggingFace：无需 OKR 和会议，开源社区规模每年增长 300%</title>
+      <link>https://t.me/hn_summary/99935</link>
+      <description><![CDATA[HuggingFace：在无 OKR 和无会议的情况下，每年将开源社区扩大 300%
+HuggingFace：在无 OKR 和无会议的情况下，每年将开源社区扩大 300%
 
-作为一名学生，处理各种科目的大量 PDF 是一项真正的挑战，直到我发现了 Pdf7。这个工具改变了游戏规则，尤其是它出色的拆分功能。它让我的学习材料组织和管理变得容易得多。]]></description>
-      <guid>https://t.me/hn_summary/99874</guid>
-      <pubDate>Tue, 16 Jul 2024 12:54:54 GMT</pubDate>
+在我们的新异步访谈系列 DX@X 中，我们与该领域的领导者一起探讨 DevRel 的状态。我们首先采访了 HuggingFace 的首席 Llama 官 Omar Sanseviero，该公司以管理开源 ML 社区而闻名。 HuggingFace 经历了高速增长，一年内其 Hub 上的代码库数量从 78 万个增加到 230 万个，同时保持了盈利能力并举办了大规模的全球聚会。
+
+Omar 的角色涉及领导和个人贡献，强调自下而上、无会议的文化，以促进技术和有意义的工作。HuggingFace 以社区为中心的方法包括关注社区成员、提供资助和维持合作关系。他们优先考虑基于使用情况的指标而不是可见性驱动的指标，关注真正的用户需求而不是过分强调指标。
+
+HuggingFace 的 DevRel 以工程为中心且分散，公司中的每个人都参与 DevRel 活动。这促进了真正的、可扩展的关系和协作文化。他们在探索和利用之间取得平衡，优先考虑有影响力的项目，在方法上保持灵活性和实用性。
+
+争议点：Omar 对会议旅行的影响表示怀疑，认为最大的影响来自幕后合作而不是会谈。
+
+独特/聪明的方面：HuggingFace 缺乏 OKR 和无会议文化，再加上分散的 DevRel 功能，创造了一个鼓励敏捷性和深度技术贡献的独特环境。（基于 73% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/99935</guid>
+      <pubDate>Tue, 16 Jul 2024 19:27:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
