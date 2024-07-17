@@ -4,7 +4,46 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Wed, 17 Jul 2024 06:17:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 09:16:52 GMT</lastBuildDate>
+    <item>
+      <title>您能分享一下您对这个登陆页面的反馈吗？</title>
+      <link>https://feed.indiehackers.world/post/a2534d7da4</link>
+      <description><![CDATA[着陆页：https://truebase.io/
+Truebase 是一个 B2B 销售潜在客户挖掘平台。
+自动化整个潜在客户挖掘工作流程。它会搜索潜在客户、确定其资格、为其添加准确且经过验证的联系信息、开展研究、个性化序列并发送这些序列。当潜在客户对产品表现出兴趣时，它会通知您，以便您可以跳转并与这些潜在客户互动。
+这是一个一体化解决方案。
+Discord Indiehackers Chat广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/a2534d7da4</guid>
+      <pubDate>Wed, 17 Jul 2024 08:50:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何进行用户访谈？</title>
+      <link>https://feed.indiehackers.world/post/b895e68ffd</link>
+      <description><![CDATA[那么首先，在哪里可以找到潜在客户进行面试。reddit 和 linkedin 上的冷漠直接消息用户？使用 apollo 之类的东西来寻找冷漠线索？
+接下来，如何说服他们进行面试。归根结底，您是在利用别人的时间，主要是为了验证自己的想法。那么应该给予什么回报呢？
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/b895e68ffd</guid>
+      <pubDate>Wed, 17 Jul 2024 08:22:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立身份验证系统的最快方法</title>
+      <link>https://feed.indiehackers.world/post/3360c9b946</link>
+      <description><![CDATA[祝您集成愉快！
+Discord Indiehackers Chat广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/3360c9b946</guid>
+      <pubDate>Wed, 17 Jul 2024 06:33:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过出示所有权证明 (DPoP) 增强 OIDC 安全性</title>
+      <link>https://feed.indiehackers.world/post/535249bff9</link>
+      <description><![CDATA[结论
+证明所有权证明是 OIDC 安全性向前迈出的重要一步。通过将令牌绑定到特定客户端实例，DPoP 解决了持有者令牌系统中的关键漏洞。随着威胁形势的不断发展，实施 DPoP 可以为组织提供增强的保护，防止令牌被盗和未经授权的访问。
+虽然采用可能需要时间，但 DPoP 的安全优势使其成为任何 OIDC 实施的宝贵补充。随着网络安全社区不断创新，DPoP 等功能为更安全、更强大的身份验证和授权系统铺平了道路。
+免费试用 logto.io
+Discord Indiehackers Chat广告 此处]]></description>
+      <guid>https://feed.indiehackers.world/post/535249bff9</guid>
+      <pubDate>Wed, 17 Jul 2024 06:26:14 GMT</pubDate>
+    </item>
     <item>
       <title>我将日常使用的 15 个最佳自动化 Python 函数收集到一个开源项目中。</title>
       <link>https://feed.indiehackers.world/post/f7caf7901e</link>
@@ -130,48 +169,6 @@ Discord Indiehackers Chat广告此处]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/acc0b4c8a8</guid>
       <pubDate>Tue, 16 Jul 2024 15:34:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>餐厅应用程序的类型及其差异</title>
-      <link>https://feed.indiehackers.world/post/d2d13937f8</link>
-      <description><![CDATA[差异
-您可能会遇到一系列厨房管理和 POS 应用程序，每个应用程序都针对不同餐厅的特定需求和偏好量身定制。有些应用程序可能会以可自定义的菜单选项而出类拔萃，让厨师可以实时更新菜单，以突出时令食材或特色菜肴。
-其他应用程序可能擅长与各种支付方式无缝集成，确保您与朋友分摊账单的体验尽可能顺畅。应用程序的选择取决于增强特定餐厅运营的功能，最终影响您的用餐体验的质量和效率。
-会计应用程序
-会计应用程序旨在帮助您高效管理餐厅的财务，提供一系列功能，用于准确记账、工资管理、费用跟踪和税务计算。
-Discord Indiehackers Chat广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/d2d13937f8</guid>
-      <pubDate>Tue, 16 Jul 2024 15:24:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>长期产品测试交流理念</title>
-      <link>https://feed.indiehackers.world/post/83cc5c6b2e</link>
-      <description><![CDATA[我在想，如果能接触到更多同样在开发软件的人，我们就可以测试和反馈彼此的产品，而且重要的是，在很长一段时间内（例如几个月），其他社区和平台并不总是会迎合这种需求。
-我为此创建了一个 discord（服务器邀请：https://discord.gg/bQuEmWJ5dn），欢迎随时加入，我很想看看我们能否成功。
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/83cc5c6b2e</guid>
-      <pubDate>Tue, 16 Jul 2024 15:21:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>1 年。20,000 多行代码。1,000 多小时的编码</title>
-      <link>https://feed.indiehackers.world/post/99718fb4b7</link>
-      <description><![CDATA[1 年。20,000 多行代码。1,000 多个小时的编码。
-这是一段不可思议的旅程，但我们终于准备好公开发布 CortadoMail 了。
-不要再浪费早上的时间查看那么多不同的信息来源（新闻、时事通讯、社交媒体、天气……）。
-免费注册 CortadoMail，在一封每日电子邮件中获取所有信息。
-Discord Indiehackers Chat广告 此处]]></description>
-      <guid>https://feed.indiehackers.world/post/99718fb4b7</guid>
-      <pubDate>Tue, 16 Jul 2024 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何利用副业为 SaaS 初创公司实现 3 万美元的 MRR</title>
-      <link>https://feed.indiehackers.world/post/62836af833</link>
-      <description><![CDATA[如果您正在应对 SaaS 初创公司的挑战并寻求见解，我很乐意分享我的学习和经验。您可以详细了解我们的 AI 数字营销 SaaS 工具 Adsby，它可帮助小型企业简化广告工作。
-对于那些需要 SEO 和付费营销支持的人，我们的服务业务 Tierone 可以为您提供帮助。我们运用我们的专业知识来推动客户的增长，我们也准备为您提供同样的服务。详细了解我们的服务以及我们如何帮助您的业务。
-让我们联系并共同成长！
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/62836af833</guid>
-      <pubDate>Tue, 16 Jul 2024 13:36:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
