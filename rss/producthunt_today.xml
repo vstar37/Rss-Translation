@@ -4,20 +4,34 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 19 Jul 2024 09:13:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 12:22:40 GMT</lastBuildDate>
     <item>
-      <title>易传媒</title>
-      <link>https://www.producthunt.com/posts/easymedia</link>
+      <title>UpScout</title>
+      <link>https://www.producthunt.com/posts/upscout</link>
       <description><![CDATA[
-使用 AI 在几秒钟内将 YouTube 转换为社交媒体
+UpWork 自由职业者的通知
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/easymedia</guid>
-      <pubDate>Fri, 19 Jul 2024 06:02:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/upscout</guid>
+      <pubDate>Fri, 19 Jul 2024 00:14:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>厨师</title>
+      <link>https://www.producthunt.com/posts/kuluko</link>
+      <description><![CDATA[
+将您的想法转化为 3 小时以上的定制有声读物
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/kuluko</guid>
+      <pubDate>Thu, 18 Jul 2024 22:09:04 GMT</pubDate>
     </item>
     <item>
       <title>AI重命名器</title>
@@ -48,18 +62,18 @@ OpenAI 的 GPT-3.5 turbo 继任者
       <pubDate>Thu, 18 Jul 2024 20:45:25 GMT</pubDate>
     </item>
     <item>
-      <title>斯瓦皮</title>
-      <link>https://www.producthunt.com/posts/swapy</link>
+      <title>多区域同步时钟</title>
+      <link>https://www.producthunt.com/posts/multi-zone-sync-clock</link>
       <description><![CDATA[
-JavaScript 工具可将任何布局转换为可拖动交换的布局
+轻松安排跨时区的会议
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/swapy</guid>
-      <pubDate>Thu, 18 Jul 2024 19:22:47 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/multi-zone-sync-clock</guid>
+      <pubDate>Thu, 18 Jul 2024 19:58:27 GMT</pubDate>
     </item>
     <item>
       <title>雷恩利</title>
@@ -76,20 +90,6 @@ JavaScript 工具可将任何布局转换为可拖动交换的布局
       <pubDate>Thu, 18 Jul 2024 18:59:22 GMT</pubDate>
     </item>
     <item>
-      <title>自由推送</title>
-      <link>https://www.producthunt.com/posts/libre-push</link>
-      <description><![CDATA[
-几分钟内即可获得功能齐全的 Web 推送通知
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/libre-push</guid>
-      <pubDate>Thu, 18 Jul 2024 17:50:44 GMT</pubDate>
-    </item>
-    <item>
       <title>模因搜索</title>
       <link>https://www.producthunt.com/posts/meme-search</link>
       <description><![CDATA[
@@ -104,46 +104,32 @@ JavaScript 工具可将任何布局转换为可拖动交换的布局
       <pubDate>Thu, 18 Jul 2024 15:11:47 GMT</pubDate>
     </item>
     <item>
-      <title>加加加</title>
-      <link>https://www.producthunt.com/posts/cangogo</link>
+      <title>设计视野</title>
+      <link>https://www.producthunt.com/posts/design-sight</link>
       <description><![CDATA[
-一款计步器，可在您迈步时收集可爱动物
+设计与开发之间缺失的环节
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/cangogo</guid>
-      <pubDate>Thu, 18 Jul 2024 12:35:19 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/design-sight</guid>
+      <pubDate>Thu, 18 Jul 2024 12:58:55 GMT</pubDate>
     </item>
     <item>
-      <title>黄蜂</title>
-      <link>https://www.producthunt.com/posts/wasps</link>
+      <title>液体</title>
+      <link>https://www.producthunt.com/posts/liquid-4</link>
       <description><![CDATA[
-IDE 中的 AI 代码审查
+无缝且可定制的身份验证和用户管理
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/wasps</guid>
-      <pubDate>Thu, 18 Jul 2024 06:19:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>戈韦布利</title>
-      <link>https://www.producthunt.com/posts/gowebly</link>
-      <description><![CDATA[
-下一代 CLI 工具，可轻松构建出色的 Web 应用程序
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/gowebly</guid>
-      <pubDate>Wed, 17 Jul 2024 15:49:55 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/liquid-4</guid>
+      <pubDate>Thu, 18 Jul 2024 08:43:53 GMT</pubDate>
     </item>
     <item>
       <title>fastn.ai</title>
@@ -174,18 +160,32 @@ IDE 中的 AI 代码审查
       <pubDate>Tue, 16 Jul 2024 12:36:47 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能机器人</title>
-      <link>https://www.producthunt.com/posts/membots-ai</link>
+      <title>Proven.ly 社交证明和 FOMO 生成器</title>
+      <link>https://www.producthunt.com/posts/proven-ly-social-proof-fomo-builder</link>
       <description><![CDATA[
-铸造一个会说话的 memecoin
+使用 Google 表格向用户显示社交证明和促销信息
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/membots-ai</guid>
-      <pubDate>Tue, 16 Jul 2024 06:42:45 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/proven-ly-social-proof-fomo-builder</guid>
+      <pubDate>Fri, 12 Jul 2024 05:01:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>成长营</title>
+      <link>https://www.producthunt.com/posts/growhab</link>
+      <description><![CDATA[
+改善您的日常生活
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/growhab</guid>
+      <pubDate>Wed, 10 Jul 2024 19:15:10 GMT</pubDate>
     </item>
     <item>
       <title>团队工匠</title>
