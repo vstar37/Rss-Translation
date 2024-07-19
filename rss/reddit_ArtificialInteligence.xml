@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 19 Jul 2024 00:56:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 03:14:13 GMT</lastBuildDate>
+    <item>
+      <title>需要建议 - 语音学习和预先录制的演讲配音</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6ssv9/advice_needed_voice_learning_and_voicing_over/</link>
+      <description><![CDATA[大家好， 我对人工智能还比较陌生。  我有许多预先录制的音频文件，基本上是自传的叙述。 我希望能够训练人工智能来学习给定的声音，我可以根据需要提供音频样本。 用训练过的声音为第 1 点中的叙述配音。   警告：语音不是英语。 如果我能保证它能达到这个目的，我不介意为某样东西付一点钱。 据我所知，出现的所有内容都在付费墙后面，而且大多是名人等预先学过的声音。 期待回复。 干杯。    提交人    /u/WeeMo0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6ssv9/advice_needed_voice_learning_and_voicing_over/</guid>
+      <pubDate>Fri, 19 Jul 2024 02:20:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能和机器人如何塑造美国军队的未来——前将军描绘美国军队的未来</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6shk1/how_ai_and_robots_are_shaping_the_future_of_the/</link>
+      <description><![CDATA[但前美国陆军将军马克·米利认为，到下一个十年，军队中至少有三分之一将由硬件和人工智能机器人组成。这一变化将减少人类军队的数量，其他国家也可能会效仿。在现代冲突中，尖端系统增强功能提供了关键的战略优势。美国国防部最近的例子是人类士兵在战场模拟中与机器人“队友”并肩作战。陆军将军兰迪·乔治说，机器仍然是最高效、最有效的。美国还支持在军事领域负责任地使用人工智能。预计这一转变将在战略优势和道德层面上提升军事行动的水平。    提交人    /u/salukihunt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6shk1/how_ai_and_robots_are_shaping_the_future_of_the/</guid>
+      <pubDate>Fri, 19 Jul 2024 02:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法/路线图可以同时解决人工智能和网络安全？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6rozw/is_there_a_way_roadmap_where_i_can_tackle_both_ai/</link>
+      <description><![CDATA[我对这两个领域都感兴趣，想知道如何才能同时掌握这两个领域的知识？我应该选修哪些课程？目前每周工作 5 天，正在考虑重返大学学习计算机科学。我对这两个领域都感兴趣，我没有时间去选修一堆课程。我将致力于这两个领域，只是想知道哪些课程、证书等涵盖了这两个领域？    提交人    /u/MusicCityRebel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6rozw/is_there_a_way_roadmap_where_i_can_tackle_both_ai/</guid>
+      <pubDate>Fri, 19 Jul 2024 01:22:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我有一个需要测试的棋盘游戏想法，AI能否帮助我快速运行一系列游戏来找出痛点？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6r8k4/if_i_have_an_idea_for_a_board_game_that_needs/</link>
+      <description><![CDATA[我是否可以向 AI 提供规则并让它运行大量游戏以找出如何使游戏更平衡的方法？    提交人    /u/Kimbobinator   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6r8k4/if_i_have_an_idea_for_a_board_game_that_needs/</guid>
+      <pubDate>Fri, 19 Jul 2024 00:59:41 GMT</pubDate>
+    </item>
     <item>
       <title>GPT-4o mini 与 GPT-3.5 Turbo。我试用了新型号，印象非常深刻。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6ovp1/gpt4o_mini_vs_gpt35_turbo_i_tried_out_the_new/</link>
@@ -25,34 +53,6 @@
       <description><![CDATA[首先我想说，我绝不是专家，事实上我只知道人工智能最基本的知识，但我很想听听你们对此的看法。如果我说错了，请纠正我。 当人类形成记忆时，它首先被存储在短期记忆中，然后如果值得记住，就会转移到长期记忆中。这是我们学习和成长的一部分。没有它，我们会忘记我们学到的一切。 但对于 LLM 来说，这似乎并不那么简单。你有 token，这实际上是人类的短期记忆，然后我将训练数据比作我们的长期记忆。但没有办法从一个转移到另一个。  如果你想让 LLM 学习，它只需要继续将所有新信息添加到其令牌中，随着时间的推移，读取这些信息的成本越来越高，因为据我所知，大多数 LLM 必须为每个提示读取整个令牌历史记录。  这似乎是下一个最大的步骤，也是创建真正智能机器的最重要一步，即确保短期和长期记忆相连。有什么想法吗？    提交人    /u/Every-Cat-2611   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6mh9o/long_term_memory/</guid>
       <pubDate>Thu, 18 Jul 2024 21:18:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>您将如何缓解人工智能语音与人类语音之间的差异？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6lw35/how_would_you_mitigate_the_differences_between_ai/</link>
-      <description><![CDATA[我知道模型在不断改进，音频质量也会提高。 我很好奇是否有人知道如何改变文本脚本、时间等，以使 AI 语音听起来更真实或更悦耳。  （全面披露 - 我是 jellypod 的联合创始人之一。一个人工智能个人播客。这是我们的一般新闻快讯音频的一个例子：https://app.jellypod.ai/player/76e70f03-430c-4f81-b851-cef49e0b188b?share=true）    提交人    /u/jellypod-ai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6lw35/how_would_you_mitigate_the_differences_between_ai/</guid>
-      <pubDate>Thu, 18 Jul 2024 20:54:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能和足球预测</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6lroa/ai_and_football_predictions/</link>
-      <description><![CDATA[有趣的是，在预测足球比赛方面，人类是否比人工智能更好，反之亦然。 https://medium.com/@rishitm.2008/can-ai-outperform-football-experts-in-predicting-match-outcomes-cf20b7b71f4a 有什么想法吗？    提交人    /u/Relevant-Trade4773   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6lroa/ai_and_football_predictions/</guid>
-      <pubDate>Thu, 18 Jul 2024 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>几天前，我正式成为 IEEE CertifAIEd 授权评估员。过程很严格，但值得。我想与您分享这一成就，同时如果您需要 AI Act 方面的帮助 - 请给我留言。我会尽力提供专业建议。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6jcii/as_of_few_days_go_i_am_officially_ieee_certifaied/</link>
-      <description><![CDATA[尊敬的专业社区同仁。 了解 IEEE - AI 伦理认证 – IEEE CertifAIEd 的人，可能知道五层木梯。 从强化培训，涵盖了您在学校睡过头的道德知识，到它对技术的影响。监考考试。接下来是 8 页的能力报告，可能会或不会获得提名 - 接下来是另一位评估员的面试和可能的推荐，我想借此机会分享美丽。 我很高兴地通知您，从今天起，我正式拥有美丽 从昨天起，我成为 IEEE 认证授权评估员 我要说几件事。这是其中一件事。它完全值得！ 如果有人需要我协助认证他们的 AI 解决方案 - 请随时通过 ICAP / IEEE SA 注册的官方评估师注册与我联系 如果您正在考虑在 AIS 领域建立专业知识并对 AI Act 感兴趣 - 在我看来，这绝对是您目前可以获得的最有价值的资产。 （鉴于协议，我不会在这里回答有关获取流程的问题）但很乐意向所有对主题感兴趣的人推荐这一举措。 即使你没有通过所有评估 - 单是培训就值得 110％。 在此处了解有关该计划的更多信息。 https://engagestandards.ieee.org/ieeecertifaied.html 如果您也想成为评估员 - 培训由具有多年该领域经验的博士人员进行。 另一方面，如果您想认证您的 AIS 是否符合道德规范，您可以放心，制定标准的机构是参与其中的机构 - 这不仅给客户信心 - 而且还确保您的 AIS 确实根据道德规范遵守 AI 法规。这既可以最大限度地降低自主决策系统的风险，又可以提高客户满意度。    提交人    /u/scertic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6jcii/as_of_few_days_go_i_am_officially_ieee_certifaied/</guid>
-      <pubDate>Thu, 18 Jul 2024 19:08:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Afforai 评论：为什么 Afforai 可能是迄今为止最好的研究工具！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6jc3e/afforai_review_why_afforai_might_be_the_best/</link>
-      <description><![CDATA[在此视频中，我将在 7 个月后重新回顾 Afforai，为您提供对这款强大研究工具的最新评论。 Afforai 有什么新功能？ 增强的用户界面：更以研究为中心的设计。 改进的定位：直接与顶级研究工具竞争。 新功能：参考管理器、研究笔记本、引文生成器等。 我将深入探讨： Afforai 如何从 AI 助手发展成为成熟的研究助手。 新功能使 Afforai 成为研究人员、学生和业余爱好者的杰出选择。 我个人的经验和诚实的想法，关于它是否仍然值得购买。  主要特点： 参考管理器：无缝组织您的所有研究材料。 研究笔记本：处理论文、做笔记和注释您的研究。 引文生成器：轻松生成各种格式的引文。 文档上传：使用 DOI 和其他格式导入论文。 AI 集成：使用不同的 AI 模型与您的文档进行交互并增强您的研究。 Afforai 值得吗？ 在探索新的更新后，我将分享我对 Afforai 是否仍然是满足您研究需求的有价值工具的看法。 加入我吧！ 如果您是研究人员、学生或对研究充满热情的人，您会发现这篇评论很有见地。请务必观看到最后，以全面了解 Afforai 的最新功能和改进。 https://youtu.be/e1Xfgt7Llyo    提交人    /u/Chisom1998_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6jc3e/afforai_review_why_afforai_might_be_the_best/</guid>
-      <pubDate>Thu, 18 Jul 2024 19:07:56 GMT</pubDate>
     </item>
     <item>
       <title>OpenAI 推出用于 ChatGPT 的小型 AI 模型 GPT-4o Mini</title>
@@ -76,11 +76,11 @@
       <pubDate>Thu, 18 Jul 2024 16:49:42 GMT</pubDate>
     </item>
     <item>
-      <title>寻找人工智能写作社区</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6bots/searching_for_ai_writing_communities/</link>
-      <description><![CDATA[刚开始探索 AI 写作，正在寻找类似的社区。任何建议都非常感谢。谢谢！    提交人    /u/YellowUnlocker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6bots/searching_for_ai_writing_communities/</guid>
-      <pubDate>Thu, 18 Jul 2024 13:39:30 GMT</pubDate>
+      <title>向住在 Facebook 上的长辈展示的丰富视频建议</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6dple/informative_video_suggestions_to_show_my/</link>
+      <description><![CDATA[我对技术有一定的了解，但关于人工智能还有很多需要学习的地方。我知道我家里有些老人不愿意离开 Facebook，我正在寻找一些信息丰富的视频、文章等，它们提供了一些提示，告诉人们应该如何判断某样东西是否是假的。  我可以向他们展示一些明显的特征，比如奇怪的手、奇怪的背景、无意义的单词和字母，但除了“如果你看到它，感觉不对劲，就要小心”之外，我很难用自己的话来解释。有时，欺骗很难被发现。 如果有人有任何建议或意见，我很乐意听取。     提交人    /u/shootyoureyeout   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6dple/informative_video_suggestions_to_show_my/</guid>
+      <pubDate>Thu, 18 Jul 2024 15:06:00 GMT</pubDate>
     </item>
     <item>
       <title>到 2030 年，我们的生活方式发生巨大变化的可能性有多大？</title>

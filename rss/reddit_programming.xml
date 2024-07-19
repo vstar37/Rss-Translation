@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 19 Jul 2024 00:56:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 03:14:55 GMT</lastBuildDate>
+    <item>
+      <title>揭秘 Cookies 和 Tokens</title>
+      <link>https://www.reddit.com/r/programming/comments/1e6tod8/demystifying_cookies_and_tokens/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e6tod8/demystifying_cookies_and_tokens/</guid>
+      <pubDate>Fri, 19 Jul 2024 03:05:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>揭秘 Cookies 和 Tokens</title>
+      <link>https://www.reddit.com/r/programming/comments/1e6tobz/demystifying_cookies_and_tokens/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e6tobz/demystifying_cookies_and_tokens/</guid>
+      <pubDate>Fri, 19 Jul 2024 03:05:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Python 制作饼图动画</title>
+      <link>https://www.reddit.com/r/programming/comments/1e6rbj1/animating_a_pie_chart_in_python/</link>
+      <description><![CDATA[  由    /u/RacerRex9727  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e6rbj1/animating_a_pie_chart_in_python/</guid>
+      <pubDate>Fri, 19 Jul 2024 01:03:29 GMT</pubDate>
+    </item>
     <item>
       <title>爱、死亡和 PostgreSQL 触发器</title>
       <link>https://www.reddit.com/r/programming/comments/1e6qcm3/love_death_postgresql_triggers/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1e6jkqj/keep_perfecting_your_config/</guid>
       <pubDate>Thu, 18 Jul 2024 19:17:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将未完成的业余项目集中存放</title>
-      <link>https://www.reddit.com/r/programming/comments/1e6ip5z/how_to_keep_your_unfinished_side_projects_in_one/</link>
-      <description><![CDATA[  由    /u/craciun_07  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e6ip5z/how_to_keep_your_unfinished_side_projects_in_one/</guid>
-      <pubDate>Thu, 18 Jul 2024 18:42:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>发布日 - 开发日志</title>
-      <link>https://www.reddit.com/r/programming/comments/1e6ikmy/launch_day_devlog/</link>
-      <description><![CDATA[  由    /u/PsychologicalEbb3160  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e6ikmy/launch_day_devlog/</guid>
-      <pubDate>Thu, 18 Jul 2024 18:37:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过集成商店数据提高 Shopify 聊天机器人的准确性：寻求经济实惠的 AI 解决方案</title>
-      <link>https://www.reddit.com/r/programming/comments/1e6huhp/enhancing_shopify_chatbot_accuracy_with/</link>
-      <description><![CDATA[我有一家 Shopify 商店，我使用 Express.js 构建了一个聊天机器人，并将其与 Dialogflow 集成以实现后端履行。但是，我面临着准确性问题，发现自己甚至为一些小查询创建了意图。我希望​​通过集成我的 Shopify 商店数据来实现更自然的客户互动，从而增强它。有人可以推荐免费或实惠的 API 或本地托管软件来帮助实现这种对话式 AI 功能吗？    提交人    /u/garrote9810   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e6huhp/enhancing_shopify_chatbot_accuracy_with/</guid>
-      <pubDate>Thu, 18 Jul 2024 18:07:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
