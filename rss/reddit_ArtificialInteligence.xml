@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 25 Jul 2024 00:54:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 03:13:31 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个“活的”开源数据集来比较顶级人工智能模型，这些数据集由一个人工智能代理团队精心挑选。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ebigwi/i_made_a_living_opensource_dataset_to_compare_top/</link>
+      <description><![CDATA[各位 AI 爱好者们，大家好！我想你们都可能对这个项目感兴趣，特别是如果你喜欢摆弄大型语言模型的话。 这是一个“活的”数据集，用于比较顶级语言模型。它是活的，因为它始终与最新模型保持同步，因为当顶级公司发布新模型时，LLM 代理会运行数据输入。 这是活的数据集！ 我希望添加新功能，例如在新模型出现时发出通知，并且我希望开源代码（而不仅仅是打开数据集本身）来生成数据集。    提交人    /u/Confident-Honeydew66   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ebigwi/i_made_a_living_opensource_dataset_to_compare_top/</guid>
+      <pubDate>Thu, 25 Jul 2024 01:25:43 GMT</pubDate>
+    </item>
     <item>
       <title>为您提供情感支持的免费个人人工智能伴侣</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ebgu9n/your_free_personal_ai_companion_for_emotional/</link>
@@ -34,13 +41,6 @@
       <pubDate>Wed, 24 Jul 2024 19:56:06 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能——道德方面</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ebaqsh/ai_ethical_side/</link>
-      <description><![CDATA[众所周知，由于种族主义和其他不道德的事情，人工智能必须在某些领域受到限制。 另一方面，人工智能是根据统计数据进行训练的。这难道不是被审查的真相吗？ 当人工智能从大量数据中学习到一些关于他们的事情（不好的）时，一个人怎么会感到被冒犯呢？ 我真诚地询问，因为我知道真相，但不确定我是否遗漏了什么？    提交人    /u/Ok_Cryptographer5669   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ebaqsh/ai_ethical_side/</guid>
-      <pubDate>Wed, 24 Jul 2024 19:49:26 GMT</pubDate>
-    </item>
-    <item>
       <title>寻求在图形生活故事中保持一致的人物形象的人工智能工具</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1eb95j1/seeking_ai_tool_for_consistent_character/</link>
       <description><![CDATA[大家好， 我正在创作一个图画故事，讲述一个虚构人物从出生到老年（最多 85 岁）的生活。我一直在使用 ChatGPT 的付费版本为每个场景生成多幅插图，但遇到了一些问题：  角色一致性：从一个场景移动到另一个场景时，角色的外观会发生变化，即使我在提示中指定保持相同的主角特征。 衰老连续性：随着故事的进展和角色年龄的增长，角色外观明显缺乏连续性。它通常看起来像一个完全不同的人，而不是同一角色的旧版本。 风格一致性：绘画风格因场景而异，这破坏了故事的视觉连贯性。  我正在寻找一种可以在整个故事中保持一致的角色设计和风格的 AI 工具或方法。 有没有可用的解决方案，或者这是当前 AI 技术的局限性？ 任何建议或见解都将不胜感激！ 非常感谢！    提交人    /u/falconetagrg   [链接] [评论]]]></description>
@@ -64,7 +64,7 @@
     <item>
       <title>问：自动驾驶汽车？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1eb7elp/question_selfdriving_car/</link>
-      <description><![CDATA[初学者问题：看到新闻和视频说美国和中国的一些城市现在允许自动驾驶汽车大规模上路。 我很好奇，自从过去几年以来，我们现在可以拥有自动驾驶汽车了，发生了什么变化？ 人工智能的推理能力现在是否好多了，还是它现在只看到足够多的案例，可以在事故发生时复制安全操作？    提交人    /u/rddtexplorer   [link] [评论]]]></description>
+      <description><![CDATA[初学者问题：看到新闻和视频说美国和中国的一些城市现在允许自动驾驶汽车大规模上路。 我很好奇，自从过去几年以来，我们现在可以拥有自动驾驶汽车了，发生了什么变化？ 人工智能的推理能力现在是否好多了，还是它现在只是看到了足够多的案例，可以在事故发生时复制安全操作？    提交人    /u/rddtexplorer   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1eb7elp/question_selfdriving_car/</guid>
       <pubDate>Wed, 24 Jul 2024 17:34:08 GMT</pubDate>
     </item>
