@@ -4,11 +4,11 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 25 Jul 2024 03:14:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 06:18:38 GMT</lastBuildDate>
     <item>
       <title>🔧🚀 介绍 FileSpacer：您的终极文件压缩和提取工具！</title>
       <link>https://www.reddit.com/r/opensource/comments/1ebeaft/introducing_filespacer_your_ultimate_file/</link>
-      <description><![CDATA[您好 r/opensource 社区！ 我很高兴与大家分享我的最新项目 FileSpacer — 一款功能强大且用户友好的工具，专为压缩和解压文件和文件夹而设计。无论您处理的是 .zstd 还是 .zip 格式，FileSpacer 都能满足您的需求！ 主要功能：   使用可选密码保护提取 .zip 文件 使用 zstd 压缩文件和文件夹，压缩级别可调 轻松解压 .zst 文件 新功能！提取损坏的 zip 文件  为什么选择 FileSpacer？  直观的 GUI，易于使用 支持 zstd 的高压缩级别，速度快 优雅地处理加密和损坏的 zip 文件 实时进度显示，透明度高  尝试一下，简化您的文件管理流程！ 查看项目：https://github.com/tilltmk/filespacer 压缩和解压缩愉快！😊    提交人    /u/tilltmk   [link] [评论]]]></description>
+      <description><![CDATA[您好 r/opensource 社区！ 我很高兴与大家分享我的最新项目 FileSpacer — 一个功能强大且用户友好的工具，专为压缩和解压文件和文件夹而设计。无论您处理的是 .zstd 还是 .zip 格式，FileSpacer 都能满足您的需求！ 主要功能：   使用可选密码保护提取 .zip 文件 使用 zstd 压缩文件和文件夹，压缩级别可调 轻松解压 .zst 文件 新功能！提取损坏的 zip 文件  为什么选择 FileSpacer？  直观的 GUI，易于使用 支持 zstd 的高压缩级别，速度快 优雅地处理加密和损坏的 zip 文件 实时进度显示，透明度高  尝试一下，简化您的文件管理流程！ 查看项目：https://github.com/tilltmk/filespacer 压缩和解压缩愉快！😊    提交人    /u/tilltmk   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ebeaft/introducing_filespacer_your_ultimate_file/</guid>
       <pubDate>Wed, 24 Jul 2024 22:14:42 GMT</pubDate>
     </item>
@@ -41,7 +41,7 @@
       <pubDate>Wed, 24 Jul 2024 14:37:18 GMT</pubDate>
     </item>
     <item>
-      <title>寻找能与我们一起开发开源 Blazor CMS 项目的人：FluentCMS</title>
+      <title>寻找能与我们一起致力于开源 Blazor CMS 项目的人：FluentCMS</title>
       <link>https://www.reddit.com/r/opensource/comments/1eb2uji/looking_for_someone_to_join_us_working_on_an_open/</link>
       <description><![CDATA[大家好， 几个月前，我一直在开发一个名为 FluentCMS 的开源项目。这是一个开源 Blazor（服务器端）CMS（无头支持）。我正在寻找可以在以下方面提供帮助的人：  Blazor 开发 UX/UI 设计 文档和社区标准审查（不确定标题！）  如果您想了解更多信息，我很乐意安排一次快速视频通话以跟进。 这是项目链接 https://github.com/fluentcms/FluentCMS 感谢您的考虑。   由    /u/pournasserian  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1eb2uji/looking_for_someone_to_join_us_working_on_an_open/</guid>
