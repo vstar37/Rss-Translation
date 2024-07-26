@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 26 Jul 2024 09:14:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 12:23:16 GMT</lastBuildDate>
     <item>
       <title>OpenLIT：面向 LLM 和 GPU 的开源可观察性和评估</title>
       <link>https://www.reddit.com/r/opensource/comments/1ecjmn2/openlit_open_source_observability_and_evals_for/</link>
@@ -106,7 +106,7 @@
     <item>
       <title>🔧🚀 介绍 FileSpacer：您的终极文件压缩和提取工具！</title>
       <link>https://www.reddit.com/r/opensource/comments/1ebeaft/introducing_filespacer_your_ultimate_file/</link>
-      <description><![CDATA[您好 r/opensource 社区！ 我很高兴与大家分享我的最新项目 FileSpacer — 一个功能强大且用户友好的工具，专为压缩和解压文件和文件夹而设计。无论您处理的是 .zstd 还是 .zip 格式，FileSpacer 都能满足您的需求！ 主要功能：   使用可选密码保护提取 .zip 文件 使用 zstd 压缩文件和文件夹，压缩级别可调 轻松解压 .zst 文件 新功能！提取损坏的 zip 文件  为什么选择 FileSpacer？  直观的 GUI，易于使用 支持 zstd 的高压缩级别，速度快 优雅地处理加密和损坏的 zip 文件 实时进度显示，透明度高  尝试一下，简化您的文件管理流程！ 查看项目：https://github.com/tilltmk/filespacer 压缩和解压缩愉快！😊    提交人    /u/tilltmk   [link] [评论]]]></description>
+      <description><![CDATA[您好 r/opensource 社区！ 我很高兴与大家分享我的最新项目 FileSpacer — 一款功能强大且用户友好的工具，专为压缩和解压文件和文件夹而设计。无论您处理的是 .zstd 还是 .zip 格式，FileSpacer 都能满足您的需求！ 主要功能：   使用可选密码保护提取 .zip 文件 使用 zstd 压缩文件和文件夹，压缩级别可调 轻松解压 .zst 文件 新功能！提取损坏的 zip 文件  为什么选择 FileSpacer？  直观的 GUI，易于使用 支持 zstd 的高压缩级别，速度快 优雅地处理加密和损坏的 zip 文件 实时进度显示，透明度高  尝试一下，简化您的文件管理流程！ 查看项目：https://github.com/tilltmk/filespacer 压缩和解压缩愉快！😊    提交人    /u/tilltmk   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ebeaft/introducing_filespacer_your_ultimate_file/</guid>
       <pubDate>Wed, 24 Jul 2024 22:14:42 GMT</pubDate>
     </item>
