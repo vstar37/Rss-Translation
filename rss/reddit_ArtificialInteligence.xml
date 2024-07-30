@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 30 Jul 2024 09:12:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 12:22:08 GMT</lastBuildDate>
+    <item>
+      <title>使用 ChatGPT 进行一体化音频转录？似乎没什么用？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1efrxpd/allinone_audio_transcription_with_chatgpt_seems/</link>
+      <description><![CDATA[大家好 - 发帖询问一个老家伙（开玩笑的）可以使用的工具！ 我的祖父非常精通技术，他希望能够从 YouTube 转录语音备忘录/音频并在 ChatGPT 中阅读它们。 我知道 Whisper 可以在本地工作，但他不够精通使用它 ;) 目前，我使用 fireflies.ai 进行转录，然后将 PDF 上传到 ChatGPT - 它对我来说很好，但我正在尝试寻找更完整的解决方案，这样他就不必在服务之间切换。 ...有什么想法，还是我应该坚持使用我的 Fireflies + ChatGPT 解决方案？   由    /u/ProfessionalHat3555  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1efrxpd/allinone_audio_transcription_with_chatgpt_seems/</guid>
+      <pubDate>Tue, 30 Jul 2024 12:21:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究合作</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1efr2rm/research_collaboration/</link>
+      <description><![CDATA[大家好！我直奔主题，我是一名应届毕业生，在一家知名的工业研究实验室工作。我感兴趣的领域是 Gen AI（我曾研究过 LLM、GAN 和扩散模型）。我对知识图谱也很感兴趣。我想与人们合作研究与上述领域相关的问题。你们能建议我如何与合作者/教授或研究人员合作吗？非常感谢。    提交人    /u/Infamous_Complaint67   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1efr2rm/research_collaboration/</guid>
+      <pubDate>Tue, 30 Jul 2024 11:35:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>机器学习到人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1efqz03/ml_to_ai/</link>
+      <description><![CDATA[我有 ML 模型和算法流程，我想用 AI 界面包装它们，但如何以专有方式做到这一点，而我没有为它们训练聊天 GPT 模型？    提交人    /u/LastTopQuark   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1efqz03/ml_to_ai/</guid>
+      <pubDate>Tue, 30 Jul 2024 11:30:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于总结学术论文（尤其是 PDF 格式）的最佳免费 AI 工具？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1eforzg/best_free_ai_tool_for_summarizing_academic_papers/</link>
+      <description><![CDATA[正如标题所说，我正在寻找一个免费的 AI 工具，它可以很好地总结学术论文，并具有相当高的细节和“理解”水平。干杯。    提交人    /u/ThatOtherRedditMann   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1eforzg/best_free_ai_tool_for_summarizing_academic_papers/</guid>
+      <pubDate>Tue, 30 Jul 2024 09:12:47 GMT</pubDate>
+    </item>
     <item>
       <title>iOS 18 发布后，苹果的新 AI 功能将被推迟</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1efoi0e/apples_new_ai_features_to_be_delayed_after_ios_18/</link>
@@ -18,20 +46,6 @@
       <description><![CDATA[  由    /u/Technicallysane02  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1efo9yr/meta_is_launching_ai_studio_a_platform_for_users/</guid>
       <pubDate>Tue, 30 Jul 2024 08:37:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>艾聊天机器人</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1efmxh2/ai_chat_bots/</link>
-      <description><![CDATA[是否有任何机器人的创建者可以看到用户聊天？因为我希望能够看到和使用聊天来提高机器人的准确性    提交人    /u/Used-Animator-3984   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1efmxh2/ai_chat_bots/</guid>
-      <pubDate>Tue, 30 Jul 2024 07:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>COCOM：RAG 中的上下文嵌入如何提高答案生成效率</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1efmpvz/cocom_how_context_embeddings_in_rag_supercharge/</link>
-      <description><![CDATA[🚀 了解 CoCoM 如何彻底改变答案生成！通过利用检索增强生成 (RAG) 中的上下文嵌入，CoCoM 可增强 AI 响应的效率和准确性。深入了解细节并探索 AI 驱动的问答系统的未来。  请在此处查看完整的博客文章：https://blog.aitoolhouse.com/cocom-how-context-embeddings-in-rag-supercharge-answer-generation-efficiency/    提交人    /u/rathwiper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1efmpvz/cocom_how_context_embeddings_in_rag_supercharge/</guid>
-      <pubDate>Tue, 30 Jul 2024 06:49:10 GMT</pubDate>
     </item>
     <item>
       <title>您知道 Chrome 可以在本地运行 LLM 吗？</title>
@@ -48,13 +62,6 @@
       <pubDate>Tue, 30 Jul 2024 06:03:47 GMT</pubDate>
     </item>
     <item>
-      <title>用于创建独特手写脚本的人工智能工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1efln73/ai_tool_for_creating_unique_handwritten_script/</link>
-      <description><![CDATA[我正在寻找一种工具来帮助写出看起来像是人写的字母，使用像这样的 CNC 型绘图机。最终结果看起来像这个，虽然我不需要整页，只需要几百个字符。 重要的是，每个字母中的脚本看起来都是独一无二的，即使里面的单词相同，也必须具有人手写时会产生的所有差异。目的是能够欺骗读者，让他们认为它是手写的，即使与相同的内容进行比较。  乍一看，calligrapher.ai 似乎非常适合这项工作。每一代都是独一无二的，风格也相同。然而出于某种原因，它被限制为 50 个字符和一行，而不能创建完整的段落。如果它能够处理更多字符，我很乐意为这项服务付费。  Chat GPT 据称有一个 Calligraphy Ai Generator，但每次我尝试使用它时它都会崩溃。不过，我没有订阅 GPT-4，也许这会有所帮助。 我尝试了许多其他工具，例如 Handwrytten 和 Scriptalizer，但脚本看起来太过相似，无法欺骗人类。 我还偶然发现了 Sam Greydanus 的 Scribe，但我并不是一名数据科学家，让源代码运行起来对我来说是超出范围的。 那么，有人能想到一个我可以用来实现这一目标的人工智能工具吗？我非常乐意为这项服务付费。 一如既往，感谢您的时间。    提交人    /u/Arendyl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1efln73/ai_tool_for_creating_unique_handwritten_script/</guid>
-      <pubDate>Tue, 30 Jul 2024 05:39:08 GMT</pubDate>
-    </item>
-    <item>
       <title>NVIDIA 在 SIGGRAPH 2024 上宣布加速 AI 和机器人开发的功能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1eflc0e/nvidia_announces_capabilities_to_accelerate_ai/</link>
       <description><![CDATA[https://thetechbasic.com/2024/07/29/nvidia-announces-capabilities-to-accelerate-ai-and-robotics-development-at-siggraph-2024/    提交人    /u/ExtensionEnergy1804   [链接] [评论]]]></description>
@@ -67,13 +74,6 @@
       <description><![CDATA[ 世界上最大的 AI 社区之一 - 由 Hugging Face 平台上的 400 万开发者组成 - 可以轻松访问一些最受欢迎的 AI 模型上的 NVIDIA 加速推理。[1] 改变数据库访问：基于 LLM 的文本到 SQL 方法。[2] 三星开始缩小为 Nvidia 制造 AI 内存芯片的差距。[3] 苹果表示其 AI 模型是在谷歌的定制芯片上训练的。[4] 腾讯云在制作游戏方面淡化了对 AI 的炒作。[5]  来源包括：https://bushaicave.com/2024/07/29/7-29-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1efkq7k/oneminute_daily_ai_news_7292024/</guid>
       <pubDate>Tue, 30 Jul 2024 04:43:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>去中心化人工智能！？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1efid51/decentralized_ai/</link>
-      <description><![CDATA[大家好，我偶然看到了这部关于“去中心化人工智能”的纪录片，我觉得这很值得在这里讨论一下。 这是一个超级复杂的系统，他们使用“子网”进行人工智能（或其他）开发，使用矿工（如比特币）来解决人工智能问题等 - 说实话，我仍在寻求完全理解它，但我认为你们可能对此有一些好的想法 它深入探讨了人工智能的快速发展、其影响以及当权者可能滥用的危险。这部电影探讨了我们面临的道德困境，通过引人入胜的故事和见解，它为未来描绘了充满希望的愿景。它展示了人类如何通过拥抱去中心化和分布式，将这些突破性技术引向更大的利益；革命性的系统，如比特币和 Bittensor。 https://youtu.be/reJiNaqJIfg?si=XhYcFExZ28Q06zfc    提交人    /u/tungfa   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1efid51/decentralized_ai/</guid>
-      <pubDate>Tue, 30 Jul 2024 02:37:23 GMT</pubDate>
     </item>
     <item>
       <title>低代码潜在客户生成 AI 代理？</title>
