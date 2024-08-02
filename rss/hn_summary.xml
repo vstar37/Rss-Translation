@@ -4,128 +4,90 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Thu, 01 Aug 2024 21:12:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 03:06:53 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 网站：blog.gingerbeardman.com</title>
-      <link>https://t.me/hn_summary/102244</link>
-      <description><![CDATA[PSA：互联网档案馆“故障”删除了多年的用户数据和帐户
-标题：PSA：互联网档案馆“故障”删除了多年的用户数据和帐户
-网站：blog.gingerbeardman.com
-
-最近，互联网档案馆的“故障”导致删除了许多用户帐户，包括我的帐户，这些帐户自 2015 年以来一直处于活跃状态。令人惊讶的是，互联网档案馆并没有主动联系受影响的用户。相反，只有当新帐户使用与旧帐户相同的电子邮件时，他们才会默默地重新链接旧上传内容。否则，所有个人资料元数据、收藏夹、列表、评论、帖子、收藏、网络档案和原始用户名都将丢失。这导致了无效链接和无法恢复的数据，破坏了旨在无限期保护数据的平台的保存工作。数据丢失的程度仍然未知，互联网档案馆也没有提供信息。我的支持体验令人沮丧且毫无帮助，因为他们对我的帐户进行了不必要的更改，并最终拒绝进一步提供帮助。这个持续存在的问题已报告给媒体。有关更多信息，请访问互联网档案馆论坛、/r/internetarchive 子版块或其社交媒体频道。]]></description>
-      <guid>https://t.me/hn_summary/102244</guid>
-      <pubDate>Thu, 01 Aug 2024 21:12:57 GMT</pubDate>
+      <title>“OpenCLC” GitHub 项目是一个实验性的编译器，旨在编译 OpenCL-C 代码以 [...]</title>
+      <link>https://t.me/hn_summary/102290</link>
+      <description><![CDATA[显示 HN：Zig 启发的独立 OpenCL 编译器
+“OpenCLC”GitHub 项目是一个实验性编译器，旨在将 OpenCL-C 代码编译为 SPIR-V，方便其在 OpenCL 的 createProgramWithIL 函数中使用。该项目将多个预先存在的工具整合为一个二进制文件，消除了运行时系统依赖性。它旨在简化将 OpenCL-C 转换为 SPIR-V 的过程，并使用 spirv-opt 优化输出。与依赖系统特定构建的传统方法不同，OpenCLC 使用 Zig 编程语言静态链接所有依赖项，确保可移植性和易于安装。该项目将基础工具归功于 Khronos Group 和 Google，并强调其精简、无依赖的方法。]]></description>
+      <guid>https://t.me/hn_summary/102290</guid>
+      <pubDate>Fri, 02 Aug 2024 03:06:53 GMT</pubDate>
     </item>
     <item>
-      <title>Just Words (YC W24) 正在招聘</title>
-      <link>https://t.me/hn_summary/102243</link>
-      <description><![CDATA[Just Words (YC W24) 正在招聘
-Just Words (YC W24) 正在招聘
-
-作为 Just Words 的创始工程师，您将在从头开始构建和扩展我们的产品方面发挥关键作用。您将与创始人密切合作，参与设计、研究和指导，并在整个堆栈中工作。我们正在寻找具有创业思维、愿意为自己下注并快速积累专业知识的人。
-
-所需技能：
-
-- 全栈开发：具有设计、开发和维护 Web 应用程序、高性能后端服务以及处理生产环境的经验。
-- 数据经验：熟练使用 MapReduce 框架（如 Spark）、A/B 测试、机器学习模型和复杂的推荐系统。
-- 云架构：具有云服务和维护云架构的经验。
-- 管理：技术主管或 OSS 维护者经验，能够做出高质量的技术决策并处理生产问题。
-- 领导力：有效的沟通、解决问题和团队合作技能。
-- 特质：数据痴迷、对高风险项目的热情以及在混乱的环境中茁壮成长。
-
-资格：
-
-- 3 年以上经验全栈开发、数据工程或机器学习。
-- 精通前端（Typescript、NextJS）或后端语言（Java、Scala、Rust）。
-- SQL 和数据库设计知识（PySpark 是加分项）。
-- 具有云平台（AWS、Cloudflare、Clerk）和 DevOps 的实践经验。
-- 具有 A/B 测试、ML 建模和部署经验。
-
-为什么加入我们：
-
-- 比在大型科技公司中成长和学习的速度快 10 倍。
-- 成为塑造 AI+Growth 未来的创始团队的一员。
-- 研究尖端技术并解决复杂问题。
-- 获得从头开始创建初创企业的第一手经验。
-- 参与业务可持续性和扩展的关键决策。
-
-我们的使命：
-
-营销不仅仅是“文字”——它关乎了解您的核心客户并讲出他们的语言。然而，营销团队经常面临组织和运营效率低下的问题。Just Words 旨在通过成为 AI 优先的营销副驾驶来解决这一问题，优化营销活动并大规模个性化内容。我们的使命是让营销更像是一场对话，而不仅仅是内容。]]></description>
-      <guid>https://t.me/hn_summary/102243</guid>
-      <pubDate>Thu, 01 Aug 2024 21:02:50 GMT</pubDate>
+      <title>[媒体] 英特尔出人意料地宣布将裁员 15,000 多人，占其总员工总数的 15% [...]</title>
+      <link>https://t.me/hn_summary/102289</link>
+      <description><![CDATA[尽管获得美国政府数十亿美元资金，英特尔仍裁员逾 1.5 万
+英特尔出人意料地宣布，尽管获得了美国政府 85 亿美元用于重组芯片制造业务，但仍将裁员逾 1.5 万，占员工总数的 15%。这一决定是在英特尔努力应对第二季度收入同比下降 1% 的情况下做出的。首席执行官帕特·基辛格强调了裁员的必要性，这些裁员将影响销售、营销和行政职位，是更广泛的成本削减战略的一部分。此次裁员是继去年裁员 5% 之后进行的，导致英特尔股价在盘后交易中下跌逾 17%。分析师帕特里克·穆尔黑德指出，虽然裁员规模巨大，但似乎是有战略针对性的。英特尔旨在重新关注其代工业务并加速尖端制造方法，目标是到 2030 年成为全球第二大代工厂。这笔 85 亿美元的拨款是 CHIPS 法案的一部分，该法案拨款 527 亿美元用于支持美国芯片制造业。尽管裁员，英特尔仍计划通过新工厂创造 10,000 多个公司就业岗位和 20,000 个建筑岗位。该公司一直在努力跟上 Nvidia、台积电和三星等竞争对手的步伐，美国政府认为先进芯片对经济和地缘政治竞争力至关重要。分析师 Dan Hutcheson 指出，英特尔的收入不足反映了向以 AI 为中心的数据中心的转变，表明该公司的战略面临持续的挑战。]]></description>
+      <guid>https://t.me/hn_summary/102289</guid>
+      <pubDate>Fri, 02 Aug 2024 02:51:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Python 有什么新消息吗？</title>
-      <link>https://t.me/hn_summary/102242</link>
-      <description><![CDATA[Python 怎么了？Setuptools 中断，更好的 PDB，CalVer 上的 CPython
-标题：Python 怎么了？Setuptools 中断，更好的 PDB，CalVer 上的 CPython
-网站：www.bitecode.dev
+      <title>[媒体] 黑山将引渡 Do Kwon 至韩国，拒绝美国</title>
+      <link>https://t.me/hn_summary/102288</link>
+      <description><![CDATA[黑山拒绝美国请求，将 Do Kwon 引渡至韩国
+黑山拒绝了美国的请求，决定将 Do Kwon 引渡至韩国。这一决定结束了围绕 Kwon 引渡的长期法律纠纷，该纠纷以多次法庭裁决和撤销为标志。最初，Kwon 拒绝引渡到美国，但波德戈里察高等法院将其引渡到韩国的决定被最高法院推迟，因为最高检察官认为法院超越了其权限。该案经历了许多法律曲折，反映了国际引渡法的复杂性。]]></description>
+      <guid>https://t.me/hn_summary/102288</guid>
+      <pubDate>Fri, 02 Aug 2024 02:45:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oscar 是一个创新项目，旨在通过创造 [...] 来增强开源软件开发。</title>
+      <link>https://t.me/hn_summary/102287</link>
+      <description><![CDATA[Oscar，一种开源贡献者代理架构
+Oscar 是一个创新项目，旨在通过创建自动化代理来协助维护任务，从而增强开源软件开发。与其他旨在取代编码的工具不同，Oscar 专注于减少项目维护中重复和繁琐的方面，例如处理问题和将问题与现有文档进行匹配。Oscar 利用大型语言模型 (LLM) 进行语义分析，旨在简化贡献者和维护者之间的互动。该项目的第一个原型 @gabyhelp 通过提供相关上下文和新问题的链接，在 Go 问题跟踪器中显示出了令人鼓舞的结果。Oscar 的架构旨在适用于各种项目，强调使用 LLM 执行自然语言任务，同时依靠确定性代码进行执行。该项目仍处于试验阶段，鼓励反馈以完善其功能。
 
-Setuptools 最近发布了版本 72，删除了 setup.py test 命令，该命令破坏了许多软件包。尽管在 2017 年被提议弃用，但这一变化导致了重大问题，导致版本 72.1 迅速逆转。 2024 年 Python 语言峰会上，Tian Gao 提出了改进 pdb 调试器的提案，建议改进代码可见性、终端颜色和性能等功能。Hugo van Kemenade 建议将 Python 移至日历版本控制 (CalVer)，以更好地反映其年度发布计划。Polars 是基于 Rust 的 pandas 替代品，现已达到 1.0 版本，Facebook 的 Segment Anything Model (SAM) 版本 2 现在支持视频分割。最后，一场关于 CPython 是否应该以应用商店合规性为目标的争论浮出水面，这场争论是由 Apple 因一个小问题拒绝 Python 3.12 引发的。]]></description>
-      <guid>https://t.me/hn_summary/102242</guid>
-      <pubDate>Thu, 01 Aug 2024 20:54:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在最近接受 CNBC 采访时，达美航空首席执行官埃德·巴斯蒂安 (Ed Bastian) 批评了微软，称其为 [...]</title>
-      <link>https://t.me/hn_summary/102241</link>
-      <description><![CDATA[达美航空首席执行官称微软是“最脆弱的平台”，同时称赞苹果
-在最近的 CNBC 采访中，达美航空首席执行官 Ed Bastian 批评微软，称其为“可能是最脆弱的平台”，同时称赞苹果的可靠性。此前，达美航空对微软和 CrowdStrike 提起了法律诉讼，据报道，此次停运导致达美航空损失 5 亿美元。尽管继续使用微软的 IT 基础设施，但 Bastian 强调微软需要提高其稳定性。当被问及苹果对企业的依赖程度较低时，Bastian 避而不谈，重申达美航空与微软的合作关系。这次采访强调了持续的紧张局势，并凸显了苹果在科技领域的有利地位。 
+有争议的方面：依赖 LLM 进行语义分析可能会引发对自动响应的准确性和可靠性的担忧。
 
-9to5Mac 指出，虽然达美航空等大公司不会改用 Mac，但他们可以利用公众批评来寻求赔偿，从而间接使苹果受益。]]></description>
-      <guid>https://t.me/hn_summary/102241</guid>
-      <pubDate>Thu, 01 Aug 2024 20:50:32 GMT</pubDate>
+独特/聪明的方面：Oscar 使用 LLM 将自然语言转换为确定性工具使用的方法是平衡 AI 优势与传统代码执行可靠性的巧妙方法。]]></description>
+      <guid>https://t.me/hn_summary/102287</guid>
+      <pubDate>Fri, 02 Aug 2024 02:44:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 旧金山监事会批准了一项具有开创性的法令，禁止 [...]</title>
-      <link>https://t.me/hn_summary/102240</link>
-      <description><![CDATA[旧金山将禁止“允许房东进行价格勾结”的软件
-旧金山监事会批准了一项具有开创性的法令，禁止房东涉嫌用于价格勾结的软件。该法令由董事会主席 Aaron Peskin 提出，针对 RealPage 和 Yardi 等公司，这些公司被指控使用算法抬高租金并增加空置率。该法令以 10-0 的一致投票通过了第一次宣读，并等待 9 月 3 日的最终投票。RealPage 为其软件辩护，声称它对住房提供者和居民都有好处。争议的焦点在于这些算法是否构成非法价格操纵，白宫和司法部最近的声明支持这一观点。]]></description>
-      <guid>https://t.me/hn_summary/102240</guid>
-      <pubDate>Thu, 01 Aug 2024 20:43:25 GMT</pubDate>
+      <title>伊隆马斯克的私立学校 Ad Astra 已经开始接受德克萨斯州分校的申请，[...]</title>
+      <link>https://t.me/hn_summary/102286</link>
+      <description><![CDATA[埃隆·马斯克在德克萨斯州的私立学校开始接受申请
+埃隆·马斯克的私立学校 Ad Astra 已开始接受其德克萨斯州分校的申请，该校将于 2024 年秋季开学。这所学校最初于 2014 年在洛杉矶为马斯克的孩子和几名 SpaceX 员工的孩子创办，因疫情于 2020 年关闭，但现在在德克萨斯州巴斯特罗普重新开放。这所学校将招收 18 名 3-6 岁的儿童和 30 名 6-9 岁的儿童，重点是动手、基于项目的学习，重点是 STEM。马斯克的非传统教育理念拒绝传统的等级分离，这引发了人们对其实用性的质疑。此外，马斯克有争议的政治观点和行动，包括宣扬种族主义阴谋论和反跨性别偏见，给学校的包容性主张蒙上了一层阴影。巴斯特罗普当地人对马斯克日益增长的影响力和环境影响的担忧，进一步加剧了学校的接受度。]]></description>
+      <guid>https://t.me/hn_summary/102286</guid>
+      <pubDate>Fri, 02 Aug 2024 02:41:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 英特尔宣布重大成本节约措施，包括裁员约 [...]</title>
-      <link>https://t.me/hn_summary/102239</link>
-      <description><![CDATA[英特尔裁员超过 10,000 人
-英特尔宣布了重大的成本节约措施，包括在今年年底前裁员约 15,000 人，占员工总数的 15%。这一决定是出于将公司的成本结构与新运营模式相结合的需要，因为收入未达到预期，利润率太低。该公司的目标是通过各种行动，到 2025 年节省 100 亿美元，包括简化其产品组合、降低运营成本和暂停股票分红。尽管经历了这些痛苦的变化，英特尔仍然致力于其 IDM 2.0 战略，并旨在保持对工艺技术和核心产品领导地位的增长投资。裁员和削减成本的举措引发了争议，是该公司历史上最具挑战性的决定之一。]]></description>
-      <guid>https://t.me/hn_summary/102239</guid>
-      <pubDate>Thu, 01 Aug 2024 20:39:20 GMT</pubDate>
+      <title>东南极洲的地面温度已飙升至比正常温度高出 50 度（28 摄氏度）以上 [...]</title>
+      <link>https://t.me/hn_summary/102285</link>
+      <description><![CDATA[南极洲温度在持久热浪中飙升至正常值以上 50 度
+在历史性热浪期间，东南极洲的地面温度比正常值高出 50 度（28 摄氏度），这是两年内第二次出现大热浪。这一令人担忧的事件可能持续 10 天，表明在全球变暖的情况下，极端温度峰值可能会变得更加频繁。大气科学家 Edward Blanchard 指出，热浪的影响范围非常广，覆盖了东南极洲的大部分地区。尽管正值南极洲的冬季，但气温仍在零下 4 度（零下 20 摄氏度）左右。这是全球最大的异常，预计气温将远高于平均水平。热浪的形成与极地涡旋减弱和海冰覆盖减少等因素有关。科学家警告称，随着全球气温升高，此类事件可能会变得更加常见。]]></description>
+      <guid>https://t.me/hn_summary/102285</guid>
+      <pubDate>Fri, 02 Aug 2024 02:01:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：www.bbc.co.uk</title>
-      <link>https://t.me/hn_summary/102238</link>
-      <description><![CDATA[Facebook 取消热门豚鼠页面的货币化
-标题：Facebook 取消热门豚鼠页面的货币化
-网站：www.bbc.co.uk
-
-照顾宠物可能很昂贵，对于照顾 130 只豚鼠的 Mason 女士来说，费用相当可观。她强调了从住房和取暖到食品和医疗费用等大量费用。仅在二月份，她就救出了 53 只豚鼠，确保它们都进行了绝育和健康检查，这笔钱大约为 5,500 英镑。尽管做出了这些努力，梅森女士澄清说，他们并不是在经营慈善机构或动物救助机构，尽管他们的许多宠物都是被救出来的或被重新安置的动物。最近，他们在 Facebook 上广受欢迎的豚鼠页面被取消货币化，这又增加了一层财务压力。]]></description>
-      <guid>https://t.me/hn_summary/102238</guid>
-      <pubDate>Thu, 01 Aug 2024 20:36:16 GMT</pubDate>
+      <title>[媒体] LightBurn 是业余爱好者使用的领先软件，其举动令人惊讶且备受争议 [...]</title>
+      <link>https://t.me/hn_summary/102284</link>
+      <description><![CDATA[LightBurn 时光倒流，放弃 Linux 用户
+LightBurn 是面向业余激光切割和雕刻爱好者的领先软件，它宣布将在即将发布的 1.7.00 版本中停止对 Linux 的支持，这一举动令人惊讶且备受争议。尽管是多平台软件，但开发人员声称，鉴于 Linux 的发行版分散，支持 Linux 所需的努力超过了用户群小带来的好处。这一决定让许多支付了年度许可证费用的 Linux 用户感到被抛弃，尽管可以退款。更令人沮丧的是，LightBurn 是闭源的，阻止了社区维护 Linux 版本。虽然存在像 LaserWeb 这样的替代方案，但在 Linux 上失去 LightBurn 是一个重大打击。开发人员承诺改进软件以适应其他平台，但这对于 Linux 社区来说无异于苦涩的安慰。]]></description>
+      <guid>https://t.me/hn_summary/102284</guid>
+      <pubDate>Fri, 02 Aug 2024 02:01:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 1976 年，史蒂夫·乔布斯向保罗·T展示了他演讲台上的三张宝丽来照片 [...]</title>
-      <link>https://t.me/hn_summary/102237</link>
-      <description><![CDATA[Apple-1 原型宝丽来照片 - 1976 年
-1976 年，在 Apple-1 电脑演示期间，史蒂夫·乔布斯向 Byte Shop 老板保罗·特雷尔展示了三张宝丽来照片。这些老式快照每张尺寸为 3.5 x 4.25 英寸，描绘了原型 Apple-1 电路板与 Amkey 键盘和 CRT 显示器的连接情况。特雷尔随后以 25,000 美元的价格订购了 50 台完全组装的 Apple-1 设备，这为苹果提供了开始生产和与供应商建立信誉的关键种子资金。这一关键时刻将苹果从业余套件生产商转变为个人电脑制造商。这些照片来自特雷尔，于 2012 年在《时代》杂志上发表，并于 2022 年以超过 677,000 美元的价格售出。史蒂夫·沃兹尼亚克将特雷尔的订单描述为苹果历史上最重要的事件。]]></description>
-      <guid>https://t.me/hn_summary/102237</guid>
-      <pubDate>Thu, 01 Aug 2024 20:26:10 GMT</pubDate>
+      <title>[媒体] Google Cloud 已与 Y Combinator (YC) 合作，提供专用的、补贴的 c [...]</title>
+      <link>https://t.me/hn_summary/102283</link>
+      <description><![CDATA[YC 与 Google 达成协议，为 AI 初创公司提供专用计算集群
+Google Cloud 已与 Y Combinator (YC) 合作，为 AI 初创公司提供专用的、有补贴的 Nvidia GPU 和 Google TPU 集群。该计划旨在通过在两年内向早期 AI 公司提供 35 万美元的云信用额度以及优先使用计算资源来培育它们。Google Cloud 初创公司和 AI 总经理 James Lee 强调了成为这些初创公司长期合作伙伴的目标。YC 集团合伙人 Diana Hu 强调了这些初创公司成为独角兽甚至十角兽的潜力，这对 Google 来说是一个战略赌注。此外，YC 可以通过提供这些慷慨的计算资源来吸引更多的 AI 初创公司，解决小型初创公司面临的计算限制这一常见问题。此次合作还包括 12,000 美元的增强支持积分和一年的免费 G​​oogle Workspace Business Plus，以及与 Google 的 AI 专家联系的机会。值得注意的是，Andreessen Horowitz 等其他风险投资公司也在提供 GPU 集群来吸引 AI 初创公司，这表明竞争格局正在加剧。]]></description>
+      <guid>https://t.me/hn_summary/102283</guid>
+      <pubDate>Fri, 02 Aug 2024 01:35:49 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub 项目“显示 HN：在 Mac 上运行 Gemma2-2B 的代码”提供了一个命令行界面 [...]</title>
-      <link>https://t.me/hn_summary/102236</link>
-      <description><![CDATA[显示 HN：在 Mac 上运行 Gemma2-2B 的代码 - 具有 GPT 3.5 性能的强大模型
-GitHub 项目“显示 HN：在 Mac 上运行 Gemma2-2B 的代码”提供了一个命令行界面，可使用 MLX 在 Mac 上本地运行大型语言模型 (LLM)。它专为具有至少 8GB 内存的 Apple 硅片（M 系列芯片）机器而设计，需要 Python 3.8 或更高版本和 macOS 13.5 或更高版本。该项目旨在促进运行 Gemma2-2b-it 4bit（量化）模型，该模型以其在消费级硬件上的强大性能而闻名。作者强调了它的效率，在 Mac Air M2 8GB 上实现了约 40 个令牌/秒。该项目处于实验阶段，并不适用于生产用途，计划进行的改进包括支持流式响应和多轮交互。]]></description>
-      <guid>https://t.me/hn_summary/102236</guid>
-      <pubDate>Thu, 01 Aug 2024 20:20:03 GMT</pubDate>
+      <title>[媒体] 在我探索一周无塑料生活的过程中，我发现了巨大的挑战和共同点 [...]</title>
+      <link>https://t.me/hn_summary/102282</link>
+      <description><![CDATA[我对无塑料生活的了解
+在我为期一周的无塑料生活探索中，我发现避免使用一次性塑料具有巨大的挑战性和复杂性。受到 Rebecca Prince-Ruiz 的“无塑料七月”运动的启发，我制定了规则，例如减少网上购物和携带可重复使用的容器。尽管我付出了努力，但我仍然产生了 102 件塑料垃圾，凸显了塑料在我们日常生活中的普遍性。从头开始做饭并在当地采购食材很费时，但很有回报。然而，有些任务，比如制作我自己的泡沫洗手液，却失败了。这个实验强调了完全无塑料的难度以及从小处做起的重要性。（基于 73% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/102282</guid>
+      <pubDate>Fri, 02 Aug 2024 01:13:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 英特尔宣布这一决定后，其股价在盘后交易中暴跌了 12%。 [...]</title>
-      <link>https://t.me/hn_summary/102235</link>
-      <description><![CDATA[英特尔将裁员 15%，报告季度业绩不及预期
-英特尔宣布将裁员 15% 以上，作为 100 亿美元成本削减计划的一部分，该公司股价在盘后交易中暴跌 12%。这家芯片制造商还公布了令人失望的季度业绩，每股收益为 2 美分，低于分析师预期的 10 美分，营收为 128.3 亿美元，低于预期的 129.4 亿美元。此外，英特尔将不会在 2024 财年第四季度支付股息。该公司的客户端计算集团收入略有增加，而数据中心和人工智能部门的收入则出现下滑。英特尔还透露，阿波罗公司在爱尔兰的一家芯片制造厂投资了 110 亿美元，并推出了新的 Xeon 6 服务器处理器和 Gaudi 3 AI 加速器。值得注意的是，美国商务部撤销了向中国客户（可能是华为）出口消费品的许可证。英特尔股价今年已下跌 42%，与标准普尔 500 指数 14% 的涨幅形成鲜明对比。]]></description>
-      <guid>https://t.me/hn_summary/102235</guid>
-      <pubDate>Thu, 01 Aug 2024 20:19:58 GMT</pubDate>
+      <title>[媒体] 在 Tensorfuse (YC W24)，我们正在为机器学习和机器学习开发人员开创最先进的无服务器 GPU 运行时 [...]</title>
+      <link>https://t.me/hn_summary/102281</link>
+      <description><![CDATA[Tensorfuse (YC W24) 正在招聘
+在 Tensorfuse (YC W24)，我们正在为私有云开创最先进的无服务器 GPU 运行时，并寻求创新人才加入我们的团队。在 Y Combinator 的支持下，由 Adob​​e Research 和 Qualcomm 的专家领导，我们不仅使用现有工具，而且从头开始重建基础设施技术。这包括开发 Docker 替代方案和自定义文件系统以增强容器运行时。我们的技术与硬件和 GPU 库深度集成，以实现最佳性能。加入我们，重新定义云技术，获得实际的硬件经验，并塑造无服务器 GPU 的未来。必备资格包括熟练掌握 Rust 或 Go、Kubernetes 经验、云平台熟悉度，最好有创业经验。]]></description>
+      <guid>https://t.me/hn_summary/102281</guid>
+      <pubDate>Fri, 02 Aug 2024 01:00:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
