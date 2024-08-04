@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sun, 04 Aug 2024 09:12:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 12:20:39 GMT</lastBuildDate>
+    <item>
+      <title>周日“展示你的作品”。</title>
+      <link>https://www.reddit.com/r/editors/comments/1ejsmbp/show_your_work_sunday/</link>
+      <description><![CDATA[每周日与我们的“Reel Review”交替发布。 以下是发布前需要做的关键事项 标题： 长度： 目的：您为什么要发布此内容？  目的可能是： 我制作的很酷的一件事情 赢得客户 或者是反馈。  如果是反馈，您必须找到另外两个需要反馈的帖子并给出注释。如果你不这样做，版主就会来你家 你可以从 YouTube 发帖，但我们更喜欢更专业的着陆点（包括 frame.io） ---- 复制此部分 ---- 标题： 长度： 目的：    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ejsmbp/show_your_work_sunday/</guid>
+      <pubDate>Sun, 04 Aug 2024 11:01:02 GMT</pubDate>
+    </item>
     <item>
       <title>第一次担任媒体管理员/数据管理员，遇到硬件问题</title>
       <link>https://www.reddit.com/r/editors/comments/1ejnj60/first_time_media_managerdata_wrangler_with_a/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[正在制作一个 30 秒的视频，该视频以 60fps 拍摄，时间基数为 23.98。Premiere 中的时间线设置为 23.98，所有素材都加速了 250%。该视频由长而流畅的摄像机移动组成，帧中有很多精细的细节，几乎没有剪切。一切都很好，运行流畅。 现在收到以 25 fps 导出到欧洲播出的请求。在时间轴中转换时，我得到的结果并不令人满意：   只需将视频放入 25fps 序列中就会使视频缩短一秒多。 将视频放入 25 fps 序列并将其加速 4% 会每秒创建一个额外的帧，这在平滑的相机移动中非常明显，即 1 帧抖动/闪烁。 使用光流处理速度的增加会在细节上产生伪影。 将 23.98 序列导出为 25 fps 会产生相同的结果，要么是间歇性的“跳过”，要么是伪影。  有什么想法或经验吗？    提交人    /u/enno108   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ehzq09/2398_to_25_fps_on_continuous_camera_move/</guid>
       <pubDate>Fri, 02 Aug 2024 03:11:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>加载动态图形模板时出现未知错误 - 已修复</title>
-      <link>https://www.reddit.com/r/editors/comments/1ehw7fv/unknown_error_while_loading_the_motion_graphics/</link>
-      <description><![CDATA[（我在这里发帖只是为了增加搜索结果，以便其他可能遇到此问题的人知道） 我尝试了在搜索中找到的其他建议，最终对我有用的是： 我不得不卸载干扰 mogrt 导入过程的插件。 我通过在打开 PPRO 时按住选项并禁用插件（这是 PPRO 可以执行的一次性故障排除操作）发现了这一点。完成此操作后，我能够再次将 mogrts 导入我的时间线。 然后我进入“Macintosh HD/Library/Application Support/Adobe/Common/Plug-ins/7.0/MediaCore”并删除了我认为可能是问题所在。 希望这能在未来帮助其他人   由    /u/LocalMexican  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ehw7fv/unknown_error_while_loading_the_motion_graphics/</guid>
-      <pubDate>Fri, 02 Aug 2024 00:17:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
