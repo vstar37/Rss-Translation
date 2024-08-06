@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 06 Aug 2024 15:14:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 18:17:51 GMT</lastBuildDate>
+    <item>
+      <title>Python 在 Tiobe 指数中获得最高评级</title>
+      <link>https://www.reddit.com/r/programming/comments/1elovmc/python_scores_its_highest_rating_in_tiobe_index/</link>
+      <description><![CDATA[  由    /u/Franco1875  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1elovmc/python_scores_its_highest_rating_in_tiobe_index/</guid>
+      <pubDate>Tue, 06 Aug 2024 18:12:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有材料 UI 和自动报告电子邮件系统的 MERN Stack 项目</title>
+      <link>https://www.reddit.com/r/programming/comments/1elnvkl/mern_stack_project_with_material_ui_and_automatic/</link>
+      <description><![CDATA[我使用 MERN 构建了这个项目。对于样式，我使用了 bootstrap 和material UI。特点：1. 每个用户都有自己的角色来访问特定区域  打印报告并按日、周和月查看图形报告 系统将在下午 5 点向管理员发送自动报告 Crud 操作 安全的身份验证系统     提交人    /u/sohaibfida03015   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1elnvkl/mern_stack_project_with_material_ui_and_automatic/</guid>
+      <pubDate>Tue, 06 Aug 2024 17:33:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>高级工程师角色</title>
+      <link>https://www.reddit.com/r/programming/comments/1eln5qo/the_senior_engineer_role/</link>
+      <description><![CDATA[  由    /u/stayoungodancing  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eln5qo/the_senior_engineer_role/</guid>
+      <pubDate>Tue, 06 Aug 2024 17:04:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>掌握 Unity 中的 Wave Spawner 创建动态敌人遭遇战的终极指南 - 内向游戏</title>
+      <link>https://www.reddit.com/r/programming/comments/1eln50t/mastering_wave_spawner_in_unity_the_ultimate/</link>
+      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eln50t/mastering_wave_spawner_in_unity_the_ultimate/</guid>
+      <pubDate>Tue, 06 Aug 2024 17:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 Next.js 中生成动态站点地图？</title>
+      <link>https://www.reddit.com/r/programming/comments/1elmdul/how_to_generate_dynamic_sitemap_in_nextjs/</link>
+      <description><![CDATA[  由   提交  /u/Early_Ad7148   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1elmdul/how_to_generate_dynamic_sitemap_in_nextjs/</guid>
+      <pubDate>Tue, 06 Aug 2024 16:33:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>你好，社区！</title>
+      <link>https://www.reddit.com/r/programming/comments/1ellpv1/hola_comunidad/</link>
+      <description><![CDATA[📨 我很快邀请会说西班牙语的成员加入 r/termux_es 使其成长。 在您的参与下，我们很快就会带来一些项目，使所有使用 Termux 应用程序的用户受益，无论语言如何。 😃   由   提交/u/Sr_Dimitrez   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ellpv1/hola_comunidad/</guid>
+      <pubDate>Tue, 06 Aug 2024 16:07:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>编程的成熟不在于从教程中学习，我改变了想法</title>
+      <link>https://www.reddit.com/r/programming/comments/1elljrn/maturing_in_programming_is_not_learning_from/</link>
+      <description><![CDATA[  由    /u/VladTbk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1elljrn/maturing_in_programming_is_not_learning_from/</guid>
+      <pubDate>Tue, 06 Aug 2024 16:00:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>凯文·培根的六度空间 - Postgres 风格</title>
+      <link>https://www.reddit.com/r/programming/comments/1ellino/six_degrees_of_kevin_bacon_postgres_style/</link>
+      <description><![CDATA[  由    /u/craigkerstiens  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ellino/six_degrees_of_kevin_bacon_postgres_style/</guid>
+      <pubDate>Tue, 06 Aug 2024 15:59:59 GMT</pubDate>
+    </item>
     <item>
       <title>微服务是否破坏了 DORA？• Dave Farley</title>
       <link>https://www.reddit.com/r/programming/comments/1elk88h/did_microservices_break_dora_dave_farley/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[  由    /u/lewibs  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1eljq3e/i_made_a_language_which_transpiles_into_c_code/</guid>
       <pubDate>Tue, 06 Aug 2024 14:48:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>AdminForth（Vue 可扩展管理面板）的 Chat-GPT 副驾驶风格插件</title>
-      <link>https://www.reddit.com/r/programming/comments/1elinrz/chatgpt_copilotstyle_plugin_for_adminforth_vue/</link>
-      <description><![CDATA[  由    /u/Eye_Killere  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1elinrz/chatgpt_copilotstyle_plugin_for_adminforth_vue/</guid>
-      <pubDate>Tue, 06 Aug 2024 14:05:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年最佳：将 Node.js 应用部署到 Kubernetes 集群</title>
-      <link>https://www.reddit.com/r/programming/comments/1elimak/best_of_2023_deploying_nodejs_apps_to_a/</link>
-      <description><![CDATA[  由    /u/Eye_Killere  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1elimak/best_of_2023_deploying_nodejs_apps_to_a/</guid>
-      <pubDate>Tue, 06 Aug 2024 14:03:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 NumPy/CuPy 从 Scratch 开始的迷你 PyTorch：综合教程</title>
-      <link>https://www.reddit.com/r/programming/comments/1elhexs/mini_pytorch_from_scratch_using_numpycupy_a/</link>
-      <description><![CDATA[  由    /u/dajuric  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1elhexs/mini_pytorch_from_scratch_using_numpycupy_a/</guid>
-      <pubDate>Tue, 06 Aug 2024 13:11:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们都在沉睡于 HTTP/3</title>
-      <link>https://www.reddit.com/r/programming/comments/1elhcd1/yall_are_sleeping_on_http3/</link>
-      <description><![CDATA[  由    /u/kevin-mcdonald  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1elhcd1/yall_are_sleeping_on_http3/</guid>
-      <pubDate>Tue, 06 Aug 2024 13:08:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spring Boot 电子邮件验证 - 第 10 部分 - 实现 sendRegistratio...</title>
-      <link>https://www.reddit.com/r/programming/comments/1elh97r/spring_boot_email_verification_part_10_implement/</link>
-      <description><![CDATA[  由    /u/KindsonTheGenius  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1elh97r/spring_boot_email_verification_part_10_implement/</guid>
-      <pubDate>Tue, 06 Aug 2024 13:04:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>“20% 的技术债务”规则根本行不通</title>
-      <link>https://www.reddit.com/r/programming/comments/1elh4v6/a_20_for_tech_debt_rule_just_doesnt_work/</link>
-      <description><![CDATA[  由    /u/zaidesanton  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1elh4v6/a_20_for_tech_debt_rule_just_doesnt_work/</guid>
-      <pubDate>Tue, 06 Aug 2024 12:59:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>第 12 期：国家监控、密钥、DOMParser（Just Enough Newsletter）</title>
-      <link>https://www.reddit.com/r/programming/comments/1elfm17/issue_12_state_surveillance_passkeys_domparser_by/</link>
-      <description><![CDATA[  由    /u/abduvik  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1elfm17/issue_12_state_surveillance_passkeys_domparser_by/</guid>
-      <pubDate>Tue, 06 Aug 2024 11:45:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>曾经使用过这种语言吗？这是我的代码！</title>
-      <link>https://www.reddit.com/r/programming/comments/1elfezc/ever_used_this_language_heres_me_coding/</link>
-      <description><![CDATA[  由    /u/Uncle_Mick_  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1elfezc/ever_used_this_language_heres_me_coding/</guid>
-      <pubDate>Tue, 06 Aug 2024 11:34:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
