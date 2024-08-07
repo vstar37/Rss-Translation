@@ -4,7 +4,56 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 07 Aug 2024 12:23:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 18:16:34 GMT</lastBuildDate>
+    <item>
+      <title>在窗口内运行 .scr 屏幕保护程序</title>
+      <link>https://www.reddit.com/r/software/comments/1emf76x/run_a_scr_screensaver_inside_a_window/</link>
+      <description><![CDATA[大家好。我想知道是否有软件允许在“窗口”模式下运行 Windows 屏幕保护程序（*.scr 文件）。我的目标是在辅助显示器上运行 Google Photos 屏幕保护程序。 谢谢！😊    提交人    /u/Clauz79   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1emf76x/run_a_scr_screensaver_inside_a_window/</guid>
+      <pubDate>Wed, 07 Aug 2024 15:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们是否正处于第三次浏览器战争的边缘？</title>
+      <link>https://www.reddit.com/r/software/comments/1emev0j/could_we_be_on_the_verge_of_a_third_browser_war/</link>
+      <description><![CDATA[https://preview.redd.it/eo8vyq0eg9hd1.png?width=741&amp;format=png&amp;auto=webp&amp;s=6edd9fe94e5b967014e364d5bf104e08e8559a7e （这是一张图片，因为我的笔记本电脑没电了，我丢失了文本。谢天谢地，我已经制作了一张图片来应对这种情况）    由    /u/Boburism  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1emev0j/could_we_be_on_the_verge_of_a_third_browser_war/</guid>
+      <pubDate>Wed, 07 Aug 2024 15:32:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找书籍声音发生器</title>
+      <link>https://www.reddit.com/r/software/comments/1emdn51/looking_for_a_tome_sound_generator/</link>
+      <description><![CDATA[寻找任何类型的软件（或网站），我可以使用 .wav 下载（或任何可以转换为 .wav 的下载）生成不同频率的音调。  我正在工作中做一个项目，需要我找到一些声音放在扬声器上，这些声音将播放以表示不同的事件。扬声器很多，所以我想我应该自己制作声音。我尝试搜索声音，但不知道到底要找什么，而且我找到的所有声音都很糟糕。我只需要不同的频率。我还需要能够输入多个来创建多音调的哔哔声（例如：哔哔哔哔哔哔哔哔哔哔哔）  我找到的任何东西都只允许我持续播放一个频率，但我需要不同的频率以不同的间隔播放。它们只需要长达五秒。  我正在寻找免费的东西，但任何有免费试用版的东西也可能有用。  提前谢谢！    提交人    /u/Lilyotv4642   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1emdn51/looking_for_a_tome_sound_generator/</guid>
+      <pubDate>Wed, 07 Aug 2024 14:45:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个网站可以上传图片并创建产品目录，比如 yupoo 网站</title>
+      <link>https://www.reddit.com/r/software/comments/1emd93i/wich_website_to_upload_images_and_create_catalog/</link>
+      <description><![CDATA[哪个网站可以像 yupoo 网站一样上传图片并创建产品目录。我实际上只需要上传照片。不需要价格。像 yupoo 一样     提交人    /u/Numerous_Set8493   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1emd93i/wich_website_to_upload_images_and_create_catalog/</guid>
+      <pubDate>Wed, 07 Aug 2024 14:29:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>视频转换器有什么问题？</title>
+      <link>https://www.reddit.com/r/software/comments/1emc9pw/what_is_wrong_with_video_converters/</link>
+      <description><![CDATA[我使用过 OnlineVideoConverter 和 Y2mate，它们总是将我发送到可疑网站，但我使用 opera，所以它告诉我关闭该网站，但有时它会将我发送到随机链接。两次被发送到色情网站。有人能给我可靠的视频转换器吗？也许吧？    提交人    /u/SensitiveYak6019   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1emc9pw/what_is_wrong_with_video_converters/</guid>
+      <pubDate>Wed, 07 Aug 2024 13:48:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以推荐类似 Google Photos 但带有子相册的应用程序吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1emc6q9/can_someone_recommend_something_like_google/</link>
+      <description><![CDATA[我想这个问题已经被问了数千次，可能仍然没有一个完美的选择，但我想我会问一下，因为距离我上次想到这个问题已经过去了几年。  我正在寻找一个 Windows 程序或网站，它有一个漂亮的 GUI，我可以在其中查看相册中的照片，然后从这些相册中查看子相册。基本上像 Google Photos，但文件结构显示我选择的图像作为每个子相册的专辑封面。  最好是桌面版，但网站也可以。  目前我有一个开始菜单快捷方式，可以在 Firefox 中打开照片。但一定有更好的解决方案，对吧？  我看过 Piwigo。它可能是我发现的最佳选择，但它看起来不那么干净，我不太喜欢学习如何设置它。  每隔几年我就会想到这一点，但据我所知，仍然没有一个好的选择。这有点令人困惑。帮忙？     提交人    /u/-_-123abc-_-   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1emc6q9/can_someone_recommend_something_like_google/</guid>
+      <pubDate>Wed, 07 Aug 2024 13:45:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一个协调和总结工具，用于管理工作旅行（成果）报告</title>
+      <link>https://www.reddit.com/r/software/comments/1embwt4/looking_for_a_coordinate_and_summarise_tool_for/</link>
+      <description><![CDATA[在一次管理会议上，出现了一个问题，即很难对工作旅行和讨论的主题进行概述。需要的是概述哪个团队在何时何地旅行以及它涉及的主题/项目 + 关于发生了什么以及项目如何揭示/进展的简短摘要（文本或视频形式）。 我们遇到的问题是，有时我们总部的不同团队如何将我们工作所在国家/地区的其他子公司的工作和时间绑定在一起并不一致 是否有人有关于如何更好地跟踪或处理此问题的工具或方法的信息？:)    提交人    /u/MedicalTechx2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1embwt4/looking_for_a_coordinate_and_summarise_tool_for/</guid>
+      <pubDate>Wed, 07 Aug 2024 13:33:27 GMT</pubDate>
+    </item>
     <item>
       <title>想找一个软件</title>
       <link>https://www.reddit.com/r/software/comments/1em9q3q/looking_for_a_software/</link>
@@ -57,58 +106,9 @@
     <item>
       <title>Windows 上优秀的免费天气程序怎么了？</title>
       <link>https://www.reddit.com/r/software/comments/1em2mzt/whatever_happened_to_the_good_free_weather/</link>
-      <description><![CDATA[我只想在系统托盘中显示天气。没什么特别的。只有温度，然后当我加载完整程序时，我可以获得更多详细信息。以前我们有天气错误。只需安装并运行它；没有大惊小怪。现在，似乎每个程序都希望您注册一个开放天气 API 密钥。这违反了我关于软件的第一条规则之一：你不需要知道我是谁！然后他们开始谈论每天只打这么多电话，等等等等，过了一段时间他们想要收费...这些东西以前是免费的！现在，有十亿个完全免费的移动天气程序，而我们在 Windows 上有什么？天哪，这是Windows！它应该是始终拥有您想要使用的软件的平台！这就是我大约 20 年前离开 Mac 世界的原因！ 因此，我需要一个适用于 Windows 的天气程序。要求：  完全免费。 该软件不需要 API 密钥或任何形式的注册，因为软件不需要知道我是谁。 该软件不需要开启定位服务。我可以告诉程序我住在哪个城市。 带有温度的托盘图标。  如果也有常用的东西就好了：  每小时/扩展预报。 天气图。  你明白了。 那么，有人知道符合要求的天气程序吗？ 请记住：如果它没有在系统托盘中显示温度，那就不是我想要的。    提交人    /u/Stratford-on-Jersey   [链接] [评论]]]></description>
+      <description><![CDATA[我只想在系统托盘中显示天气。没什么特别的。只有温度，然后当我加载完整程序时，我可以获得更多详细信息。以前我们有天气错误。只需安装并运行它；没有大惊小怪。现在，似乎每个程序都希望您注册一个开放天气 API 密钥。这违反了我关于软件的第一条规则之一：你不需要知道我是谁！然后他们开始谈论每天只打这么多电话，等等，过了一段时间他们想要收费……这些东西以前是免费的！现在，有十亿个完全免费的移动天气程序，而我们在 Windows 上有什么？天哪，这是Windows！它应该是始终拥有您想要使用的软件的平台！这就是我大约 20 年前离开 Mac 世界的原因！ 因此，我需要一个适用于 Windows 的天气程序。要求：  完全免费。 该软件不需要 API 密钥或任何形式的注册，因为软件不需要知道我是谁。 该软件不需要开启定位服务。我可以告诉程序我住在哪个城市。 带有温度的托盘图标。  如果也有常用的东西就好了：  每小时/扩展预报。 天气图。  你明白了。 那么，有人知道符合要求的天气程序吗？ 请记住：如果它没有在系统托盘中显示温度，那就不是我想要的。    提交人    /u/Stratford-on-Jersey   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1em2mzt/whatever_happened_to_the_good_free_weather/</guid>
       <pubDate>Wed, 07 Aug 2024 04:19:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户友好的照片幻灯片纪念软件</title>
-      <link>https://www.reddit.com/r/software/comments/1em13ts/user_friendly_photo_slideshow_memorial_software/</link>
-      <description><![CDATA[我亲爱的父亲去世了，我花了几个小时为他本周五的探访时间整理幻灯片照片，但没有想到把它们放进幻灯片会这么困难。我有 200 多张照片，保存在 Google Drive 文件夹中。我只是想让每张幻灯片有一张照片，持续时间约为五秒钟，并进行简单的淡入淡出过渡。我将有一个单独的音乐源，因为这似乎最简单。我更喜欢使用 PC，因为这是我最习惯的，但我也可以使用 Mac。我看过 Google Slides、Canva，也玩过一些免费的在线程序，但我真的很难让任何东西运行良好（因为我不是最精通技术的）。如果有人知道一个用户友好且相对高效的工具来完成这项任务，我将不胜感激。我当然愿意考虑为该软件付费。非常感谢。    由    /u/rainydayblueberries 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1em13ts/user_friendly_photo_slideshow_memorial_software/</guid>
-      <pubDate>Wed, 07 Aug 2024 02:59:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳留存/搜索消息应用</title>
-      <link>https://www.reddit.com/r/software/comments/1em0eai/best_messaging_app_for_retention_search/</link>
-      <description><![CDATA[我正在寻找一款可以说服我的朋友使用的消息应用程序，可以无限期保留旧消息（包括图像/视频），合理搜索旧消息，最重要的是完美的跨设备同步。（我再也不能使用 FB 了，因为它的跨设备同步功能坏了，可能是因为 E2E 安全更新。）有什么建议吗？它需要在 Chrome（桌面）上运行，理想情况下应该在 Android 和 iPhone 上有一个可运行的应用程序。 目前的候选者是 Discord，但我猜还有更多选择可以考虑？    提交人    /u/vix2022   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1em0eai/best_messaging_app_for_retention_search/</guid>
-      <pubDate>Wed, 07 Aug 2024 02:24:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找商业目录提交软件。</title>
-      <link>https://www.reddit.com/r/software/comments/1elzcv2/looking_for_business_directory_submit_software/</link>
-      <description><![CDATA[https://www.namecheap.com/relate/local/ 类似上述内容或 vistaprint 以前所拥有的内容。我需要它提交给一些东西。比如 yelp、google ..等在一个门户中。FOSS 或类似 codecanyon 上的 saas 的东西。提前致谢。     提交人    /u/FuckingAnarchy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1elzcv2/looking_for_business_directory_submit_software/</guid>
-      <pubDate>Wed, 07 Aug 2024 01:33:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找程序</title>
-      <link>https://www.reddit.com/r/software/comments/1elvp9j/looking_for_a_program/</link>
-      <description><![CDATA[我需要一个程序，里面有一个清单，我可以和几个人分享它。如果一个用户选择了一个产品，它会从列表中被划掉，并且产品旁边会显示他们的名字（其他用户不能点击该框）我不介意为这项服务付费。有类似的东西吗？谢谢     提交人    /u/onlylovehere   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1elvp9j/looking_for_a_program/</guid>
-      <pubDate>Tue, 06 Aug 2024 22:48:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>无需安装本地硬盘的备份软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1elswsx/backup_software_without_local_hard_drive_install/</link>
-      <description><![CDATA[是否有免费备份软件可以运行不需要本地安装的文件的计划备份，例如可以从您要备份到的外部驱动器运行的便携式软件？    提交人    /u/dolfan650   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1elswsx/backup_software_without_local_hard_drive_install/</guid>
-      <pubDate>Tue, 06 Aug 2024 20:53:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>快捷方式将投影显示到单屏和更大规模</title>
-      <link>https://www.reddit.com/r/software/comments/1elskad/shortcut_to_projection_display_to_one_screen_and/</link>
-      <description><![CDATA[我经常将 PC（有 3 个屏幕）的内容投影到屏幕较小的 Macbook 上。 我使用 Windows p 投影到一个屏幕，然后将屏幕比例更改为 175% 以保持清晰易读。 我希望有一个位于托盘中的应用程序，我可以在其中单击一下切换这些设置。这可能吗？    提交人    /u/llondru-es   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1elskad/shortcut_to_projection_display_to_one_screen_and/</guid>
-      <pubDate>Tue, 06 Aug 2024 20:39:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 Windows 的最佳语音转文本应用程序？</title>
-      <link>https://www.reddit.com/r/software/comments/1elsb5r/the_best_speech_to_text_app_for_windows/</link>
-      <description><![CDATA[我尝试过以下语音听写应用/工具：  VOSK filyp/whisper-simple-dictation braden-w/whispering thewh1teagle/vibe savbell/whisper-writer  但它们都不能满足我的所有要求：  支持键盘快捷键 支持本地 faster-whisper（或其他一些快速私语实现，如果有的话） 开源 具有可执行文件 能够在后台运行  理想情况下，语音转录的质量应该与 ChatGPT 移动应用程序内部的质量一样好，并且功能相同：  按下录制并按下停止录制并开始转录（而不是逐字转录不考虑句子上下文） 然后将结果复制到剪贴板     提交人    /u/uhzured45   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1elsb5r/the_best_speech_to_text_app_for_windows/</guid>
-      <pubDate>Tue, 06 Aug 2024 20:29:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
