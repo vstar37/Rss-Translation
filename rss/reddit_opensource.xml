@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 14 Aug 2024 18:17:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 21:12:53 GMT</lastBuildDate>
+    <item>
+      <title>制作了一个可以在多台机器上扩展 ffmpeg 的 API，并打包媒体以进行在线流媒体播放。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1esaoft/made_an_api_that_scales_ffmpeg_over_multiple/</link>
+      <description><![CDATA[https://github.com/matvp91/mixwave    由    /u/moremat_ 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1esaoft/made_an_api_that_scales_ffmpeg_over_multiple/</guid>
+      <pubDate>Wed, 14 Aug 2024 19:40:24 GMT</pubDate>
+    </item>
     <item>
       <title>是否有类似日历的应用程序可以记录生活中的事件，并列出 2018 年的这一天等的亮点？</title>
       <link>https://www.reddit.com/r/opensource/comments/1es6fl2/is_there_calendarlike_application_for_logging/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1eqii3v/open_source_ai_definition_town_hall/</guid>
       <pubDate>Mon, 12 Aug 2024 16:39:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>垃圾短信/电子邮件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1eqgawo/spam_textemal/</link>
-      <description><![CDATA[这不是向任何人发送垃圾邮件或诈骗的请求。 这是一个请求，要求我家人像其他公司一样发送虚假的诈骗/垃圾邮件和短信，如果家人没有成功，就向我报告，并告知他们失败的原因以及他们没有注意到这是垃圾邮件/骗局的潜在原因。    提交人    /u/DougBourbon   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1eqgawo/spam_textemal/</guid>
-      <pubDate>Mon, 12 Aug 2024 15:12:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
