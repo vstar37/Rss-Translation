@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sat, 17 Aug 2024 00:55:09 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sat, 17 Aug 2024 03:14:22 GMT</lastBuildDate>
+    <item>
+      <title>制作了这个实时多人井字游戏。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1eu70ei/made_this_realtime_multiplayer_tic_tac_toe_game/</link>
+      <description><![CDATA[      以下是功能的简要介绍：  用户身份验证：用户可以注册并登录。 游戏室：创建并加入游戏室。 邀请：邀请朋友加入您的游戏。 实时游戏：WebSocket 集成可确保流畅的实时游戏体验。  技术栈：  前端：Nuxt.js、Tailwind CSS、NuxtUI 后端：Laravel、WebSockets 数据库：MariaDB 语言： PHP、JavaScript  查看代码：  前端： GitHub - tic-tac-toe-frontend 后端： GitHub - tic-tac-toe-backend  欢迎深入研究代码，尝试一下，然后告诉我你的想法！欢迎任何反馈或建议。享受游戏！    提交人    /u/rootShiv   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1eu70ei/made_this_realtime_multiplayer_tic_tac_toe_game/</guid>
+      <pubDate>Sat, 17 Aug 2024 02:27:58 GMT</pubDate>
+    </item>
     <item>
       <title>欧洲市场</title>
       <link>https://www.reddit.com/r/webdev/comments/1eu5038/european_market/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>我可以在我的网站上得到一些诚实的反馈吗，我看不到自己的错误</title>
       <link>https://www.reddit.com/r/webdev/comments/1eu23o7/can_i_get_some_honest_feedback_on_my_website_i/</link>
-      <description><![CDATA[我刚刚完成了我的第二个网站，但我感觉有些地方不对劲，但我看不出来。我有想法，但我不确定。我是否可以得到一些诚实的反馈（UX/UI）；比如你看到了我忽略了哪些错误？谢谢。 网站：https://lkn.bio/    由   提交  /u/Smaug117   [link] [评论]]]></description>
+      <description><![CDATA[我刚刚完成了我的第二个网站，但我感觉有些不对劲，但我看不出来。我有想法，但我不确定。我是否可以得到一些诚实的反馈（UX/UI）；比如你看到了我忽略了哪些错误？谢谢。 网站：https://lkn.bio/    由   提交  /u/Smaug117   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1eu23o7/can_i_get_some_honest_feedback_on_my_website_i/</guid>
       <pubDate>Fri, 16 Aug 2024 22:37:36 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>吐槽我的网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1etxwrh/roast_my_website/</link>
-      <description><![CDATA[我是 QuickBooks 簿记服务提供商。我希望刷新我的网站。 说实话，我曾向家人、朋友和商业伙伴征求过反馈。几乎所有人都说它看起来不错，除了一些小问题（例如页面上移动元素太多）。也许他们不想对我吹毛求疵。 www.stilzbookkeeping.com 因此，在我继续刷新网站之前，我想从 webdev reddit 用户那里获得关于网站外观和内容的公正和未经过滤的反馈。    提交人    /u/hirenlives   [链接] [评论]]]></description>
+      <description><![CDATA[我是 QuickBooks 簿记服务提供商。我希望刷新我的网站。 说实话，我曾向家人、朋友和商业伙伴征求过反馈。几乎所有人都说它看起来不错，除了一些小问题（例如页面上移动元素太多）。也许他们不想对我吹毛求疵。 www.stilzbookkeeping.com 因此，在我继续刷新网站之前，我想从 webdev reddit 用户那里获得有关网站外观和内容的公正和未经过滤的反馈。    提交人    /u/hirenlives   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1etxwrh/roast_my_website/</guid>
       <pubDate>Fri, 16 Aug 2024 19:39:30 GMT</pubDate>
     </item>
@@ -71,14 +78,14 @@
     <item>
       <title>为什么 Material UI (MUI) 这么难，有啥诀窍吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1etvnrj/why_is_material_ui_mui_so_hard_is_there_a_trick/</link>
-      <description><![CDATA[你好，  最近我开始了我的 React 之旅。我决定开始一个新项目，并决定尝试 Material UI。与你可能会说的“原始” React 相比，我发现它真的很难。你有什么技巧和窍门可以让我掌握它吗？我阅读了大部分文档，但我仍然一无所知。  你如何构建组件？你如何自定义已经构建的组件？你是否从较小的组件构建组件 - (排版、输入字段等)？使用它处理状态的最佳方法是什么？你如何正确附加逻辑，这是正常的吗？ 我设法制作了一个按钮和一些简单的按钮，但除此之外，我发现使用它非常具有挑战性？ 提前谢谢！    提交人    /u/Impossible_Note5761   [链接] [评论]]]></description>
+      <description><![CDATA[你好，  最近我开始了我的 React 之旅。我决定开始一个新项目，并决定尝试 Material UI。与你可能会说的“原始” React 相比，我发现它真的很难。你有什么技巧可以让我掌握它吗？我阅读了大部分文档，但我仍然一无所知。  你如何构建组件？你如何自定义已经构建的组件？你是否从较小的组件构建组件 - (排版、输入字段等)？使用它处理状态的最佳方法是什么？你如何正确附加逻辑，这是正常的吗？ 我设法制作了一个按钮和一些简单的按钮，但除此之外，我发现使用它非常具有挑战性？ 提前谢谢！    提交人    /u/Impossible_Note5761   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1etvnrj/why_is_material_ui_mui_so_hard_is_there_a_trick/</guid>
       <pubDate>Fri, 16 Aug 2024 18:05:00 GMT</pubDate>
     </item>
     <item>
       <title>存储配置</title>
       <link>https://www.reddit.com/r/webdev/comments/1etvnex/store_a_configuration/</link>
-      <description><![CDATA[我计划做一个类似于 JIRA 的学校项目（当然不是那么大），我现在想开始计划。这个想法是，当一个人在应用程序内部创建一个项目时，它会将其配置存储在某个地方。我在想也许 S3 存储桶是存储 JSON 文件的好地方，但我听说使用 DB 或 mongo DB 也可能是一个好地方。你们有什么想法和建议？    提交人    /u/Beagles_Are_God   [链接] [评论]]]></description>
+      <description><![CDATA[我计划做一个类似于 JIRA 的学校项目（当然不是那么大），我现在想开始计划。这个想法是，当一个人在应用程序内部创建一个项目时，它会将其配置存储在某个地方。我在想也许 S3 存储桶可能是存储 JSON 文件的好地方，但我听说使用 DB 或 mongo DB 也许也是一个好地方。你们有什么想法和建议？    提交人    /u/Beagles_Are_God   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1etvnex/store_a_configuration/</guid>
       <pubDate>Fri, 16 Aug 2024 18:04:33 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我有这个 handleSelectFigure 函数： function handleSelectFigure(figure) { if (isGameover) return if ( (isRedsTurn &amp;&amp; === &#39;red&#39;) || (!isRedsTurn &amp;&amp; === &#39;blue&#39;) ) { console.log(figure) setSelectedFigure(figure) } }  单击 div 即可执行此函数： &lt;div ref={drag} className={classNames} onClick={() =&gt; { handleSelectFigure(getFigure()) }} &gt; O &lt;/div&gt;  并且这按预期工作。 我还想在拖动此 div 时更改状态，因此这是我的尝试： const [{ isDragging }, drag] = useDrag(() =&gt; ({ type: &#39;Figure&#39;, collect: (monitor) =&gt; ({ isDragging: !!monitor.isDragging(), }), })) useEffect(() =&gt; { if (isDragging) { console.log(getFigure()) handleSelectFigure(getFigure()) } }, [isDragging])  并且这也有效，因此我的状态得到更新。 现在我有这个函数 handleClickOnCell  function handleClickOnCell(clickedCell) { console.log(selectedFigure) ... }  当我单击单元格时，此方法有效。控制台日志向我显示了 selectedFigure。 &lt;div ref={drop} key={cell.id} className=&quot;cell&quot; onClick={() =&gt; { handleClickOnCell(cell) }} &gt; {lastFigureOnCell ? ( &lt;Figure handleSelectFigure={handleSelectFigure} ... &gt;&lt;/Figure&gt; ) : ( &lt;&gt;&lt;/&gt; )} &lt;/div&gt;  但是当我&quot;drop&quot; 时，它不起作用我的图在单元格上。 const [{}, drop] = useDrop( () =&gt; ({ accept: &#39;Figure&#39;, drop: (item) =&gt; { handleClickOnCell(cell) }, }), [cell]  现在控制台记录 null 而不是 selectedFigure 状态。 为什么会这样？Repo。代码位于 src/components &gt; Cell.jsx、Figure.jsx 和 Game.jsx 中。 拖放库    提交人    /u/kadaxda   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ettovs/why_is_my_state_null_using_reactdnd_but_works/</guid>
       <pubDate>Fri, 16 Aug 2024 16:45:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用交叉观察器调整垂直填充时，Chrome 中的粘性标题出现故障</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ettl7h/sticky_header_glitch_in_chrome_when_adjusting/</link>
-      <description><![CDATA[有人知道如何修复这样的问题吗？粘性标题。基本交叉点观察器在滚动时向其添加类。工作完全正常。但是，我在滚动时调整的一件事是元素的垂直填充。使用滚轮滚动没有问题，但是在 Chrome 中，如果您使用滚动条并用鼠标单击并向下拖动，您可能会停留在无休止地添加/删除类的点，并导致上下像素故障。 看起来很简单，我知道大多数人不会单击并拖动他们的滚动条，但如果有一个简单的解决方案，我愿意这样做。如果我删除垂直填充更改，显然一切都会正常工作。 https://codepen.io/lianad311/pen/ExBoeaL    提交人    /u/Lianad311   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ettl7h/sticky_header_glitch_in_chrome_when_adjusting/</guid>
-      <pubDate>Fri, 16 Aug 2024 16:41:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
