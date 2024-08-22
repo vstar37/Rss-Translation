@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 22 Aug 2024 12:23:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 15:15:57 GMT</lastBuildDate>
+    <item>
+      <title>有任何类似 winamp 的应用程序吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1eykudu/any_app_like_winamp/</link>
+      <description><![CDATA[您好！我正在寻找一款类似于旧版 Winamp 的 Windows 应用。 小型、轻便、极简且不需要网络连接的应用。 我只想要一款可以播放存储在 PC 上的音乐的播放器。    提交人    /u/Old-Juice-2490   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1eykudu/any_app_like_winamp/</guid>
+      <pubDate>Thu, 22 Aug 2024 14:33:06 GMT</pubDate>
+    </item>
     <item>
       <title>创业</title>
       <link>https://www.reddit.com/r/software/comments/1eyh19h/entrepreneurship/</link>
@@ -22,14 +29,14 @@
     <item>
       <title>某些 .exe 在属性下没有“数字签名”选项卡，但未被防病毒软件标记。</title>
       <link>https://www.reddit.com/r/software/comments/1eyeo97/some_exe_doesnt_have_digital_signature_tab_under/</link>
-      <description><![CDATA[有些 .exe 文件在属性下没有数字签名选项卡，但它们未被防病毒软件标记。我已尝试使用卡巴斯基和 Windows Defender。据我所知，为了使 .exe 不被防病毒程序标记或阻止，它需要具有数字签名，并且签名显示在该 .exe 的属性下。因此，如果 .exe 没有数字签名选项卡，则意味着它没有任何签名，防病毒程序应将其标记为恶意软件，但这种情况似乎并不常见。 带有数字签名选项卡的 kdenlive.exe 和没有数字签名选项卡的 handbrake    提交人    /u/InternalVolcano   [链接] [评论]]]></description>
+      <description><![CDATA[有些 .exe 文件在属性下没有数字签名选项卡，但它们未被防病毒软件标记。我尝试过使用卡巴斯基和 Windows Defender。据我所知，为了使 .exe 不被防病毒程序标记或阻止，它需要具有数字签名，并且签名显示在该 .exe 的属性下。因此，如果 .exe 没有数字签名选项卡，则意味着它没有任何签名，防病毒程序应将其标记为恶意软件，但这种情况似乎并不常见。 带有数字签名选项卡的 kdenlive.exe 和没有数字签名选项卡的 handbrake    提交人    /u/InternalVolcano   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1eyeo97/some_exe_doesnt_have_digital_signature_tab_under/</guid>
       <pubDate>Thu, 22 Aug 2024 09:07:18 GMT</pubDate>
     </item>
     <item>
       <title>定期截图/OCR 转为 CSV</title>
       <link>https://www.reddit.com/r/software/comments/1eyeipi/periodic_screenshotocr_to_csv/</link>
-      <description><![CDATA[嗨， 我有一个软件，它通过调制解调器连接监控远程系统。该软件将提供实时参数，但不允许您持续记录它。我需要此功能，因为我有一个难以追踪的间歇性故障。 我想到的是每隔一分钟左右截取一次屏幕截图，对图像进行 OCR，然后将结果放入 CSV。 谢谢， Craig    提交人    /u/27244   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我有一个软件，它通过调制解调器连接监控远程系统。该软件将提供实时参数，但不允许您持续记录。我需要此功能，因为我有一个难以追踪的间歇性故障。 我想到的是每隔一分钟左右截取一次屏幕截图，对图像进行 OCR，然后将结果放入 CSV。 谢谢， Craig    提交人    /u/27244   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1eyeipi/periodic_screenshotocr_to_csv/</guid>
       <pubDate>Thu, 22 Aug 2024 08:57:10 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>寻找内部收费账户软件</title>
       <link>https://www.reddit.com/r/software/comments/1ey5qxw/looking_for_in_house_charge_account_software/</link>
-      <description><![CDATA[大家好， 我管理一家加油站，我们有内部收费客户。基本上，我们的企业每月付款一次，我们整个月都保留一张实物收据，然后将所有单据加起来。我正在寻找一种能够汇总当月所有费用并将其打印在月度发票上的软件。该软件需要能够接受和存储收费人员的签名，还需要能够按交易进行打印。我找了无数次，但似乎找不到符合我确切需求的东西。理想情况下，它最好是移动的，这样人们就可以在屏幕上签名，然后它可以无线打印到打印机上，每笔交易的单据。    提交人    /u/mikeysal12   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我管理一家加油站，我们有内部收费客户。基本上，我们的企业每月付款一次，我们整个月都保留一张实物收据，然后将所有单据加起来。我正在寻找一种能够汇总当月所有费用并将其打印在月度发票上的软件。该软件需要能够接受和存储收费人员的签名，还需要能够按交易进行打印。我找了无数次，但似乎找不到完全符合我需求的东西。理想情况下，它最好是移动的，这样人们就可以在屏幕上签名，然后它可以无线打印到打印机上，每笔交易的单据。    提交人    /u/mikeysal12   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ey5qxw/looking_for_in_house_charge_account_software/</guid>
       <pubDate>Thu, 22 Aug 2024 00:31:45 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[终于有一款可以正常使用的 yt mp3 和 mp4 下载器了    由    /u/Repulsive-Lunch3515  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1exwpdy/finally_a_working_youtube_downloader/</guid>
       <pubDate>Wed, 21 Aug 2024 18:11:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找战略军事可视化工具。</title>
-      <link>https://www.reddit.com/r/software/comments/1exvr0f/looking_for_strategic_military_visualizer/</link>
-      <description><![CDATA[我想对历史上的战争进行一些分析，最早可以追溯到巴比伦帝国，甚至还有一些未来的事物。我只是不知道该寻找什么。我希望它非常详细，就像一个军事地图生成器，我可以在其中绘制某些场景的进展情况。如果这是错误的子版块，我很抱歉，也许如果你知道一个更好的发布版块，请告诉我哈哈。    提交人    /u/Ok_Decision_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1exvr0f/looking_for_strategic_military_visualizer/</guid>
-      <pubDate>Wed, 21 Aug 2024 17:33:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
