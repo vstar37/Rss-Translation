@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 24 Aug 2024 00:55:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2024 03:13:42 GMT</lastBuildDate>
+    <item>
+      <title>TechCrunch 似乎阻止了 GoDaddy 服务器访问</title>
+      <link>https://www.reddit.com/r/programming/comments/1ezul4e/it_looks_like_techcrunch_blocks_godaddy_server/</link>
+      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ezul4e/it_looks_like_techcrunch_blocks_godaddy_server/</guid>
+      <pubDate>Sat, 24 Aug 2024 02:19:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>非欧几里得毁灭：当 π 不是 3.14159 时游戏会发生什么……</title>
+      <link>https://www.reddit.com/r/programming/comments/1eztkik/noneuclidean_doom_what_happens_to_a_game_when_pi/</link>
+      <description><![CDATA[  由    /u/r_retrohacking_mod2  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eztkik/noneuclidean_doom_what_happens_to_a_game_when_pi/</guid>
+      <pubDate>Sat, 24 Aug 2024 01:27:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>克拉肯湾</title>
+      <link>https://www.reddit.com/r/programming/comments/1ezsxr7/kraken_bay/</link>
+      <description><![CDATA[嘿 ! 很高兴宣布 Kraken Bay 已完成，这是一个适用于您的本地服务器或 NAS 的开源媒体托管和流媒体系统。 在 GitHub 上查看：https://github.com/PetitPrinc3/Kraken-Bay 它包含多个功能并在最新版本的 Ubuntu 上运行。主 Web 服务器是一个 Nextjs 应用程序。 干杯 🐙    提交人    /u/Decent_Necessary3755   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ezsxr7/kraken_bay/</guid>
+      <pubDate>Sat, 24 Aug 2024 00:55:32 GMT</pubDate>
+    </item>
     <item>
       <title>数据科学：从零到英雄</title>
       <link>https://www.reddit.com/r/programming/comments/1ezs965/data_science_from_zero_to_hero/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/Apart_Act_9260  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ezgnwr/another_game_engine_series_video_has_just_dropped/</guid>
       <pubDate>Fri, 23 Aug 2024 16:09:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我认为我们需要可视化 AV 语言，以便 AI 可以制作长篇 AV 内容——一种机器可读的电影脚本改编版。</title>
-      <link>https://www.reddit.com/r/programming/comments/1ezglkw/i_think_we_need_visual_av_language_so_that_ais/</link>
-      <description><![CDATA[  由    /u/aluode  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ezglkw/i_think_we_need_visual_av_language_so_that_ais/</guid>
-      <pubDate>Fri, 23 Aug 2024 16:07:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>你拥有 29 个开发和测试环境的真正原因</title>
-      <link>https://www.reddit.com/r/programming/comments/1ezfg5p/the_real_reason_you_have_29_dev_and_test/</link>
-      <description><![CDATA[  由    /u/MiserableWriting2919  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ezfg5p/the_real_reason_you_have_29_dev_and_test/</guid>
-      <pubDate>Fri, 23 Aug 2024 15:20:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>React 中的实时通知中心 - 使用设计架构逐步构建过程</title>
-      <link>https://www.reddit.com/r/programming/comments/1ezf4y9/realtime_notification_center_in_react_stepbystep/</link>
-      <description><![CDATA[  由    /u/Only_Piccolo5736  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ezf4y9/realtime_notification_center_in_react_stepbystep/</guid>
-      <pubDate>Fri, 23 Aug 2024 15:08:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
