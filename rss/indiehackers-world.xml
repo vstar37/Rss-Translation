@@ -4,12 +4,12 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Mon, 26 Aug 2024 03:16:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 06:19:23 GMT</lastBuildDate>
     <item>
       <title>理解和创建软件测试中的测试用例</title>
       <link>https://feed.indiehackers.world/post/f63ecf93ec</link>
       <description><![CDATA[f. 冒烟测试用例
-冒烟测试确保部署或代码更改后基本、关键功能正常运行。
+冒烟测试可确保部署或代码更改后基本、关键功能正常运行。
 场景示例：
 
 测试电子商务网站在部署后是否正常运行。
@@ -19,7 +19,7 @@
 标题：部署后验证网站基本功能。
 步骤：
 打开电子商务主页。
-点击“商店”按钮。
+单击“商店”按钮。
 
 
 预期结果：主页应加载，用户应能够导航到商店页面。
