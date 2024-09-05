@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 04 Sep 2024 21:12:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 00:59:54 GMT</lastBuildDate>
     <item>
       <title>有好的 Zapier 替代品吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1f93f2f/a_good_zapier_alternative/</link>
@@ -69,20 +69,6 @@
       <pubDate>Wed, 04 Sep 2024 16:14:53 GMT</pubDate>
     </item>
     <item>
-      <title>有任何适用于 Android 的开源视频编辑器吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f8w90j/any_open_source_video_editor_for_android/</link>
-      <description><![CDATA[是否有任何适用于 Android 的开源视频编辑器不需要登录或不收集我们编辑或上传文件的数据？    提交人    /u/KukriKnife   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f8w90j/any_open_source_video_editor_for_android/</guid>
-      <pubDate>Wed, 04 Sep 2024 15:30:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何适用于 Android 的开源视频编辑器吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f8w8s1/any_open_source_video_editor_for_android/</link>
-      <description><![CDATA[是否有任何适用于 Android 的开源视频编辑器不需要登录或不收集我们编辑或上传文件的数据？    提交人    /u/KukriKnife   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f8w8s1/any_open_source_video_editor_for_android/</guid>
-      <pubDate>Wed, 04 Sep 2024 15:30:01 GMT</pubDate>
-    </item>
-    <item>
       <title>无代码/低代码 Python？</title>
       <link>https://www.reddit.com/r/opensource/comments/1f8ro0k/no_codelow_code_python/</link>
       <description><![CDATA[还有人需要无代码/低代码的 Python 编程解决方案吗？ 我主要从事 Python 数据科学工作，并创建大量图表来解释数据是如何被操纵的。我见过一些像 alteryx 这样的东西做这种事情，但我认为一个可以无缝地从可视化切换到 Python 代码编程的工具会很有用。 还有人这么想吗？已经有类似的东西了吗？我试过 airflow，但它不一定是无缝的代码/无代码集成。它更像是在图表中表示的工作流中进行编码，而不是相反。    提交人    /u/Competitive-Fun-5969   [链接] [评论]]]></description>
@@ -109,6 +95,20 @@
       <description><![CDATA[      大家好！我们的团队已经在这个项目上工作了很长时间，但我们正在寻找改进和开发它的新想法。  最近，我们为 nxs-data-anonymizer 添加了其他变量。此功能允许您使用带有捕获组的正则表达式来表示不同的列数据类型。过滤器中的其他变量（例如 Raw 列数据类型和 Regex 的捕获组）现在可以解决此问题。 nxs-data-anonymizer 将在列中搜索匹配项，同时考虑相应列的数据类型特征，以便为单元格生成正确的值。并且在最新的补丁中，我们添加了对具有 GENERATED 字段类型的列的正确处理。  由于我们非常希望使该工具尽可能舒适和有用 - 任何反馈、贡献或只是一颗星都会非常有帮助和激励！     提交人    /u/marasypale   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f8pkce/nxsdataanonymizer/</guid>
       <pubDate>Wed, 04 Sep 2024 10:10:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 React 网站上托管文档的最简单方法</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f8p0wg/simplest_way_for_hosting_documentation_on_a_react/</link>
+      <description><![CDATA[大家好！ 我最近开源了一个用于网页抓取的 Python 库，但实际上并没有编写抓取工具（github：Parsera），我目前正在编写文档。我希望将文档托管在与基于 React 的网站（parsera.org）相同的域中。 创建文档页面的最佳工具或框架有哪些，这样我可以更专注于编写，而较少关注管理页面的技术细节？您有没有成功使用过的工具或框架建议？    提交人    /u/Financial-Article-12   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f8p0wg/simplest_way_for_hosting_documentation_on_a_react/</guid>
+      <pubDate>Wed, 04 Sep 2024 09:33:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTTP Toolkit 正在加入开源承诺</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f8oav2/http_toolkit_is_joining_the_open_source_pledge/</link>
+      <description><![CDATA[        提交人    /u/pimterry   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f8oav2/http_toolkit_is_joining_the_open_source_pledge/</guid>
+      <pubDate>Wed, 04 Sep 2024 08:42:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
