@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 06 Sep 2024 12:24:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 15:19:28 GMT</lastBuildDate>
+    <item>
+      <title>RepoLingo - 将 GitHub 存储库转换为 LLM 友好数据</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fahqza/repolingo_convert_github_repository_into/</link>
+      <description><![CDATA[我已经构建了一个工具，可以将任何 GitHub Repo 转换为结构化输出，以提供有关您当前工作/项目的任何 LLM 上下文。 🔥在这里查看：repolingo.leonkohli.dev 让我知道你的想法！    提交人    /u/LeonKohli   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fahqza/repolingo_convert_github_repository_into/</guid>
+      <pubDate>Fri, 06 Sep 2024 15:18:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS 粗体切换按钮</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fahk74/css_chunky_toggle_buttons/</link>
+      <description><![CDATA[  由    /u/efficated  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fahk74/css_chunky_toggle_buttons/</guid>
+      <pubDate>Fri, 06 Sep 2024 15:10:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[帮助 - 我的商店有危险吗？] 我的网站上的用户行为异常。机器人？骗子？发生了什么事？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fah7p4/help_is_my_store_in_danger_weird_behavior_of_user/</link>
+      <description><![CDATA[大家好，我经营一家销售体育产品的电子商务商店 (Shopify)。我们的库存非常分散，大多数用户只会查看自己个人最喜欢的球队的产品。 我正在使用一款可以查看用户行为的应用程序（以查看任何流失点和/或提高转化率）。 在过去 30 天内，该用户有 25 次以上会话 - 其中很多会话他查看了 50 多个页面并在网站上花费了 30 多分钟（有时 1 小时 30 分钟以上！） 他现在实际上正在我的网站上直播，看起来他/她基本上只是按字母顺序浏览我的收藏菜单列表并查看每个收藏/团队...然后点击该团队/收藏中的几个产品。然后移动到下一个……“巴尔的摩乌鸦队”布法罗比尔队 &gt; 卡罗莱纳黑豹队 &gt; 芝加哥熊队” 它会点击每个系列中的一款（或多款）产品，放大照片，然后移动到下一款。 这是不是邪恶的？地理指示器显示澳大利亚悉尼，这对我的观众来说并不正常…… 我担心有人试图复制我的所有产品？比如几乎截取我设计的屏幕截图？或者是机器人在做一些坏事？或者，我不知道……这只是 Google 抓取/索引我的网站的方式吗？ 如能得到帮助和建议，将不胜感激。    提交人    /u/PlaybookProductsAlex   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fah7p4/help_is_my_store_in_danger_weird_behavior_of_user/</guid>
+      <pubDate>Fri, 06 Sep 2024 14:56:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>奇怪的 graphql 错误</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fah2hq/weird_graphql_bug/</link>
+      <description><![CDATA[我有一个测试任务，应该用原始 PHP、MySQL、graphql 和 reactjs 实现，它在本地按预期工作，我想托管它，找到了一个名为 infinityfree 的免费托管，我的一个查询是关于根据产品 ID 从数据库获取产品，我有 3 个类别，其中包含来自“1,2,3”的想法，id 为 2 的产品完美返回，但是当查询关于类别 3 时，我从处理程序函数中收到意外的 json 输入结束  export const graphQLReq = async (query, variable = {}) =&gt;; { 尝试 { const response = await fetch(API_URL, { method: &#39;POST&#39;, headers: { &#39;Content-Type&#39;: &#39;application/json&#39;, &#39;Accept&#39;: &#39;application/json&#39;, }, body: JSON.stringify({ query, Variables }) }); const data = await response.json(); return data; } catch (error) { console.error(&#39;Error fetching GraphQL data:&#39;, error); throw error; } };  奇怪的是数据库从我的本地迁移过来，所有数据都存在，代码已经在本地测试过无数次，无论如何它都能工作，除了两个行为不端的查询之外，我试图记录我的后端，我可以看到从数据库返回到我的解析器的数据    提交人    /u/MoHaliim   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fah2hq/weird_graphql_bug/</guid>
+      <pubDate>Fri, 06 Sep 2024 14:50:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 https 从浏览器上传文件以更新进度</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fae0rs/upload_file_from_browser_using_https_for_progress/</link>
+      <description><![CDATA[Axios 似乎可以很好地完成文件上传，但是由于它是一个前端应用程序，因此我希望避免使用第三方库来完成简单的文件上传任务。 我的要求是能够上传文件并获取进度更新，文件大小可能为 1-3GB。 请注意，我不能使用 `FormData`，因为我最终想要使用 `S3 presigned urls`，它使用 `PUT` 并期望原始二进制文件。 除了使用 axios，我还遇到了 2 个选项：  Fetch Https 模块  虽然使用 `fetch` 上传似乎很简单，但似乎没有办法获取进度更新。 障碍我使用 `https` 的原因是它似乎需要 `Readstream`，而在浏览器中我无法使用 `fs` 模块。所以，只看到接口，我做了一些像这样的 hack 代码（采用类似示例，但使用表单数据）： import https from &#39;https&#39;; // file = event.target.files[0] export async function uploadFile( url: string, file: File, onProgress: () =&gt; void = noOp, method = REQ.PUT, ) { let progressDataLength = 0; let data = &quot;&quot;;返回新的 Promise（（resolve，reject）=&gt; { const req = https.request（{hostname：url，method：method，headers：{“Content-Type”：file.type，“Content-Length”：file.size，}，}，function（res）{res.on（&quot;data&quot;，（chunk）=&gt; {progressDataLength += chunk.size; data += chunk; onProgress（）; console.log（&quot;总共收到：&quot;，`${chunk.size}/${file.size}`）; }）; res.on（&quot;end&quot;，（）=&gt; {resolve（&quot;Mydata：&quot; + data）; }）; }, ）; //我的 HACKY CODE BIT const startConversionTime = new Date（）。getTime（）; Readable.from（Buffer.from（await file.arrayBuffer())).pipe(req); console.log( &quot;总转换时间：&quot;, new Date().getTime() - startConversionTime, ); req.end(); }); }  虽然此特定代码产生了下面的错误，但我不确定这是否合法？（转换是否正确完成？并且，我真的找不到 `File` 被转换为可读流的例子） TypeError: &quot;listener&quot; 参数必须是 Function 类型。收到类型对象 我有哪些实现此功能的选项，以及如何实现？    提交人    /u/bzarnal   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fae0rs/upload_file_from_browser_using_https_for_progress/</guid>
+      <pubDate>Fri, 06 Sep 2024 12:32:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一个 Chrome 扩展程序，用于在 Google 日历上查看多个时区</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fadxad/i_built_a_chrome_extension_to_see_multiple/</link>
+      <description><![CDATA[        提交人    /u/rylandking   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fadxad/i_built_a_chrome_extension_to_see_multiple/</guid>
+      <pubDate>Fri, 06 Sep 2024 12:27:31 GMT</pubDate>
+    </item>
     <item>
       <title>通过一次函数调用将 Tailwind 电子邮件模板转换为内联样式模板</title>
       <link>https://www.reddit.com/r/webdev/comments/1fadszy/convert_tailwind_email_template_to_an/</link>
@@ -34,7 +76,7 @@
       <pubDate>Fri, 06 Sep 2024 09:57:48 GMT</pubDate>
     </item>
     <item>
-      <title>你的图像处理程序是怎样的？</title>
+      <title>你的图像处理程序是什么样的？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fab4xm/whats_your_image_processing_routine/</link>
       <description><![CDATA[嘿，我即将处理数百张图像，您推荐什么工具。 理想情况下，我需要一个桌面工具，能够同时调整大小、转换、压缩多张图像。    提交人    /u/Kiato   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fab4xm/whats_your_image_processing_routine/</guid>
@@ -62,53 +104,11 @@
       <pubDate>Fri, 06 Sep 2024 08:29:09 GMT</pubDate>
     </item>
     <item>
-      <title>创建我们的第一个 saas 容易/困难吗？</title>
+      <title>创建我们的第一个 saas 有多容易/困难？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fa9zha/how_easydifficult_to_create_our_first_saas/</link>
       <description><![CDATA[见过很多人单独创建自己的 saas 吗？有些人甚至不使用任何编码平台（不知道它是如何工作的）并声称拥有成功的创业公司。你曾经推出过你的第一个 saas 吗？创建我们自己的 saas 的步骤是什么以及需要注意的事项是什么？    提交人    /u/shesparkzz   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fa9zha/how_easydifficult_to_create_our_first_saas/</guid>
       <pubDate>Fri, 06 Sep 2024 08:14:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何规划复杂的任务？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fa9zaq/how_do_you_plan_out_your_complex_tasks/</link>
-      <description><![CDATA[查看投票    由    /u/mekmookbro 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fa9zaq/how_do_you_plan_out_your_complex_tasks/</guid>
-      <pubDate>Fri, 06 Sep 2024 08:14:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Clockobot：自由职业者的计时器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fa8hav/clockobot_a_timer_for_freelancers/</link>
-      <description><![CDATA[      https://preview.redd.it/xts704ahu4nd1.jpg?width=1600&amp;format=pjpg&amp;auto=webp&amp;s=3376f6e1b050f501e24574e1e5461f498ee4cffb 可能对任何自由职业者都有用！ https://github.com/clockobot/clockobot    由   提交  /u/Competitive_Taste967   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fa8hav/clockobot_a_timer_for_freelancers/</guid>
-      <pubDate>Fri, 06 Sep 2024 06:25:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>多么诱人</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fa8c20/how_enticing/</link>
-      <description><![CDATA[      可能是 LLM 指令。还有人收到这个吗？    提交人    /u/ComfortingSounds53   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fa8c20/how_enticing/</guid>
-      <pubDate>Fri, 06 Sep 2024 06:15:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 JavaScript（JS、TS、Node、React）十年后，我正在考虑将 Python 添加到我的技术栈中 — 有什么见解？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fa75ju/after_10_years_with_javascript_js_ts_node_react/</link>
-      <description><![CDATA[大家好！ 我是一名全栈开发人员，拥有近 10 年使用 JavaScript 密集型技术堆栈的经验。我在这个堆栈内建立了一些初创公司并提供自由职业服务。我现在正在考虑扩展到非 JS 开发，特别是使用 Python。社区中有人做过类似的转变吗？我很想听听你的经历或你可能有的任何想法。:)    提交人    /u/Subject_You_4636   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fa75ju/after_10_years_with_javascript_js_ts_node_react/</guid>
-      <pubDate>Fri, 06 Sep 2024 04:58:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何制作这个排序页面？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fa6mff/how_to_make_this_sort_page/</link>
-      <description><![CDATA[嗨，我想为我的网站制作此排序页面帖子（我仍在学习制作网站），我该怎么做？我不知道该用谷歌搜索什么教程 排序页面    提交人    /u/Dyukimura12   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fa6mff/how_to_make_this_sort_page/</guid>
-      <pubDate>Fri, 06 Sep 2024 04:26:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何才能知道本网站的产品库存数量？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fa6bdw/how_can_i_figure_out_product_stock_quantity_on/</link>
-      <description><![CDATA[我知道有些人使用检查元素选项来了解美泰网站上销售的玩偶的剩余库存。这很有用，因为其中一些版本比其他版本卖得更快，我希望能够优先考虑如何花钱。在检查元素页面中搜索“数量”有时适用于其他 Shopify 网站，您可以看到剩余库存，但它似乎不适用于美泰创作。然而，有些人仍然能够知道。有人能帮我吗？这是一个例子：https://creations.mattel.com/products/monster-high-outta-fright-operetta-doll-hrp93   由    /u/yellowx0  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fa6bdw/how_can_i_figure_out_product_stock_quantity_on/</guid>
-      <pubDate>Fri, 06 Sep 2024 04:09:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
