@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 08 Sep 2024 03:16:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 06:17:01 GMT</lastBuildDate>
+    <item>
+      <title>Premiere Pro 滞后</title>
+      <link>https://www.reddit.com/r/software/comments/1fbr54a/premiere_pro_lags/</link>
+      <description><![CDATA[我需要一些有关 premiere 的帮助 -- 我基本上有 ryzen 5 3600 和 rtx 3060、16 gb ram，我在使用 premiere 时遇到了应用程序本身的问题，因为它在编辑 1-2 分钟后冻结了一个项目，这不是播放的问题，而是应用程序本身冻结了，如果我尝试打开任何窗口，它不喜欢它完全停止    提交人    /u/purpleyura   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fbr54a/premiere_pro_lags/</guid>
+      <pubDate>Sun, 08 Sep 2024 06:11:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 heic 转换为 jpg 或 png 的应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1fboem0/app_to_convert_heic_into_jpg_or_png/</link>
+      <description><![CDATA[我正在从 icloud 下载照片，需要将它们从 heic 转换为 jpg 或 png，我厌倦了使用在线转换器，而且我认为它们也不安全。有没有安全又免费的应用程序可以转换它们？    提交人    /u/limpbizkitvitu   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fboem0/app_to_convert_heic_into_jpg_or_png/</guid>
+      <pubDate>Sun, 08 Sep 2024 03:16:53 GMT</pubDate>
+    </item>
     <item>
       <title>FDM 病毒扫描程序？</title>
       <link>https://www.reddit.com/r/software/comments/1fbnbpe/fdm_virus_scanner/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>Adobe Reader 打印机功能的替代品（PDF24 缺少这些功能？）</title>
       <link>https://www.reddit.com/r/software/comments/1fbamof/alternative_to_adobe_reader_printer_features/</link>
-      <description><![CDATA[你好 我切换到 PDF24，我认为它很棒，直到我想在纸上打印实际的 PDF 文件。 我注意到它缺少 Adob​​e Reader 所拥有的很多选项（https://helpx.adobe.com/content/dam/help/en/acrobat/kb/print-mixed-page-sizes-acrobat/jcr%3Acontent/main-pars/procedure\_0/proc\_par/step\_2/step\_par/img\_0/mixed\_win\_step3.png.img.png) (来源：Adobe) https://helpx.adobe.com/uk/acrobat/kb/print-mixed-page-sizes-acrobat.html 我是否遗漏了设置中的某些内容，或者其他软件是否内置了这些选项？ 我放弃了 Adob​​e Reader 本身，因为它功能太多。太臃肿了。根据我的经验，PDF24 不是这样的，而且它还能做很多 Adob​​e Reader 做不到的事情。只是打印功能似乎缺少一些功能。    提交人    /u/Fuzzy9770   [链接] [评论]]]></description>
+      <description><![CDATA[你好 我切换到 PDF24，我认为它很棒，直到我想在纸上打印实际的 PDF 文件。 我注意到它缺少 Adob​​e Reader 所拥有的很多选项（https://helpx.adobe.com/content/dam/help/en/acrobat/kb/print-mixed-page-sizes-acrobat/jcr%3Acontent/main-pars/procedure\_0/proc\_par/step\_2/step\_par/img\_0/mixed\_win\_step3.png.img.png) (来源：Adobe) https://helpx.adobe.com/uk/acrobat/kb/print-mixed-page-sizes-acrobat.html 我是否遗漏了设置中的某些内容，或者其他哪些软件可能内置了这些选项？ 我摆脱了 Adob​​e Reader 本身，因为它太多了。臃肿。根据我的经验，PDF24 不是这样的，而且它还能做很多 Adob​​e Reader 做不到的其他事情。只是打印似乎缺少一些功能。    提交人    /u/Fuzzy9770   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fbamof/alternative_to_adobe_reader_printer_features/</guid>
       <pubDate>Sat, 07 Sep 2024 16:15:38 GMT</pubDate>
     </item>
@@ -78,14 +92,14 @@
     <item>
       <title>HERMES Paige 发布 - 寻找可以合作的 Windows 文本编辑器开发人员</title>
       <link>https://www.reddit.com/r/software/comments/1fatsvs/hermes_paige_released_looking_for_windows_text/</link>
-      <description><![CDATA[我所在的小型软件公司 Team HERMES 收购了 Paige，这是一个非常出色、文档齐全、功能齐全的 C 语言库，用于在 Windows 下处理富文本。我们正在寻找目前正在编写或计划编写样式化文本应用程序的开发人员（从 Markdown 编辑器到帮助文件查看器的任何应用程序都可以使用 - 甚至是轻量级文字处理应用程序），以便为我们的产品提供内部以外的用户群。这是一款开源产品，因此如果它缺少您需要的功能，您可以自由改进它（我们在这方面有几个建议）。公共存储库位于 https://github.com/nmatavka/HERMES-Paige。    提交人    /u/Advocatus-Honestus   [链接] [评论]]]></description>
+      <description><![CDATA[我所在的一家小型软件公司 Team HERMES 收购了 Paige，这是一个非常出色、文档齐全、功能齐全的 C 语言库，用于在 Windows 下处理富文本。我们正在寻找目前正在编写或计划编写样式化文本应用程序的开发人员（从 Markdown 编辑器到帮助文件查看器的任何应用程序都可以使用 - 甚至是轻量级文字处理应用程序），以便为我们的产品提供内部以外的用户群。这是一款开源产品，因此如果它缺少您需要的功能，您可以自由改进它（我们在这方面有几个建议）。公共存储库位于 https://github.com/nmatavka/HERMES-Paige。    提交人    /u/Advocatus-Honestus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fatsvs/hermes_paige_released_looking_for_windows_text/</guid>
       <pubDate>Fri, 06 Sep 2024 23:57:50 GMT</pubDate>
     </item>
     <item>
       <title>Windows 音频混音器有替代品吗？</title>
       <link>https://www.reddit.com/r/software/comments/1fasxtl/any_alternatives_to_the_windows_audio_mixer/</link>
-      <description><![CDATA[我想我正在寻找的是专门用于应用程序的音频路由器。像 WAM 这样的东西会强制将应用程序的音频发送到特定的音频设备。我已经使用 Voicemeeter 进行设备输入到输出混合，使用虚拟音频电缆，但我找不到像 WAM 那样强制应用程序使用特定输出的程序。 我对 WAM 的问题是，几乎每次我完全关闭电脑并重新打开时，应用程序的音频设置都会重置为默认设置。我试过音频路由器，但它是一个如此古老的程序，它不会将程序识别为“真实的”并禁用路由功能。  如果 Voicemeeter 能够做到这一点，那么另一个问题就是如何去做，但现在我想我只是在寻找 WAM 的替代品。    提交人    /u/RealSyloktheDefiled   [link] [comments]]]></description>
+      <description><![CDATA[我想我正在寻找的是专门用于应用程序的音频路由器。像 WAM 这样的东西会强制将应用程序的音频发送到特定的音频设备。我已经使用 Voicemeeter 进行设备输入到输出混合，使用虚拟音频电缆，但我找不到像 WAM 那样强制应用程序使用特定输出的程序。 我对 WAM 的问题是，几乎每次我完全关闭电脑并重新打开时，应用程序的音频设置都会重置为默认设置。我试过 音频路由器，但它是一个如此古老的程序，它不会将程序识别为“真实的”并禁用路由功能。  如果 Voicemeeter 能够做到这一点，那么另一个问题就是如何去做，但现在我想我只是在寻找 WAM 的替代品。    提交人    /u/RealSyloktheDefiled   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fasxtl/any_alternatives_to_the_windows_audio_mixer/</guid>
       <pubDate>Fri, 06 Sep 2024 23:16:37 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[https://preview.redd.it/zqfqua39t9nd1.png?width=1000&amp;format=png&amp;auto=webp&amp;s=60dedf654e37385a82588d5a586d7cf0c08283d8    提交人    /u/Xandeath75   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fassks/the_best_default_apps/</guid>
       <pubDate>Fri, 06 Sep 2024 23:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费的硬件欺骗软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1farhvw/free_hwid_spoofing_software/</link>
-      <description><![CDATA[是否存在非基于订阅的硬件欺骗器？    提交人    /u/ReapersYTIsHere   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1farhvw/free_hwid_spoofing_software/</guid>
-      <pubDate>Fri, 06 Sep 2024 22:10:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>任务管理器</title>
-      <link>https://www.reddit.com/r/software/comments/1far4bq/task_manager/</link>
-      <description><![CDATA[三个月前我创建了一个供个人使用的 Chrome 扩展程序，最近决定添加一些新功能。我意识到它对其他人真的很有帮助，所以我决定将 GitHub repo 公开。这是一个安全有效的工具。希望大家喜欢这个，如果你有任何建议、问题或批评，请跳到回复中！ 你可以在这里在 GitHub 上查看它：https://github.com/DrDead0/Task-Manager_Chrome-Extension    提交人    /u/Anxious-Ad8269   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1far4bq/task_manager/</guid>
-      <pubDate>Fri, 06 Sep 2024 21:53:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
