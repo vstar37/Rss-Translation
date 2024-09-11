@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 11 Sep 2024 03:13:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 06:18:33 GMT</lastBuildDate>
+    <item>
+      <title>自由职业者 ML/DS</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fe2c0m/freelancer_mlds/</link>
+      <description><![CDATA[我最近接到一个自由职业者的项目，为一家小企业开发 ML 应用程序，我纯属运气好才得到这个项目。在正确的时间出现在正确的地点。 我如何在这个网络中推广自己，我已经在我的 LinkedIn 上发布了它，但在哪里我可以更有效地传播它并获得更多客户？    提交人    /u/Chipi___   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fe2c0m/freelancer_mlds/</guid>
+      <pubDate>Wed, 11 Sep 2024 05:03:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 2024 年 9 月 10 日</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fe1jdg/oneminute_daily_ai_news_9102024/</link>
+      <description><![CDATA[ 泰勒·斯威夫特支持卡马拉·哈里斯和蒂姆·沃尔兹，谴责特朗普竞选团队对人工智能的误导。[1] 美国、中国和其他国家在首尔召开军事人工智能应用峰会。[2] 会见GovGPT：卡拉汉创新公司试行对话式人工智能伴侣。[3] 亚马逊在英国投资 80 亿英镑建设云计算和人工智能基础设施。[4] Meta承认抓取澳大利亚数据来训练人工智能工具。[5]  来源包括：https://bushaicave.com/2024/09/10/9-10-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fe1jdg/oneminute_daily_ai_news_9102024/</guid>
+      <pubDate>Wed, 11 Sep 2024 04:15:11 GMT</pubDate>
+    </item>
     <item>
       <title>我和人工智能玩家一起玩 DnD！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdyzcc/i_played_dnd_with_ai_players/</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[我正在寻找一种模型或技术（尽可能便宜），可以将文档（以图像形式输入）与其他任何内容（如图标、Outlook 签名等）区分开来。  我的第一个想法是布局模型，并使用文本分类器检查输出。这感觉很笨拙。 有什么建议吗？     提交人    /u/TheGonadWarrior   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdvgo7/document_or_not_a_document_classifier/</guid>
       <pubDate>Tue, 10 Sep 2024 22:59:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有一种可以轻松并排比较 AI 图像模型输出的方法？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdu00e/a_way_to_easily_compare_the_output_of_ai_image/</link>
-      <description><![CDATA[我们的想法是比较针对相同提示生成的图像，以及每个图像的速度和成本。也许您可以选择最佳输出，然后使用不同的模型对其进行迭代。以前有人这样做过吗？我正在为此做一些事情，但对其他人可能会觉得有用的东西感兴趣。    提交人    /u/Ramisugar   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdu00e/a_way_to_easily_compare_the_output_of_ai_image/</guid>
-      <pubDate>Tue, 10 Sep 2024 21:52:50 GMT</pubDate>
     </item>
     <item>
       <title>人工智能艺术就是盗窃。用我训练过的 Lora 窃取我的审美。</title>
@@ -74,13 +81,6 @@
       <description><![CDATA[  由    /u/enoumen  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdjry5/a_daily_chronicle_of_ai_innovations_on_september/</guid>
       <pubDate>Tue, 10 Sep 2024 14:52:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>入侵人工智能聊天机器人并泄露敏感数据</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdgbdd/hacking_a_ai_chatbot_and_leaking_sensitive_data/</link>
-      <description><![CDATA[这只是一个简短的视频，演示了来自文本到 SQL 聊天机器人的数据泄漏攻击 😈  目标是通过面向客户的 AI 聊天机器人泄露电子商务商店的收入。 https://www.youtube.com/watch?v=RTFRmZXUdig    提交人    /u/alongub   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdgbdd/hacking_a_ai_chatbot_and_leaking_sensitive_data/</guid>
-      <pubDate>Tue, 10 Sep 2024 12:11:36 GMT</pubDate>
     </item>
     <item>
       <title>苹果因新款 iPhone 缺乏人工智能而在中国受到批评，华为则取得进展</title>
