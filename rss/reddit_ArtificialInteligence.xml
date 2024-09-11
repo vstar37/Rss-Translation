@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 11 Sep 2024 12:24:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 15:14:02 GMT</lastBuildDate>
+    <item>
+      <title>詹姆斯·厄尔·琼斯的达斯·维达之声通过人工智能得以延续。配音演员们看到了其中的希望和危险</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fecjgl/james_earl_jones_darth_vader_voice_lives_on/</link>
+      <description><![CDATA[詹姆斯·厄尔·琼斯的达斯·维达声音通过人工智能得以延续。配音演员看到了希望和危险 https://candorium.com/news/20240911050001425/james-earl-jones-darth-vader-voice-lives-on-through-ai-voice-actors-see-promise-and-peril-in-that    提交人    /u/10marketing8   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fecjgl/james_earl_jones_darth_vader_voice_lives_on/</guid>
+      <pubDate>Wed, 11 Sep 2024 15:11:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国男子被指控犯有历史性人工智能音乐欺诈案：使用数千个机器人播放假歌曲，赚取 1000 万美元版税</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fe93vu/us_man_charged_in_historic_ai_music_fraud_case/</link>
+      <description><![CDATA[一名美国音乐家因使用人工智能欺诈性地增加其歌曲流量并赚取数百万版税而面临指控。检察官从未见过这样的案件。如果罪名成立，这名音乐家将面临数十年的监禁。 阅读完整故事：https://www.ibtimes.co.uk/us-man-charged-historic-ai-music-fraud-case-used-thousands-bots-stream-fake-songs-raked-10m-1726815   由    /u/vinaylovestotravel  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fe93vu/us_man_charged_in_historic_ai_music_fraud_case/</guid>
+      <pubDate>Wed, 11 Sep 2024 12:39:44 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能操作系统</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fe8p1n/aios/</link>
@@ -18,20 +32,6 @@
       <description><![CDATA[我有一段 3 小时的录音，正在寻找最佳的 AI 工具将其转录为文本。说话者在阿拉伯语方言、法语和英语之间切换。有人能推荐一种能有效处理这种语言组合的工具吗？    提交人    /u/Successful-Life8510   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fe8on6/best_ai_tool_for_transcribing_audio_in_a_mix_of/</guid>
       <pubDate>Wed, 11 Sep 2024 12:18:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能是一颗定时炸弹</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fe8hql/ai_is_a_ticking_time_bomb/</link>
-      <description><![CDATA[上周，我们的小团队决定尝试使用 AI 来加快我们的开发过程。作为一家小公司，我们一直在寻找加快速度的方法，因此我们认为使用 Cursor AI 来自动化一些基础设施管理将为我们带来优势。目标是简化扩展、资源分配并优化我们的 CI/CD 管道 - 任何可以加快构建速度的事情，对吗？ 大错误。 AI 最终让一切变得更糟。Cursor AI 误解了我们 YAML 文件中的几个关键配置，应用了错误的扩展策略，导致我们的 Kubernetes 集群不堪重负。它试图通过删除必要的构建层来优化我们的 Dockerfile，这导致了大量构建失败。更糟糕的是，它操纵了我们的 Terraform 脚本，应用了冲突的配置，导致资源被删除 - 本质上使我们的一些关键基础设施组件成为孤立组件。 它并没有就此止步。 Cursor AI 试图通过重写我们处理环境变量的方式来“优化”我们的 CI/CD 管道。这破坏了跨多个环境的部署过程，特别是因为它完全无视我们的机密管理策略。我们的负载均衡器被重新配置为在高峰时段将流量路由到错误的环境，从而造成严重中断。 最后，4 名工程师花了 3 天不间断的工作才修复了损坏。我们不得不手动撤消 AI 对从 YAML 和 Dockerfiles 到 Terraform 脚本和 Ansible 剧本的所有内容所做的更改。具有讽刺意味的是，AI 甚至设法破坏了它本应优化的回滚脚本，让我们不得不挖掘日志并逆向工程它留下的所有内容的状态。 截至今天，我们的经理已禁止所有 AI 工具接触我们的基础设施。原本是为了节省我们的时间，最终却花费了我们数天的停机时间和大量的手动返工。显然，人类在软件和基础设施管理中的判断力是不可替代的，尤其是在 DevOps 等复杂环境中。人工智能可能在小型重复性任务中有用，但当涉及到关键系统时，它还远远没有准备好。 对人工智能的痴迷是一颗定时炸弹。仅仅因为它是最新的流行语并不意味着它是解决所有问题的正确方法——如果我们不小心，它会带来更多的伤害而不是好处。    提交人    /u/Technical_Werewolf69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fe8hql/ai_is_a_ticking_time_bomb/</guid>
-      <pubDate>Wed, 11 Sep 2024 12:07:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 准备推出其下一代最佳人工智能 - Strawberry</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fe7a1v/openai_ready_to_launch_its_next_best_ai_strawberry/</link>
-      <description><![CDATA[  由    /u/Technicallysane02  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fe7a1v/openai_ready_to_launch_its_next_best_ai_strawberry/</guid>
-      <pubDate>Wed, 11 Sep 2024 10:57:49 GMT</pubDate>
     </item>
     <item>
       <title>使用 AI Campaign Planner 生成电子邮件计划</title>
