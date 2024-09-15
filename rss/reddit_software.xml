@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 15 Sep 2024 09:13:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 12:23:01 GMT</lastBuildDate>
+    <item>
+      <title>需要创建一条规则，用于在从网站下载时自动创建网站子文件夹 - JDownloader2</title>
+      <link>https://www.reddit.com/r/software/comments/1fhar9b/need_to_create_a_rule_for_automatic_creation_of/</link>
+      <description><![CDATA[就像标题所说的那样。我知道这听起来很复杂，但我已经尝试了所有方法，但最终结果仍然相同，每个视频都有子文件夹。我需要一条规则，这样每当我从 YouTube 等网站下载视频时，它都会自动下载 YouTube 文件夹中的所有 mp4，如果我从某些动漫网站下载视频，所有视频都会自动进入该文件夹。 -基本上，我需要一条规则，根据网站而不是视频或其标题自动创建文件夹。    提交人    /u/RarestProGamerr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fhar9b/need_to_create_a_rule_for_automatic_creation_of/</guid>
+      <pubDate>Sun, 15 Sep 2024 11:54:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该升级到较新版本的 Endnote 吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1fha24o/should_i_upgrade_to_a_newer_version_of_endnote/</link>
+      <description><![CDATA[从 Endnote v9 升级到 20 值得吗？新功能值得花一百多美元吗？任何帮助都将不胜感激。     提交人    /u/Holiday-Plum-8054   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fha24o/should_i_upgrade_to_a_newer_version_of_endnote/</guid>
+      <pubDate>Sun, 15 Sep 2024 11:08:52 GMT</pubDate>
+    </item>
     <item>
       <title>有人知道一种可以检测运营商的商业电话号码是否干净的服务吗？</title>
       <link>https://www.reddit.com/r/software/comments/1fh3gut/anyone_know_a_service_to_detect_if_business_phone/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[谈论那些在网上发布剪辑的人，无论是采访还是体育精彩片段等。 我猜是某种屏幕录制软件，可以让你回到过去录制。也许是 Nvidia shadowplay？我正在寻找轻松创建剪辑的方法，这些人能够在事件发生后一分钟内抓取并上传精彩片段，即使是在现场活动中也是如此。    提交人    /u/JenNettles   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fge397/what_software_are_clippers_using/</guid>
       <pubDate>Sat, 14 Sep 2024 04:28:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要特定的 YouTube 下载器</title>
-      <link>https://www.reddit.com/r/software/comments/1fgd2zs/need_a_specific_youtube_downloader/</link>
-      <description><![CDATA[我想找到一个从播放列表链接下载的 YouTube 播放列表下载器。我需要下载每个视频，以便它们的顺序在文件资源管理器中保存，例如将它们列为 1、2、3、4 等，或者具有一些执行相同操作的元数据。 它可以是一个软件，但网站也可以。无论哪种方式都可以。    提交人    /u/otterfeet69   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fgd2zs/need_a_specific_youtube_downloader/</guid>
-      <pubDate>Sat, 14 Sep 2024 03:24:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于特定文件夹的 RAID 样式软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1fgbr5l/raid_style_software_for_specific_folders/</link>
-      <description><![CDATA[我今天丢失了一个驱动器，上面有一些我没有备份的图片和文档。我通常很擅长保存它们，但这次不行，现在它们都不见了。  我的问题是：有没有软件可以只对特定文件夹而不是整个驱动器运行 RAID 样式备份？比如我希望能够在 Windows 上指定我的用户文件夹，并且只要对该文件夹进行更改，它就会自动将其镜像到我的其他 HDD 和外部驱动器。这样的东西一定存在，我只是不知道用什么词来搜索它。     提交人    /u/Impossible__Joke   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fgbr5l/raid_style_software_for_specific_folders/</guid>
-      <pubDate>Sat, 14 Sep 2024 02:10:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
