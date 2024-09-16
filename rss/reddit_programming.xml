@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 16 Sep 2024 06:20:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 09:17:12 GMT</lastBuildDate>
+    <item>
+      <title>推断人体工程学对象能力的隐式参数</title>
+      <link>https://www.reddit.com/r/programming/comments/1fhznhm/inferred_implicit_parameters_for_ergonomic_object/</link>
+      <description><![CDATA[  由    /u/Wor_king2000  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fhznhm/inferred_implicit_parameters_for_ergonomic_object/</guid>
+      <pubDate>Mon, 16 Sep 2024 08:36:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>约束与保障</title>
+      <link>https://www.reddit.com/r/programming/comments/1fhze7b/constraints_and_guarantees/</link>
+      <description><![CDATA[  由    /u/jfmengels  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fhze7b/constraints_and_guarantees/</guid>
+      <pubDate>Mon, 16 Sep 2024 08:15:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要犯这个常见的软件设计错误！</title>
+      <link>https://www.reddit.com/r/programming/comments/1fhzaj4/dont_make_this_common_software_design_mistake/</link>
+      <description><![CDATA[  由    /u/JustifiedCode  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fhzaj4/dont_make_this_common_software_design_mistake/</guid>
+      <pubDate>Mon, 16 Sep 2024 08:07:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>天哪！你不能复制 stackoverflow 代码用于商业用途（包括工作）</title>
+      <link>https://www.reddit.com/r/programming/comments/1fhz5pq/god_you_cant_copy_stackoverflow_code_for/</link>
+      <description><![CDATA[  由    /u/SrijalPlayz  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fhz5pq/god_you_cant_copy_stackoverflow_code_for/</guid>
+      <pubDate>Mon, 16 Sep 2024 07:57:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>代码库复活：利用人工智能进行复兴和重构</title>
+      <link>https://www.reddit.com/r/programming/comments/1fhyypo/codebase_resurrection_revive_and_refactor_with_ai/</link>
+      <description><![CDATA[  由    /u/thumbsdrivesmecrazy  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fhyypo/codebase_resurrection_revive_and_refactor_with_ai/</guid>
+      <pubDate>Mon, 16 Sep 2024 07:41:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源社区的衰落：发生了什么？</title>
+      <link>https://www.reddit.com/r/programming/comments/1fhynz7/the_decline_of_the_opensource_community_what/</link>
+      <description><![CDATA[  由    /u/TheDeveloper12345  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fhynz7/the_decline_of_the_opensource_community_what/</guid>
+      <pubDate>Mon, 16 Sep 2024 07:18:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Asio 在 C++ 中编写更快的网络程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1fhxw9b/writing_faster_networked_programs_in_c_with_asio/</link>
+      <description><![CDATA[  由    /u/Chaosvex  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fhxw9b/writing_faster_networked_programs_in_c_with_asio/</guid>
+      <pubDate>Mon, 16 Sep 2024 06:22:03 GMT</pubDate>
+    </item>
     <item>
       <title>所以我为 R（用于统计分析的语言）制作了一个运行时链接器+加载器</title>
       <link>https://www.reddit.com/r/programming/comments/1fhxtih/so_i_made_a_runtime_linkerloader_for_r_the/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[  由    /u/louis3195  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fhruc7/open_source_alternative_to_rewind_ai_written_in/</guid>
       <pubDate>Mon, 16 Sep 2024 00:39:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 ExpressPP 在 C++ 中构建 Web 应用程序：综合指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1fhnzof/building_web_applications_in_c_with_expresspp_a/</link>
-      <description><![CDATA[  由    /u/EDBC_REPO  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fhnzof/building_web_applications_in_c_with_expresspp_a/</guid>
-      <pubDate>Sun, 15 Sep 2024 21:39:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python Web 开发：使用 Flet 进行游戏/聊天应用程序 - 直播</title>
-      <link>https://www.reddit.com/r/programming/comments/1fhnu2a/python_web_development_gamechat_application_using/</link>
-      <description><![CDATA[  由    /u/drinkincode  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fhnu2a/python_web_development_gamechat_application_using/</guid>
-      <pubDate>Sun, 15 Sep 2024 21:32:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>无缝扩展 Redis：从蓝绿部署到持久数据集群 - 第 1 部分</title>
-      <link>https://www.reddit.com/r/programming/comments/1fhmz5b/seamlessly_scaling_redis_from_bluegreen/</link>
-      <description><![CDATA[  由    /u/moses_88  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fhmz5b/seamlessly_scaling_redis_from_bluegreen/</guid>
-      <pubDate>Sun, 15 Sep 2024 20:55:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我们在编程语言中使用空格来分隔标识符？</title>
-      <link>https://www.reddit.com/r/programming/comments/1fhmeu8/why_do_we_use_whitespace_to_separate_identifiers/</link>
-      <description><![CDATA[  由    /u/breck  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fhmeu8/why_do_we_use_whitespace_to_separate_identifiers/</guid>
-      <pubDate>Sun, 15 Sep 2024 20:31:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>安全基础设施即代码 GitHub Actions 工作流，带有 PR Lock</title>
-      <link>https://www.reddit.com/r/programming/comments/1fhm9rn/safe_infrastructure_as_code_github_actions/</link>
-      <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fhm9rn/safe_infrastructure_as_code_github_actions/</guid>
-      <pubDate>Sun, 15 Sep 2024 20:25:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>优化如何让《马里奥 64》变慢</title>
-      <link>https://www.reddit.com/r/programming/comments/1fhkgio/how_optimizations_made_mario_64_slower/</link>
-      <description><![CDATA[  由    /u/levodelellis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fhkgio/how_optimizations_made_mario_64_slower/</guid>
-      <pubDate>Sun, 15 Sep 2024 19:09:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>掌握管道和过滤器：消息系统模式</title>
-      <link>https://www.reddit.com/r/programming/comments/1fhk466/mastering_pipes_and_filters_a_messaging_system/</link>
-      <description><![CDATA[  由    /u/Nadaralp  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fhk466/mastering_pipes_and_filters_a_messaging_system/</guid>
-      <pubDate>Sun, 15 Sep 2024 18:55:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
