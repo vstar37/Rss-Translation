@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 23 Sep 2024 09:17:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 12:26:48 GMT</lastBuildDate>
+    <item>
+      <title>适用于我的 Galaxy Tab S 的轻量级操作系统</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fngchc/light_os_for_my_galaxy_tab_s/</link>
+      <description><![CDATA[嗨，我有一台旧的 Galaxy Tab S，屏幕很漂亮。现在它已经很旧了，而且速度很慢。我想继续用它在本地看电影（YouTube 和 Netflix 会是加分项，但不是必需的）和看漫画。我可以安装什么操作系统来让它使用起来不那么令人沮丧？它现在运行的是 Android 6.0.1。     提交人    /u/Akiroki   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fngchc/light_os_for_my_galaxy_tab_s/</guid>
+      <pubDate>Mon, 23 Sep 2024 09:26:06 GMT</pubDate>
+    </item>
     <item>
       <title>有谁知道电子钱包的开源后端，比如 cashapp 或 paypal</title>
       <link>https://www.reddit.com/r/opensource/comments/1fnetii/anyone_know_a_open_source_backend_for_ewallet/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好。我在多个文件夹中有很多 txt 文件和 SQL 脚本。我希望能够搜索这些文件内的文本、标签和代码，然后显示结果。我试过 nextcloud，但搜索速度太慢了。有什么建议吗？非常感谢 🤗    提交人    /u/amcgarcia   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fmaxm7/self_hosted_search_engine/</guid>
       <pubDate>Sat, 21 Sep 2024 19:33:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenFreeMap – 开源 OpenStreetMap 矢量瓦片托管</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fm6n4q/openfreemap_opensource_openstreetmap_vector_tile/</link>
-      <description><![CDATA[  由    /u/hyperknot  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fm6n4q/openfreemap_opensource_openstreetmap_vector_tile/</guid>
-      <pubDate>Sat, 21 Sep 2024 16:17:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
