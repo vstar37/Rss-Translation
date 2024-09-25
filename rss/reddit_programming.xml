@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 25 Sep 2024 09:15:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 12:26:32 GMT</lastBuildDate>
+    <item>
+      <title>评价我的投资组合</title>
+      <link>https://www.reddit.com/r/programming/comments/1fp2zyf/rate_my_portfolio/</link>
+      <description><![CDATA[  由    /u/Fancy_Sherbet_2395  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fp2zyf/rate_my_portfolio/</guid>
+      <pubDate>Wed, 25 Sep 2024 12:18:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于笔记记录的新型纯文本标记语言：dvlg</title>
+      <link>https://www.reddit.com/r/programming/comments/1fp2a8p/new_plaintext_markup_language_for_note_taking_dvlg/</link>
+      <description><![CDATA[  由    /u/underthreaded  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fp2a8p/new_plaintext_markup_language_for_note_taking_dvlg/</guid>
+      <pubDate>Wed, 25 Sep 2024 11:39:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>掌握 C# 12：新功能及其使用方法</title>
+      <link>https://www.reddit.com/r/programming/comments/1fp25x3/mastering_c_12_new_features_and_how_to_use_them/</link>
+      <description><![CDATA[  由    /u/abutun  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fp25x3/mastering_c_12_new_features_and_how_to_use_them/</guid>
+      <pubDate>Wed, 25 Sep 2024 11:31:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>像托马斯·杰斐逊一样安排线程</title>
+      <link>https://www.reddit.com/r/programming/comments/1fp1xx9/scheduling_threads_like_thomas_jefferson/</link>
+      <description><![CDATA[  由    /u/stevana  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fp1xx9/scheduling_threads_like_thomas_jefferson/</guid>
+      <pubDate>Wed, 25 Sep 2024 11:18:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪款笔记本电脑更适合程序员。我主要用它编码（全栈，有时是本机）1-Acer Swift 14 Core Ultra 5（18/512）价格-70k 2-Lenovo IdeaPad Slim 5 Core Ultra 5 125H（16/1TB）价格 72k 3-Macbook air m2（8gb/245）价格-70k，但我没有苹果环境请给我建议我太</title>
+      <link>https://www.reddit.com/r/programming/comments/1fp1meg/which_laptop_is_better_for_a_coder_my_usage_will/</link>
+      <description><![CDATA[  由    /u/frontend-lodu  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fp1meg/which_laptop_is_better_for_a_coder_my_usage_will/</guid>
+      <pubDate>Wed, 25 Sep 2024 10:58:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪一个更适合编码 POV --> 1- Acer Swift Go 14 内置 AI PC 高级笔记本电脑英特尔酷睿超 5 125H（14 英寸 OLED WQXGA+/16GB LPDDR5X/512GB SSD/英特尔 Arc 显卡/带快门的 1440p 摄像头/Win11/MSO）2-联想 IdeaPad Slim 5 英特尔酷睿超 5 125H（16GB/1TB SSD/Win 11/Office 21/FHD</title>
+      <link>https://www.reddit.com/r/programming/comments/1fp1kzm/which_one_is_better_for_coding_pov_1_acer_swift/</link>
+      <description><![CDATA[  由    /u/frontend-lodu  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fp1kzm/which_one_is_better_for_coding_pov_1_acer_swift/</guid>
+      <pubDate>Wed, 25 Sep 2024 10:56:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Winamp 最终开放了其代码的源代码，并获得了许可以防止分叉和源代码/二进制分发</title>
+      <link>https://www.reddit.com/r/programming/comments/1fp15q0/winamp_finally_open_sources_their_code_under/</link>
+      <description><![CDATA[人们一直在讨论这违反了 GitHub TOS，并且与泄漏相比，这不再是开源。我认为我们拥有最新的 winamp 源代码真是太好了。     由    /u/bruisedandbroke  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fp15q0/winamp_finally_open_sources_their_code_under/</guid>
+      <pubDate>Wed, 25 Sep 2024 10:28:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTML 中的 If 条件-指南 - Makemychance</title>
+      <link>https://www.reddit.com/r/programming/comments/1fp09fi/if_condition_in_html_guide_makemychance/</link>
+      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fp09fi/if_condition_in_html_guide_makemychance/</guid>
+      <pubDate>Wed, 25 Sep 2024 09:24:45 GMT</pubDate>
+    </item>
     <item>
       <title>避免 if-else 地狱：函数式风格</title>
       <link>https://www.reddit.com/r/programming/comments/1fozl65/avoiding_ifelse_hell_the_functional_style/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[  由    /u/mttd  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fotkxx/fp8_data_type_all_values_in_a_table/</guid>
       <pubDate>Wed, 25 Sep 2024 02:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解如何使用 Typescript、Vite 和 React 构建微前端应用程序！</title>
-      <link>https://www.reddit.com/r/programming/comments/1fot7ur/learn_how_to_build_a_micro_frontend_app_with/</link>
-      <description><![CDATA[  由    /u/raphael__ph  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fot7ur/learn_how_to_build_a_micro_frontend_app_with/</guid>
-      <pubDate>Wed, 25 Sep 2024 01:44:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>令人尴尬但真实：Uber 如何在生产环境中测试支付</title>
-      <link>https://www.reddit.com/r/programming/comments/1fopzwf/cringey_but_true_how_uber_tests_payments_in/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fopzwf/cringey_but_true_how_uber_tests_payments_in/</guid>
-      <pubDate>Tue, 24 Sep 2024 23:03:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>WhisperFlow：实时语音转文本库</title>
-      <link>https://www.reddit.com/r/programming/comments/1fopchr/whisperflow_a_realtime_speechtotext_library/</link>
-      <description><![CDATA[  由    /u/bitter-cognac  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fopchr/whisperflow_a_realtime_speechtotext_library/</guid>
-      <pubDate>Tue, 24 Sep 2024 22:32:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>评审之前：准备代码的策略</title>
-      <link>https://www.reddit.com/r/programming/comments/1fop8dv/before_the_review_strategies_for_preparing_your/</link>
-      <description><![CDATA[  由    /u/sorressean  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fop8dv/before_the_review_strategies_for_preparing_your/</guid>
-      <pubDate>Tue, 24 Sep 2024 22:27:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创造了毁灭世界的许可证</title>
-      <link>https://www.reddit.com/r/programming/comments/1fop7zd/i_created_a_license_to_end_the_world/</link>
-      <description><![CDATA[关于法律、文献和官僚主义的评论    由    /u/NoahSchiro  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fop7zd/i_created_a_license_to_end_the_world/</guid>
-      <pubDate>Tue, 24 Sep 2024 22:26:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>编码问题 - 特斯拉超级充电站</title>
-      <link>https://www.reddit.com/r/programming/comments/1foo7n0/coding_problem_tesla_superchargers/</link>
-      <description><![CDATA[  由    /u/curious_drive  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1foo7n0/coding_problem_tesla_superchargers/</guid>
-      <pubDate>Tue, 24 Sep 2024 21:40:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对新加入值班团队的人说的话</title>
-      <link>https://www.reddit.com/r/programming/comments/1foo39r/what_i_tell_people_new_to_oncall/</link>
-      <description><![CDATA[  由    /u/mateusnr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1foo39r/what_i_tell_people_new_to_oncall/</guid>
-      <pubDate>Tue, 24 Sep 2024 21:35:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 TCP 套接字在 PHP 中执行高频指标</title>
-      <link>https://www.reddit.com/r/programming/comments/1fonub4/high_frequency_metrics_in_php_using_tcp_sockets/</link>
-      <description><![CDATA[  由    /u/maus80  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fonub4/high_frequency_metrics_in_php_using_tcp_sockets/</guid>
-      <pubDate>Tue, 24 Sep 2024 21:24:54 GMT</pubDate>
     </item>
     </channel>
 </rss>

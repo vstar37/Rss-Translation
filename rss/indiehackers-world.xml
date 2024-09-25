@@ -4,7 +4,20 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Wed, 25 Sep 2024 09:16:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 12:27:16 GMT</lastBuildDate>
+    <item>
+      <title>我如何在兼顾全职工作的同时在 24 小时内打造出 MVP（以及你也可以做到）</title>
+      <link>https://feed.indiehackers.world/post/e6e1ccb7b4</link>
+      <description><![CDATA[一个简单的结构，可帮助您快速验证您的 SaaS 想法——通常在一天之内。
+下一步是什么？
+我创建了 BuildMVP 来帮助像您这样的创始人、制造商和兼职人员从想法到发布，而无需中间花费数周的时间。我知道时间有限而想法无限是什么感觉。因此，如果您一直在等待完美时刻，那么现在您就有机会在短短 24 小时内构建 MVP。
+从这里获取您的副本
+https://buildmvp.aidevguru.com/
+现在，我很好奇——您将构建什么？
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/e6e1ccb7b4</guid>
+      <pubDate>Tue, 24 Sep 2024 14:07:26 GMT</pubDate>
+    </item>
     <item>
       <title>20 个经过验证的微型 SaaS 创意，您可以独自构建并每月赚取 1 万美元</title>
       <link>https://feed.indiehackers.world/post/333a4d1290</link>
@@ -24,8 +37,8 @@ Discord Indiehackers Chat广告这里]]></description>
     <item>
       <title>这些 LinkedIn 应用程序/插件如何访问 LinkedIn API？</title>
       <link>https://feed.indiehackers.world/post/c79bb25d16</link>
-      <description><![CDATA[我看到很多 LinkedIn 插件/应用程序，比如 Taplio 或 AuthoredUp，都是在 LinkedIn 之上构建的。
-但是这些应用程序如何访问 LinkedIn 的数据/端点？据我所知，申请官方 LinkedIn API 访问权限相当困难。
+      <description><![CDATA[我看到很多 LinkedIn 插件/应用程序，例如 Taplio 或 AuthoredUp，都是在 LinkedIn 之上构建的。 
+但是这些应用程序如何访问 LinkedIn 的数据/端点？据我所知，申请官方 LinkedIn API 访问权限非常困难。
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/c79bb25d16</guid>
       <pubDate>Mon, 23 Sep 2024 05:26:10 GMT</pubDate>
@@ -35,7 +48,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <link>https://feed.indiehackers.world/post/ebc53935c5</link>
       <description><![CDATA[很好的观点。每个会编程的独立黑客都想构建 SaaS，因为他们认为只有代码可以扩展。
 但是媒体可以扩展，劳动力也可以扩展，资本也可以扩展。
-值得扩展您的视野。—@csallen
+值得扩展你的视野。—@csallen
 喜欢这份时事通讯吗？ 🏁
 将其转发给朋友，并让他们知道他们可以此处订阅。
 此外，您可以提交一个部分以供我们包含在未来的新闻通讯中。
@@ -80,7 +93,7 @@ Discord Indiehackers Chat广告此处]]></description>
       <title>最佳销售和营销自动化软件</title>
       <link>https://feed.indiehackers.world/post/a9cb9ac0a7</link>
       <description><![CDATA[借助直观的 Pardot 用户体验，您可以轻松浏览平台，最大程度地提高工作效率。
-加入 Pardot 社区意味着您将使用一套强大的工具集，该工具集旨在提升您的销售和营销能力。
+加入 Pardot 社区意味着您将使用一套强大的工具集，该工具集旨在提升您的销售和营销水平。
 不要错过利用 Pardot 的功能。
 ActiveCampaign
 谈到 2024 年的销售和营销自动化，ActiveCampaign 在该领域脱颖而出，成为一股强大的力量。
@@ -164,22 +177,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/27c658f881</guid>
       <pubDate>Thu, 19 Sep 2024 08:49:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我用来采访 200 多人并验证想法的模板</title>
-      <link>https://feed.indiehackers.world/post/28233a5456</link>
-      <description><![CDATA[
-用户访谈必读：Rob Fitzpatrick 的《妈妈测试》。它向您展示了如何尽可能不带偏见地发现用户需求。
-
-另一本值得一读的书：Bob Moesta 和 Greg Engle 的《需求方销售 101》。它可以帮助您了解用户的“待完成工作”，以便您可以根据他们的需求调整您的产品和信息。
-
-我遇到的其他新闻通讯和博客
-
-
-所以，这就是我久经考验的模板，它指导我进行了 200 多次访谈 -&gt; 模板
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/28233a5456</guid>
-      <pubDate>Thu, 19 Sep 2024 05:47:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
