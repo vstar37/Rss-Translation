@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 29 Sep 2024 18:16:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 21:11:36 GMT</lastBuildDate>
+    <item>
+      <title>有没有比 ChatGPT 或 Claude 更擅长解释数学的人工智能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsd6ij/is_there_an_ai_thats_better_at_explaining_math/</link>
+      <description><![CDATA[我知道 wolfram 是一个很棒的数学解题器，但在研究证明和类似问题时，是否有 AI 可以充当更“高级”的（即高于微积分或线性代数的任何内容）主题的教学助理？在研究新的数学/物理概念时，我通常会有很多问题，如果有比 chatgpt/claude 更好的 AI，我很乐意尝试一下！    提交人    /u/pouyank   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fsd6ij/is_there_an_ai_thats_better_at_explaining_math/</guid>
+      <pubDate>Sun, 29 Sep 2024 19:56:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rossum 人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsc668/rossumai/</link>
+      <description><![CDATA[Rossum AI 为何能以 18,000 美元的起价提供 AI 功能？这难道不是世界上最昂贵的 AI 吗？    提交人    /u/johnthrives   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fsc668/rossumai/</guid>
+      <pubDate>Sun, 29 Sep 2024 19:12:51 GMT</pubDate>
+    </item>
     <item>
       <title>为什么 Devin 不再出现在新闻中或者我不知道？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsamr1/why_devin_is_out_of_news_or_i_am_unaware/</link>
@@ -55,13 +69,6 @@
       <pubDate>Sun, 29 Sep 2024 14:34:45 GMT</pubDate>
     </item>
     <item>
-      <title>请帮点忙</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fs2g5m/little_help_please/</link>
-      <description><![CDATA[我有大约 100 个 pdf 文件，我想将它们用作工作参考资料。这些材料的格式相同。模块名称、章节编号、标题、材料、问题和调查。有些材料重叠，有时可能会有不同的应用。人工智能将如何保持其分段而不返回错误的输出。 有人告诉我，所有这些数据都需要矢量化。是这样吗？有没有什么工具可以使这些任务更容易？    提交人    /u/Coachjoey   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fs2g5m/little_help_please/</guid>
-      <pubDate>Sun, 29 Sep 2024 11:42:26 GMT</pubDate>
-    </item>
-    <item>
       <title>Meta AI 在 WhatsApp 上推出新的语音和照片编辑工具</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fs26e0/meta_ai_introduces_new_voice_and_photo_editing/</link>
       <description><![CDATA[Meta 的新 WhatsApp 更新允许用户通过语音消息与 Meta AI 进行交互并编辑共享的照片。https://theaiwired.com/meta-ai-introduces-new-voice-and-photo-editing-tools-on-whatsapp/    提交人    /u/alyis4u   [链接] [评论]]]></description>
@@ -74,13 +81,6 @@
       <description><![CDATA[大家好，这是来自生成式 AI 领域的最新消息。让我们深入了解一些激动人心的更新！  DaVinci Resolve 发布了 Gaussian Splatting Plugin。 Gen-3 Alpha Turbo Update 即将提供垂直视频生成。 Expression Editor 可让您使用 ComfyUI 实时编辑面部表情。 Ctrl-X Framework 为文本到图像生成带来更多控制。 FLUX.1-dev ControlNet 获得升级和深度图改进。 AMD 推出了 AMD-135M 语言模型。  更多信息：https://comfyuiblog.com/ai-news-gaussian-splatting-gen-3-alpha-turbo-and-more-exciting-updates/    由   提交  /u/hackerzcity   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fs18u7/ai_news_gaussian_splatting_gen3_alpha_turbo_and/</guid>
       <pubDate>Sun, 29 Sep 2024 10:20:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 2024 年 9 月 28 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1frur0d/oneminute_daily_ai_news_9282024/</link>
-      <description><![CDATA[ 如果您的 AI 看起来更聪明，这要归功于更聪明的人类训练师。[1] AMD 推出其首款小型语言模型 AMD-135M。[2] 通过主动深度学习穿越化学空间，实现低数据药物发现。[3] 机械手可以从手臂上分离，爬到物体上并捡起它们。[4]  来源包括：https://bushaicave.com/2024/09/28/9-28-2024/    提交人    /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1frur0d/oneminute_daily_ai_news_9282024/</guid>
-      <pubDate>Sun, 29 Sep 2024 02:51:42 GMT</pubDate>
     </item>
     <item>
       <title>扎克伯格：用户数据缺乏价值 因此它适合用于人工智能模型的训练。</title>
