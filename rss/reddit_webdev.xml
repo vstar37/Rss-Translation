@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 05 Oct 2024 01:06:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 03:18:22 GMT</lastBuildDate>
+    <item>
+      <title>这是个好主意吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fwgam4/is_it_a_good_idea/</link>
+      <description><![CDATA[我如何测试一个网站是否真的是个好主意？ 假设你有一个想法并花时间制作一个网站/网络应用程序。 你如何测试它是否真的是个好主意并且可以吸引用户？ 我花了很多时间制作一个网络应用程序，我担心它是否安全和/或对其他人有效。    提交人    /u/TheDoomfire   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fwgam4/is_it_a_good_idea/</guid>
+      <pubDate>Sat, 05 Oct 2024 02:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>计划制作移动应用程序和网站，我应该先从哪里开始，使用什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fwfp5c/planning_on_making_a_mobile_app_and_website_what/</link>
+      <description><![CDATA[我正计划做我的第一个重要项目，也可能将它用于我的本科毕业论文。它将类似于基于 feed 的应用程序，用户可以与内容进行交互。他们也会有自己的帐户。 无论如何，我想制作一个网站版本和一个移动应用程序。最好用户会更多地使用该应用程序（因此我希望使其更加流畅和稳定），但与移动开发（我是初学者）相比，我拥有制作网站的经验更多。我没有制作这个的时间限制，所以我不介意学习。 无论如何，我想知道我应该先从哪一个开始。我应该制作一个标准的网站版本，然后再转向更用户友好的移动应用程序。还是反之亦然？即使那样，我应该使用什么？我打算在我的网站上使用 React.js，还有 React-native，但还有什么（如果有更好的选择也请告诉我）？ 我也在这里寻求一些建议，以防你们对我应该如何做我的第一个项目有什么建议......帮助我学习并且不会失去所有的动力哈哈。    提交人    /u/fireshinobi123   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fwfp5c/planning_on_making_a_mobile_app_and_website_what/</guid>
+      <pubDate>Sat, 05 Oct 2024 01:53:36 GMT</pubDate>
+    </item>
     <item>
       <title>doc-avatar：微型网络组件，根据名称显示独特的基于 SVG 的文档图标。</title>
       <link>https://www.reddit.com/r/webdev/comments/1fwdudb/docavatar_tiny_web_component_that_shows_a_unique/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>API 设计：具有添加/更新/删除数组的对象与具有连接操作字段的数组？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fwarra/api_design_object_with_addupdateremove_arrays_vs/</link>
-      <description><![CDATA[大家好， 我正在设计一个处理知识节点和连接（图形结构）的 API。在更新知识节点时，我在处理连接操作（添加、更新和删除）的两种方法之间犹豫不决。 以下是两种设计：   连接作为具有单独添加/更新/删除数组的对象 在此设计中，连接被分为三个单独的数组： • 添加：用于新连接。 • 更新：用于修改现有连接。 • 删除：用于删除连接。示例：  { &quot;connections&quot;: { &quot;add&quot;: [{ ... }], &quot;update&quot;: [{ ... }], &quot;remove&quot;: [{ &quot;id&quot;: &quot;123&quot; }] }    连接作为带有操作字段的单个数组 在此设计中，连接都在一个数组中，并带有显式的操作字段以指示是否应添加、更新或删除连接。示例：  { &quot;connections&quot;: [ { &quot;action&quot;: &quot;add&quot;, ... }, { &quot;action&quot;: &quot;update&quot;, &quot;id&quot;: &quot;123&quot;, ... }, { &quot;action&quot;: &quot;remove&quot;, &quot;id&quot;: &quot;456&quot; } ]  您认为哪种方法更有利于开发人员体验、一致性和可维护性？我很想听听你对每种模式的优缺点的看法，特别是如果你以前使用过类似的模式。 感谢您的反馈！    提交人    /u/Passenger_Available   [link] [comments]]]></description>
+      <description><![CDATA[大家好， 我正在设计一个处理知识节点和连接（图形结构）的 API。在更新知识节点时，我在处理连接操作（添加、更新和删除）的两种方法之间犹豫不决。 以下是两种设计：   连接作为具有单独添加/更新/删除数组的对象 在此设计中，连接被分为三个单独的数组： • 添加：用于新连接。 • 更新：用于修改现有连接。 • 删除：用于删除连接。示例：  { &quot;connections&quot;: { &quot;add&quot;: [{ ... }], &quot;update&quot;: [{ ... }], &quot;remove&quot;: [{ &quot;id&quot;: &quot;123&quot; }] }    连接作为带有操作字段的单个数组 在此设计中，连接都在一个数组中，并带有一个显式的操作字段以指示是否应添加、更新或删除连接。示例：  { &quot;connections&quot;: [ { &quot;action&quot;: &quot;add&quot;, ... }, { &quot;action&quot;: &quot;update&quot;, &quot;id&quot;: &quot;123&quot;, ... }, { &quot;action&quot;: &quot;remove&quot;, &quot;id&quot;: &quot;456&quot; } ]  您认为哪种方法更有利于开发人员体验、一致性和可维护性？我很想听听你对每种模式的优缺点的看法，特别是如果你以前使用过类似的模式。 感谢您的反馈！    提交人    /u/Passenger_Available   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fwarra/api_design_object_with_addupdateremove_arrays_vs/</guid>
       <pubDate>Fri, 04 Oct 2024 21:47:24 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[例如，我知道如何做一个电子商务网站。但我认为这是非常基础的，所以对于当前的市场来说还不够。 我希望得到一些指导，以了解行业希望我做什么。    提交人    /u/Boudria   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fw628l/as_a_student_i_want_to_know_what_type_of_website/</guid>
       <pubDate>Fri, 04 Oct 2024 18:22:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么HR面试时要问你现在的薪资？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fw3tbi/why_hr_asks_you_for_your_current_salary_on/</link>
-      <description><![CDATA[我目前在一家公司担任全栈 Web 开发人员，我在这里工作了大约 5 年，最近我申请了一个工作机会并获得了第一次面试机会。 我不明白询问我挣多少钱以及期望薪水是多少的逻辑。我的意思是，他们为什么要关心？他们难道不应该只关心面试官想要挣多少钱吗？他们为什么需要知道你目前的薪水？ “当前薪水”怎么可能意味着你现在的薪水？信息会影响整个工作面试过程吗？ 假设您有 3 位最终候选人，粗略地说，他们都是一样的 (技术，软技能等..)，唯一的区别是他们目前的工资，而这 3 位候选人出于某种原因想要赚取相同的金额，例如： 当前工资 DevA：$ 5000.00 美元 DevB：$ 3000.00 美元 DevC：$ 2000.00 美元  预期工资： DevA：$ 7000.00 美元 DevB：$ 7000.00 美元 DevC：$ 7000.00 美元  假设公司 &#39;X&#39; 只能招聘一名工程师，他们会做什么决定？他们的决定会受到当前和预期薪水的影响吗？他们会拒绝这 3 名工程师并寻找其他人吗？ 为什么 DevC 不是一个好的选择？因为他/她比其他人赚得少？请记住，所有 3 位候选人都有相同的经验，他们不是初级员工（在这个假设情景中）。 他们应该只询问你的期望薪水，别的什么都不问！    提交人    /u/andres2142   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fw3tbi/why_hr_asks_you_for_your_current_salary_on/</guid>
-      <pubDate>Fri, 04 Oct 2024 16:47:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人能告诉我如何实现这个滑块动画吗？网站是 asianc. sh</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fw3bao/can_someone_tell_me_how_we_can_achieve_this/</link>
-      <description><![CDATA[        提交人    /u/Arquenium   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fw3bao/can_someone_tell_me_how_we_can_achieve_this/</guid>
-      <pubDate>Fri, 04 Oct 2024 16:26:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
