@@ -4,11 +4,11 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 06 Oct 2024 06:18:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 09:14:26 GMT</lastBuildDate>
     <item>
       <title>寻找多用户远程桌面系统</title>
       <link>https://www.reddit.com/r/opensource/comments/1fx1tsg/looking_for_a_multiuser_remote_desktop_system/</link>
-      <description><![CDATA[大家好！ 我正在寻找一个可以在 Ubuntu 中运行的远程桌面控制系统。类似于 VNC，但允许多个用户同时远程查看和控制此 Ubuntu 桌面的屏幕。 我已经寻找了一段时间，但我发现的所有解决方案都只允许一个用户同时使用。如果第二个用户登录，第一个用户将被踢出。 我不确定这是否可行，但如果能为我指明正确的方向，我将不胜感激。 谢谢！    提交人    /u/SomeDudeFromSpace   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我正在寻找一个可以在 Ubuntu 中运行的远程桌面控制系统。类似于 VNC，但允许多个用户同时远程查看和控制此 Ubuntu 桌面的屏幕。 我已经寻找了一段时间，但我发现的所有解决方案都只允许一个用户同时使用。如果第二个用户登录，第一个用户将被踢出。 我不确定这是否可行，但如果能为我指明正确的方向，我将不胜感激。 谢谢！ 编辑：我正在寻找类似 https://tuple.app/ 的东西，但是是开源的。    提交人    /u/SomeDudeFromSpace   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fx1tsg/looking_for_a_multiuser_remote_desktop_system/</guid>
       <pubDate>Sat, 05 Oct 2024 22:16:34 GMT</pubDate>
     </item>
