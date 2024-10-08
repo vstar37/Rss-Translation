@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 07 Oct 2024 21:13:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 01:02:24 GMT</lastBuildDate>
+    <item>
+      <title>悬停/鼠标悬停最佳实践？桌面版与移动版</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fyngh1/hover_mouseover_best_practices_desktop_vs_mobile/</link>
+      <description><![CDATA[嗨，webdev，我正在创建一个桌面优先的网站，在视觉方面主要偏向于使用 CSS。 目前使用 :hover 相当多，因为它在桌面上创建了一个出色且实用的用户体验。但是它对移动设备并没有真正的帮助，甚至会混淆仅用于悬停的方面，特别是 iOS/Safari 总是对我使用它感到不高兴。 我是这个领域的新手，有没有关于 :hover 和移动和可访问性的最佳实践？“完成的事情”是始终将 :hovers 包装在媒体查询中以在移动设备上关闭它们吗？实际上不将任何内容或功能放在悬停后面，只是轻微的视觉效果？完全避免使用悬停和对移动设备不友好的东西？因为它仍然可用且可点击，所以忽略移动设备上的怪癖？ 剥离功能当然会消除这个问题，但那样就没什么乐趣、创造力或 TLC 了，哈哈。    提交人    /u/Psengath   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fyngh1/hover_mouseover_best_practices_desktop_vs_mobile/</guid>
+      <pubDate>Tue, 08 Oct 2024 00:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想将前端托管在 GitHub Pages 上，将后端托管在其他地方</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fyn1oe/i_want_to_host_my_frontend_on_github_pages_and/</link>
+      <description><![CDATA[我想制作一个带按钮的应用程序。该按钮向我的 API 发出 GET 请求以显示当前的点击次数。 单击时，它会向我的 API 发送 POST 请求以增加点击次数。  要求： - 应用程序需要安全，只有我可以访问我的数据库 - 应用程序是开源的并托管在 GitHub 页面上 我在想如何做到这一点，我有两个想法。   我的 API 不需要密钥，而是将来自我的域的请求列入白名单，将来自任何其他域的请求列入黑名单 我将能够以某种方式注入一个密钥并使用它  我不知道如何做 #2，或者是否可能 我听说 #1 不是很安全，因为有人可以设置 CORS 并将请求伪装成来自我的域的请求。  有人知道还有其他方法可以实现吗    提交人    /u/nikitarevenco   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fyn1oe/i_want_to_host_my_frontend_on_github_pages_and/</guid>
+      <pubDate>Tue, 08 Oct 2024 00:24:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Github 页面帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fykae4/github_pages_help/</link>
+      <description><![CDATA[我有一个小型 IT 公司网站，但 github 页面显示它不是用于商业用途。我们都选择忽略这一点，对吧？！或者我应该将我的 IT 公司页面转移到其他免费的网络托管服务？它必须是免费的，因为我是一个可怜的网络开发人员，我无法自行托管，即使我知道如何做，因为我邪恶的岳父不允许我访问我的路由器来转发这样的端口。    由   提交  /u/cyber-py-guy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fykae4/github_pages_help/</guid>
+      <pubDate>Mon, 07 Oct 2024 22:15:17 GMT</pubDate>
+    </item>
     <item>
       <title>应对复杂性增加导致不知所措的建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1fyigsl/advice_on_feeling_overwhelmed_as_complexity_grows/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[        提交人    /u/Richu727   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fyd1j0/hostinger_embedded_code_problems/</guid>
       <pubDate>Mon, 07 Oct 2024 17:15:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着所有新的 CSS 徽标提案的流传，我向您提出我的提案。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fyd0ix/with_all_the_new_css_logo_proposals_floating/</link>
-      <description><![CDATA[  由    /u/Repulsive-Bird6367  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fyd0ix/with_all_the_new_css_logo_proposals_floating/</guid>
-      <pubDate>Mon, 07 Oct 2024 17:14:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>二维码调查答案的存储/存储库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fycc7e/storagerepository_of_answers_from_qr_code_survey/</link>
-      <description><![CDATA[您好！ 我的学校项目团队希望公众在扫描二维码后回答一个问题。二维码之后，例如，会有一个登录页面，其中包含一个需要回答的调查问题。那么我该如何存储/创建匿名答案的存储库？我可以将其链接到 Google 表单或类似的东西吗？提前谢谢大家！！     提交人    /u/AppropriateTomato178   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fycc7e/storagerepository_of_answers_from_qr_code_survey/</guid>
-      <pubDate>Mon, 07 Oct 2024 16:46:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>解决 Redis 缓存失效导致页面内容重复的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fybgmu/help_with_redis_cache_invalidation_causing/</link>
-      <description><![CDATA[我正在开展一个项目，使用 Redis 缓存分页帖子内容以优化性能。我实施了基于时间戳的缓存失效策略，但遇到了一个问题，即第 1 页和第 2 页显示重复内容，即使缓存应该正确失效。以下是我目前所做的工作：  设置：我使用带有 Redis 的 Docker，缓存设置为每 6 小时过期一次。每个页面都有一个缓存键（api:post:recent:{page），我存储一个 last_updated 时间戳来决定何时使缓存失效。 问题：第 1 页和第 2 页的时间戳不同，但其中一半仍显示相同的内容。我检查了 Redis 缓存，时间戳如下： 第 1 页：1728297841（2024-10-07 10:44:01 UTC） 第 2 页：1728311020（2024-10-07 14:23:40 UTC） last_updated：1728297841（2024-10-07 10:44:01 UTC）   我怀疑缓存失效逻辑没有按预期工作。由于第 2 页具有较新的时间戳，因此它绕过了失效，但最终仍显示来自第 1 页的重复内容。 我目前的方法：  对于每个请求，我都会检查页面的时间戳是否大于或等于 last_updated 值。如果不是，我会获取新数据并更新缓存。  问题：  我是否应该为每个页面使用单独的 last_updated 键，或者是否有更好的方法来全局处理这个问题？ 这可能是请求之间的竞争条件或时间问题吗？ 是否有更有效的分页内容缓存失效策略？  非常感谢您对如何解决此问题的任何见解或建议！   由    /u/Royal-Stunning  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fybgmu/help_with_redis_cache_invalidation_causing/</guid>
-      <pubDate>Mon, 07 Oct 2024 16:10:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
