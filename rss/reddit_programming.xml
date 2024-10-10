@@ -4,20 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 10 Oct 2024 18:21:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 21:14:05 GMT</lastBuildDate>
+    <item>
+      <title>TypeScript：塑造错误管理的新前沿</title>
+      <link>https://www.reddit.com/r/programming/comments/1g0tc3m/typescript_shaping_a_new_frontier_for_error/</link>
+      <description><![CDATA[  由    /u/Famous_Teach3882  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g0tc3m/typescript_shaping_a_new_frontier_for_error/</guid>
+      <pubDate>Thu, 10 Oct 2024 21:10:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的朋友为他的 TI-84 CE 计算器编写了一个老虎机</title>
+      <link>https://www.reddit.com/r/programming/comments/1g0suqg/my_friend_coded_a_slots_machien_for_his_ti84_ce/</link>
+      <description><![CDATA[  由    /u/AccidentEast4888  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g0suqg/my_friend_coded_a_slots_machien_for_his_ti84_ce/</guid>
+      <pubDate>Thu, 10 Oct 2024 20:49:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 60 秒内掌握 Linux 终端命令！🚀</title>
+      <link>https://www.reddit.com/r/programming/comments/1g0sq5y/master_linux_terminal_commands_in_under_60_seconds/</link>
+      <description><![CDATA[  由    /u/Plus_Text7567  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g0sq5y/master_linux_terminal_commands_in_under_60_seconds/</guid>
+      <pubDate>Thu, 10 Oct 2024 20:44:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>源代码的价值</title>
+      <link>https://www.reddit.com/r/programming/comments/1g0qlev/the_value_of_source_code/</link>
+      <description><![CDATA[  由    /u/Chobeat  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g0qlev/the_value_of_source_code/</guid>
+      <pubDate>Thu, 10 Oct 2024 19:10:49 GMT</pubDate>
+    </item>
     <item>
       <title>我 20 年工程师生涯中的一些重要经验</title>
       <link>https://www.reddit.com/r/programming/comments/1g0nsjz/some_important_learnings_from_my_20_years_of/</link>
       <description><![CDATA[  由    /u/milanm08  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g0nsjz/some_important_learnings_from_my_20_years_of/</guid>
       <pubDate>Thu, 10 Oct 2024 17:09:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Valkey 不断扩展的生态系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1g0n93u/valkeys_expanding_ecosystem/</link>
-      <description><![CDATA[  由    /u/pmz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g0n93u/valkeys_expanding_ecosystem/</guid>
-      <pubDate>Thu, 10 Oct 2024 16:46:15 GMT</pubDate>
     </item>
     <item>
       <title>为什么你不应该忘记优化数据布局</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/eng1nuity  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g0f3tp/a_simple_2step_framework_to_avoid_rushed/</guid>
       <pubDate>Thu, 10 Oct 2024 09:47:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用自制引擎 Carimbo 为儿子制作的第一款游戏</title>
-      <link>https://www.reddit.com/r/programming/comments/1g0ewj5/my_first_game_with_carimbo_my_homemade_engine_for/</link>
-      <description><![CDATA[  由    /u/Candiesweetie  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g0ewj5/my_first_game_with_carimbo_my_homemade_engine_for/</guid>
-      <pubDate>Thu, 10 Oct 2024 09:31:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>可靠软件设计实践</title>
-      <link>https://www.reddit.com/r/programming/comments/1g0eumg/practices_of_reliable_software_design/</link>
-      <description><![CDATA[  由    /u/Candiesweetie  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g0eumg/practices_of_reliable_software_design/</guid>
-      <pubDate>Thu, 10 Oct 2024 09:27:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 rjq 进行快速 JSON 过滤！</title>
-      <link>https://www.reddit.com/r/programming/comments/1g0et4v/fast_json_filtering_with_rjq/</link>
-      <description><![CDATA[介绍 rjq - 一个用 Rust 编写的超快 JSON 过滤 CLI 工具。 我很高兴地宣布发布 rjq，这是一个基于 Rust 的 CLI 工具，可轻松过滤 JSON 数据。 主要特点：  简单的查询语法，轻松过滤 超快的性能 支持流式 JSON 数据  使用 rjq，您可以：  从大型 JSON 数据集中快速提取特定数据 轻松过滤和转换数据 自动执行 JSON 数据处理任务  适用于：  使用 JSON 数据的开发人员 寻求高效数据提取的数据分析师 自动化数据处理的 DevOps 团队任务  在 GitHub 上探索 rjq：github.com/mainak55512/rjq 立即开始使用 rjq 并加速您的 JSON 数据处理！ rjq #JSONFiltering #CLI #Rust #DeveloperTools #Productivity    提交人    /u/Mainak1224x   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g0et4v/fast_json_filtering_with_rjq/</guid>
-      <pubDate>Thu, 10 Oct 2024 09:24:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
