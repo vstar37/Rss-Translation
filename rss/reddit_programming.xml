@@ -4,27 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 10 Oct 2024 21:14:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 01:02:14 GMT</lastBuildDate>
+    <item>
+      <title>简易计算器Imade</title>
+      <link>https://www.reddit.com/r/programming/comments/1g0xqf5/simple_calculator_imade/</link>
+      <description><![CDATA[我用 Python 做了一个简单的计算器。在编程方面我还是个初学者，所以不要期望太多。我该如何改进它？    提交人    /u/SignificantNerve9449   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g0xqf5/simple_calculator_imade/</guid>
+      <pubDate>Fri, 11 Oct 2024 00:44:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Statsig 如何每天传输 1 万亿个事件</title>
+      <link>https://www.reddit.com/r/programming/comments/1g0w9g1/how_statsig_streams_1_trillion_events_a_day/</link>
+      <description><![CDATA[  由    /u/butters877  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g0w9g1/how_statsig_streams_1_trillion_events_a_day/</guid>
+      <pubDate>Thu, 10 Oct 2024 23:28:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过 SQL 注入绕过机场安检</title>
+      <link>https://www.reddit.com/r/programming/comments/1g0vic1/bypassing_airport_security_via_sql_injection/</link>
+      <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g0vic1/bypassing_airport_security_via_sql_injection/</guid>
+      <pubDate>Thu, 10 Oct 2024 22:51:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于创建 BLE 应用程序的 C++ 库</title>
+      <link>https://www.reddit.com/r/programming/comments/1g0usf2/c_library_for_creating_ble_application/</link>
+      <description><![CDATA[  由    /u/bleuio  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g0usf2/c_library_for_creating_ble_application/</guid>
+      <pubDate>Thu, 10 Oct 2024 22:16:42 GMT</pubDate>
+    </item>
     <item>
       <title>TypeScript：塑造错误管理的新前沿</title>
       <link>https://www.reddit.com/r/programming/comments/1g0tc3m/typescript_shaping_a_new_frontier_for_error/</link>
       <description><![CDATA[  由    /u/Famous_Teach3882  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g0tc3m/typescript_shaping_a_new_frontier_for_error/</guid>
       <pubDate>Thu, 10 Oct 2024 21:10:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的朋友为他的 TI-84 CE 计算器编写了一个老虎机</title>
-      <link>https://www.reddit.com/r/programming/comments/1g0suqg/my_friend_coded_a_slots_machien_for_his_ti84_ce/</link>
-      <description><![CDATA[  由    /u/AccidentEast4888  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g0suqg/my_friend_coded_a_slots_machien_for_his_ti84_ce/</guid>
-      <pubDate>Thu, 10 Oct 2024 20:49:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 60 秒内掌握 Linux 终端命令！🚀</title>
-      <link>https://www.reddit.com/r/programming/comments/1g0sq5y/master_linux_terminal_commands_in_under_60_seconds/</link>
-      <description><![CDATA[  由    /u/Plus_Text7567  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g0sq5y/master_linux_terminal_commands_in_under_60_seconds/</guid>
-      <pubDate>Thu, 10 Oct 2024 20:44:17 GMT</pubDate>
     </item>
     <item>
       <title>源代码的价值</title>
@@ -48,7 +62,7 @@
       <pubDate>Thu, 10 Oct 2024 16:28:38 GMT</pubDate>
     </item>
     <item>
-      <title>高速芯片实验</title>
+      <title>试验高速芯片</title>
       <link>https://www.reddit.com/r/programming/comments/1g0m39p/experimenting_with_highspeed_chips/</link>
       <description><![CDATA[  由    /u/elemenity  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g0m39p/experimenting_with_highspeed_chips/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/semanser  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g0g6j3/clean_architecture_in_go/</guid>
       <pubDate>Thu, 10 Oct 2024 11:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您不懂 C 语言或汇编语言，您真的了解计算机的工作原理吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1g0fsej/if_you_dont_know_c_or_assembly_do_you_really/</link>
-      <description><![CDATA[  由    /u/lakinmohapatra  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g0fsej/if_you_dont_know_c_or_assembly_do_you_really/</guid>
-      <pubDate>Thu, 10 Oct 2024 10:36:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个简单的两步框架，可避免仓促解决问题并构建有意义的产品</title>
-      <link>https://www.reddit.com/r/programming/comments/1g0f3tp/a_simple_2step_framework_to_avoid_rushed/</link>
-      <description><![CDATA[  由    /u/eng1nuity  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g0f3tp/a_simple_2step_framework_to_avoid_rushed/</guid>
-      <pubDate>Thu, 10 Oct 2024 09:47:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
