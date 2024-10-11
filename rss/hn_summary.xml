@@ -4,86 +4,86 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Fri, 11 Oct 2024 02:53:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 09:09:57 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 自学成才的库尔德天文摄影师达里亚·卡瓦·米尔扎 (Darya Kawa Mirza) 取得了非凡的成就 [...]</title>
-      <link>https://t.me/hn_summary/112027</link>
-      <description><![CDATA[月球照片
-自学成才的库尔德天文摄影师达里亚·卡瓦·米尔扎 (Darya Kawa Mirza) 取得了非凡的成就，他以非凡的细节捕捉到了月球崎岖的表面。在四天的时间里，米尔扎收集了 81,000 张照片，制作了一张 708 千兆字节的合成图，以惊人的清晰度展示了月球地形。他的作品突出了个别陨石坑和瘀伤色斑点，揭示了小行星和彗星撞击的影响，以及火山沉积物。米尔扎利用自家后院的高倍望远镜和相机，开发了一种他称之为“相位融合”的技术，该技术涉及合并四个不同月相的图像。这个复杂的过程因月球的轴向运动而变得复杂，它为我们提供了难得一见的天体景观及其不断变化的光影。米尔扎计划将他的天文摄影范围扩大到行星、星系和星云。在 Instagram 上探索他的更多作品，并通过成为 Colossal 会员来支持独立艺术出版。]]></description>
-      <guid>https://t.me/hn_summary/112027</guid>
-      <pubDate>Fri, 11 Oct 2024 02:53:48 GMT</pubDate>
+      <title>[媒体] 挪威诺贝尔委员会将 2024 年诺贝尔和平奖授予日本飞团协 [...]</title>
+      <link>https://t.me/hn_summary/112048</link>
+      <description><![CDATA[2024 年诺贝尔和平奖
+挪威诺贝尔委员会将 2024 年诺贝尔和平奖授予日本原子弹幸存者组织“日本爆破者”，以表彰其为核裁军所做的不懈努力。这一草根运动通过分享广岛和长崎恐怖事件的个人经历，在建立“核禁忌”方面发挥了关键作用，这是反对使用核武器的有力国际规范。尽管核武库的现代化令人震惊，威胁层出不穷，但“核爆者”的倡导仍然至关重要。他们的故事继续激发全球反对核武器的热情，确保和平得以维护。委员会强调其使命的紧迫性，承认核裁军的迫切需要，这与阿尔弗雷德·诺贝尔造福人类的愿景相一致。]]></description>
+      <guid>https://t.me/hn_summary/112048</guid>
+      <pubDate>Fri, 11 Oct 2024 09:09:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在《GPU 租赁泡沫如何破灭》一文中，Eugene Cheah 探讨了 GPU 租赁泡沫的剧烈转变 [...]</title>
-      <link>https://t.me/hn_summary/112026</link>
-      <description><![CDATA[2 美元的 H100：GPU 租赁泡沫如何破灭
-在“GPU 租赁泡沫如何破灭”一文中，Eugene Cheah 探讨了 GPU 租赁市场的急剧变化，尤其关注 NVIDIA 的 H100 GPU。最初，这些 GPU 需求旺盛，租赁价格飙升至每小时 8 美元以上。然而，市场随后转向供过于求，价格降至每小时 1-2 美元。这种转变归因于诸如保留计算的转售、开源模型微调的兴起以及新基础模型公司的衰落等因素。鉴于当前的市场状况，Cheah 建议不要购买 H100，而是建议租赁。文章强调了影响 GPU 基础设施投资的经济压力和市场动态，强调了这些资产的快速贬值。争议在于那些在 H100 上投入巨资并预期需求持续旺盛的人可能会遭受财务损失。令人惊讶的是价格的快速下跌和向开放式模型的转变，这些模型正在重塑 AI 格局。（基于 57% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/112026</guid>
-      <pubDate>Fri, 11 Oct 2024 02:34:39 GMT</pubDate>
+      <title>[媒体] 任天堂 3DS 于 2011 年 3 月推出，其安全性设计相比 [...]</title>
+      <link>https://t.me/hn_summary/112047</link>
+      <description><![CDATA[任天堂 3DS 黑客攻击史 (2019) [pdf](https://news.ycombinator.com/item?id=41771452)
+任天堂 3DS 于 2011 年 3 月推出，其安全性比其前代产品有所增强。然而，它最终被一群爱好者攻破，其中包括 yellows8、derrek、pluto 和 smealum 等知名人物。与普遍认为的黑客攻击主要是为了盗版游戏相反，这里的动机是启用自制软件——用户创建的未经授权的软件。 3DS 的安全架构基于三个特权级别：ARM11 用户模式、ARM11 内核模式和 ARM9 内核模式，每个模式对系统资源的访问权限各不相同。尽管有数据执行保护 (DEP) 等强大的安全措施，但诸如地址空间布局随机化 (ASLR) 缺失等漏洞仍被利用。使用返回导向编程 (ROP) 和 GSPWN 等技术绕过这些安全协议，允许黑客运行自定义代码和自制应用程序。这次黑客行动凸显了消费者创造力与企业控制之间的紧张关系，以及黑客社区在克服复杂安全障碍方面的聪明才智。（基于 41% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/112047</guid>
+      <pubDate>Fri, 11 Oct 2024 08:54:47 GMT</pubDate>
     </item>
     <item>
-      <title>在 2024 年 GNU Tools Cauldron 的最新更新中，Pierre-Emmanuel Patry 讨论了 [...]</title>
-      <link>https://t.me/hn_summary/112025</link>
-      <description><![CDATA[Gccrs 开发更新
-在 2024 年 GNU Tools Cauldron 的最新更新中，Pierre-Emmanuel Patry 讨论了 gccrs 项目的进展，该项目旨在为 GCC 添加 Rust 前端。这项工作解决了人们对 Rust 依赖单一编译器的担忧，这限制了其标准化和架构支持。自 2019 年重启以来，gccrs 一直以 Rust 1.49 为目标，现在是 GCC 14 的一部分，尽管文档仍有待完成。值得注意的是，该项目将其积压从 800 多个提交减少到 40 个，这在一定程度上要归功于 Google Summer of Code 实习生的贡献。挑战依然存在，特别是在编译 Rust 核心库和提高编译器速度方面。尽管该项目非常重要，但它缺乏行业支持，这可能导致 Rust 继续依赖单一编译器。令人惊讶的是，尽管资源有限，但该项目仍取得了进展，凸显了开发人员的奉献精神。]]></description>
-      <guid>https://t.me/hn_summary/112025</guid>
-      <pubDate>Fri, 11 Oct 2024 02:19:30 GMT</pubDate>
+      <title>[媒体] 2023 年 10 月，苹果在 Apple Park 举办了“全球警察峰会”，旨在加强 [...]</title>
+      <link>https://t.me/hn_summary/112046</link>
+      <description><![CDATA[Apple 举办秘密会议，教授执法人员
+2023 年 10 月，Apple 在 Apple Park 举办了“全球警察峰会”，旨在加强执法部门使用 Apple 产品进行监视和其他警务工作。来自七个国家的 50 名警察部门员工参加了此次活动，活动介绍了 CarPlay、碰撞检测和 Vision Pro 等 Apple 技术。尽管 Apple 公开反对为执法部门解锁 iPhone，但该公司仍将与警察机构合作视为一种商业机会。这种双重方法引发了争议，电子前沿基金会分析师 Matthew Guariglia 强调了这一点，他指出 Apple 的隐私保护形象与其利润丰厚的执法合作之间存在矛盾。值得注意的是，加州的几个警察局正在测试 Vision Pro 的监视功能，西澳大利亚州的警察通过 CarPlay 使用 Siri。此前领导苹果公共安全战略的 Gary Oldham 于 2023 年 8 月离职，2024 年也没有举行任何峰会。由于该话题敏感，只有经验丰富的论坛成员才能参与讨论。]]></description>
+      <guid>https://t.me/hn_summary/112046</guid>
+      <pubDate>Fri, 11 Oct 2024 08:33:31 GMT</pubDate>
     </item>
     <item>
-      <title>过去三个月来，计划前恢复项目取得了重大进展，[...]</title>
-      <link>https://t.me/hn_summary/112024</link>
-      <description><![CDATA[Pre-Scheme 恢复的第一份报告
-Pre-Scheme 恢复项目在过去三个月中取得了重大进展，目前 75% 的代码库已加载到三个与 R7RS 兼容的 Scheme 实现（Chibi、Sagittarius 和 Guile）中，并且 100% 通过 Scheme 48 的新 R7RS 兼容层运行。下一个主要重点是用可移植扩展器替换 Scheme 扩展器前端。保持与 Scheme 48 兼容性的一个巧妙解决方案是开发“不完整的 Scheme48 R7RS 兼容性库”（s48-r7rs），以便进行持续的端到端测试。该项目还利用 Scsh 进行工具开发，尽管它并非永久依赖项。 R7RS-small 在 Scheme 48 中的实现得益于其现有的 R5RS 功能。该项目旨在将 Unsyntax 集成为便携式扩展器，并扩大测试覆盖范围和文档。鼓励社区通过各种在线渠道关注该项目的进展。该项目的一个独特之处在于其移植宏和库定义的方法，这种方法兼顾了兼容性和创新性。]]></description>
-      <guid>https://t.me/hn_summary/112024</guid>
-      <pubDate>Fri, 11 Oct 2024 01:59:15 GMT</pubDate>
+      <title>[媒体] SpaceX 重新引入了其 Dragon 航天器的推进能力 [...]</title>
+      <link>https://t.me/hn_summary/112045</link>
+      <description><![CDATA[SpaceX Dragon 经过多年开发后获得推进式着陆升级
+SpaceX 重新引入了其 Dragon 航天器使用 SuperDraco 推进器进行推进式着陆的能力，这一功能最初是在十多年前构思的。这项开发可在降落伞失灵的情况下作为备用，通过避免腐蚀性海洋着陆来提高安全性并可能提高可重复使用性。最初，Dragon 2 被设计为推进式着陆，但由于安全认证挑战和 NASA 对更高可靠性评级的偏好，SpaceX 转向了降落伞着陆。推进式着陆功能在 Crew-7 上进行了测试，但由于 GPS 传感器问题而被禁用。它在 Crew-8 中仍然有效，并用于 Polaris Dawn 任务。考虑到过去的挫折，包括 2019 年 SuperDraco 测试异常，重新引入此功能令人惊讶。]]></description>
+      <guid>https://t.me/hn_summary/112045</guid>
+      <pubDate>Fri, 11 Oct 2024 07:44:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 热沃当野兽是指一种神秘的食人生物，它恐吓了 [...]</title>
-      <link>https://t.me/hn_summary/112023</link>
-      <description><![CDATA[热沃当野兽
-热沃当野兽指的是一种神秘的食人生物，它在 1764 年至 1767 年间恐吓了法国中南部的热沃当地区。对这种野兽的描述各不相同，目击者称它有可怕的牙齿和爪子、长尾巴，并且能够跨越田野。尽管法国王国付出了巨大的努力，包括由贵族和士兵领导的狩猎，但这种野兽仍在继续袭击，造成大量人员死亡和受伤。这种生物的身份仍然存在争议，各种理论从一只大狼到一只小狮子不一而足。争议在于这种野兽的真实本性以及一些目击者认为它具有的超自然能力。这个故事引起了广泛关注，国王路易十五甚至悬赏捉拿它。尽管据报道有几只野兽被杀，但袭击仍在继续，导致人们持续恐惧和猜测。（基于 36% 的故事文本总结。）]]></description>
-      <guid>https://t.me/hn_summary/112023</guid>
-      <pubDate>Fri, 11 Oct 2024 01:53:09 GMT</pubDate>
+      <title>[媒体] 在 We, Robot 活动上，埃隆·马斯克推出了特斯拉的 Cyber​​cab，这是一款自动驾驶机器人出租车 [...]</title>
+      <link>https://t.me/hn_summary/112044</link>
+      <description><![CDATA[埃隆·马斯克发布特斯拉 Cyber​​cab 自动驾驶机器人出租车
+在 We, Robot 活动上，埃隆·马斯克发布了特斯拉 Cyber​​cab，这是一款自动驾驶机器人出租车，预计售价低于 30,000 美元，并计划明年在加利福尼亚州和德克萨斯州的 Model 3 和 Model Y 汽车上实现自动驾驶。活动上出现了类似人类的机器人端上饮料和跳舞，营造出一种未来主义的氛围。马斯克的雄心勃勃的愿景包括用公园取代停车场，并使用自动驾驶汽车作为类似 Uber 的出租车。然而，由于过去在交付自动驾驶技术方面出现延误，人们仍持怀疑态度。这一声明是在特斯拉的自动驾驶承诺和安全问题遭到集体诉讼和监管机构审查的背景下发布的，凸显了持续的争议。]]></description>
+      <guid>https://t.me/hn_summary/112044</guid>
+      <pubDate>Fri, 11 Oct 2024 07:32:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 詹姆斯韦伯太空望远镜 (JWST) 彻底改变了我们对早期宇宙的理解 [...]</title>
-      <link>https://t.me/hn_summary/112022</link>
-      <description><![CDATA[第一个十亿年的“美丽混乱”进入视野
-詹姆斯·韦伯太空望远镜 (JWST) 彻底改变了我们对早期宇宙的理解，提供了前所未有的清晰度，就像验光师翻转镜头以获得更清晰的视野一样。其先进的红外传感器和独特的定位使其能够观察到第一个星系和恒星，而这些星系和恒星以前是哈勃望远镜等望远镜无法观测到的。这在天文学家之间引发了一种合作氛围，他们渴望合作并探索 JWST 提供的大量数据。一个值得注意的发现是星系 JADES-GS-z14-0，它是大爆炸后 3 亿年的样子，挑战了现有的宇宙理论。解释如此明亮的早期星系的理论包括恒星形成效率和初始质量函数 (IMF) 的变化，其中一些理论认为活跃的超大质量黑洞是其贡献者。这引发了争论和新模型，例如安德烈亚·费拉拉 (Andrea Ferrara) 的尘埃衰减假说。争议在于将这些观测结果与当前模型相协调，因为这些数据挑战了长期以来对宇宙演化的假设。]]></description>
-      <guid>https://t.me/hn_summary/112022</guid>
-      <pubDate>Fri, 11 Oct 2024 01:34:58 GMT</pubDate>
+      <title>[媒体] 在《我已经没有办法解释这有多糟糕了》一书中，作者哀叹 [...]</title>
+      <link>https://t.me/hn_summary/112043</link>
+      <description><![CDATA[我没办法解释这有多糟糕了
+在《我没办法解释这有多糟糕了》一文中，作者哀叹相当一部分美国人越来越脱离现实，米尔顿飓风期间阴谋论的猖獗传播就是明证。文章强调了令人不安的错误信息趋势，亚历克斯·琼斯等人声称飓风是政府的“天气武器”，其他人则指控联邦紧急事务管理局对援助处理不当。争议在于唐纳德·特朗普和埃隆·马斯克等有影响力的人物故意散布谎言，这破坏了人们对公共机构的信任，阻碍了救灾工作。令人惊讶的是，有些人公然承认真相无关紧要，因为他们优先考虑符合自己信念的叙述。这反映了更广泛的文化危机，错误信息只会强化现有的偏见，而不是说服他人，挑战共同现实的本质。]]></description>
+      <guid>https://t.me/hn_summary/112043</guid>
+      <pubDate>Fri, 11 Oct 2024 07:32:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在最近 r/slatestarcodex 上关于改变生活的黑客的讨论中，建议 [...]</title>
-      <link>https://t.me/hn_summary/112021</link>
-      <description><![CDATA[反对高速有声读物的反乌托邦观点
-在最近 r/slatestarcodex 上关于改变生活的技巧的讨论中，以 1.5-2 倍速收听有声读物的建议引发了争论。虽然有些人认为这可以让你读更多的书，但其他人，比如 Ccc，声称这只会分散人们对存在危机的注意力。作者幽默地批评了这种观点，把它比作将其他提高生活质量的活动（如锻炼或人际关​​系）视为仅仅是转移焦虑的手段。他们建议将预防存在危机的活动作为一种有效的生活策略，质疑这种做法是否类似于“wireheading”——人为地诱导幸福。最终，作者鼓励以更快的速度欣赏有声读物，而不必过多思考其哲学含义。]]></description>
-      <guid>https://t.me/hn_summary/112021</guid>
-      <pubDate>Fri, 11 Oct 2024 01:17:49 GMT</pubDate>
+      <title>[媒体] 暴雪联合创始人 Mike Morhaime 的新公司 Dreamhaven 即将发布 Sunderf [...]</title>
+      <link>https://t.me/hn_summary/112042</link>
+      <description><![CDATA[暴雪联合创始人 Mike Morhaime 正在制作一款桌面 RPG 派对游戏
+暴雪联合创始人 Mike Morhaime 的新公司 Dreamhaven 即将发布 Sunderfolk，这款游戏巧妙地将桌面 RPG 元素与 Jackbox 等派对游戏的休闲吸引力融合在一起。它专为经验丰富的玩家和新手玩家设计，提供独特的双屏体验，其中智能手机充当控制器，而电视充当主显示屏。这款战术沙发合作 RPG 具有六个英雄职业，旨在简化该类型游戏通常的复杂性，使其更容易上手。然而，尽管这款游戏采用了创新方法，但 Kotaku 等一些评论家认为，其游戏玩法对于新手来说可能仍然过于复杂，这使其更像 Gloomhaven 而非 Jackbox。这款游戏预计将于 2025 年在多个平台上推出，并配备在线游戏和配套应用。]]></description>
+      <guid>https://t.me/hn_summary/112042</guid>
+      <pubDate>Fri, 11 Oct 2024 07:05:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Git Py Stats 是一个基于 Python 的工具，灵感来自 git-quick-stats，旨在提供 c [...]</title>
-      <link>https://t.me/hn_summary/112020</link>
-      <description><![CDATA[显示 HN：Git Py Stats 是 Git Quick Stats 的 Python 版本
-Git Py Stats 是一款基于 Python 的工具，灵感来自 git-quick-stats，旨在提供全面的 git 统计数据和报告。它通过利用 Python 的标准库解决了原始工具的局限性，例如跨平台兼容性问题和对外部实用程序的依赖。这确保了在安装了 Python 3 的任何平台上都能顺利运行。Git Py Stats 提供按作者统计贡献、提交分析和分支历史记录等功能，输出格式为 CSV 和 JSON。它通过允许在命令行中输入作者、日期和分支名称，并将 CSV 和 JSON 输出保存到文件来区分自己。该项目根据 MIT 许可获得许可，欢迎贡献。]]></description>
-      <guid>https://t.me/hn_summary/112020</guid>
-      <pubDate>Fri, 11 Oct 2024 01:16:45 GMT</pubDate>
+      <title>[媒体] 肯尼·约翰逊是一位敬业的环保倡导者，也是罗克代尔县土壤和水资源委员会的成员 [...]</title>
+      <link>https://t.me/hn_summary/112041</link>
+      <description><![CDATA[佐治亚州官员在就 BioLab 化工厂火灾作证后死亡
+肯尼·约翰逊是一位敬业的环保倡导者，也是罗克代尔县土壤和水资源保护区主管，他在佐治亚州议会大厦晕倒后不幸去世。约翰逊刚刚就最近在康耶斯发生的 BioLab 化工厂火灾作证，这场火灾导致危险的烟羽蔓延到邻近的县。他的证词，以及沮丧的企业主和领导人，凸显了社区对环境影响的担忧。听证会结束后，约翰逊出现呼吸急促并晕倒，尽管州众议员、护士维奥拉·戴维斯努力让他苏醒过来。他的死凸显了该地区为环境正义而进行的持续斗争。]]></description>
+      <guid>https://t.me/hn_summary/112041</guid>
+      <pubDate>Fri, 11 Oct 2024 07:03:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 抱歉，我无法访问彭博网页的内容，因为它需要 [...]</title>
-      <link>https://t.me/hn_summary/112019</link>
-      <description><![CDATA[Lina Khan 才刚刚起步（她希望如此）
-很抱歉，我无法访问彭博网页的内容，因为需要与网站交互才能验证访问权限。但是，如果有帮助的话，我可以提供有关 Lina Khan 及其角色的一般信息。请告诉我您希望如何继续！]]></description>
-      <guid>https://t.me/hn_summary/112019</guid>
-      <pubDate>Fri, 11 Oct 2024 01:08:39 GMT</pubDate>
+      <title>Simon Hutchinson 开发了一款足球阵型和球队应用程序，目前已在 [...] 上线。</title>
+      <link>https://t.me/hn_summary/112040</link>
+      <description><![CDATA[向 HN 展示：我制作了一个足球阵型和阵容应用程序
+Simon Hutchinson 开发了一个足球阵型和阵容应用程序，现已在 Apple App Store 上架。该应用程序的一个显著特点是它非常重视用户隐私，因为它不会收集任何用户数据。开发人员的隐私政策明确概述了对隐私的承诺。但是，用户应该知道，隐私做法可能会因使用的功能或用户的年龄而有所不同。在数据收集通常是标准做法的时代，这种隐私方法既独特又值得称赞。]]></description>
+      <guid>https://t.me/hn_summary/112040</guid>
+      <pubDate>Fri, 11 Oct 2024 07:00:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Hacktrack.info 是一项新服务，旨在让您随时了解最新的通用 [...]</title>
-      <link>https://t.me/hn_summary/112018</link>
-      <description><![CDATA[显示 HN：Hacktrack.info – 影响您堆栈的新 CVE 的电子邮件通知
-Hacktrack.info 是一项新服务，旨在让您了解可能影响您技术堆栈的最新常见漏洞和暴露 (CVE)。通过注册，您可以在发现可能影响您所依赖的软件和工具的新漏洞时及时收到电子邮件通知。这种主动方法使开发人员和 IT 专业人员能够领先于潜在的安全威胁并采取必要的措施来保护他们的系统。该服务简单易用，需要 JavaScript 才能正常运行。虽然没有明显的争议，但巧妙之处在于有针对性的通知系统，提高了安全管理效率。]]></description>
-      <guid>https://t.me/hn_summary/112018</guid>
-      <pubDate>Fri, 11 Oct 2024 01:05:36 GMT</pubDate>
+      <title>[媒体] 在安塔基亚，一项引人注目的考古发现改变了一座酒店建筑[...]</title>
+      <link>https://t.me/hn_summary/112039</link>
+      <description><![CDATA[发现罗马马赛克 (2020)
+在安塔基亚，一项了不起的考古发现将一个酒店建筑工地变成了一个独特的考古公园。Necmi Asfuroğlu 考古博物馆现在收藏着据信是现存最大的罗马马赛克，以及令人惊叹的神话场景。这块 1,050 平方米的 4 世纪路面是在一家豪华酒店建造过程中发现的。Asfuroğlu 家族没有停止该项目，而是与当地政府合作，将考古宝藏融入酒店设计中，并将它们保存下来供公众展示。其中最引人注目的发现之一是公元 2 世纪的飞马马赛克，它以 160 种色调的植物染色镶嵌物和复杂的神话描绘为特色。这种创新的保护方法凸显了历史与现代的交汇，为安塔基亚带来了新的文化吸引力。将该遗址整合到酒店而不是搬迁或覆盖的决定既令人惊讶又聪明，展现了对文化遗产的承诺。]]></description>
+      <guid>https://t.me/hn_summary/112039</guid>
+      <pubDate>Fri, 11 Oct 2024 06:54:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
