@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 13 Oct 2024 12:24:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 15:14:11 GMT</lastBuildDate>
     <item>
       <title>黑客织布机</title>
       <link>https://www.producthunt.com/posts/hacky-loom</link>
@@ -90,7 +90,7 @@
       <pubDate>Sat, 12 Oct 2024 11:57:52 GMT</pubDate>
     </item>
     <item>
-      <title>摇一摇</title>
+      <title>摇动钉</title>
       <link>https://www.producthunt.com/posts/shakepin</link>
       <description><![CDATA[
 轻松固定、压缩和存档文件
@@ -102,6 +102,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/shakepin</guid>
       <pubDate>Sat, 12 Oct 2024 09:09:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Watch 版蚂蚁浏览器</title>
+      <link>https://www.producthunt.com/posts/ant-browser-for-apple-watch</link>
+      <description><![CDATA[
+手腕大小的网络。帮助您摆脱手机困扰。
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ant-browser-for-apple-watch</guid>
+      <pubDate>Sat, 12 Oct 2024 02:14:49 GMT</pubDate>
     </item>
     <item>
       <title>飞云</title>
@@ -116,34 +130,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/flipt-cloud</guid>
       <pubDate>Fri, 11 Oct 2024 19:54:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>吉特菲尔</title>
-      <link>https://www.producthunt.com/posts/gitfyel</link>
-      <description><![CDATA[
-轻松制作精美的 GitHub 个人资料。
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/gitfyel</guid>
-      <pubDate>Fri, 11 Oct 2024 16:50:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>快速音乐移除器</title>
-      <link>https://www.producthunt.com/posts/fast-music-remover</link>
-      <description><![CDATA[
-适用于互联网媒体的轻量级音频增强器
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/fast-music-remover</guid>
-      <pubDate>Fri, 11 Oct 2024 10:12:43 GMT</pubDate>
     </item>
     <item>
       <title>朗弗洛</title>
@@ -186,6 +172,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/pricing-table-builder</guid>
       <pubDate>Wed, 09 Oct 2024 21:14:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>参加二维码</title>
+      <link>https://www.producthunt.com/posts/attend-qr</link>
+      <description><![CDATA[
+考勤管理系统
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/attend-qr</guid>
+      <pubDate>Sat, 05 Oct 2024 09:59:56 GMT</pubDate>
     </item>
     <item>
       <title>日记</title>
