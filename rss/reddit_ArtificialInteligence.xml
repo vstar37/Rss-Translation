@@ -4,13 +4,41 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 14 Oct 2024 09:14:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 12:25:56 GMT</lastBuildDate>
     <item>
-      <title>LLM 可以做 0 和 1 文本预测吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g3bb5r/can_llms_do_0_and_1_text_prediction/</link>
-      <description><![CDATA[这可能是一个愚蠢且不切实际的想法，但由于 LLM 是单词预测机器，它们是否可以仅学习 0 和 1 的底层模式并生成任何类型的数据？    提交人    /u/-Contraine-   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g3bb5r/can_llms_do_0_and_1_text_prediction/</guid>
-      <pubDate>Mon, 14 Oct 2024 08:48:34 GMT</pubDate>
+      <title>在使用AI增强开源项目代码时，如何保证可追溯性并避免法律风险？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g3dvt2/how_do_you_ensure_traceability_and_avoid_legal/</link>
+      <description><![CDATA[有了 AI 协助代码开发，您如何处理项目中的可追溯性？您认为开源平台是否提供了足够的透明度，或者我们是否需要更好的工具或指南来确保 AI 生成的代码不会导致许可或版权问题？ 抱歉，这不是我问题的正确 subreddit。我刚刚阅读了这篇文章，想开启一个（希望）有用的讨论……    提交人    /u/Own-Substance-9386   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g3dvt2/how_do_you_ensure_traceability_and_avoid_legal/</guid>
+      <pubDate>Mon, 14 Oct 2024 11:53:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>食品营养分析AI库</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g3didw/ai_library_for_nutritional_analysis_of_food/</link>
+      <description><![CDATA[有没有使用图像对食物进行营养分析的库？有点像图像标签，但它也可以从图片中找到有关食物的营养信息？ 我正在开发一个可以执行此操作的移动应用程序项目，并希望获得一些线索。在网上查找，我找不到很多专用于此的库。     提交人    /u/mayodoctur   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g3didw/ai_library_for_nutritional_analysis_of_food/</guid>
+      <pubDate>Mon, 14 Oct 2024 11:29:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 了解您的个人特征！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g3da9t/chatgpt_knows_your_personal_traits/</link>
+      <description><![CDATA[一项社会实验正在流行，人们要求 ChatGPT 根据他们曾经进行过的所有讨论来判断他们的性格。它能够找出正确的性格特征！！我在自己身上尝试了这个测试，可以验证一下：https://youtu.be/_8lV_Rtx2V8?si=RQn3MTl0eJyBPyNu    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g3da9t/chatgpt_knows_your_personal_traits/</guid>
+      <pubDate>Mon, 14 Oct 2024 11:14:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>对大脑的基本功能组件进行建模，并将其与更高级别的新兴特性区分开来，这可能很有趣。这样我们就可以专注于构建通用人工智能的模块。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g3d85u/it_might_be_interesting_to_model_the_base/</link>
+      <description><![CDATA[除了“心智理论”，是否有人创建过大脑需要建模的组件功能图，以支持更多突发属性和功能？这必须包括网络图，以解释更高级别的功能输出。 这可能是一个社区项目。哪里是大家协作并提供证据来支持他们对这种地图的补充的好地方？有什么想法吗？也许我们可以在评论中这样做。    提交人    /u/LCseeking   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g3d85u/it_might_be_interesting_to_model_the_base/</guid>
+      <pubDate>Mon, 14 Oct 2024 11:10:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scale 是否足以让 LLM 通过 Grokking 进行推理？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g3d6kf/will_scale_be_enough_to_get_llms_to_reason/</link>
+      <description><![CDATA[目前，关于 LLM 是否真正推理还是仅仅记住其训练数据存在很多争论（请参阅 Apple 的最新论文 [2410.05229] GSM-Symbolic：了解大型语言模型中数学推理的局限性 (arxiv.org)）。 另一方面，已有大量论文表明，如果对模型进行过度拟合的点进行训练，则模型可以进行泛化，这被称为&quot;grokking&quot; (迈向理解 Grokking：一种有效的表征学习理论 (neurips.cc))。 基于 Grokking，我们可以说，如果我们对当前的 LLM 进行足够的训练，它们将始终收敛到泛化。看起来，记忆只是一个可能陷入困境的局部最小值，而真正的全局最小值是泛化。 如果记忆已经在特定任务的数据集上提供了近乎完美的表现，这怎么可能呢？好吧，通过查看整体性能而不是特定于任务的性能，您可以想象泛化如何帮助模型提高其整体性能：  泛化使用的参数空间比记忆要少，然后模型可以将其用于其他任务，从而提高其整体性能（通过泛化减少有效维度[2205.10343] 走向理解 Grokking：一种有效的表示学习理论 (arxiv.org)） 从一项任务进行泛化可以提高另一项不相关任务的性能，从而提高其整体性能（最近的论文通过观察细胞自动机的突发行为表明，GPT 模型在国际象棋和推理方面表现得更好：混沌边缘的智能 (arxiv.org)）。  但是，如果我们不针对特定任务而是针对所有数据来理解模型，会发生什么情况？我们可以想象，它只会记住整个数据集，而不会受到激励进行泛化，因为它现在在整个数据集上的表现接近完美。在这种情况下，全局最小值是记忆，模型仍然可以通过使用权重衰减/正则化改变损失格局来实现泛化。正则化会惩罚大权重，迫使模型选择更简单的解决方案，减少记忆周围的最小值，同时保持泛化周围的最小值不变。这将使泛化成为新的全局最小值。 考虑到这种在训练时间内向泛化的收敛，对于特定于任务和整体性能，我们是否可以假设扩展将在逻辑上使模型随着时间的推移而泛化？换句话说，扩展真的是 AGI 所需要的一切吗？    提交人    /u/PianistWinter8293   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g3d6kf/will_scale_be_enough_to_get_llms_to_reason/</guid>
+      <pubDate>Mon, 14 Oct 2024 11:07:47 GMT</pubDate>
     </item>
     <item>
       <title>Ichigo：100% 在您的设备上运行的实时语音 AI</title>
@@ -20,13 +48,6 @@
       <pubDate>Mon, 14 Oct 2024 08:45:46 GMT</pubDate>
     </item>
     <item>
-      <title>Sora 等软件</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g3b2yg/sora_like_softwares/</link>
-      <description><![CDATA[支持高清视频质量的文本转视频软件。还有哪些软件可以实现上述功能？而且都可以访问，但我认为 sora 不行。    提交人    /u/xotwoduiux   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g3b2yg/sora_like_softwares/</guid>
-      <pubDate>Mon, 14 Oct 2024 08:29:52 GMT</pubDate>
-    </item>
-    <item>
       <title>人们使用什么人工智能软件制作我在社交媒体上看到的这些奇怪的视频。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g392yy/what_ai_software_are_people_using_to_make_these/</link>
       <description><![CDATA[例如，Instagram 上的 synthesized_pink 频道。我对这些奇怪的东西很感兴趣，想开始尝试一下。什么软件可以让我这样做？如果它与 gpu 相关，我也有一台功能相当强大的 PC，但我不知道他们使用什么工具。 有什么线索吗？    提交人    /u/jasperstaal   [link] [评论]]]></description>
@@ -34,25 +55,11 @@
       <pubDate>Mon, 14 Oct 2024 05:39:45 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 2024 年 10 月 13 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g3808s/oneminute_daily_ai_news_10132024/</link>
-      <description><![CDATA[ Nvidia 推出 NVLM 1.0，在生成式 AI 领域与 ChatGPT 展开大胆竞争。[1] 研究人员对 AI 的“推理”能力提出质疑，因为模型在解决数学问题时会遇到一些细微的变化。[2] 随着 AI 的警告，诺贝尔 奖得主加入了警告自身工作风险的获奖者行列。[3] TikTok 转向 AI，取代了近 500 名人类版主。[4]  来源包括：https://bushaicave.com/2024/10/13/10-13-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g3808s/oneminute_daily_ai_news_10132024/</guid>
-      <pubDate>Mon, 14 Oct 2024 04:22:35 GMT</pubDate>
-    </item>
-    <item>
       <title>愛搞乱了我的思绪。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g37cf8/ai_messed_with_my_head/</link>
       <description><![CDATA[我写了一个短篇故事，并让 AI 对它进行语法检查。在给我一些反馈后，AI 说这个故事很好，我应该考虑出版它。现在我错误地认为我可能有机会出版我的短篇故事哈哈。     提交人    /u/Linux-Neophyte   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g37cf8/ai_messed_with_my_head/</guid>
       <pubDate>Mon, 14 Oct 2024 03:41:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于总结您订阅的 YouTube 视频并向您发送电子邮件的应用程序？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g35yja/app_for_summarizing_youtube_videos_your/</link>
-      <description><![CDATA[大家好，我想知道是否有人知道一款应用程序可以汇总您订阅的 YouTube 视频并每天将其摘要发送到您的电子邮件中    提交人    /u/Kayakerguide   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g35yja/app_for_summarizing_youtube_videos_your/</guid>
-      <pubDate>Mon, 14 Oct 2024 02:22:44 GMT</pubDate>
     </item>
     <item>
       <title>如果人工智能可以做我们能做的一切，甚至比我们做得更好，那么研究还有什么意义呢？</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[我正在尝试免费试用该产品一个月。  我目前几乎只使用 ChatGPT Plus，并使用 Gemini Advance 作为备用。  我发现即使使用 Copilot Pro，也无法上传文件，例如 Word 文档？并且除了单次交互之外，它没有任何内存保留？  我遗漏了什么？     提交人    /u/TheLawIsSacred   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g348s7/microsoft_copilot_pro_what_exactly_is_this/</guid>
       <pubDate>Mon, 14 Oct 2024 00:46:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们距离人工智能改装视频游戏还有多远？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g343wb/how_far_out_are_we_from_ai_modding_video_games/</link>
-      <description><![CDATA[就像想象一个 NES 游戏。它们非常小。想象一下，我将 rom 交给 AI，它的模拟器需要它。然后说“请让马里奥能够飞，并添加一些能量提升让他变成音速” 这会发生吗？    提交人    /u/Katamari_Demacia   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g343wb/how_far_out_are_we_from_ai_modding_video_games/</guid>
-      <pubDate>Mon, 14 Oct 2024 00:39:14 GMT</pubDate>
     </item>
     <item>
       <title>您最近发现了哪些很酷的 AI 应用？</title>
