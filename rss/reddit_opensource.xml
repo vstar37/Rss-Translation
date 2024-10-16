@@ -4,11 +4,11 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 16 Oct 2024 06:20:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 09:16:05 GMT</lastBuildDate>
     <item>
       <title>简单的自主托管云解决方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1g4sqep/simple_slefhosted_cloud_solution/</link>
-      <description><![CDATA[大家好，我正在寻找一个简单的自托管云。我尝试了 nextcloud，它非常酷，但老实说，它对我的​​需求来说有点过头了。 我只需要一个可以在线访问的地方来存储我的文件，也许有一个我可以根据需要使用的查看器/编辑器。如果它有一个 android 应用程序，或者某种方式可以从我的手机上传文件，那就更好了。 我目前正在使用 Google Drive，但我正在考虑切换。    提交人    /u/masterzeng   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我正在寻找一个简单的自托管云。我尝试了 nextcloud，它非常酷，但老实说，它对我的​​需求来说有点过头了。 我只需要一个可以在线访问的地方来存储我的文件，也许有一个我可以根据需要使用的查看器/编辑器。如果它有一个 android 应用程序，或者某种方式从我的手机上传文件，那就更好了。 我目前正在使用 Google 云端硬盘，但我正在考虑更换。    提交人    /u/masterzeng   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g4sqep/simple_slefhosted_cloud_solution/</guid>
       <pubDate>Wed, 16 Oct 2024 06:11:32 GMT</pubDate>
     </item>
@@ -27,13 +27,6 @@
       <pubDate>Wed, 16 Oct 2024 03:21:18 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一款用于查找免费游戏和赠品的应用程序！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g4msoe/i_made_an_app_for_finding_free_games_and_giveaways/</link>
-      <description><![CDATA[大家好， 我想分享一个我一直在做的项目，叫做免费游戏追踪器。这是一款 Android、Web 和 Windows 应用程序，可让您轻松找到免费游戏赠品和 DLC - 无需再在不同网站或 Discord 频道之间跳转！ 在此处查看：https://pyoneerc1.itch.io/free-games-tracker 主要特点：  即时访问：只需轻轻一点，即可查看所有当前免费游戏。 自动更新：该应用程序会自动获取最新优惠，因此您始终可以随时了解最新信息。 无混乱：它只关注限时赠品和独家 DLC - 这里没有免费游戏（我为此制作了其他应用程序）  感谢您的关注！如有任何反馈，我们将不胜感激！    由   提交  /u/OkNeedleworker6500   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g4msoe/i_made_an_app_for_finding_free_games_and_giveaways/</guid>
-      <pubDate>Wed, 16 Oct 2024 00:29:49 GMT</pubDate>
-    </item>
-    <item>
       <title>是否有适用于 MS Word 开源版本的推荐？</title>
       <link>https://www.reddit.com/r/opensource/comments/1g4mh58/recs_for_open_source_versions_of_ms_word/</link>
       <description><![CDATA[大家好！我最近一直在使用 Open Office，它运行得很好，但它真的很讨厌表格。由于我的工作性质，我在文档中插入了很多表格，而我的 Open Office 文档经常关闭，必须恢复，这太烦人了。有没有其他与 MS Word 兼容的免费开源文字处理器的推荐？（顺便说一句，我对电脑不是很在行，请不要嘲笑我）谢谢！    提交人    /u/MVY63991   [链接] [评论]]]></description>
@@ -41,7 +34,7 @@
       <pubDate>Wed, 16 Oct 2024 00:14:07 GMT</pubDate>
     </item>
     <item>
-      <title>有任何带有浮动或固定的收藏应用菜单的 Android 启动器吗？</title>
+      <title>有没有带有浮动或固定的收藏应用菜单的 Android 启动器？</title>
       <link>https://www.reddit.com/r/opensource/comments/1g4mc82/any_android_launcher_with_floating_or_fixed/</link>
       <description><![CDATA[标题。说我有 7 个我经常使用的最喜欢的应用程序（并且我经常在它们之间切换）。我想要有浮动菜单（始终可见），这样我只需按一下就可以在应用程序之间切换。 它可以是浮动按钮的形式，甚至是固定栏（如“•back •home *windowSwitch”栏）。最重要的是它必须在应用程序中可见（这样我可以通过单击切换到另一个应用程序）    提交人    /u/MorePeppers9   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g4mc82/any_android_launcher_with_floating_or_fixed/</guid>
@@ -69,7 +62,7 @@
       <pubDate>Tue, 15 Oct 2024 22:07:33 GMT</pubDate>
     </item>
     <item>
-      <title>SchemQl 是一个 TypeScript 库，可以作为 Kysely、Drizzle 和其他库的替代品，适合那些喜欢不受限制的原始 SQL 的用户，但具有类型保证和自动完成功能。里面有 Zod。</title>
+      <title>SchemQl 是一个 TypeScript 库，可以作为 Kysely、Drizzle 和其他库的替代品，适合那些喜欢不受限制的原始 SQL 的人，但具有类型保证和自动完成功能。里面有 Zod。</title>
       <link>https://www.reddit.com/r/opensource/comments/1g4ivqv/schemql_a_typescript_library_that_serves_as_an/</link>
       <description><![CDATA[        提交人    /u/webda2l   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g4ivqv/schemql_a_typescript_library_that_serves_as_an/</guid>
@@ -78,7 +71,7 @@
     <item>
       <title>为什么尽管 SaaS 是开源的，但它仍然如此有价值？</title>
       <link>https://www.reddit.com/r/opensource/comments/1g4b5h9/why_is_saas_so_valuable_despite_opensource/</link>
-      <description><![CDATA[嗨， 为什么我们仍然看到 SaaS 公司估值很高，我想为他们销售的软件产品提出开源替代方案并不是特别困难？ 我说的不是 LLM，那是相当复杂的技术。例如，我可以理解为什么像 the-company-headed-by-Sam-Altman（不能直接提及名称，因为它会引起 AutoModerator 机器人的注意）这样的公司如此有价值，因为开源工作需要时间才能达到与他们的专有 LLM 相同的标准。 但我说的是 Postman 这样的公司。我知道他们确实开源了他们的一些软件，但我相信主要客户是专有的。这家初创公司的估值曾达到 56 亿美元（最近他们经历了缩水）。 我猜想构建 Postman 之类的开源替代方案并不难（而且肯定已经有可用的开源替代方案）。那么为什么这些 SaaS 公司估值如此之高？是：  商业支持， 还是他们已经成为市场领导者并且没有人认为有任何理由使用其他产品， 还是开源工作很难复制他们迄今为止在其产品中构建的所有功能（开源工作总是落后一些功能）， 还是人们愿意为云托管等功能付费？  Slack 和 Zulip 也是如此。我认为 Zulip 的母公司（Kandra Labs）不是很有价值，但 Slack 的母公司（早期的 Slack Technologies，现在的 Salesforce）肯定很有价值（当然，Salesforce 除了 Slack 之外还有很多产品，但你明白我的意思）。 谢谢！    提交人    /u/codeandfire   [link] [评论]]]></description>
+      <description><![CDATA[嗨， 为什么我们仍然看到 SaaS 公司估值很高，我想为他们销售的软件产品想出一个开源替代品并不是特别困难？ 我说的不是 LLM，那是相当复杂的技术。例如，我可以理解为什么像 the-company-headed-by-Sam-Altman（不能直接提及名称，因为它会引起 AutoModerator 机器人的注意）这样的公司如此有价值，因为开源工作需要时间才能达到与他们的专有 LLM 相同的标准。 但我说的是 Postman 这样的公司。我知道他们确实开源了他们的一些软件，但我相信主要客户是专有的。这家初创公司的估值曾达到 56 亿美元（最近他们经历了缩水）。 我猜想构建 Postman 之类的开源替代方案并不难（而且肯定已经有可用的开源替代方案）。那么为什么这些 SaaS 公司估值如此之高？是：  商业支持， 还是他们已经成为市场领导者并且没有人认为有任何理由使用其他产品， 还是开源工作很难复制他们迄今为止在其产品中构建的所有功能（开源工作总是落后一些功能）， 还是人们愿意为云托管等功能付费？  Slack 和 Zulip 也是如此。我认为 Zulip 的母公司（Kandra Labs）不是很有价值，但 Slack 的母公司（早期的 Slack Technologies，现在的 Salesforce）肯定很有价值（当然，Salesforce 除了 Slack 之外还有很多产品，但你明白我的意思）。 谢谢！    提交人    /u/codeandfire   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g4b5h9/why_is_saas_so_valuable_despite_opensource/</guid>
       <pubDate>Tue, 15 Oct 2024 15:59:32 GMT</pubDate>
     </item>
@@ -106,9 +99,16 @@
     <item>
       <title>是否有任何跨平台的开源图像编辑器，并且简单易用？</title>
       <link>https://www.reddit.com/r/opensource/comments/1g3yge6/is_there_any_multiplatform_open_source_image/</link>
-      <description><![CDATA[GIMP 甚至比全尺寸图像编辑器标准还要复杂（Photoshop 竞争对手），我只需要进行基本的剪切、融合、叠加和添加不同字体和颜色的文本，以及偶尔进行基本的颜色校正。主要是清理/裁剪照片和制作表情包。 基本上是 Paint 3D 的替代品。你可以在半夜喝醉时几乎不需要学习曲线就可以使用它。Idc if 只有完整工具的 10% 的功能。唯一值得一提的是，我还没有暗示的是调整大小工具（像素/百分比）、填充和颜色拾取工具。    提交人    /u/Alias_X_   [链接] [评论]]]></description>
+      <description><![CDATA[GIMP 甚至比全尺寸图像编辑器标准还要复杂（Photoshop 竞争对手），我只需要进行基本的剪切、融合、叠加和添加不同字体和颜色的文本，以及偶尔进行基本的颜色校正。主要是清理/裁剪照片和制作表情包。 基本上是 Paint 3D 的替代品。你可以在半夜喝醉时几乎不需要学习曲线就可以使用它。Idc 它只有完整工具的 10% 的功能。唯一值得一提的是，我还没有暗示的是调整大小工具（像素/百分比）、填充和颜色拾取工具。    提交人    /u/Alias_X_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g3yge6/is_there_any_multiplatform_open_source_image/</guid>
       <pubDate>Tue, 15 Oct 2024 03:19:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python 3.13 发布，主要特性概述</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g3su1k/python_313_release_an_overview_of_its_major/</link>
+      <description><![CDATA[       由    /u/janodusho  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g3su1k/python_313_release_an_overview_of_its_major/</guid>
+      <pubDate>Mon, 14 Oct 2024 22:36:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
