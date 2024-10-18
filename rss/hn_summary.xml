@@ -4,86 +4,87 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Fri, 18 Oct 2024 12:17:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 17:58:02 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 受 BeOS 启发的 Haiku 开源操作系统发布了其最新版本 [...]</title>
-      <link>https://t.me/hn_summary/113058</link>
-      <description><![CDATA[受 BeOS 启发的 Haiku 支持更多英特尔硬件
-受 BeOS 启发的 Haiku 开源操作系统发布了最新的月度开发摘要，展示了重大进展。在最近发布的 Haiku R1 Beta 5 版本的基础上，得益于英特尔 Extreme 模式设置驱动程序的更新，该操作系统现在支持更多英特尔硬件，包括 Gemini Lake、Ice Lake 和 Tiger Lake 设备。值得注意的是，Packagefs 内存使用情况已得到优化，节省了 20%。Haiku FAT 驱动程序现在支持对高达 2TB 的卷的读/写访问，默认的“静音键”可以打开/关闭静音。此外，音频混音器启动和内核代码也得到了改进，ARM64 支持工作正在进行中。这些更新凸显了 Haiku 致力于提高性能和硬件兼容性的承诺。]]></description>
-      <guid>https://t.me/hn_summary/113058</guid>
-      <pubDate>Fri, 18 Oct 2024 12:17:14 GMT</pubDate>
+      <title>Hacker News 书籍推荐是 Ask HN 中推荐的所有书籍的精选集 [...]</title>
+      <link>https://t.me/hn_summary/113096</link>
+      <description><![CDATA[显示 HN：Ask HN 上推荐的所有书籍
+Hacker News 书籍推荐是 Ask HN 主题中推荐的所有书籍的精选集，重点是书籍推荐。此资源将这些建议汇编成一个易于访问的单一平台。每个书籍链接都包含一个亚马逊联盟标签，提供一种通过购买来支持网站维护的方式。该网站最后更新于 2024 年 10 月 18 日，确保推荐是最新的。该项目的一个独特之处在于其社区驱动的性质，因为它利用 Hacker News 社区的集体智慧来提供多样化和富有洞察力的阅读选择。]]></description>
+      <guid>https://t.me/hn_summary/113096</guid>
+      <pubDate>Fri, 18 Oct 2024 17:58:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 元数据匿名检查工具旨在帮助研究人员确保他们的文档[...]</title>
-      <link>https://t.me/hn_summary/113057</link>
-      <description><![CDATA[显示 HN：我构建了一个工具来帮助作者扫描元数据并避免论文被拒绝
-元数据匿名检查工具旨在帮助研究人员确保他们的文档在提交给学术会议时保持匿名。它会扫描各种文件类型（例如 Word 文档、PDF 和图像）的元数据，以识别可能泄露作者身份的字段。与在线服务不同，此工具在本地运行，保持文档机密性。该项目解决了由于忽略元数据而导致论文被拒绝的问题，这是会议提交系统尚未解决的问题。它需要 Node.js，并根据 MIT 许可证开放供贡献。该工具强调了提交前彻底匿名检查的重要性。]]></description>
-      <guid>https://t.me/hn_summary/113057</guid>
-      <pubDate>Fri, 18 Oct 2024 12:08:08 GMT</pubDate>
+      <title>[媒体] 继 Mac 版之后，OpenAI 推出了其 ChatGPT 应用程序的早期 Windows 版本 [...]</title>
+      <link>https://t.me/hn_summary/113095</link>
+      <description><![CDATA[OpenAI 发布适用于 Windows 的 ChatGPT 应用程序
+OpenAI 推出了其 ChatGPT 应用程序的早期 Windows 版本，此前该公司于 5 月发布了 Mac 版本。该应用程序可从 Microsoft Store 免费下载，目前仅供 Plus、Team、Enterprise 和 Edu 订阅用户使用。OpenAI 将此版本描述为 Beta 测试，计划在今年晚些时候扩大访问权限。有趣的是，尽管该应用程序不是游戏，但 ESRB 将其评为“T for Teen”。该应用程序与 Web 版本相似，支持 GPT-4o 和 DALL-E 3 等模型用于图像生成。一个独特的功能是 Alt+Space 快捷键，可在 Windows 11 上快速访问，但它在 Windows 10 上不起作用。与 Web 版本一样，所有处理都在云端进行，需要互联网连接。提醒用户ChatGPT可能会出现错误，强调谨慎使用。]]></description>
+      <guid>https://t.me/hn_summary/113095</guid>
+      <pubDate>Fri, 18 Oct 2024 17:36:43 GMT</pubDate>
     </item>
     <item>
-      <title>在 2018 年的一次演讲中，我解释了 Apple 生成强密码格式背后的原理，而 [...]</title>
-      <link>https://t.me/hn_summary/113056</link>
-      <description><![CDATA[Ricky Mondello » Apple Passwords 生成的强密码格式
-在 2018 年的一次演讲中，我解释了 Apple 生成的强密码格式背后的原理，该格式自那时起就在 YouTube 上发布。最近，一位 Mastodon 用户质疑 Apple 的密码（如“hupvEw-fodne1-qabjyg”）是否是故意由两个音节的胡言乱语“单词”构成的。这确实是设计使然，并非随机。该格式采用辅音-元音-辅音模式，旨在提高在次优键盘上打字的便利性和短期记忆性。尽管进行了这些更改，但密码仍保持了强大的安全性，具有 71 位熵，超过了以前的格式。此外，攻击性术语也被过滤掉了。这种方法平衡了可用性和安全性，确保了与各种网站的兼容性。]]></description>
-      <guid>https://t.me/hn_summary/113056</guid>
-      <pubDate>Fri, 18 Oct 2024 12:02:03 GMT</pubDate>
+      <title>[媒体] Home-Imagine 是一款创新的人工智能工具，旨在彻底改变室内设计[...]</title>
+      <link>https://t.me/hn_summary/113094</link>
+      <description><![CDATA[向 HN 展示：我制作了这个工具，只需单击一下即可重新设计您的房间
+Home-Imagine 是一款创新的人工智能工具，旨在通过允许用户单击一下重新设计房间来彻底改变室内设计。只需上传照片，选择一种风格（从波西米亚风格到装饰艺术风格），然后观看人工智能生成逼真的变换。用户可以使用特定的房间类型、物体和材料定制设计，提供无限的可能性。该平台非常适合房主、房地产经纪人、室内设计师和建筑师，提供一种快速简便的方式来可视化和创建令人惊叹的室内设计。凭借虚拟舞台、精确房间编辑和自动图像增强等功能，Home-Imagine 旨在激发创造力并简化设计流程。该工具可通过免费帐户访问，并提供即用即付的定价模式。虽然目前还没有移动应用程序，但开发正在进行中。该工具将手绘草图转换为高质量渲染的能力特别巧妙，增强了它对专业人士和新手的吸引力。]]></description>
+      <guid>https://t.me/hn_summary/113094</guid>
+      <pubDate>Fri, 18 Oct 2024 17:19:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 美国国家公路交通安全管理局（NHTSA）已启动一项调查[...]</title>
-      <link>https://t.me/hn_summary/113055</link>
-      <description><![CDATA[特斯拉的全自动驾驶软件受到 NHTSA 调查
-美国国家公路交通安全管理局 (NHTSA) 已对特斯拉的“全自动驾驶（监督）”软件展开调查，此前特斯拉在能见度低的情况下发生了四起撞车事故，其中包括一起致命的行人事故。调查旨在确定该系统是否能有效处理阳光眩光、雾气或灰尘等情况。此次审查恰逢特斯拉首席执行官埃隆·马斯克最近发布“Cyber​​Cab”机器人出租车原型，而特斯拉雄心勃勃的自动驾驶声明仍遭到质疑。值得注意的是，NHTSA 刚刚结束了对特斯拉自动驾驶系统的长期调查，该系统与 13 起致命撞车事故有关。此外，特斯拉还面临司法部和加州机动车管理局的法律挑战，原因是其驾驶辅助技术可能存在夸大其词。争议在于特斯拉的大胆承诺和其软件性能的现实，引发了安全和监管方面的担忧。]]></description>
-      <guid>https://t.me/hn_summary/113055</guid>
-      <pubDate>Fri, 18 Oct 2024 11:55:52 GMT</pubDate>
+      <title>你好，我是史蒂夫。</title>
+      <link>https://t.me/hn_summary/113093</link>
+      <description><![CDATA[Steve Klabnik 关于 Jujutsu（Git 替代品）的教程
+大家好，我是 Steve。欢迎阅读我关于版本控制系统 Jujutsu (jj) 的教程。我倾向于边学边写教程，捕捉初学者的视角。这种方法帮助我完成了“Rust for Rubyists”。尽管我对 Git 的 CLI 很熟悉，但我还是在“堆叠差异”方面遇到了困难，直到与 Rain 的一次对话激起了我对 jj 的兴趣。Chris Krycho 关于 jj 的文章终于让我明白了。一天清晨，我决定深入研究，安装了 jj，并开始本教程。这是一次个人学习之旅，如果能引起他人的共鸣，我会分享。欢迎反馈，但我不能保证会及时回复。让我们开始吧！]]></description>
+      <guid>https://t.me/hn_summary/113093</guid>
+      <pubDate>Fri, 18 Oct 2024 17:12:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这次对 UI 抽象的有趣探索中，我们深入研究了不断发展的 UI 格局 [...]</title>
-      <link>https://t.me/hn_summary/113054</link>
-      <description><![CDATA[无头、无骨、无皮、无生命的 UI
-在这次有趣的 UI 抽象探索中，我们深入研究了前端开发不断发展的格局，创造了“无头”、“无骨”、“无皮”和“无生命”等奇特术语来描述不同的抽象层。虽然“无头”UI 是一个熟悉的术语，但作者幽默地建议，这些新标签可能更好地捕捉这些策略的本质。这篇文章强调了这些抽象如何允许开发人员编写具有高度可定制性的自己的设计系统。巧妙之处在于将 UI 组件类比为身体部位，为我们如何思考和讨论 UI 库提供了一个新的视角。本文还巧妙地批评了“无头”一词与所提供的功能之间的不匹配，表明这些组件确实具有结构和逻辑。这种半开玩笑的方式为 UI 开发的讨论增添了独特而引人入胜的转折。]]></description>
-      <guid>https://t.me/hn_summary/113054</guid>
-      <pubDate>Fri, 18 Oct 2024 11:53:44 GMT</pubDate>
+      <title>[媒体] Subvert 是一个集体拥有的音乐市场，旨在替代 Bandca [...]</title>
+      <link>https://t.me/hn_summary/113092</link>
+      <description><![CDATA[Subvert – 集体拥有的音乐市场
+Subvert 是一个集体拥有的音乐市场，旨在替代 Bandcamp，后者在被 Epic Games 和 Songtradr 收购后面临社区的强烈反对。这些收购引发了人们对 Bandcamp 对其艺术家友好精神的承诺的担忧，凸显了平台放弃核心价值观的更广泛问题。Subvert 旨在通过合作模式赋予艺术家和支持者权力，成员可以民主地控制平台。Subvert 将于 2025 年推出，并在创始成员的投入下积极发展。值得注意的是，加入 Subvert 不涉及除会员捐款之外的个人财务责任，也不会限制使用其他音乐平台。重要的是，Subvert 与加密货币无关，解决了对加密相关企业持谨慎态度的用户的潜在担忧。]]></description>
+      <guid>https://t.me/hn_summary/113092</guid>
+      <pubDate>Fri, 18 Oct 2024 17:08:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 问 HN：在聘用工程师时，您希望了解哪些事情？</title>
-      <link>https://t.me/hn_summary/113053</link>
-      <description><![CDATA[问 HN：你希望了解哪些有关招聘工程师的事情？
-在 Hacker News 主题为“问 HN：你希望了解哪些有关招聘工程师的事情？”的帖子中，参与者分享了有关招聘工程师流程的见解和经验。讨论强调了了解技术技能和文化契合度的重要性，以及在面试期间评估这些方面的挑战。令人惊讶的是，让现有团队成员参与招聘流程的价值在于确保与公司价值观和团队动态保持一致。此外，该帖子强调了清晰沟通和为候选人和雇主设定现实期望以促进成功招聘结果的重要性。]]></description>
-      <guid>https://t.me/hn_summary/113053</guid>
-      <pubDate>Fri, 18 Oct 2024 11:51:39 GMT</pubDate>
+      <title>[媒体] 在《细胞》杂志上发表的一项开创性研究中，人工智能工具 AlphaFold 可以预测 [...]</title>
+      <link>https://t.me/hn_summary/113091</link>
+      <description><![CDATA[AlphaFold 揭示精子和卵子如何详细结合
+在一项发表于《细胞》杂志的开创性研究中，预测蛋白质结构的人工智能工具 AlphaFold 揭示了精子和卵子之间分子相互作用的复杂细节。与之前认为受精只需要两种蛋白质的观点相反，AlphaFold 在包括斑马鱼和哺乳动物在内的各种动物中发现了三种对这一过程至关重要的蛋白质。这一发现挑战了简单的“钥匙和锁”受精模型，表明受精机制更为复杂。由 Andrea Pauli 领导的研究人员在斑马鱼和小鼠中证实了这些发现，强调了对不孕症筛查的潜在影响。这项研究强调了 AlphaFold 在推动生殖生物学研究方面的重要作用，尤其是考虑到研究膜蛋白的挑战。这一发现不仅丰富了我们对受精的理解，还展示了人工智能在生物研究中的创新应用。]]></description>
+      <guid>https://t.me/hn_summary/113091</guid>
+      <pubDate>Fri, 18 Oct 2024 17:04:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] EmailBTC 推出了一种革命性的比特币交易方法，只需发送电子邮件即可 [...]</title>
-      <link>https://t.me/hn_summary/113052</link>
-      <description><![CDATA[EmailBTC – 一种仅使用电子邮件地址发送和接收比特币的新方法
-EmailBTC 引入了一种仅使用电子邮件地址进行比特币交易的革命性方法。该平台提供了一种简单、安全且私密的发送和接收比特币的方式，无需种子短语和复杂设置。凭借其非托管管理和先进的 MPC（多方计算）技术，用户可以享受坚不可摧的安全性，同时完全控制他们的数字资产。这种创新方法简化了比特币体验，使每个人都可以使用它。EmailBTC 的独特之处在于它能够将易用性与高级别安全性相结合，从而有可能改变人们与加密货币的互动方式。]]></description>
-      <guid>https://t.me/hn_summary/113052</guid>
-      <pubDate>Fri, 18 Oct 2024 11:51:36 GMT</pubDate>
+      <title>[媒体] 美国联邦贸易委员会 (FTC) 正在调查约翰迪尔 (John Deere) 的指控 [...]</title>
+      <link>https://t.me/hn_summary/113090</link>
+      <description><![CDATA[联邦政府将对 John Deere 提起诉讼，要求其赔偿维修费用
+美国联邦贸易委员会 (FTC) 正在调查 John Deere，指控该公司使其农用设备难以维修，这项调查自 2021 年以来一直在进行。这项调查是由 Hargrove &amp; Associates Inc. (HAI) 最近提交的一份法庭文件曝光的，该公司是一家为设备制造商协会 (AEM) 工作的数据分析公司，John Deere 是该协会的成员。HAI 拒绝了 FTC 的数据请求，声称该请求过于宽泛，可能会对其业务造成损害。争议的焦点是 Deere 的限制性维修做法，这导致了维修垄断的指控和农民的集体诉讼。尽管迪尔承诺放宽维修限制，但这些承诺尚未兑现，引发了参议员伊丽莎白·沃伦等人物的批评。联邦贸易委员会的调查对农民来说是一个积极的发展，他们认为无法自行维修设备会导致严重的延误和经济损失。]]></description>
+      <guid>https://t.me/hn_summary/113090</guid>
+      <pubDate>Fri, 18 Oct 2024 16:59:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 我们如何实现个性化学习？</title>
-      <link>https://t.me/hn_summary/113051</link>
-      <description><![CDATA[我们如何实现个性化学习？
-20 世纪 40 年代末，美国空军发现为“普通”飞行员设计飞行器是无效的，因为没有飞行员在所有指标上都符合平均水平。这则来自《平均水平的终结》的轶事凸显了个性化学习的必要性，这一概念在教育领域越来越受欢迎。标准化教育往往无法满足个人需求，因为学习是一个复杂的探索过程。该博客主张自主学习，即孩子们在成人的温柔指导下探索自己的兴趣。它强调关注态度而不是成绩，允许好奇心，平衡集体学习和单独学习。归根结底，学习是一种深厚的情感，植根于爱和联系。争议在于挑战传统的教育规范，倡导从标准化方法转向个性化方法。将学习比作探索这一巧妙的比喻，凸显了学习过程的丰富性和多样性。]]></description>
-      <guid>https://t.me/hn_summary/113051</guid>
-      <pubDate>Fri, 18 Oct 2024 11:51:33 GMT</pubDate>
+      <title>在这篇坦诚的反思中，我分享了自己从辞去编程工作到实现 4 万英镑目标的历程 [...]</title>
+      <link>https://t.me/hn_summary/113089</link>
+      <description><![CDATA[又一篇倦怠文章
+在这篇坦诚的反思中，我分享了自己从辞去编程工作到用失败的商业想法解决 4 万英镑债务的历程。尽管面临挑战，但离开是正确的选择，因为为他人编程具有令人心碎的性质。我把它比作我奶奶的心理治疗工作，但想象一下，如果她的治疗只是毫无意义的模拟。为自己编程令人兴奋，但为他人工作感觉就像“用砂纸划过我灵魂的中心”。现在，我正在根据祖先的健康原则涉足一家食品配送公司，并撰写有关下颌扩张治疗的文章。怀着复杂的情绪，我以决心和乐观的态度面对未来。]]></description>
+      <guid>https://t.me/hn_summary/113089</guid>
+      <pubDate>Fri, 18 Oct 2024 16:37:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] “Google：搜索质量评级指南”文件提供了全面的指导[...]</title>
-      <link>https://t.me/hn_summary/113050</link>
-      <description><![CDATA[Google：搜索质量评级指南 [pdf](https://news.ycombinator.com/item?id=41878380)
-“Google：搜索质量评级指南”文档为搜索质量评级者提供了全面的说明，强调了根据页面质量 (PQ) 和需求满足 (NM) 标准评估搜索结果的重要性。它强调了搜索查询的多样性以及搜索结果必须具有权威性、可信度并与用户意图相关的必要性。指南强调了评级者准确代表其当地文化和语言的重要性，避免个人偏见。一个值得注意的方面是，在评估内容质量时强调经验、专业知识、权威性和信任度 (E-E-A-T)。该文件还概述了评级人员保护其设备免受有害内容侵害的安全协议。确定什么是“值得信赖”或“权威”内容的主观性可能会引发争议，因为这些内容在不同文化和背景下可能会有所不同。（基于 3% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/113050</guid>
-      <pubDate>Fri, 18 Oct 2024 11:50:29 GMT</pubDate>
+      <title>[媒体] 最近，用户正在迁移到 Bluesky，一个去中心化的社交平台 [...]</title>
+      <link>https://t.me/hn_summary/113088</link>
+      <description><![CDATA[随着 X 做出更多不必要的更改，人们纷纷涌向 Bluesky
+
+最近，随着 X（前身为 Twitter）实施有争议的更改，用户正在迁移到去中心化社交平台 Bluesky。Bluesky 报告称，一天内新增用户数激增 50 万，这可能是受 X 最近的修改所致。值得注意的是，X 现在允许被屏蔽的用户查看帖子，但他们无法互动，这引发了人们对用户安全和骚扰的担忧。埃隆·马斯克上个月暗示的这一变化因破坏了屏蔽功能的保护目的而受到批评。此外，X 服务条款的更新引发了人们的担忧，尤其是关于人工智能训练的数据使用以及规定纠纷由与马斯克有关的德克萨斯州法院处理。这些变化将于 11 月 15 日生效，但 X 和 Meta 尚未解决对 Threads 的类似影响。]]></description>
+      <guid>https://t.me/hn_summary/113088</guid>
+      <pubDate>Fri, 18 Oct 2024 16:26:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 blog.golioth.io 的博客文章“NAT 是低功耗设备的敌人”中，aut [...]</title>
-      <link>https://t.me/hn_summary/113049</link>
-      <description><![CDATA[NAT 是低功耗设备的敌人
-在 blog.golioth.io 的博客文章“NAT 是低功耗设备的敌人”中，作者讨论了网络地址转换 (NAT) 给低功耗设备带来的挑战。NAT 是一种在多个设备之间共享公共 IP 地址的方法，它使直接的设备到设备通信变得复杂，尤其是当设备位于私有网络上时。这对于需要节省能源的低功耗设备来说是个问题，因为它们必须频繁发送“保持活动”消息来维持 NAT 映射，从而导致不必要的功耗。这篇文章重点介绍了一种使用 DTLS 1.2 连接 ID 的巧妙解决方案，即使设备的 IP 地址或端口发生变化，该解决方案也能让设备保持会话连续性，从而减少频繁握手的需要并节省电量。这种方法对于不频繁发送数据（例如每 30 分钟发送一次）的设备特别有益。这篇文章还提供了配置 Golioth 固件 SDK 以针对低功耗场景进行优化的实用指导。争议在于 NAT 的固有局限性以及 ISP 不愿延长 NAT 超时，作者承认这很难解决。（基于 91% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/113049</guid>
-      <pubDate>Fri, 18 Oct 2024 11:49:07 GMT</pubDate>
+      <title>[媒体] 在《讨厌过程》一书中，作者坦诚地分享了他们与经常重复的问题的斗争[...]</title>
+      <link>https://t.me/hn_summary/113087</link>
+      <description><![CDATA[讨厌过程
+在《讨厌过程》一书中，作者坦诚地分享了他们与经常重复的口头禅“热爱过程胜过结果”的斗争。尽管作者理解专注于可控过程背后的逻辑，但他承认自己讨厌某些任务，比如制作万圣节服装。他们讲述了个人的不幸，如过敏反应和受伤，强调了这个过程的挫败感。然而，作者巧妙地运用了“掩盖味道”的技巧，比如观看喜欢的节目或让家人参与进来，让不愉快的任务变得更容易忍受。他们还强调小胜利或“小胜利点”对维持动力的重要性。最终，虽然这个过程可能令人厌恶，但结果的喜悦和与亲人分享的经历让它变得值得。该作品幽默地批评了热爱每个过程的观念，并为如何处理生活中不那么愉快的任务提供了相关的见解。]]></description>
+      <guid>https://t.me/hn_summary/113087</guid>
+      <pubDate>Fri, 18 Oct 2024 16:13:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
