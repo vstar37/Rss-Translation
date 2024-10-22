@@ -4,86 +4,86 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Tue, 22 Oct 2024 15:14:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 21:03:20 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 今天，我们很高兴地宣布升级版的 Claude 3.5 Sonnet 和新款 Claude 3。[...]</title>
-      <link>https://t.me/hn_summary/113542</link>
-      <description><![CDATA[计算机使用、全新 Claude 3.5 Sonnet 和 Claude 3.5 Haiku
-今天，我们很高兴地宣布升级版 Claude 3.5 Sonnet 和全新 Claude 3.5 Haiku 的推出，它们在 AI 功能方面都取得了重大进步。Claude 3.5 Sonnet 在编码方面表现出色，超越了所有公开可用的模型，并引入了一项突破性的功能：计算机使用。这项实验性功能使 Claude 能够像人类一样与计算机交互，尽管它仍处于早期阶段，并且容易出错。Replit 和 The Browser Company 等公司已经在利用这些功能来完成复杂的任务。同时，Claude 3.5 Haiku 以实惠的价格提供最先进的性能，在编码任务和面向用户的应用程序方面表现出色。我们致力于安全部署，并已采取措施降低与计算机使用相关的风险。在我们完善这些创新的过程中，您的反馈将非常宝贵。]]></description>
-      <guid>https://t.me/hn_summary/113542</guid>
-      <pubDate>Tue, 22 Oct 2024 15:14:43 GMT</pubDate>
+      <title>[平均]E。</title>
+      <link>https://t.me/hn_summary/113591</link>
+      <description><![CDATA[大肠杆菌疫情与麦当劳四分之一磅汉堡有关
+CDC 正在调查与麦当劳四分之一磅汉堡有关的快速蔓延的大肠杆菌 O157:H7 疫情，该疫情已在 10 个州报告了 49 例病例、10 例住院病例和 1 例死亡病例，主要发生在科罗拉多州和内布拉斯加州。具体受污染的成分仍未确定，这促使麦当劳在几个州停止使用新鲜洋葱丝和四分之一磅牛肉饼作为预防措施。这一主动措施旨在在调查继续进行期间保护客户。值得注意的是，疫情尚未导致召回。建议食用这些汉堡后出现严重大肠杆菌症状的顾客就医。]]></description>
+      <guid>https://t.me/hn_summary/113591</guid>
+      <pubDate>Tue, 22 Oct 2024 21:03:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 今天发布了 Stable Diffusion 3.5，这是我们迄今为止最先进的模型，设计 [...]</title>
-      <link>https://t.me/hn_summary/113541</link>
-      <description><![CDATA[Stable Diffusion 3.5
-今天我们发布了 Stable Diffusion 3.5，这是我们迄今为止最先进的模型，旨在为创作者提供易于使用的尖端工具。这些模型在 Stability AI 社区许可下可用，可以从 Hugging Face 和 GitHub 下载。我们之前发布的 Stable Diffusion 3 Medium 未能达到预期，这促使我们根据社区反馈改进我们的方法。新模型包括 80 亿参数的 Stable Diffusion 3.5 Large 和更快的 Stable Diffusion 3.5 Large Turbo，可满足从研究人员到企业的各种需求。值得注意的是，这些模型优先考虑可定制性和在消费硬件上的高效性能。然而，灵活性的代价是输出的潜在变化，尤其是在非特定提示的情况下。]]></description>
-      <guid>https://t.me/hn_summary/113541</guid>
-      <pubDate>Tue, 22 Oct 2024 15:01:34 GMT</pubDate>
+      <title>[媒体] 苏黎世联邦理工学院和博洛尼亚大学的研究人员引入了 ControlPULPl [...]</title>
+      <link>https://t.me/hn_summary/113590</link>
+      <description><![CDATA[开源、兼容 Chiplet 的 RISC-V 控制器
+苏黎世联邦理工学院和博洛尼亚大学的研究人员推出了 ControlPULPlet，这是一款突破性的开源实时多核 RISC-V 控制器，专为 2.5D 系统级封装而设计。这款创新的控制器通过提供可扩展的 Chiplet 操作管理解决方案，解决了实时控制算法日益复杂的问题以及向 2.5D 技术的转变。ControlPULPlet 具有 32 位 CV32RT 内核，可高效处理中断，并具有专用的 DMA 引擎，可自动读取传感器。它还通过 AXI4 端口集成了可编程多核加速器，并通过灵活的 AXI4 兼容 D2D 链路支持高带宽芯片间通信。它采用台积电的 65nm CMOS 技术制造而成，名为 Kairos，可执行高达 290 MHz 的预测控制算法，同时仅消耗 30 mW 的功率。D2D 链路效率极高，仅占用极小的物理空间，峰值双工传输速率可达 51 Gb/s。由于其开源性质以及显著提高 2.5D 系统效率和可扩展性的潜力，这一开发成果显得尤为独特。]]></description>
+      <guid>https://t.me/hn_summary/113590</guid>
+      <pubDate>Tue, 22 Oct 2024 20:49:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 展示 HN：创建我的第一款游戏</title>
-      <link>https://t.me/hn_summary/113540</link>
-      <description><![CDATA[向 HN 展示：创建了我的第一款游戏
-“花掉伊隆·马斯克的钱”是一款引人入胜的在线模拟器，邀请您体验管理伊隆·马斯克惊人的 2460 亿美元财富的快感。这款互动游戏提供了一个虚拟市场，里面充斥着奢侈品、突破性技术和整个公司。您的任务是创造性地花掉每一分钱。当您浏览 50 多种高价值物品时，游戏会实时更新您的剩余余额，提供有关财富和经济的教育见解。这款游戏巧妙地突出了数十亿美元财富的规模，并指出每天花掉 100 万美元需要 600 多年才能耗尽马斯克的财富。这是一种有趣且具有教育意义的体验，挑战您探索极致财富的可能性，同时强调这纯粹是为了娱乐，与马斯克或他的公司无关。]]></description>
-      <guid>https://t.me/hn_summary/113540</guid>
-      <pubDate>Tue, 22 Oct 2024 14:44:25 GMT</pubDate>
+      <title>[媒体] Ars Technica 的文章讨论了一起针对 Flock 相机使用的诉讼 [...]</title>
+      <link>https://t.me/hn_summary/113589</link>
+      <description><![CDATA[诉讼：城市摄像头让驾车出行无法不被跟踪
+Ars Technica 的这篇文章讨论了一起针对诺福克 Flock 摄像头使用的诉讼，据称这些摄像头在没有搜查令的情况下实现了大规模监控，侵犯了隐私权。司法研究所认为，这些摄像头与传统交通摄像头不同，可以捕捉并存储每辆车至少 30 天的图像，从而可以详细跟踪个人的行踪。争议在于滥用的可能性，堪萨斯州和加利福尼亚州的事件就是明证，官员出于个人原因滥用该技术。Flock 的车辆指纹技术通过使车辆详细信息可搜索，进一步增强了跟踪能力。尽管存在隐私方面的担忧，但 Flock 引用了法律先例，支持车牌阅读器的合宪性。监控网络的扩张引发了严重的隐私问题，诺福克警察局长承认摄像头无处不在，这凸显了这一点。]]></description>
+      <guid>https://t.me/hn_summary/113589</guid>
+      <pubDate>Tue, 22 Oct 2024 20:43:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Clickhttp 库通过 HTT 促进与 ClickHouse 数据库的交互 [...]</title>
-      <link>https://t.me/hn_summary/113539</link>
-      <description><![CDATA[通过 HTTP 协议显示 HN：Clickhttp：ClickHouse
-Clickhttp 库通过 HTTP 协议促进与 ClickHouse 数据库的交互，提供读取和插入 DataFrames 数据、执行多个 SQL 查询以及创建临时表等功能。它支持各种 DataFrame 格式，包括 pandas、numpy 和 dask，并允许通过具有会话超时设置的代理服务器进行操作。该库旨在通过在单个会话中启用多个查询执行来解决 ClickHouse 处理通用表表达式 (CTE) 的效率低下问题。与其他解决方案不同，Clickhttp 强调 DataFrame 格式的灵活性和最小的依赖性，要求用户独立安装必要的模块。]]></description>
-      <guid>https://t.me/hn_summary/113539</guid>
-      <pubDate>Tue, 22 Oct 2024 14:43:11 GMT</pubDate>
+      <title>[媒体] 美国正处于全球电池竞赛的关键时刻，中国已经 [...]</title>
+      <link>https://t.me/hn_summary/113588</link>
+      <description><![CDATA[美国如何赢得电池竞赛
+美国正处于全球电池竞赛的关键时刻，中国已在锂离子电池生产领域占据主导地位。尽管拜登总统最近进行了投资，但除非美国将重点转向下一代固态电池，否则美国可能会进一步落后。这些先进的电池有望提供卓越的性能，并可以减少对中国石墨的依赖。然而，目前美国 90% 以上的资金都用于支持过时的锂离子技术，这一战略不太可能取代中国。为了超越中国，美国必须优先考虑先进电池生产的激励措施，以固态技术的公共采购为目标，并加强研发。固态电池可能会彻底改变能源存储和安全，为美国提供重夺电池创新领导地位的机会，因此风险很高。争议在于美国目前的资金分配，批评者认为，这种资金分配方向错误，不足以挑战中国根深蒂固的主导地位。]]></description>
+      <guid>https://t.me/hn_summary/113588</guid>
+      <pubDate>Tue, 22 Oct 2024 20:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]《开放源代码软件杂志》（JOSS）是一个开发人员友好的开放获取平台 [...]</title>
-      <link>https://t.me/hn_summary/113538</link>
-      <description><![CDATA[《开源软件杂志》
-《开源软件杂志》（JOSS）是一个开发者友好的开放获取平台，致力于发布高质量的研究软件包。它以零文章处理费或订阅费脱颖而出，成为研究人员和开发人员可访问的资源。JOSS 强调开源软件在推动科学研究方面的重要性，并为开发人员分享他们的工作提供支持性环境。这种方法不仅使研究工具的访问民主化，而且还鼓励科学界的合作和创新。对免费访问和出版的承诺既独特又值得称赞，促进了更具包容性的研究格局。]]></description>
-      <guid>https://t.me/hn_summary/113538</guid>
-      <pubDate>Tue, 22 Oct 2024 14:35:04 GMT</pubDate>
+      <title>[媒体] Determinate Systems 宣布推出 Determinate Nix，引起了广泛争议 [...]</title>
+      <link>https://t.me/hn_summary/113587</link>
+      <description><![CDATA[Determinate Nix
+Determinate Systems 宣布推出 Determinate Nix，这在 Nix 社区内引发了重大讨论。这个新发行版旨在通过 FlakeHub Cache 的简单配置、改进的 macOS 支持和自动垃圾收集等功能增强团队的 Nix 体验。然而，Determinate Nix 的推出引发了争议，一些社区成员对该项目的闭源性质及其对开源 Nix 生态系统的影响表示担忧。批评人士认为，Determinate Systems 的方法可能会导致生态系统的分裂，并质疑这是否意味着转向“开放核心”模式，即核心功能保持开源，但其他功能是专有的。这引发了人们对企业可能影响 Nix 开发问题的担忧，并呼吁在开源和专有开发之间保持透明度和明确界限。这场争论凸显了创新与维护社区内开源精神之间的紧张关系。（基于 79% 的故事文本总结。）]]></description>
+      <guid>https://t.me/hn_summary/113587</guid>
+      <pubDate>Tue, 22 Oct 2024 20:40:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] “有人给那个孩子麻醉了！</title>
-      <link>https://t.me/hn_summary/113537</link>
-      <description><![CDATA[“有人给那个孩子注射镇静剂！”
-在 taylor.town 的“有人给那个孩子注射镇静剂！”中，作者幽默地批评了多功能吹管在现代的普遍性，吹管已从娱乐工具演变为必不可少的育儿辅助工具。这些设备现在配备了各种功能，被宣传为管理不守规矩的孩子的解决方案，导致了一种社会规范，即给孩子注射镇静剂被视为一种避免在公众面前尴尬的便捷方式。这篇文章强调了吹管成瘾在企业竞争和社会压力的推动下引发的争议性增长。作者不依赖这些快速解决方案，而是提倡系统性生活方式的改变，如多代同堂生活和社区参与，为家庭营造更健康的环境。巧妙的叙述强调，真正的解决方案在于创造力、耐心和社区，而不是技术捷径。]]></description>
-      <guid>https://t.me/hn_summary/113537</guid>
-      <pubDate>Tue, 22 Oct 2024 14:33:00 GMT</pubDate>
+      <title>[媒体] IBM 推出了一套突破性的 AI 代理，称为 SWE 代理，旨在 [...]</title>
+      <link>https://t.me/hn_summary/113586</link>
+      <description><![CDATA[IBM 为开发人员推出的全新 SWE 代理
+IBM 推出了一套突破性的 AI 代理，称为 SWE 代理，旨在通过自主解决 GitHub 问题来简化软件开发人员的工作流程。这些代理由开源 LLM 提供支持，擅长定位代码中的错误并提出修复建议，大大减少了开发人员花在解决错误上的时间。在 TechXchange 上，IBM 展示了这些代理如何在五分钟内定位和修复问题，在 SWE 台架测试中实现了 24% 的成功率，超越了许多使用专有模型的竞争对手。这项创新尤其以其成本效益和在企业环境中运行的能力而引人注目，甚至在防火墙后面。 IBM 方法的独特之处在于它依赖开源模型，挑战昂贵的专有前沿模型的主导地位。]]></description>
+      <guid>https://t.me/hn_summary/113586</guid>
+      <pubDate>Tue, 22 Oct 2024 20:39:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 旧金山市政地铁即将进行重大技术升级，市政交通 [...]</title>
-      <link>https://t.me/hn_summary/113536</link>
-      <description><![CDATA[SF MUNI 批准日立公司 2.12 亿美元的技术，到 2028 年取代软盘
-旧金山 Muni Metro 即将进行重大技术升级，市政交通局董事会已批准与日立铁路公司签订一份价值 2.12 亿美元的合同，以取代其过时的列车控制系统，令人惊讶的是，该系统仍然依赖软盘。此举是 7 亿美元项目的一部分，旨在对最初于 1998 年安装的系统进行现代化改造。目前的设置使用慢速有线环路通信，将被最先进的通信系统取代，该系统利用 Wi-Fi 和蜂窝信号来提高列车跟踪精度。该系统被描述为领先五代，将把控制范围扩大到地铁轻轨地面线路，预计将于 2028 年投入运营。监事会的批准仍有待批准。2023 年对软盘的惊人依赖凸显了此次升级的紧迫性。]]></description>
-      <guid>https://t.me/hn_summary/113536</guid>
-      <pubDate>Tue, 22 Oct 2024 14:30:55 GMT</pubDate>
+      <title>《卫报》在最近的曝光中揭露了唐纳德·特朗普在竞选中可能存在的欺诈行为[...]</title>
+      <link>https://t.me/hn_summary/113585</link>
+      <description><![CDATA[视频显示上门拜访黑客攻击，特朗普的地面竞选活动面临新的欺诈指控
+在最近的一次曝光中，《卫报》揭露了唐纳德·特朗普在亚利桑那州和内华达州的地面竞选活动中可能存在欺诈行为，美国太平洋委员会的游说者据称使用 GPS 欺骗来伪造上门拜访活动。一段泄露的视频展示了游说者如何轻松操纵他们的位置，使其看起来像是在拜访选民的家，这引发了人们对特朗普选民宣传有效性的担忧。争议在于这可能会对关键战场州的选民投票率产生影响，因为美国太平洋委员会负责特朗普的大部分地面行动。尽管美国太平洋行动委员会声称使用技术审计来发现欺诈行为，但欺骗问题凸显了将竞选工作外包给投资较少的付费拉票人的风险。值得注意的是，埃隆·马斯克向美国太平洋行动委员会捐赠了 7500 万美元，其中 3000 万美元用于地面行动。]]></description>
+      <guid>https://t.me/hn_summary/113585</guid>
+      <pubDate>Tue, 22 Oct 2024 20:38:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] “Rwf - Rust Web 框架”是一个专为构建 Web 而设计的综合框架[...]</title>
-      <link>https://t.me/hn_summary/113535</link>
-      <description><![CDATA[显示 HN：Rust Web 框架
-“Rwf - Rust Web 框架”是一个全面的框架，旨在使用 Rust 构建 Web 应用程序，遵循模型视图控制器 (MVC) 模式。它旨在通过提供一系列功能来促进快速安全的 Web 应用程序的开发，包括 HTTP 服务器、PostgreSQL 的 ORM、动态模板、身份验证、中间件、后台作业、数据库迁移、REST 框架、WebSockets 等。它还提供与 Hotwired Turbo 的集成，用于后端驱动的 SPA 和 WSGI 服务器，用于从 Django/Flask 应用程序迁移。虽然 Rwf 处于早期开发阶段，尚未投入生产，但它以其广泛的功能集和基于 Rust 的架构而脱颖而出。鼓励贡献以帮助完善其功能和文档。]]></description>
-      <guid>https://t.me/hn_summary/113535</guid>
-      <pubDate>Tue, 22 Oct 2024 14:23:48 GMT</pubDate>
+      <title>[媒体] 令人不安的趋势是，老年痴呆症患者在不知不觉中助长了政治阵营的 [...]</title>
+      <link>https://t.me/hn_summary/113584</link>
+      <description><![CDATA[老年痴呆症患者在不知不觉中助长了政治运动
+令人不安的趋势是，老年痴呆症患者在不知不觉中助长了政治运动，常常耗尽了他们的毕生积蓄。CNN 的调查显示，欺骗性的筹款策略导致数百名老年人（其中许多人患有认知障碍）向政治事业捐赠了数百万美元，主要受益者是唐纳德·特朗普等共和党候选人。这些捐款通常通过 WinRed 和 ActBlue 等平台进行，由于预先检查的定期捐款箱，有时在捐赠者不知情的情况下进行。这种做法引发了争议，批评者强调了剥削弱势群体的道德问题。尽管有大量投诉，但监管行动仍然有限，引发了重大的消费者保护问题。 （根据 41% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/113584</guid>
+      <pubDate>Tue, 22 Oct 2024 20:36:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 卡塔尔航空发射了首艘配备 Starlink 卫星的飞船，创造了航空历史[...]</title>
-      <link>https://t.me/hn_summary/113534</link>
-      <description><![CDATA[卡塔尔航空推出全球首个波音 777 星链服务
-卡塔尔航空首次推出配备星链的波音 777 航班，创造了航空历史，这一开创性举措有望改变机上连接方式。这趟航班将于 2024 年 10 月 22 日从多哈飞往伦敦，标志着行业的几个里程碑：它是第一架配备星链的波音 777 飞机，也是中东和北非地区第一架配备星链的波音 777 飞机，也是配备星链的最大、航程最长的客机。乘客可以享受从登机口到登机口的完全免费高速互联网接入，无需隐藏费用或复杂登录即可进行流媒体、游戏和视频通话。卡塔尔航空计划在 2025 年前迅速为其整个波音 777 机队配备该设备，随后空客 A350 也将配备该设备。这一发展为航空业树立了新标准，可能会迫使其他航空公司增强其机上连接服务。值得注意的是，新闻稿是在 35,000 英尺的高空使用 Starlink 发送的，展示了其实时功能。此举可能会重新定义长途旅行，使卡塔尔航空成为商务旅客和数字游民的首选。]]></description>
-      <guid>https://t.me/hn_summary/113534</guid>
-      <pubDate>Tue, 22 Oct 2024 13:58:35 GMT</pubDate>
+      <title>[媒体] 民意调查：您使用浏览器配置文件吗？</title>
+      <link>https://t.me/hn_summary/113583</link>
+      <description><![CDATA[民意调查：您是否使用浏览器配置文件？
+Hacker News 上的讨论围绕浏览器配置文件的使用展开，重点介绍了 Firefox 即将在配置文件用户体验方面做出的改进，目前可通过标志访问。Firefox 还提供“容器标签”作为部分解决方案。相比之下，Chrome、Safari、Arc 和其他基于 Chromium 的浏览器已经将配置文件作为不可或缺的功能来支持。作者分享了他们从 Chrome 切换到 Arc 并最终切换到 Firefox 的个人经历，强调了他们对浏览器配置文件的依赖。他们对其他人如何使用浏览器配置文件表示好奇，并就该主题展开了更广泛的讨论。这里的独特之处在于作者在浏览器之间的转换，展示了对浏览器功能的个人探索。]]></description>
+      <guid>https://t.me/hn_summary/113583</guid>
+      <pubDate>Tue, 22 Oct 2024 20:31:53 GMT</pubDate>
     </item>
     <item>
-      <title>经过近两年的开发和私人 Beta 测试，我很高兴地宣布 [...]</title>
-      <link>https://t.me/hn_summary/113533</link>
-      <description><![CDATA[Ghostty 1.0 即将推出
-经过近两年的开发和私人 beta 测试，我很高兴地宣布 Ghostty 1.0 将于 2024 年 12 月作为 MIT 许可下的开源项目公开发布。Ghostty 旨在成为您当前 macOS 和 Linux 上终端仿真器的最佳替代品，提供速度、丰富的功能和平台原生 GUI。该项目专注于提供最佳的终端仿真器体验，而无需在终端功能上进行创新。尽管存在怀疑，但用户发现 Ghostty 具有变革性。由个人优先事项驱动的广泛私人测试版意外地创造了排他性和炒作，引起了批评和支持。Ghostty 的未来包括扩展其核心库 libghostty 和增强终端应用程序功能。我很高兴分享 Ghostty 1.0，并希望它能给您的日常工作带来快乐。]]></description>
-      <guid>https://t.me/hn_summary/113533</guid>
-      <pubDate>Tue, 22 Oct 2024 13:42:22 GMT</pubDate>
+      <title>[媒体] StabilityAI 推出了 Stable Diffusion 3.5，这是 AI 图像模型的重大升级 [...]</title>
+      <link>https://t.me/hn_summary/113582</link>
+      <description><![CDATA[StabilityAI 发布 Stable Diffusion 3.5 – 真实感的升级
+StabilityAI 发布了 Stable Diffusion 3.5，这是 AI 图像建模的重大升级，与其前身 SD3 相比，增强了真实感、及时遵守和文本渲染。这些模型有三种尺寸——大型、大型 Turbo 和中型——专为消费硬件设计，并根据 Stability AI 社区许可提供。值得注意的是，中型模型根据社区反馈进行了改进，解决了之前的缺点。Tom&#39;s Guide 的 AI 编辑 Ryan Morrison 强调了 SD3.5 的卓越性能，将其比作 Flux 1.1 Pro 的功能。这些模型提供可定制的输出、高效的性能和多样化的风格选项，包括用于风格规范的主题标签提示。该版本对非商业用途和小型企业免费，大型实体需要企业许可证。这一发展标志着向更广泛的受众提供逼真的 AI 图像创建迈出了重要一步。]]></description>
+      <guid>https://t.me/hn_summary/113582</guid>
+      <pubDate>Tue, 22 Oct 2024 20:29:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
