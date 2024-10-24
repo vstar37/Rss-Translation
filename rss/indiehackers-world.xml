@@ -4,7 +4,16 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Thu, 24 Oct 2024 15:15:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 18:19:21 GMT</lastBuildDate>
+    <item>
+      <title>有哪些方法可以增加新建且尚无访问者的网站的流量？</title>
+      <link>https://feed.indiehackers.world/post/721a8dadbc</link>
+      <description><![CDATA[结论
+简而言之，虽然吸引流量到新网站可能很难，但您可以使用许多策略来扭转局面。通过优化搜索引擎、在社交媒体上推广、创建精彩内容以及与他人合作，您肯定可以吸引更多人关注您的网站。只需继续尝试和改进您的方法，很快，您就会看到访客数量攀升！
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/721a8dadbc</guid>
+      <pubDate>Wed, 23 Oct 2024 10:02:49 GMT</pubDate>
+    </item>
     <item>
       <title>欢迎加入“WordPress 营销”小组！</title>
       <link>https://feed.indiehackers.world/post/e06484b82e</link>
@@ -117,7 +126,7 @@ get(&quot;/api/employees/&quot; + testEmployee.getId())
 .body(&quot;id&quot;, equalTo((int) testEmployee.getId())) // 确保 ID 正确
 .body(&quot;firstName&quot;, equalTo(&quot;John&quot;))
 .body(&quot;lastName&quot;, equalTo(&quot;Doe&quot;))
-.body(&quot;email&quot;, equalTo(&quot;john.doe@example.com&quot;));
+.body(&quot;email&quot;, equalTo(&quot;john.doe@example.com&quot;&gt;john.doe@example.com&quot;));
 
 @Test
 public void testUpdateEmployee() {
@@ -163,15 +172,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/76633c17b6</guid>
       <pubDate>Sat, 19 Oct 2024 17:34:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>非技术创始人如何创建 Cloudbrand——数字代理机构的 Dropbox 替代品</title>
-      <link>https://feed.indiehackers.world/post/580df336df</link>
-      <description><![CDATA[本月初，我们使用 Stripe Atlas 在特拉华州正式注册了 Cloudbrand。现在，我们完全致力于将其作为我们的主要关注点，而不仅仅是 Reel Unlimited 的一个附带项目。说到它，我的代理机构 Reel Unlimited 已完全迁移到 Cloudbrand。现在，我们在自己的品牌云存储门户中共享文件，其中包含我们的名称、徽标、颜色、域名和电子邮件。客户不再需要烦人的弹出窗口，也不再需要昂贵的订阅，只有专为我们这样的代理机构设计的体验。
-我们现在上线了，正在慢慢加入一些团队，我们对打造伟大的东西感到非常兴奋。保存这篇文章并祝我们好运！稍后再回来查看我们是否幸存下来（剧透警告：我想我们会粉碎它！）。
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/580df336df</guid>
-      <pubDate>Sat, 19 Oct 2024 17:20:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
