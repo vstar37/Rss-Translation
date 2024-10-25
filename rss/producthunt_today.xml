@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 25 Oct 2024 09:16:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 12:26:40 GMT</lastBuildDate>
     <item>
       <title>熔岩灯即服务</title>
       <link>https://www.producthunt.com/posts/lava-lamps-as-a-service</link>
@@ -60,6 +60,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/smashing</guid>
       <pubDate>Thu, 24 Oct 2024 17:29:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs</title>
+      <link>https://www.producthunt.com/posts/elevenlabs-2</link>
+      <description><![CDATA[
+根据文本提示生成自定义语音
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/elevenlabs-2</guid>
+      <pubDate>Thu, 24 Oct 2024 15:30:52 GMT</pubDate>
     </item>
     <item>
       <title>键盘快捷键图像创建器</title>
@@ -132,18 +146,18 @@
       <pubDate>Thu, 24 Oct 2024 07:13:27 GMT</pubDate>
     </item>
     <item>
-      <title>适用于 Mac 的 Dockside 应用程序</title>
-      <link>https://www.producthunt.com/posts/dockside-app-for-mac</link>
+      <title>克劳德 电脑使用</title>
+      <link>https://www.producthunt.com/posts/claude-computer-use</link>
       <description><![CDATA[
-位于 macOS Dock 旁边的友好文件架
+使用计算机实现自动化操作
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/dockside-app-for-mac</guid>
-      <pubDate>Wed, 23 Oct 2024 18:20:05 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/claude-computer-use</guid>
+      <pubDate>Wed, 23 Oct 2024 18:58:00 GMT</pubDate>
     </item>
     <item>
       <title>Vivaldi 7.0</title>
@@ -172,20 +186,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/auditnow</guid>
       <pubDate>Tue, 22 Oct 2024 20:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AUDIOMATIC.IO</title>
-      <link>https://www.producthunt.com/posts/audiomatic-io</link>
-      <description><![CDATA[
-自动查找 + 生成视频的音乐和音效
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/audiomatic-io</guid>
-      <pubDate>Tue, 22 Oct 2024 14:03:56 GMT</pubDate>
     </item>
     <item>
       <title>桌面冲刺</title>
