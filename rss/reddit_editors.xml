@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 06 Nov 2024 21:14:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 01:01:52 GMT</lastBuildDate>
+    <item>
+      <title>将剪辑从一个序列替换到另一个序列，而不会覆盖并保持相同的长度</title>
+      <link>https://www.reddit.com/r/editors/comments/1glbzys/replacing_a_clip_from_one_sequence_to_another/</link>
+      <description><![CDATA[这可能很容易做到，但我不知道。所以让我解释一下。我正在做平淡无奇的编辑。我基本上从选择时间线（底部）构建了我的工作版本（顶部时间线），然后我使用底部时间线的入点和出点标记，然后按句点将这些剪辑放置到顶部时间线，而无需使用鼠标。 这在构建我的剪辑时非常有用。但是，当我收到注释/反馈时，其中一些剪辑需要用其他剪辑替换，而不更改持续时间。因此，如果我尝试相同的标记入点/出点方法，剪辑会被替换，但如果持续时间更长，它们会覆盖其他剪辑（在右侧）。我可以按 A，然后将所有内容移到右侧，但这似乎是额外的步骤。 我正在寻找一种方法，将剪辑从底部时间线移动到顶部并替换具有完全相同持续时间的剪辑，无论我在哪里标记出点。这有意义吗？    提交人    /u/WearHeadphonesPlease   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1glbzys/replacing_a_clip_from_one_sequence_to_another/</guid>
+      <pubDate>Wed, 06 Nov 2024 23:09:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>当你搞砸了摄录时，重新链接到原始媒体以在 AVID 中进行最终输出</title>
+      <link>https://www.reddit.com/r/editors/comments/1glay9s/relinking_to_original_media_for_final_output_in/</link>
+      <description><![CDATA[嗨 - 抱歉，这个问题之前已经有人问过了，但是我之前没有成功使用过以前的答案。 我使用 Avid Media Composer 为一个朋友做了一个小项目，我想我从一开始就搞砸了。我在提取媒体时对所有媒体进行了转码，没有使用 AMA。现在我需要导出完整分辨率版本，但我不知道如何重新链接媒体。有办法吗？或者我只是以更高的分辨率重新导入所有媒体并重新剪辑整个内容？这是一个非常短的片段，所以这并非不可能，但显然不是理想的选择。 我参与的项目是 1080P，但现在我了解到他们希望以 3840x2160 交付。如果我可以提供任何其他详细信息来帮助找到解决方案，请告诉我！     由    /u/Broad_Lifeguard_1532   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1glay9s/relinking_to_original_media_for_final_output_in/</guid>
+      <pubDate>Wed, 06 Nov 2024 22:23:37 GMT</pubDate>
+    </item>
     <item>
       <title>用于编辑和 Xbox/PS5/Light 游戏的 4K 显示器</title>
       <link>https://www.reddit.com/r/editors/comments/1gl850u/4k_monitor_for_editing_and_xboxps5light_gaming/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>需要有关 LED 显示屏最佳屏幕分辨率的建议（两种配置：横向和纵向）</title>
       <link>https://www.reddit.com/r/editors/comments/1gl3irv/advice_needed_on_optimal_screen_resolution_for/</link>
-      <description><![CDATA[你好，Reddit！ 我正在一个包含两个 LED 显示屏配置的项目上，如果能提供一些关于每个配置的最佳分辨率设置的建议，我将非常感激。 屏幕配置：  横向视频：5.5m 宽 x 1m 高 纵向视频：1.5m 宽 x 2m 高  屏幕技术细节见评论    提交人    /u/Carthage_Emperor   [链接] [评论]]]></description>
+      <description><![CDATA[你好，Reddit！ 我正在一个包含两个 LED 显示屏配置的项目上工作，如果能为我提供关于每个配置的最佳分辨率设置的建议，我将非常感激。 屏幕配置：  横向视频：5.5m 宽 x 1m 高 纵向视频：1.5m 宽 x 2m 高  屏幕技术细节见评论    提交人    /u/Carthage_Emperor   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gl3irv/advice_needed_on_optimal_screen_resolution_for/</guid>
       <pubDate>Wed, 06 Nov 2024 17:11:58 GMT</pubDate>
     </item>
@@ -43,7 +57,7 @@
     <item>
       <title>Backblaze 经验/评论？</title>
       <link>https://www.reddit.com/r/editors/comments/1gl2unp/backblaze_experiencesreviews/</link>
-      <description><![CDATA[好奇你们中是否有人将存储备份到 Backblaze，以及你们喜欢它吗？它已经被多次提及，但我没有找到最近（最近几年）关于其优点/问题的讨论。 你用过它吗？你备份了多少 TB？备份它们花了多长时间？你曾经需要恢复数据吗？诸如此类的事情。    提交人    /u/ovideos   [link] [评论]]]></description>
+      <description><![CDATA[好奇你们中是否有人将存储备份到 Backblaze，以及你们喜欢它吗？它已经被多次提及，但我没有找到最近（最近几年）关于其优点/问题的讨论。 你用过它吗？你备份了多少 TB？备份它们花了多长时间？你曾经恢复过数据吗？诸如此类的事情。   编辑：感谢所有反馈，真的很有帮助。喜欢这个子版块！    提交人    /u/ovideos   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gl2unp/backblaze_experiencesreviews/</guid>
       <pubDate>Wed, 06 Nov 2024 16:44:27 GMT</pubDate>
     </item>
@@ -78,12 +92,12 @@
     <item>
       <title>NAS 与 DAS</title>
       <link>https://www.reddit.com/r/editors/comments/1gks8xv/nas_vs_das/</link>
-      <description><![CDATA[大家好，我在一家媒体制作公司工作。这是一个由 4 人组成的小团队（将来可能会增加更多人）。我们正在研究 RAID 平台。 我研究过 OWC ThunderBay 8 和 Synology DiskStation DS1821+。 我们的 4 位编辑希望本地访问文件（不存在互联网速度问题），但当我们不在办公桌旁时，需要远程访问才能上传/下载文件。 我知道 OWC ThunderBay 8 是一个我们可以在本地使用的 DAS 系统（虽然不太确定如何同时让 4 个人访问），并且使用 Synology DiskStation DS1821+，每个人都可以访问它，但我担心互联网速度不足以从驱动器进行编辑。  我正在寻找大约 100TB 的存储空间来存档我们的文件 + 编辑它们 TL;DR：我想要一个解决方案，既能以最快的本地速度进行编辑，又能远程访问以下载和上传文件。哪个是最好的解决方案？OWC ThunderBay 8 或 Synology DiskStation DS1821+。    提交人    /u/poptart100   [link] [评论]]]></description>
+      <description><![CDATA[大家好，我在一家媒体制作公司工作。这是一个由 4 人组成的小团队（将来可能会增加更多人）。我们正在研究 RAID 平台。 我研究了 OWC ThunderBay 8 和 Synology DiskStation DS1821+。 我们的 4 位编辑希望本地访问文件（不存在互联网速度问题），但当我们不在办公桌旁时，需要远程访问才能上传/下载文件。 我知道 OWC ThunderBay 8 是一个我们可以在本地使用的 DAS 系统（虽然不太确定如何同时让 4 个人访问），并且使用 Synology DiskStation DS1821+，每个人都可以访问它，但我担心互联网速度不足以从驱动器进行编辑。  我正在寻找大约 100TB 的存储空间来存档我们的文件 + 编辑它们 TL;DR：我想要一个解决方案，既能以最快的本地速度进行编辑，又能远程访问以下载和上传文件。哪个是最好的解决方案？OWC ThunderBay 8 或 Synology DiskStation DS1821+。    提交人    /u/poptart100   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gks8xv/nas_vs_das/</guid>
       <pubDate>Wed, 06 Nov 2024 06:38:49 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>可以使用参考曲目进行搜索的音乐库吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1gkqxxj/music_library_that_has_search_using_reference/</link>
       <description><![CDATA[嗨！ 我敢发誓我找到了一个音乐库，它有上传参考曲目以查找类似音乐的选项。现在我哪儿也找不到它了。这一切都是梦吗？ 有人知道哪些库有这个功能吗？ 谢谢！！    提交人    /u/Kid_Shit_Kicker   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gkqxxj/music_library_that_has_search_using_reference/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好。过去两年，我参与了三个获得体育艾美奖的项目。我们获得了最佳纪录片系列奖、最佳 PSA 奖和最佳编剧奖。我是这三个奖项中不可或缺的一部分。我只获得了最佳纪录片系列奖杯。你们会给自己的荣誉加上什么呢？3 次艾美奖得主？感觉我必须获得最佳剪辑奖，但我看到其他剪辑师对此含糊其辞。    提交人    /u/comeback11   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gkpwn3/emmy_award_title/</guid>
       <pubDate>Wed, 06 Nov 2024 04:10:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Windows 切换到 MacBook 进行视频编辑：16GB 或 32GB RAM 是否更适合我的工作流程？</title>
-      <link>https://www.reddit.com/r/editors/comments/1gkkty7/switching_from_windows_to_macbook_for_video/</link>
-      <description><![CDATA[大家好， 我想听听大家的建议，因为我正在考虑从 Windows 笔记本电脑换到 MacBook，主要是为了电池寿命和便携性。我每天都使用 Premiere Pro 和 Photoshop，偶尔也会使用 After Effects。我的工作流程严重依赖 MOGRT 文件。 目前，我有一台 Windows 笔记本电脑，配备 R7、RTX 3060 和 32GB DDR4 RAM。在编辑时，我使用大约 18GB 的​​ RAM，而在视频渲染过程中，RAM 会激增到大约 24-26GB。 我正在考虑两个选项： 一台二手 MacBook，配备 M2 Pro、16GB RAM，售价 1,900 美元。等待新款 32GB M4 发布。我认为配备 M4 的标准 MacBook Pro 可以很好地处理我的工作流程，但我不确定是否可以通过使用 16GB 来节省一些钱，或者投资 32GB 型号是否更安全。 你会推荐什么？谢谢！    提交人    /u/DepartureSlight   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gkkty7/switching_from_windows_to_macbook_for_video/</guid>
-      <pubDate>Tue, 05 Nov 2024 23:40:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>GifGun 扩展在使用 Precomps 时创建大量 gif 文件 [After Effects 24.3]</title>
-      <link>https://www.reddit.com/r/editors/comments/1gkkdks/gifgun_extension_creating_massive_gif_files_when/</link>
-      <description><![CDATA[这可能是我这边的工作流程问题，但当有预合成时，我无论如何也无法让 GifGun 通过 After Effects 导出 30-70MB 以下的 gif。在比较简单的项目中，我可以毫无问题地获得 2-5MB，但在我添加预合成时，导出似乎会增加 10MB。每次导出大约需要 10-15 分钟。有什么解决办法吗？ 我在 Windows 10 上 CPU：AMD Ryzen 9 3900XT，12 核 GPU：NVIDIA GeForce GTX 1660 Ti RAM：32GB 它们都是从 SVG 转换而来的 Adob​​e Illustrator 文件的动画。    提交人    /u/SandakinTheTriplet   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gkkdks/gifgun_extension_creating_massive_gif_files_when/</guid>
-      <pubDate>Tue, 05 Nov 2024 23:19:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
