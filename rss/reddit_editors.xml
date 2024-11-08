@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 07 Nov 2024 21:12:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 01:01:31 GMT</lastBuildDate>
+    <item>
+      <title>在 6K 时间轴中播放 4K 素材，然后在 4K 时间轴中缩小，还是立即在 4K 时间轴上工作？</title>
+      <link>https://www.reddit.com/r/editors/comments/1gm1anw/4k_footage_in_a_6k_timeline_and_scaling_down_in_a/</link>
+      <description><![CDATA[你好！ 我知道这个问题可能之前已经回答过了。我是一名导演，这是很久以来第一次剪辑自己的电影（自 2016 年以来就没有剪辑过自己的电影。如果预算允许，我通常会聘请剪辑师来做这件事）。由于慢动作等原因，我的一些素材是用 4K 拍摄的。其余的是 6K，我一直在 6K 时间轴上工作。我计划复制这个 6k 时间轴，将序列设置更改为 4K，并根据需要移动/放大 6K 素材。如果这种方法在效率方面没问题，或者我是否应该开始使用 4K 时间轴，有什么建议吗？提前谢谢您！    提交人    /u/Interesting-Air3017   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gm1anw/4k_footage_in_a_6k_timeline_and_scaling_down_in_a/</guid>
+      <pubDate>Thu, 07 Nov 2024 21:12:58 GMT</pubDate>
+    </item>
     <item>
       <title>最快的 B-Roll 导入器插件</title>
       <link>https://www.reddit.com/r/editors/comments/1gm0fya/fastest_broll_importer_plugin/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[有人知道从 Premiere Pro 导出到 Pro Tools 的工作流程，并且 PP 时间线中的标记显示在 Pro Tools 时间线中吗？AAF 导出中是否有设置，或者这只是 Avid 到 Pro Tools 的工作流程功能？我正在使用 Premiere Pro 24.6.3     提交人    /u/ClayPidgeon17   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1glhrgr/premiere_pro_to_pro_tools_with_markers/</guid>
       <pubDate>Thu, 07 Nov 2024 03:57:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>AVID MediaCentral 中的快捷方式和按键绑定：云 UX？</title>
-      <link>https://www.reddit.com/r/editors/comments/1glerqf/shortcuts_and_keybinds_in_avid_mediacentral_cloud/</link>
-      <description><![CDATA[背景是，我 5 年前开始使用 Premiere Pro 进行编辑。两年后，我在这个工作室找到了一份编辑的工作，虽然我们使用了 2008 年的一款名为 Viz EasyCut 的程序，它与我习惯的程序相比是一个巨大的进步，但我没有抱怨。现在，工作室最近已转移到 AVID MediaCentral：Cloud UX。尽管搜索了几个小时，但我不知道是否有办法更改快捷方式。所有现有的快捷方式对我的编辑风格来说都不方便，而且它将我的编辑时间从 15 分钟变成了将近一个小时，所以我正在寻找一种方法来更改它们。我的同事说他们认为这是不可能的，但我拒绝放弃让这项工作更容易一点。    提交人    /u/daddy_spaghetti73   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1glerqf/shortcuts_and_keybinds_in_avid_mediacentral_cloud/</guid>
-      <pubDate>Thu, 07 Nov 2024 01:19:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
