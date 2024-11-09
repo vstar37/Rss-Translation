@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 09 Nov 2024 06:17:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 09:13:48 GMT</lastBuildDate>
+    <item>
+      <title>最近开源领域有哪些好消息？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gn4kxk/what_are_some_good_news_for_and_from_opensource/</link>
+      <description><![CDATA[几个月来我一直在关注开源，但本周我的屏幕上大多是关于它的负面消息，所以我在寻找积极的东西？    提交人    /u/Dcharlus99   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gn4kxk/what_are_some_good_news_for_and_from_opensource/</guid>
+      <pubDate>Sat, 09 Nov 2024 07:09:47 GMT</pubDate>
+    </item>
     <item>
       <title>具有快速复制操作的书签</title>
       <link>https://www.reddit.com/r/opensource/comments/1gn2hmr/bookmarks_with_quick_copy_action/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>我为搜索引擎创建了一个公共域数据库</title>
       <link>https://www.reddit.com/r/opensource/comments/1glsjzi/i_made_a_public_domain_database_for_search_engines/</link>
-      <description><![CDATA[我正在开发自己的搜索引擎数据库。不幸的是，该项目目前仅包含土耳其语。如果您想开发搜索引擎，您可以为我的项目做出贡献，并使用 JavaScript 中的 fetch 函数将其添加到您的项目中。如果您能做出贡献，我会很高兴 :) 从 DeepL 翻译。我不会说英语 提前感谢您的贡献。这是我为开源和免费软件所做的事情 链接：https://github.com/oyuncunettv/public-domain-search-engine-db/tree/main    提交人    /u/oyuncunettv   [链接] [评论]]]></description>
+      <description><![CDATA[我正在开发自己的搜索引擎数据库。不幸的是，该项目目前仅包含土耳其语。如果您想开发搜索引擎，您可以为我的项目做出贡献，并使用 JavaScript 中的 fetch 函数将其添加到您的项目中。如果您能做出贡献，我会很高兴 :) 从 DeepL 翻译而来。我不会说英语 提前感谢您的贡献。这是我为开源和免费软件所做的事情 链接：https://github.com/oyuncunettv/public-domain-search-engine-db/tree/main    提交人    /u/oyuncunettv   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1glsjzi/i_made_a_public_domain_database_for_search_engines/</guid>
       <pubDate>Thu, 07 Nov 2024 15:06:31 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我正在尝试检查一些新的开源库，我很乐意听到您的意见！    由   提交  /u/Arindam_200   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1glo61h/whats_your_favourite_yet_underrated_open_source/</guid>
       <pubDate>Thu, 07 Nov 2024 11:20:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>初级 UI/UX 设计师正在寻找开源贡献机会 🌟</title>
-      <link>https://www.reddit.com/r/opensource/comments/1glnwzx/beginner_uiux_designer_looking_for_opensource/</link>
-      <description><![CDATA[我是一名初级 UI/UX 设计师，渴望获得实践经验并为开源项目做出贡献。我希望提高自己的技能，与经验丰富的设计师和开发人员合作，并通过有意义的设计工作回馈社区。😊    提交人    /u/Low_Tale5740   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1glnwzx/beginner_uiux_designer_looking_for_opensource/</guid>
-      <pubDate>Thu, 07 Nov 2024 11:03:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
