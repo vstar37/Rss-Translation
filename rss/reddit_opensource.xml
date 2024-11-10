@@ -4,13 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 10 Nov 2024 15:13:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 18:16:53 GMT</lastBuildDate>
     <item>
-      <title>我制作了一部关于开源的纪录片</title>
-      <link>https://www.reddit.com/r/opensource/comments/1go22dx/i_made_a_documentary_on_open_source/</link>
-      <description><![CDATA[        提交人    /u/deven_rathore   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1go22dx/i_made_a_documentary_on_open_source/</guid>
-      <pubDate>Sun, 10 Nov 2024 14:39:24 GMT</pubDate>
+      <title>适用于 Linux 的开源会计软件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1go5719/opensource_accounting_software_for_linux/</link>
+      <description><![CDATA[嘿！ 我下周会收到全新的 Tuxedo 笔记本电脑，我非常高兴能够涉足 Linux 和开源世界。 我选择 Tuxedo 笔记本电脑以确保顺利过渡，而不会遇到太多硬件问题。为了准备这次新旅程，我研究了我用例所需的软件（主要是个人任务、一些数据分析、一些编程和简单的开发）。 我从一开始就需要做好的一件事就是管理我的家庭财务。我为包括我自己在内的五个人管理大约十几个不同的银行账户，跟踪信用卡和借记卡、投资……这有点复杂——几乎就像经营一家小企业，但不开具发票。到目前为止，我一直用我自己设计的相当复杂的 Excel 电子表格来管理家庭财务。它运行正常，但具有 Excel 电子表格的典型笨重性。 我曾计划使用 Python 和数据可视化框架构建一些更复杂的东西 — — 这有关系吗？我认为一定有一些开源、免费的会计软件可以满足我的需求。 从我早期的研究中，我发现了一些选项，例如 GnuCash、KMyMoney、HomeBank 和 Akaunting... 同样，我的用例：管理多个银行账户的贷方和借方、准备家庭预算、可视化账户状况、管​​理现金流和跟踪投资（我不需要开具发票）。 有人有类似的用例和使用任何特定软件的经验吗？期待任何提示！干杯。    提交人    /u/randomnudge   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1go5719/opensource_accounting_software_for_linux/</guid>
+      <pubDate>Sun, 10 Nov 2024 17:00:41 GMT</pubDate>
     </item>
     <item>
       <title>今天，我使用 Brave API 构建了一个搜索引擎。</title>
@@ -25,13 +25,6 @@
       <description><![CDATA[动机：最近，我发现自己深深地沉迷于日本电影、电视剧和网络连续剧。在东京旅行期间，我在机上娱乐系统上偶然发现了一部名为《北极百货公司的礼宾员》的日本电影。它有英文字幕，我被迷住了——但不幸的是，我没能在航班结束前看完它。当我回来时，我很高兴发现它可以在 Netflix Japan 上观看。然而，有一个问题：Netflix 只有日语字幕，而我的日语几乎不存在。我认为这是一个机会来构建一个解决方案来用英语欣赏这部电影。上周末，我创建了一个小型 Python 脚本，将只有日语的字幕翻译成英文，让我最终在完全理解的情况下看完了这部电影。这可能不是最具可扩展性的设置，但它确实完成了工作！ 这个项目有什么用？ : 这个项目的目标很简单：将 Netflix 上的日语电影字幕从日语翻译成英语。这个项目的动机来自于缺乏可用的英语字幕，这使得这个项目既是一个有趣的技术挑战，也是满足我特定需求的有用解决方案。目前设置为日语 -&gt;英语，但该设置可以扩展到其他语言对。 高级解决方案：该项目利用了 Netflix 流媒体和基于云的图像处理的一些有趣的细微差别：  由于电影在 Netflix 上，我对其进行了屏幕录制，但 Netflix DRM 策略使屏幕变黑，只留下可见的字幕。 此限制成为了一项功能：由于每帧中只有字幕可见，因此简化了预处理。 我使用 OpenCV 处理视频帧，每秒捕获一帧，然后将这些帧上传到 S3 存储桶。 接下来，我将每一帧发送到 Google Vision API，提取日语字幕文本。 提取文本后，将日语文本发送到 AWS Translate 以将其转换为英语。 最后，我将翻译后的文本编译成带有时间戳（开始时间、结束时间和翻译文本）的 JSON 文件。一个小的 JavaScript 脚本读取这个 JSON 文件并将翻译后的字幕叠加到电影上，以实现无缝播放。  目标受众：这个项目纯粹是个人努力，但任何对计算机视觉、媒体处理或云技术感兴趣的人都会发现它很有见地。它将 OpenCV、Google Vision、AWS S3 和 AWS Translate 结合在一个简化的解决方案中，以增强观影体验。 与类似工具的比较：虽然有 Chrome 扩展程序可以在 Netflix 上叠加双语字幕，但它们需要同时提供日语和英语字幕。我的情况有所不同 - 没有可用的英文字幕，因此需要采用独特的方法。 演示 / 屏幕截图： https://imgur.com/a/vWxPCua https://imgur.com/a/zsVkxhT 如果您好奇，请查看我的 Github Repo：https://github.com/Anubhav9/netfly-subtitle-converter 它仍在进行中，但请随时查看并分享任何反馈。    提交人    /u/Content_Ad_4153   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gnydxd/built_this_over_the_weekend_netflix_subtitle/</guid>
       <pubDate>Sun, 10 Nov 2024 11:10:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建完全免费且开源的商业软件是一个好主意吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gnxmgd/is_it_a_good_idea_to_create_a_completely_free_and/</link>
-      <description><![CDATA[为一款仅供商业使用的软件创建一个完全免费且开源的版本是不是一个好主意？    提交人    /u/Largance   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gnxmgd/is_it_a_good_idea_to_create_a_completely_free_and/</guid>
-      <pubDate>Sun, 10 Nov 2024 10:16:42 GMT</pubDate>
     </item>
     <item>
       <title>所有平台上最佳的开源音乐播放器？</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[我尝试了 archlinux 存储库中的一些软件包 - kmymoney、gnucash 和 homebank。但它们都不是我所寻找的：  它需要易于使用。它不应该包含复杂、难以理解的内容，因为不仅我会使用它，我的妻子也会使用它。我不想用命令行、双重会计思想、交易对手概念和分离信用卡和借记卡来折磨她，我只想把支出和未来费用放在那里。 它应该包含未来支出和计划。例如，我想买一张新显卡，而我的妻子想买一架电子钢琴。我想在程序中保留这些条目，因为它们与一件事有关：钱。 尽管现在我们可以使用 Syncthing 或类似程序同步文件，但最好是在线同步。因为我使用 Linux，而我的妻子使用 Windows，所以最好找一些在线的、可同步的和多平台的程序。  基本上就是这样。我只希望该程序能够跟踪成本分摊、一些愿望或其他东西。好吧，还有一份关于花钱情况的良好报告。所以在线电子表格很可能不适合我。你知道任何这样的程序吗？    提交人    /u/hurleymjohnston   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gnhbhy/i_need_an_opensource_budgeting_software_for_my/</guid>
       <pubDate>Sat, 09 Nov 2024 19:04:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源软件包的安全性和可靠性有问题？让我们谈谈解决方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gnfrlg/struggling_with_opensource_package_security_and/</link>
+      <description><![CDATA[还有谁觉得很难跟上开源软件包的安全性？我们的项目中有如此多的依赖项，确保它们的安全并得到良好维护就像一份全职工作。一个有风险的软件包或一个未维护的库很容易变成一个漏洞，而且很难独自发现所有问题。 最近，我听说过 Dependabot 和 Snyk 之类的工具，我偶然发现了一种名为 HealthyPackage.ai 的东西，它显然可以提供软件包的健康状况洞察。有没有人用过它或发现它有助于快速了解软件包的可靠性？很想知道什么对你有用！    提交人    /u/Mountain-Insect-2153   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gnfrlg/struggling_with_opensource_package_security_and/</guid>
+      <pubDate>Sat, 09 Nov 2024 17:55:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
