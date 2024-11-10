@@ -4,12 +4,68 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Sun, 10 Nov 2024 00:41:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 02:39:42 GMT</lastBuildDate>
+    <item>
+      <title>[媒体] 20 世纪 70 年代，考古学家发掘出一个他们认为是典型的罗马墓葬[...]</title>
+      <link>https://t.me/hn_summary/115954</link>
+      <description><![CDATA[考古学家对相隔 1000 年之久的死者遗骸组成的骨架感到困惑
+20 世纪 70 年代，考古学家在比利时发掘出他们认为是典型的罗马墓葬。然而，最近的 DNA 分析揭示了一个令人惊讶的发现：这具骨架由至少八个不相关的个​​体的骨头组成，跨越数千年。最早的骨头可以追溯到 4,445 年前，而头骨属于公元三世纪或四世纪的一名罗马女性。这具在罗马墓地中发现的复合骨架引发了有关埋葬习俗的有趣问题。研究人员推测，高卢罗马人可能故意组装了这具骨架，可能是为了主张土地所有权。这项复杂的研究提供了对新石器时代和罗马埋葬习俗的深入了解，凸显了该遗址的历史意义。骨头的刻意组合表明了对人体解剖学的深刻理解，为这个考古谜题增添了一层神秘感。]]></description>
+      <guid>https://t.me/hn_summary/115954</guid>
+      <pubDate>Sun, 10 Nov 2024 02:39:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] GitHub 项目名为“将 TI-84 计算器变成基于 GPT 的作弊工具的模组 [...]</title>
+      <link>https://t.me/hn_summary/115953</link>
+      <description><![CDATA[将 TI-84 计算器变成基于 GPT 的作弊设备的 mod
+GitHub 项目名为“将 TI-84 计算器变成基于 GPT 的作弊设备的 mod”，旨在修改 TI-84 计算器以利用 GPT 技术进行潜在的不诚实目的，例如作弊。该项目包括 Gemini API 支持、处理来自 GPT 的分页响应以及启用对 GPT 的回复等功能，这可能会增强计算器的交互能力。作者指出文档不完整，并引导用户访问 DOCUMENTATION.md 文件以获取更多信息。该项目的与众不同之处在于将先进的人工智能功能集成到传统计算器中，有可能改变其教育用途。]]></description>
+      <guid>https://t.me/hn_summary/115953</guid>
+      <pubDate>Sun, 10 Nov 2024 02:26:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为一名语言学家和技术作家，我长期以来一直依赖海明威进行英语写作，但 [...]</title>
+      <link>https://t.me/hn_summary/115952</link>
+      <description><![CDATA[Verbalize – 带有巴西葡萄牙语写作辅助的文本编辑器
+作为一名语言学家和技术作家，我长期以来一直依赖 Hemingway 进行英语写作，但很难找到类似的巴西葡萄牙语工具。本周，我终于有机会创建 Techscriptor 的一个分支，增强其界面并使其适应巴西葡萄牙语，最终推出了 Verbalize 0.1 版。Verbalize 允许用户上传 md 或 txt 文件，对其进行编辑并接收改进建议，重点是简化语言并避免使用行话。编辑后的文件可以以 md 格式下载。该应用程序可通过 Electron、网络或通过 GitHub 本地访问。未来的改进包括云集成、自定义规则、离线使用和 GUI 增强功能。这里的独特之处在于专门针对巴西葡萄牙语改编了一种书写工具，填补了市场上的一个显著空白。]]></description>
+      <guid>https://t.me/hn_summary/115952</guid>
+      <pubDate>Sun, 10 Nov 2024 02:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在劳伦·格林菲尔德 (Lauren Greenfield) 关于青少年和社交媒体的纪录片《社会研究》中，我们深入探讨了 [...]</title>
+      <link>https://t.me/hn_summary/115951</link>
+      <description><![CDATA[走进青少年的手机
+在劳伦·格林菲尔德关于青少年和社交媒体的纪录片《社会研究》中，我们深入探讨了 Z 世代的双重现实，以悉尼为例，这位 18 岁的年轻人生活在现实世界的单调和精心策划的网络魅力之间摇摆不定。格林菲尔德以记录美国的过度行为而闻名，他结合了采访和手机拍摄的镜头，揭示了青少年在线角色和线下生活之间的鲜明对比。该系列强调了社交媒体的成瘾性、它在加剧饮食失调等问题方面的作用，以及青少年在脱离社交媒体时面临的困难。虽然有些人可能认为该系列是危言耸听，但格林菲尔德强调了社交媒体带来的前所未有的挑战。这部纪录片的独特方式，包括不使用手机的小组讨论，为青少年提供了难得的真诚交流的机会，尽管他们承认在线下维持这种联系很困难。这部系列片强调了社交媒体的普遍影响力，放手就像失去身份一样。]]></description>
+      <guid>https://t.me/hn_summary/115951</guid>
+      <pubDate>Sun, 10 Nov 2024 02:24:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 十五年前，菲尔·文图拉 (Phil Ventura) 和他的儿子们在阿什兰 C [...] 开始了一个独特的项目。</title>
+      <link>https://t.me/hn_summary/115950</link>
+      <description><![CDATA[星际之门 15 年前在俄亥俄州建造 50,000 磅混凝土家庭时光
+15 年前，菲尔·文图拉和他的儿子们在俄亥俄州阿什兰县开展了一个独特的项目，建造了一个 50,000 磅重的星际之门混凝土复制品，灵感来自流行的“星际之门”系列。这个家庭事业最初是为了通过对这个系列的共同热爱来建立联系，却意外地在社交媒体上声名鹊起。尽管它很受欢迎，但文图拉强调星际之门是私人财产，不对公众开放，理由是担心潜在的损害和游客的麻烦。这个项目虽然成本高昂且劳动密集，但对文图拉来说仍然是一个珍贵的回忆，象征着与儿子们共度的美好时光。令人惊讶的是，为了创造如此细致的致敬活动，人们付出了如此巨大的规模和奉献精神，凸显了人们为维护家庭联系和共同兴趣所付出的努力。]]></description>
+      <guid>https://t.me/hn_summary/115950</guid>
+      <pubDate>Sun, 10 Nov 2024 02:16:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 博德明荒原上神秘的石头和草皮结构，以前被认为是一种医疗 [...]</title>
+      <link>https://t.me/hn_summary/115949</link>
+      <description><![CDATA[康沃尔古迹比人们想象的要古老 4000 年，而且“无与伦比”
+博德明荒原上的神秘石头和草皮结构，以前被认为是中世纪的动物围栏，后来被发现比它古老 4000 年，可追溯到新石器时代中期，大约 5000 至 5500 年前。这一发现由考古学家詹姆斯·戈西普 (James Gossip) 领导，凸显了这座古迹在欧洲的独特性，因为没有发现类似的结构。这座长方形的古迹被称为亚瑟王大厅，有一个围墙，周围排列着 56 块立石。此次发掘由康沃尔国家景观局委托进行，利用光激发发光对土壤进行年代测定，揭示了它的史前起源。尽管这座纪念碑有这个名字，但它与亚瑟王并无关联，因为它的历史比他的时代早了几千年。该遗址最初的用途仍是一个谜，但它可能是一个公共聚会场所。这一令人惊讶的发现挑战了之前的历史归属，并丰富了我们对康沃尔史前景观的理解。]]></description>
+      <guid>https://t.me/hn_summary/115949</guid>
+      <pubDate>Sun, 10 Nov 2024 01:57:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dracan 是一款开源、轻量级中间件，专为 Kubernetes 环境设计，提供 [...]</title>
+      <link>https://t.me/hn_summary/115948</link>
+      <description><![CDATA[显示 HN：Dracan – 具有简单过滤/验证配置的开源 1:1 代理
+Dracan 是一款开源轻量级中间件，专为 Kubernetes 环境设计，提供增强的过滤和验证功能。它充当入口和应用程序之间的守门人，提供 HTTP 方法过滤、JSON 验证、请求限制、有效负载限制、URI 过滤和标头验证等功能。这些功能有助于保护应用程序免受错误或冗余查询的影响，确保操作连续性和安全性。Dracan 特别适合中小型开发团队，无需高级 DevOps 技能即可轻松设置。其模块化设计和简单配置使其成为可定制且功能强大的应用程序保护工具。（基于 87% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/115948</guid>
+      <pubDate>Sun, 10 Nov 2024 01:07:48 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体] 在本文中，我重申了我长期以来对无限潜力的怀疑[...]</title>
       <link>https://t.me/hn_summary/115947</link>
       <description><![CDATA[法学硕士确实已经达到了收益递减点
-在本文中，我重申了长期以来对人工智能无限扩展潜力的怀疑，尤其是大型语言模型 (LLM)。尽管受到 Sam Altman、Yann LeCun 和 Elon Musk 等知名人士的批评，但最近 Marc Andreesen 和 Amir Efrati 等业内人士的承认证实，法学硕士正在达到收益递减点。经济影响令人担忧，因为像 OpenAI 这样的公司的高估值是基于不切实际的期望，即仅通过扩展就能实现通用人工智能。媒体和政策制定者基本上忽略了这些警告，而是关注炒作。这种疏忽可能会导致重大战略错误，特别是如果对手投资替代人工智能方法的话。虽然法学硕士仍然有用，但其作用可能比预期的更有限，因此需要重新评估人工智能策略，以实现可靠、值得信赖的系统。]]></description>
+在本文中，我重申了我长期以来对人工智能无限扩展潜力的怀疑，尤其是大型语言模型 (LLM)。尽管受到 Sam Altman、Yann LeCun 和 Elon Musk 等知名人士的批评，但最近 Marc Andreesen 和 Amir Efrati 等业内人士的承认证实，法学硕士正在达到收益递减点。经济影响令人担忧，因为像 OpenAI 这样的公司的高估值是基于不切实际的期望，即仅通过扩展就能实现通用人工智能。媒体和政策制定者基本上忽略了这些警告，而是关注炒作。这种疏忽可能会导致重大战略错误，特别是如果对手投资替代人工智能方法的话。虽然法学硕士仍然有用，但其作用可能比预期的更有限，因此需要重新评估人工智能策略，以实现可靠、值得信赖的系统。]]></description>
       <guid>https://t.me/hn_summary/115947</guid>
       <pubDate>Sun, 10 Nov 2024 00:41:35 GMT</pubDate>
     </item>
@@ -17,7 +73,7 @@
       <title>[媒体] 在“HashML-DSA 被认为有害”一文中，作者批评了在数字签名中使用预散列 [...]</title>
       <link>https://t.me/hn_summary/115946</link>
       <description><![CDATA[HashML-DSA 被认为有害
-在“HashML-DSA 被认为有害”一文中，作者批评了在数字签名方案中使用预散列，特别关注它在 HSM 和云服务等环境中所带来的挑战。作者认为，虽然预散列可以通过减少需要签名的数据大小来简化数据传输，但它并不能与所有签名方案无缝配合。值得注意的是，NIST 最近对签名方案（包括 ML-DSA 和 SLH-DSA）的标准化由于其不可签名性而使问题变得复杂，这阻止了将其轻松分解为散列和签名操作。作者提出了一种解决方案，该解决方案涉及一种允许灵活处理数据和密钥管理的协议，强调将签名方案集成到大型系统中的重要性。争议在于对 NIST 方法的批评，作者认为该方法使 HSM 和远程预言机的使用变得复杂。巧妙之处在于提出的解决方案利用现有协议来解决预哈希问题，而不会损害安全性。（基于 76% 的故事文本的摘要。）]]></description>
+在“HashML-DSA 被认为有害”一文中，作者批评了在数字签名方案中使用预散列，特别关注它在 HSM 和云服务等环境中所带来的挑战。作者认为，虽然预散列可以通过减少需要签名的数据大小来简化数据传输，但它并不能与所有签名方案无缝配合。值得注意的是，NIST 最近对签名方案（包括 ML-DSA 和 SLH-DSA）的标准化由于其不可签名性而使问题变得复杂，这阻止了将其轻松分解为散列和签名操作。作者提出了一种解决方案，该解决方案涉及一种允许灵活处理数据和密钥管理的协议，强调将签名方案集成到大型系统中的重要性。争议在于对 NIST 方法的批评，作者认为该方法使 HSM 和远程预言机的使用变得复杂。巧妙之处在于，所提出的解决方案利用现有协议来解决预哈希问题，而不会损害安全性。（基于 76% 的故事文本的摘要。）]]></description>
       <guid>https://t.me/hn_summary/115946</guid>
       <pubDate>Sun, 10 Nov 2024 00:26:27 GMT</pubDate>
     </item>
@@ -25,65 +81,9 @@
       <title>[媒体]《城堡大师》是 Freescape 引擎传奇的最后一章，现已向公众开放 [...]</title>
       <link>https://t.me/hn_summary/115945</link>
       <description><![CDATA[ScummVM 增加了对 Castle Master (1990) 的支持
-Castle Master 是 Freescape 引擎传奇的最后一章，现在在 ScummVM 上开放供公众测试。这款游戏最初由 Incentive Software 于 1990 年发布，因其技术创新和具有挑战性的游戏玩法而备受赞誉。它是首批允许玩家选择扮演王子或公主的游戏之一，根据选择提供独特的体验。玩家必须在 Castle Eternity 中从邪恶的 Magister 手中救出他们的双胞胎，穿越陷阱、怪物和谜题。此重新实现具有使用 OpenGL 增强的图形，并支持 DOS 和 ZX Spectrum 版本。提供演示，并鼓励测试人员通过问题跟踪器提供反馈。您会征服城堡还是屈服于黑暗势力？]]></description>
+Castle Master 是 Freescape 引擎传奇的最后一章，现在在 ScummVM 上开放供公众测试。这款游戏最初由 Incentive Software 于 1990 年发布，因其技术创新和具有挑战性的游戏玩法而备受赞誉。它是首批允许玩家选择扮演王子或公主的游戏之一，根据选择提供独特的体验。玩家必须在 Castle Eternity 中从邪恶的 Magister 手中救出他们的双胞胎，穿越陷阱、怪物和谜题。此重新实现具有使用 OpenGL 的增强图形，并支持 DOS 和 ZX Spectrum 版本。提供演示，并鼓励测试人员通过问题跟踪器提供反馈。您会征服城堡还是屈服于黑暗势力？]]></description>
       <guid>https://t.me/hn_summary/115945</guid>
       <pubDate>Sat, 09 Nov 2024 22:48:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在追求 SANS 和 GIAC 的网络安全认证的过程中，我的目标是提高 [...]</title>
-      <link>https://t.me/hn_summary/115944</link>
-      <description><![CDATA[Sans 和 GIAC 认证欺诈：案例研究
-在寻求 SANS 和 GIAC 的网络安全认证时，我的目标是提高自己的技能，而不仅仅是验证它们。凭借十多年的从业经验和 200 项认证，我试图挑战自己的模式识别和过目不忘的能力。然而，我的经验表明，这个系统似乎更注重利润而不是职业诚信。两年多来，我投资了超过 22,000 美元的学费和杂费，期望获得行业标准的课程。然而，在完成 GIAC GCIH 认证后，我发现课程材料和考试内容之间存在令人不安的不一致，这引发了人们对认证过程的透明度和公平性的担忧。]]></description>
-      <guid>https://t.me/hn_summary/115944</guid>
-      <pubDate>Sat, 09 Nov 2024 22:37:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>格里姆·凡丹戈</title>
-      <link>https://t.me/hn_summary/115943</link>
-      <description><![CDATA[Grim Fandango
-“Grim Fandango”是 LucasArts 的一款开创性的冒险游戏，它源自 Tim Schafer 的创意构想，将墨西哥民间传说与黑色电影融合在 3D 环境中。受亡灵节和经典电影的启发，Schafer 创作了一个独特的故事，以亡灵之地的旅行社 Manny Calavera 为主角。向 3D 的过渡既受艺术野心的驱动，也受经济需要的驱动，因为 3D 图形有望比传统像素艺术节省成本。尽管面临技术挑战和苛刻的开发过程，但该游戏实现了 Schafer 的电影目标。然而，由于硬件限制，它从未进入 PlayStation，突显了主机游戏错失的机会。（基于 41% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/115943</guid>
-      <pubDate>Sat, 09 Nov 2024 22:31:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在《科学进展》杂志上发表的一项开创性研究中，来自 [...] 的多学科团队</title>
-      <link>https://t.me/hn_summary/115942</link>
-      <description><![CDATA[机器学习分析追踪 16 世纪欧洲天文学思想的演变
-在一项发表于《科学进展》的开创性研究中，来自柏林的多学科团队利用机器学习探索了 15 和 16 世纪欧洲天文学思想的演变。通过分析超过 76,000 页的历史文献，研究人员发现了数学在塑造天文学方面的重要作用，强调了公式的标准化和知识在欧洲的传播。这项研究通过承认鲜为人知的科学家的贡献，挑战了传统上对伽利略、开普勒和哥白尼等人物的关注。一个显著的挑战是处理表格布局的异质性，团队通过创新的机器学习技术解决了这个问题。这种方法为历史科学进步提供了新的视角，强调了知识发展的协作性质。]]></description>
-      <guid>https://t.me/hn_summary/115942</guid>
-      <pubDate>Sat, 09 Nov 2024 22:26:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在《借助人工智能，增强现实的未来就在你的耳朵里》一文中，Om Malik 探讨了 Denni [...]</title>
-      <link>https://t.me/hn_summary/115941</link>
-      <description><![CDATA[Om Malik – 有了人工智能，增强现实的未来就在你的耳朵里
-在《有了人工智能，增强现实的未来就在你的耳朵里》一文中，Om Malik 探索了 Dennis Crowley 在技术与人类行为交汇处的创新之旅。Crowley 以创建 Dodgeball 和 Foursquare 而闻名，现在他正与他的新创业公司 Hopscotch Labs 一起进军基于音频的增强现实领域。该项目利用人工智能和无处不在的耳机将特定位置的信息直接传递到用户的耳朵里，绕过了传统的视觉界面。Crowley 将其设想为现代版的 Marauder&#39;s Map，提供一种更亲密、更少干扰的方式来体验世界。文章强调了 Crowley 预测技术趋势的才能以及他致力于增强人类与环境互动的承诺。令人惊讶的是，他将音频用作增强现实的主要媒介，挑战了传统上对视觉界面的关注。争议在于 Crowley 对 Facebook 倾向于复制他人想法的批评，正如 Foursquare 的功能所见。（基于 65% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/115941</guid>
-      <pubDate>Sat, 09 Nov 2024 22:19:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 跨域身份管理系统 (SCIM) 规范旨在加强 [...]</title>
-      <link>https://t.me/hn_summary/115940</link>
-      <description><![CDATA[SCIM：跨域身份管理系统
-跨域身份管理系统 (SCIM) 规范旨在简化跨基于云的应用程序和服务的用户身份管理。它强调开发和集成的简单性，利用现有的身份验证和隐私模型来最大限度地降低用户管理成本和复杂性。SCIM 2.0 使用对象模型，其中资源是基础，用户和组是关键组件。该规范支持通过 REST API 执行创建、读取、更新、删除和搜索等操作，从而促进高效的用户数据处理。值得注意的是，SCIM 使用标准协议和通用模式，可以快速且经济高效地管理云中的用户身份。所提供的信息不是规范性的，可确保实施的灵活性。（基于 73% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/115940</guid>
-      <pubDate>Sat, 09 Nov 2024 22:18:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 名为“fabrice”的恶意 Python 包正在利用 Python 包索引 [...]</title>
-      <link>https://t.me/hn_summary/115939</link>
-      <description><![CDATA[下载量达 37,000 次的恶意 PyPI 包窃取了 AWS 密钥
-一个名为“fabrice”的恶意 Python 包自 2021 年以来一直在利用 Python 包索引 (PyPI)，通过窃取开发人员的 Amazon Web Services (AWS) 凭据来攻击他们。这个下载量超过 37,000 次的包巧妙地抢注了流行的“fabric”库，误导用户下载它。争议在于它长期未被发现的存在，这归因于安全工具缺乏追溯扫描。“Fabrice”执行特定于操作系统的脚本，在 Linux 上创建隐藏目录，并在 Windows 上部署持久任务，以通过“boto3”SDK 窃取 AWS 凭据。被盗密钥被发送到 VPN 服务器，使可追溯性变得复杂。建议用户验证 PyPI 软件包并使用工具来缓解此类威胁，而 AWS 管理员应使用 IAM 来增强安全性。]]></description>
-      <guid>https://t.me/hn_summary/115939</guid>
-      <pubDate>Sat, 09 Nov 2024 21:51:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在《你也可以写一本书》一书中，作者鼓励学者们转变他们的选集[...]</title>
-      <link>https://t.me/hn_summary/115938</link>
-      <description><![CDATA[你也可以写书
-在《你也可以写书》一书中，作者鼓励学者将他们的讲稿转化为书籍，强调从笔记到一本成熟的书籍的飞跃比人们想象的要小。作者强调了写书的好处，例如分享自己独特的观点并可能影响未来的博士申请者。他们批评现有教科书的质量，特别是编程语言教科书，并提倡免费在线出版书籍，以最大限度地提高影响力和可访问性。作者分享了个人经历和出版方面的实用建议，包括避免商业出版商和使用按需印刷服务。令人惊讶的是作者对传统出版及其传播知识的创新方法的坦率批评。争议在于大胆宣称许多广泛使用的编程教科书已经过时且不够充分。]]></description>
-      <guid>https://t.me/hn_summary/115938</guid>
-      <pubDate>Sat, 09 Nov 2024 21:50:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
