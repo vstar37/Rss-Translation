@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sat, 16 Nov 2024 09:13:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 12:25:11 GMT</lastBuildDate>
     <item>
-      <title>当我不使用铁路时，它的后端是否会进入睡眠状态。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gsjeu9/will_railways_backend_goes_to_sleep_whenever_i_am/</link>
-      <description><![CDATA[我已经使用铁路的后端几天了，它的免费信用额度有限，我不知道如何让后端进入睡眠状态，因为如果免费信用额度结束导致我的后端无法工作，那将是一个问题。    提交人    /u/Select-Ad-3653   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gsjeu9/will_railways_backend_goes_to_sleep_whenever_i_am/</guid>
-      <pubDate>Sat, 16 Nov 2024 09:00:32 GMT</pubDate>
+      <title>字体测试器 - 我制作了一个工具来预览任何网站上的字体，以帮助你改善网站排版</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gsly48/font_tester_i_made_a_tool_to_preview_fonts_on_any/</link>
+      <description><![CDATA[        提交人    /u/ArtleSa   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gsly48/font_tester_i_made_a_tool_to_preview_fonts_on_any/</guid>
+      <pubDate>Sat, 16 Nov 2024 12:08:36 GMT</pubDate>
     </item>
     <item>
-      <title>需要 tailwind CSS 的帮助。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gsja0x/need_help_with_tailwind_css/</link>
-      <description><![CDATA[不知道为什么，但我的 &lt;p class=&quot;py-3 w-1/3&quot;&gt; 不起作用。它没有缩短。我认为可能是它之前的其他一些 div。  我使用了带有 bg purple 的 Main 标签，带有 bg purple、height、py 和 pl 标签的 Div，然后我使用了另一个带有文本 3xl 的 div    提交人    /u/_kart1k_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gsja0x/need_help_with_tailwind_css/</guid>
-      <pubDate>Sat, 16 Nov 2024 08:50:18 GMT</pubDate>
+      <title>【Showoff Saturday】系统架构设计：一个带有实现思路的实例</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gslu3y/showoff_saturday_system_architecture_design_a/</link>
+      <description><![CDATA[        提交者    /u/vinioyama   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gslu3y/showoff_saturday_system_architecture_design_a/</guid>
+      <pubDate>Sat, 16 Nov 2024 12:01:22 GMT</pubDate>
     </item>
     <item>
-      <title>如何为紧急护理客户创建在线注册系统？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gsj08i/how_to_create_an_online_registration_system_for/</link>
-      <description><![CDATA[我目前在一家紧急护理中心工作（不是 IT 部门），但我是一名 Web 开发人员。我最近成立了自己的代理机构，并承担了紧急护理工作，以获得一些稳定性。我注意到有很多系统可以改进，其中之一就是注册客户。当前流程的工作方式是： -客户进来，前台复印他们的身份证和保险单 -前台然后运行保险单并通知楼层监控员一般客户，在 SMARTCARE 上打开它们并传递纸质隐私惯例通知 -楼层监控员然后将这些文件（4）交给同行支持人员，该人员将与客户坐在一起，解释一切，然后让他们签字 -客户将文件带回前台并前台会将文件带回楼层监视器  文件会在护士、临床医生、提供者等之间循环传递。有时会遗漏某些内容，不会按时归还等。 对我来说，这个过程最令人沮丧的部分是，在轮班结束时，有人会花 30 分钟到 1 小时检查客户的每个文件夹和图表（有时有 20 多个客户）。然后夜班人员会在晚上将这些文件扫描到计算机中。 我觉得这个过程非常浪费（时间和纸张）。我怎样才能使这个过程数字化？我试图看看我是否可以访问 SMARTCARE 的 API 来设置一些东西，但这似乎不可行。 我创建了一个“测试版”应用程序向领导层展示，其中只有其中一个表单，然后使用 python 截取屏幕截图并当用户点击“提交”时保存到文件夹，但这在我的 PC 之外是不可持续的，哈哈。我这样做只是为了让领导层看到可以将其数字化，因为他们说这是不可能的。 无论如何，现在他们很兴奋并且事情开始滚动起来，但我对推出一个完整的产品却一无所知。我似乎找不到很多关于其他人如何做的文档（可能是由于 HIPAA）。我在哪里可以开始/构建这样的东西？    提交人    /u/starkstow   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gsj08i/how_to_create_an_online_registration_system_for/</guid>
-      <pubDate>Sat, 16 Nov 2024 08:29:00 GMT</pubDate>
+      <title>对于超级英雄作家网站来说，Copyfolio 是否比 SquareSpace 更好？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gslkfp/is_copyfolio_better_than_squarespace_for_a/</link>
+      <description><![CDATA[大家好，如果发帖不合适，请见谅。 我会尽量简短。我并不是一名网页开发人员或构建者，甚至也不是一名真正的博主。我是一名[有抱负的]超级英雄作家，希望建立一个作家网站。我想知道 Copyfolio 是否比 SquareSpace 更好。 我的主要书籍尚未写完，可能还要过几个月才会有中篇小说，但当一切都说完了，我希望能够拥有一个超级英雄主题的作者网站，该网站有主页和关于我页面，系列和每本书的页面都会有一个客户可以从中订购的页面（虽然我不会直接销售。订购按钮会引导到亚马逊和其他零售商）或指向我的 Patreon 的链接，一个我谈论超级英雄和写作的博客（现在非常重要，虽然在我列出我的书籍后就没那么重要了），如果事情真的很成功，我可以在其上销售商品的页面。 我最初打算使用 SquareSpace，因为我过去曾在一个不相关的博客上使用过自托管的 Wordpress，但我不想再处理这个问题了。我宁愿尝试拖放构建器。但后来另一个 subreddit 上的某个人提到了 Copyfolio，而且该网站至少说它可以完成 SquareSpace 的所有功能，但价格只有后者的一半左右，这让我既好奇又怀疑。他们的网站副本还谈到了它对于构建写作作品集网站有多么完美，但我不是在构建写作作品集网站。我在构建一个作者网站。 我只是想知道你们对 Copyfolio 的看法，以及它与 SquareSpace 相比如何，以满足我对带有博客的超级英雄主题作者网站的需求。就我而言，我在网上找不到任何比较文章，也没有在 Reddit 上找到任何谈论 Copyfolio 的人。 感谢您的时间和意见！    提交人    /u/TienSwitch   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gslkfp/is_copyfolio_better_than_squarespace_for_a/</guid>
+      <pubDate>Sat, 16 Nov 2024 11:42:48 GMT</pubDate>
     </item>
     <item>
-      <title>后端开发：.net、node，还是两者？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gsiswj/backend_development_net_node_both/</link>
-      <description><![CDATA[我应该专攻哪种后端开发技术？我有使用 .NET 和 Node.js 进行项目的经验，但我不确定未来应该专注于哪一个。同时学习两者是否可行，或者这会让我成为“万事通”，而我对此没有深入的专业知识？    提交人    /u/BIack_no_01   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gsiswj/backend_development_net_node_both/</guid>
-      <pubDate>Sat, 16 Nov 2024 08:13:11 GMT</pubDate>
+      <title>作为一名全栈开发人员学习计算机科学基础知识</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gsli2v/learning_cs_fundamentals_as_a_fullstack_dev/</link>
+      <description><![CDATA[我一直在尝试学习全栈开发，更多地关注后端。由于我没有接受过学术教育，所以我在想是否值得花额外的时间自学 CS 基础知识。经过一番研究，我发现 OSSU 和 teachyourselfcs 是自学 CS 课程中最受欢迎的课程。我正在考虑学习 teachyourselfcs。它包括以下主题：计算机架构、CS 数学、操作系统、计算机网络、分布式系统等。  完成所有这些可能至少需要一年的时间，所以我在想我是否应该在深入研究全栈之前主要关注学习这些主题，或者我应该继续练习编程，同时每天花 1-2 个小时学习 CS。也许我应该学习一些，但不是全部。无论如何，任何建议都值得赞赏。   由    /u/DeliciousPiece9726  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gsli2v/learning_cs_fundamentals_as_a_fullstack_dev/</guid>
+      <pubDate>Sat, 16 Nov 2024 11:38:01 GMT</pubDate>
     </item>
     <item>
-      <title>[Showoff Saturday] 每次提交后运行 SEO 和可访问性测试的 CI/CD 工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gshtax/showoff_saturday_a_cicd_tool_for_running_seo/</link>
-      <description><![CDATA[        提交者    /u/al_gsy   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gshtax/showoff_saturday_a_cicd_tool_for_running_seo/</guid>
-      <pubDate>Sat, 16 Nov 2024 07:02:38 GMT</pubDate>
+      <title>有关于分面搜索的资源吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gsl6lj/any_resources_on_faceted_search/</link>
+      <description><![CDATA[大家好， 我想用全新的眼光来看待这个话题，想知道您是否有任何个人智慧或关于这个话题的好资源。目前正在网上搜索，但似乎这比其他网络开发主题涉及的要少得多。使用 RDBMS，但一般方面就可以了。 谢谢！    提交人    /u/r-randy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gsl6lj/any_resources_on_faceted_search/</guid>
+      <pubDate>Sat, 16 Nov 2024 11:14:42 GMT</pubDate>
     </item>
     <item>
-      <title>在 NextJS 中拦截路由时遇到问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gshno9/having_trouble_with_intercepting_routes_in_nextjs/</link>
-      <description><![CDATA[这让我抓狂，因为它几乎可以工作了，但有些东西我就是不明白。 我在 /[username]/post/[postId] 有一条路线，在 /@modal/[username]/post/[postId] 有一条拦截路线。当用户在访问 localhost:3000/[username] 上的用户个人资料时点击帖子时，他们会被定向到 /[username]/post/[postId]，帖子会按预期在模式中打开。 当用户访问 /explore 页面并点击帖子时，他们会被定向到相同的帖子 URL，并且模式会打开，但模式后面的页面显示 404。我不确定现在出了什么问题，但我怀疑这是由于个人资料目录中有一个布局文件，而个人资料之外的布局不同。有什么办法可以让它正常工作，还是我需要重组应用程序文件？    提交人    /u/clit_or_us   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gshno9/having_trouble_with_intercepting_routes_in_nextjs/</guid>
-      <pubDate>Sat, 16 Nov 2024 06:52:15 GMT</pubDate>
+      <title>互动雕塑网站 - 有移动端帮助吗？！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gsl3ox/interactive_sculpture_website_help_with_mobile/</link>
+      <description><![CDATA[       https://preview.redd.it/2wp5njr3091e1.png?width=1839&amp;format=png&amp;auto=webp&amp;s=3aa1dc329d5b60eb48ec6524979eaa7a1dd2a4fa www.alex-kirkpatrick.com/explore-voyagers 我希望这可以作为周六征求建议和想法的帖子。 我建立这个网站是为了传达一个受旅行者号宇宙飞船及其金唱片启发的互动雕塑。该雕塑高 2 米多，刻有数百种图案。为了显示足够大的图像以使设计清晰可见，我将主图像调整到可视端口宽度，并接受了观众必须垂直滚动的代价。 我使用图像映射和一些 JavaScript 来突出显示鼠标悬停时的设计，并带有发光图形，可单击以获取更多信息。我对其在桌面端的运作方式感到很满意，但我一直在努力想出一个适用于移动设备的解决方案。 适应移动视口的高度会使设计太小而无法区分，但适应宽度也不起作用，因为触摸操作会滚动页面而不是激活高亮。在移动设备上的这两种情况下，高亮效果似乎完全消失了。 我考虑过： - 某种可拖动的 放大镜（太混乱） - 让图像可缩放并可在固定点下拖动以激活高亮（可能是最好的选择，但需要大量重建，并且桌面和移动网站的代码完全不同，我宁愿避免这种情况） 抱歉写了这篇文章！我在日常工作中写了一些 Python，但这是我第一次尝试 Web 开发，我觉得这是一个非常棘手的设计问题。我会非常感激任何想法，因为我觉得我已经陷入了这条路，需要新的视角来指出也许完全不同的方法会更好。 *P.s. 我知道整个网站在某些地方有点粗糙，但我的问题只是关于改进 /explore-voyagers 页面。 技术： 可能不是那么相关，但它是一个带有 Python 后端和 sqlite 的 Flask 应用程序。Bootstrap 和 JavaScript 前端，并部署在 Lightsail 上。    提交人    /u/Soupmother   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gsl3ox/interactive_sculpture_website_help_with_mobile/</guid>
+      <pubDate>Sat, 16 Nov 2024 11:08:47 GMT</pubDate>
     </item>
     <item>
-      <title>我对放牧山羊数学问题着迷了一段时间，但一直找不到一个展示解决方案的交互式网站，所以我做了一个。它应该相当不言自明，页面上有说明，但如果您发现错误/需要帮助，请在下面评论！尽情享受吧</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gsgh4d/ive_been_fascinated_by_the_grazing_goat/</link>
-      <description><![CDATA[  由    /u/Turbulent_Goat1988  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gsgh4d/ive_been_fascinated_by_the_grazing_goat/</guid>
-      <pubDate>Sat, 16 Nov 2024 05:37:53 GMT</pubDate>
+      <title>我们创建了一个开源软件包，可以缓解文本到 SQL 注入</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gskt6d/we_have_created_an_open_source_package_which/</link>
+      <description><![CDATA[LLM 中有一个名为 LLM for Structured data 的新分支。 LLM for Structured data - 允许 LLM 代理（ChatGPT、Claude 等）查询结构化数据，例如 SQL 数据库、MongoDB、弹性搜索、PDF 文档、文件夹等等 许多人想知道，即使过了 20 年，SQL 注入仍然位列 OWASP 的前 10 名。这是由于文本到 SQL 模型的兴起。这仍然会引入这个主要的安全问题。我们的目标是缓解文本到 SQL 注入。我们决定主要关注 SQL 数据库，因为它们是最常见的。 Github 上拥有 11k+ 颗星的领先开源项目名为 Vanna，它可以让您使用母语与您的 SQL 数据库“对话”。您应该查看它们 - https://github.com/vanna-ai/vanna 您可以在此处阅读有关文本到 SQL 漏洞的更多信息：https://eprints.whiterose.ac.uk/203349/1/issre23.pdf 我们花了整整 10 分钟来设置他们的演示，并使用母语使其删除其演示数据库中的所有数据。 我和我的朋友创建了一个开源 Python 包来帮助您缓解此类攻击。它是完全可配置的，安全模式可以由开发人员定义，并根据他们的数据库进行定制。 我们的软件包适用于：  保护使用文本到 SQL 的组织基础设施免受人为错误的影响。 保护使用文本到 SQL 的面向互联网的解决方案  这是我们的演示 - https://github.com/langsec-ai/demo    提交人    /u/arbel03   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gskt6d/we_have_created_an_open_source_package_which/</guid>
+      <pubDate>Sat, 16 Nov 2024 10:47:59 GMT</pubDate>
     </item>
     <item>
-      <title>寻找网站或程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gsd9rl/looking_for_a_website_or_program/</link>
-      <description><![CDATA[我现在正在做一个项目，我正在寻找一个可以帮助我的工具。  能够轻松添加和编辑条目 标记系统 能够同时使用多个标签进行过滤 通过添加或将某些标签列入黑名单进行过滤  如果有人知道可以让我这样做的网站或程序，请在评论中写出来！谢谢！    提交人    /u/theoscribe   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gsd9rl/looking_for_a_website_or_program/</guid>
-      <pubDate>Sat, 16 Nov 2024 02:23:40 GMT</pubDate>
+      <title>一个家谱网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gsksnm/a_family_tree_website/</link>
+      <description><![CDATA[我第一次尝试用 sveltekit、daisyui 和 firebase 制作一个合适的网站。 在这里查看：https://family-tree-data.firebaseapp.com/ Repo：https://github.com/ashfaqur/family-tree    提交人    /u/TooCool11   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gsksnm/a_family_tree_website/</guid>
+      <pubDate>Sat, 16 Nov 2024 10:46:54 GMT</pubDate>
     </item>
     <item>
-      <title>没有标题的 YouTube 视频</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gscnzl/youtube_videos_with_no_title/</link>
-      <description><![CDATA[如果这篇文章不属于这里，请原谅，但我尝试过 r/youtube，但没有任何效果。我希望有人对网页编码和其他知识有所了解，可能知道如何完全删除 YouTube 视频的标题，就像这里的例子一样： https://youtu.be/mDbHZx9CDHs?si=PTay0GbHjXWXUbXU https://youtube.com/shorts/vVKWmovN6Lk?si=M96zc5tzGb0ZYQzt 通常人们使用 unicode/特殊字符来给人一种视频没有标题的错觉，但我链接的那些看起来很真实，因为没有什么可突出显示的，也没有任何差距在桌面上观看时，视频播放器和频道名称之间。要删除频道名称，您需要在网页控制台中插入几行代码——删除视频标题也可以这样吗？提前感谢您的帮助。    提交人    /u/EVILMURDERER666   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gscnzl/youtube_videos_with_no_title/</guid>
-      <pubDate>Sat, 16 Nov 2024 01:51:12 GMT</pubDate>
+      <title>[Showoff Saturday] 使用 MLB 统计 API 重现真实比赛的 3D 棒球模拟器。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gsks27/showoff_saturday_a_3d_baseball_sim_that_recreates/</link>
+      <description><![CDATA[  由    /u/josieboyy  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gsks27/showoff_saturday_a_3d_baseball_sim_that_recreates/</guid>
+      <pubDate>Sat, 16 Nov 2024 10:45:37 GMT</pubDate>
     </item>
     <item>
-      <title>有谁对固定价格云存储提供商 (wasabi、backblaze 等) 有过良好的体验吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gsbygi/has_anybody_had_good_experience_with_fixed_price/</link>
-      <description><![CDATA[我目前正在研究云存储选项。我是那些讨厌大牌存储（如 s3）可能无休止收费的人之一，因为他们不提供硬性使用上限。 我的研究发现，像 wasabi.com 这样的不太知名的品牌似乎徘徊在每 TB 每月 6 美元 + 无限制 api 使用。我最终可能会支付比 s3 方法更多的费用，但至少对我来说，这种想法是值得的。 有人对这些有过好或坏的经历吗？或者知道任何提供更便宜价格的品牌    提交人    /u/DiddlyDinq   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gsbygi/has_anybody_had_good_experience_with_fixed_price/</guid>
-      <pubDate>Sat, 16 Nov 2024 01:12:51 GMT</pubDate>
+      <title>[Showoff Saturday] 500 行待办事项应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gskrb3/showoff_saturday_500_lines_todo_app/</link>
+      <description><![CDATA[      https://nextodo-nine.vercel.app 使用 Next.js 和 Tailwindcss 构建 具有简单的 UI、内联编辑和拖放功能 可扩展：https://github.com/ojigs/nextodo 谁说它必须很复杂？:) 桌面视图    提交人    /u/ojigs   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gskrb3/showoff_saturday_500_lines_todo_app/</guid>
+      <pubDate>Sat, 16 Nov 2024 10:43:57 GMT</pubDate>
     </item>
     <item>
-      <title>我正在努力掌握视图转换。有人知道为什么 transition-duration 在这里不起作用吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gsaydk/im_struggling_to_get_a_handle_on_view_transitions/</link>
-      <description><![CDATA[  由    /u/DirkWisely  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gsaydk/im_struggling_to_get_a_handle_on_view_transitions/</guid>
-      <pubDate>Sat, 16 Nov 2024 00:21:20 GMT</pubDate>
+      <title>网站镜像</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gskfwb/website_mirroring/</link>
+      <description><![CDATA[你好，第一次发帖，我想镜像一个网站， 我创建了网站 A，然后我想将网站 A 的输出镜像到另一个域， 我正在尝试使用 DA 中的这个教程，因为我用过它 https://www.digitalocean.com/community/tutorials/how-to-configure-nginx-as-a-reverse-proxy-on-ubuntu-22-04 我按照这个步骤使用 mirror(.)com 作为镜像的输出，使用 example(.)com 作为主网站， 没有从代理参数文件更改任何内容，但是即使按照所有步骤直到第 2 步结束之后，mirror(.)com 仍然只显示 502 bad gateway，有什么帮助可以帮到你哪里出了问题吗？ 先谢谢了 server { listen 80; listen [::]:80; server_name mirror.com www.mirror.com; location / { proxy_pass https://example.com/; include proxy_params;     submitted by    /u/Bertbatov   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gskfwb/website_mirroring/</guid>
+      <pubDate>Sat, 16 Nov 2024 10:19:41 GMT</pubDate>
     </item>
     <item>
-      <title>批评我新开的小公司网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gsac6r/roast_my_new_small_businesss_website/</link>
-      <description><![CDATA[Ultraclearwindows.com 拜托。我需要帮助。 让一个人用我的副本用霹雳舞设计它。 需要改进什么？    提交人    /u/UltraclearWindows614   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gsac6r/roast_my_new_small_businesss_website/</guid>
-      <pubDate>Fri, 15 Nov 2024 23:51:05 GMT</pubDate>
+      <title>[Showoff Saturday] 全栈数据科学家在这里 - 构建了一个将故事转换成 AI 叙述视频的 SaaS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gskaiw/showoff_saturday_full_stack_data_scientist_here/</link>
+      <description><![CDATA[我们的想法是，你给它文本/（允许它为你生成一些文本），它将使用 AI 生成的图像创建视频。 应用程序：clipbard.com 作品集：takuonline.com 技术栈： Nextjs - Tailwind、shadcn、redux 工具包 Django(DRF) Postgres 因为我有工作，所以我花了几个周末和晚上来构建它。大约花了 2 个月的时间来设置所有内容，包括付款、电子邮件和域名，但在中途就筋疲力尽了。 ， 与典型的订阅模式相比，我使用的是即用即付的付款方式，因为我觉得它为客户提供的进入门槛最低，如果我获得更多参与，它将促使我构建更多这样的模式。 我相信这对以下人群来说是完美的： - 教育工作者创建引人入胜的课程材料 - 需要快速、高质量视频的内容创建者 - 企业培训师开发学习内容 - 语言教师制作沉浸式内容 - 任何想要简单解释复杂想法的人 那么，你们觉得这个产品和网站怎么样？ 有什么建议给我吗？ 我建立这个是为了强迫自己尝试一些东西，因为我对自己目前的职业状况不是很满意。只是希望这能扩大运气的面积。我并不期待太多的成功，但我确实付出了不少努力，特别是在开发整个人工智能管道方面。 我发现构建项目的一个很酷的事情是，你只需要解决一次问题，你就掌握了它；你可以在未来的项目中重复使用这些技能。 例如，我将重用支付 Django 应用程序、登录页面和其他一些组件，这将使接下来的几个 SAAS 更容易构建。    提交人    /u/takuonline   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gskaiw/showoff_saturday_full_stack_data_scientist_here/</guid>
+      <pubDate>Sat, 16 Nov 2024 10:08:09 GMT</pubDate>
     </item>
     <item>
-      <title>为开发人员创建一个包含圣诞礼物创意的 repo。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gsa6ob/creating_a_repo_with_christmas_gift_ideas_for/</link>
-      <description><![CDATA[ChristmasGifts4Devs GitHub Repo 家人多次问我今年圣诞节想要什么，我一直想不出来，所以我想整理一份由世界各地的开发者精心挑选的物品清单。到目前为止，我添加了一些我拥有/可能想要的东西。如果您想要或目前拥有并喜欢/推荐某样东西，请提交 PR 并将其添加到自述文件中！    提交人    /u/OiaOrca   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gsa6ob/creating_a_repo_with_christmas_gift_ideas_for/</guid>
-      <pubDate>Fri, 15 Nov 2024 23:43:40 GMT</pubDate>
+      <title>作为自由职业者寻找客户？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gsju8g/finding_clients_as_freelance/</link>
+      <description><![CDATA[对于你们这些承包商来说，你们如何找到客户？我是一名全栈开发人员，真的很想兼职为人们构建 Web 应用程序，但不知道应该从哪里开始     提交人    /u/CapitalDiamond3578   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gsju8g/finding_clients_as_freelance/</guid>
+      <pubDate>Sat, 16 Nov 2024 09:33:02 GMT</pubDate>
     </item>
     <item>
-      <title>从服务器呈现 PDF 但 PDF 不是图像的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gs9t4i/what_is_the_best_way_to_render_pdfs_from_the/</link>
-      <description><![CDATA[大家好，我在使用 react-pdf/renderer 时遇到了问题，因此我请求更多帮助。 堆栈：Nextjs 15 / React 18 / Typescript 有谁知道一个库，我可以在其中设置文档的样式，将文档传递到 GET REQUEST 中，并从服务器中吐出 PDF？ PDF 需要有可读/可选择的文本。 似乎 nextjs 无法处理从 react-pdf/renderer 返回 react-component 的 get 请求。V3 或 V4。&quot;对象作为 React 子项无效（找到：具有键 {$$typeof、type、key、props、_owner、_store} 的对象）。如果您想要渲染子项集合，请改用数组。&quot;: 我提供了代码示例，因此任何阅读此内容的人都可以帮助找到替代方案/解决方案。 route.tsx 文件（需要为 .tsx 才能传递 MyDocument 组件） export async function GET( request : Request, { params }: { params: { _id: string } }) { try { const id = (await params )._id; //使用 params 中的 id 在 DB 中查找内容 const stream = await renderToStream(&lt;MyDocument /&gt;); //代码死在这里？？？ console.log(&quot;Stream: &quot;, stream); //甚至无法到达这里。 const headers = new Headers({ &#39;Content-Type&#39;: &#39;application/pdf&#39;, &#39;Content-Disposition&#39;: &#39;inline&#39;, });返回新的 NextResponse(stream as unknown as ReadableStream, { headers }); } catch (error) { console.error(&#39;生成 PDF 错误：&#39;, error); 返回新的 NextResponse(&#39;生成 PDF 错误&#39;, { status: 500 }); //总是返回这个。伤心！ } }  传入的 MyDocument 示例。 import { Page, Text, View, Document, StyleSheet } from &#39;@react-pdf/renderer&#39;; // 创建样式 const style = StyleSheet.create({ page: { flexDirection: &#39;row&#39;, backgroundColor: &#39;#E4E4E4&#39; }, section: { margin: 10, padding: 10, flexGrow: 1 } }); // 创建文档组件 const MyDocument = () =&gt;; （&lt;Document&gt; &lt;页面大小 =&quot;A4&gt; 样式 ={styles.page}&gt; &lt;视图样式 ={styles.section}&gt; &lt;文本&gt;第 #1 节&lt;/Text&gt; &lt;/View&gt; &lt;视图样式 ={styles.section}&gt; &lt;文本&gt;第 #2 节&lt;/Text&gt; &lt;/View&gt; &lt;/Page&gt; &lt;/Document&gt; ）；导出默认的 MyDocument；    提交人    /u/Pigmilk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gs9t4i/what_is_the_best_way_to_render_pdfs_from_the/</guid>
-      <pubDate>Fri, 15 Nov 2024 23:25:42 GMT</pubDate>
+      <title>关于快递着陆页设计的反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gsjrxu/feedback_on_courier_delivery_landing_page_design/</link>
+      <description><![CDATA[      大家好， 我一直在为一家快递服务公司制作一个登陆页面，非常希望听听大家对设计、用户体验和整体影响的看法。我的目标是确保它易于使用且简单明了，让访问者能够快速掌握服务并采取行动。 以下是我希望您提供反馈的几个具体要点： 设计是否精美且专业？ 内容是否有效地传达了快递服务所提供的内容？ 您对增强整体用户体验有什么想法吗？ 非常感谢您抽出时间和提供见解！ https://preview.redd.it/it885emhf81e1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=0fef5461e90d805c263a3269a279dbf70f2d0a1a    提交人    /u/UnfadeTech   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gsjrxu/feedback_on_courier_delivery_landing_page_design/</guid>
+      <pubDate>Sat, 16 Nov 2024 09:28:11 GMT</pubDate>
     </item>
     <item>
-      <title>Laravel 与 PocketBase 相比如何？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gs9jws/how_does_laravel_compare_to_pocketbase/</link>
-      <description><![CDATA[大家好， 我是一名前端开发人员，正在使用 Astro 和 PocketBase 构建项目。PocketBase 非常棒，因为它提供了我需要的一切：身份验证、CRUD 操作、SQLite、内置密码重置和电子邮件验证，甚至还有一个用于管理所有内容的简单 GUI。备份也很简单，这真是救星。我唯一真正缺少的是与支付平台的顺畅集成。 我听到了很多关于 Laravel 的消息，想知道它与 Laravel 相比如何。Laravel 是否具有类似的开发人员体验？是否有任何软件包可以让它感觉像 PocketBase 一样无缝，尤其是对于身份验证、CRUD 和管理数据库之类的事情？此外，DX 总体如何 - 易于设置和使用，还是学习难度较高？ 很想听听您的想法，特别是如果您同时使用过这两种工具！    提交人    /u/localslovak   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gs9jws/how_does_laravel_compare_to_pocketbase/</guid>
-      <pubDate>Fri, 15 Nov 2024 23:13:39 GMT</pubDate>
+      <title>[Showoff Saturday] 你怎么看？大量使用 GSAP 制作我们的工作室网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gsjnss/showoff_saturday_what_do_you_think_made_our/</link>
+      <description><![CDATA[      过去几周，我一直在我们机构的网站上工作，重点关注整个网站上的 GSAP 动画，并使用了一点 Three.js。我很乐意听到您的反馈和想法！ Radiance – 数字和品牌体验的创意团队 https://preview.redd.it/8aqabccwd81e1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=88a18f84c66be6704248da37bf85666fd8b92dd1   由    /u/theruletik  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gsjnss/showoff_saturday_what_do_you_think_made_our/</guid>
+      <pubDate>Sat, 16 Nov 2024 09:19:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
