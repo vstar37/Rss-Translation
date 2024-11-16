@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 15 Nov 2024 21:13:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 01:04:50 GMT</lastBuildDate>
+    <item>
+      <title>计算机语言 Basic 联合创始人托马斯·库尔茨去世，享年 96 岁 - 彭博社</title>
+      <link>https://www.reddit.com/r/programming/comments/1gsajxy/thomas_kurtz_cocreator_of_computer_language_basic/</link>
+      <description><![CDATA[GOTO 0    提交人    /u/StatisticallyBiased   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gsajxy/thomas_kurtz_cocreator_of_computer_language_basic/</guid>
+      <pubDate>Sat, 16 Nov 2024 00:01:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 svelte 制作的类似 r/place 的绘图游戏</title>
+      <link>https://www.reddit.com/r/programming/comments/1gsa5wu/drawing_game_like_rplace_made_with_svelte/</link>
+      <description><![CDATA[  由    /u/fiioonnn  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gsa5wu/drawing_game_like_rplace_made_with_svelte/</guid>
+      <pubDate>Fri, 15 Nov 2024 23:42:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何应对技术 FOMO</title>
+      <link>https://www.reddit.com/r/programming/comments/1gs9c63/how_to_cope_with_technology_fomo/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gs9c63/how_to_cope_with_technology_fomo/</guid>
+      <pubDate>Fri, 15 Nov 2024 23:03:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>“我如何在大型科技公司开展项目”</title>
+      <link>https://www.reddit.com/r/programming/comments/1gs7t9l/how_i_ship_projects_at_big_tech_companies/</link>
+      <description><![CDATA[  由    /u/ryanlpeterman  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gs7t9l/how_i_ship_projects_at_big_tech_companies/</guid>
+      <pubDate>Fri, 15 Nov 2024 21:54:14 GMT</pubDate>
+    </item>
     <item>
       <title>PHK：第一印象：联想 T14s 搭载高通骁龙 ARM64 CPU</title>
       <link>https://www.reddit.com/r/programming/comments/1gs6s6x/phk_first_impressions_lenovo_t14s_with_qualcomm/</link>
@@ -18,13 +46,6 @@
       <description><![CDATA[  由    /u/mariuz  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gs5xcd/pleasant_debugging_with_gdb_and_ddd/</guid>
       <pubDate>Fri, 15 Nov 2024 20:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个基于浏览器的 Toy Linux 发行版，称为 ELECTRON OS（与 OG electronJS 无关）。它完全用 Vanilla JS 制作，还具有 GUI 模拟。它可以像普通 Linux 终端一样在 Web 上执行所有基本任务。在此处查看完整文档。[所有源代码位于 assets 文件夹下]</title>
-      <link>https://www.reddit.com/r/programming/comments/1gs4r06/made_a_browser_based_toy_linux_distro_called/</link>
-      <description><![CDATA[  由    /u/Mean_Option_7459  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gs4r06/made_a_browser_based_toy_linux_distro_called/</guid>
-      <pubDate>Fri, 15 Nov 2024 19:39:04 GMT</pubDate>
     </item>
     <item>
       <title>GitHub Copilot for Azure 简介</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/janodusho  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gryfsb/puzzles_to_improve_python_awake_nerd/</guid>
       <pubDate>Fri, 15 Nov 2024 15:09:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jujutsu (JJ) 版本控制工具 | 第 5 集 Bits and Booze</title>
-      <link>https://www.reddit.com/r/programming/comments/1gryexo/jujutsu_jj_version_control_tool_ep_5_bits_and/</link>
-      <description><![CDATA[  由    /u/icyFur  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gryexo/jujutsu_jj_version_control_tool_ep_5_bits_and/</guid>
-      <pubDate>Fri, 15 Nov 2024 15:08:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>幂等命令处理</title>
-      <link>https://www.reddit.com/r/programming/comments/1grxx7k/idempotent_command_handling/</link>
-      <description><![CDATA[  由    /u/Adventurous-Salt8514  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1grxx7k/idempotent_command_handling/</guid>
-      <pubDate>Fri, 15 Nov 2024 14:45:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>命令与 RPC</title>
-      <link>https://www.reddit.com/r/programming/comments/1grxwmu/commands_vs_rpc/</link>
-      <description><![CDATA[  由    /u/ymz-ncnk  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1grxwmu/commands_vs_rpc/</guid>
-      <pubDate>Fri, 15 Nov 2024 14:44:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
