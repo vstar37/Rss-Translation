@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 17 Nov 2024 12:25:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 15:13:42 GMT</lastBuildDate>
     <item>
       <title>胜 2.5</title>
       <link>https://www.producthunt.com/posts/wins-2-5</link>
@@ -60,6 +60,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/font-tester-2</guid>
       <pubDate>Thu, 14 Nov 2024 10:31:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>壁龛</title>
+      <link>https://www.producthunt.com/posts/alcove-2</link>
+      <description><![CDATA[
+Dynamic Island 现在可供您使用
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/alcove-2</guid>
+      <pubDate>Tue, 12 Nov 2024 10:16:59 GMT</pubDate>
     </item>
     <item>
       <title>PitchQuick.co</title>
@@ -118,20 +132,6 @@
       <pubDate>Fri, 08 Nov 2024 15:35:47 GMT</pubDate>
     </item>
     <item>
-      <title>侧面空间</title>
-      <link>https://www.producthunt.com/posts/side-space</link>
-      <description><![CDATA[
-用于浏览的 AI 驱动垂直标签管理器
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/side-space</guid>
-      <pubDate>Wed, 06 Nov 2024 03:10:15 GMT</pubDate>
-    </item>
-    <item>
       <title>速度失速</title>
       <link>https://www.producthunt.com/posts/velocity-lapse</link>
       <description><![CDATA[
@@ -163,7 +163,7 @@
       <title>微接触</title>
       <link>https://www.producthunt.com/posts/mikrotakt</link>
       <description><![CDATA[
-使用高级 AI 从歌曲中分离人声和乐器
+AI 人声消除器和乐器隔离
 
 
 讨论
