@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 18 Nov 2024 06:21:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 09:16:33 GMT</lastBuildDate>
+    <item>
+      <title>VoiceAuth Deepfake 音频检测器</title>
+      <link>https://www.reddit.com/r/software/comments/1gtyodg/voiceauth_deepfake_audio_detector/</link>
+      <description><![CDATA[Voice Auth 是一款音频深度伪造检测应用程序，旨在识别被操纵的音频内容。该应用程序利用先进的机器学习模型来处理音频文件并提供有关其真实性的见解。它支持各种音频和视频格式，将它们转换为 WAV，并提取特征进行分析。该应用程序具有内置数据库并可在 Windows 上运行。 https://detectfakes.lemonsqueezy.com/buy/67e72299-f700-4f3c-a5f4-edda43f0728d    提交人    /u/desi_fubu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gtyodg/voiceauth_deepfake_audio_detector/</guid>
+      <pubDate>Mon, 18 Nov 2024 06:32:45 GMT</pubDate>
+    </item>
     <item>
       <title>寻找一个好的模拟器</title>
       <link>https://www.reddit.com/r/software/comments/1gtygng/looking_for_an_good_emulator/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>你们好我有一个奇怪的问题</title>
       <link>https://www.reddit.com/r/software/comments/1gsyl65/yall_i_got_a_weird_question/</link>
-      <description><![CDATA[我想将一个节目刻录到 DVD 上，同时我还有一些 SRT 文件要与之配合使用，但 WMP Legacy 不允许我刻录 srt 文件，我尝试过的所有其他程序都像带菜单的蜜月合集一样。有没有软件可以让我：   将 SRT 文件编码为 MKV 文件 省去菜单的麻烦，直接播放文件即可 不要像“哦，空间不够”那样，尽管 WMP 说空间足够  谢谢    提交人    /u/Terrible_Broccoli544   [链接] [评论]]]></description>
+      <description><![CDATA[我想将一个节目刻录到 DVD 上，同时我还有一些 SRT 文件要与之配合使用，但 WMP Legacy 不允许我刻录 srt 文件，而且我尝试过的所有其他程序都像带菜单的蜜月合辑一样。有没有软件可以让我：   将 SRT 文件编码为 MKV 文件 省去菜单的麻烦，直接播放文件即可 不要像“哦，空间不够”那样，尽管 WMP 说空间足够  谢谢    提交人    /u/Terrible_Broccoli544   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gsyl65/yall_i_got_a_weird_question/</guid>
       <pubDate>Sat, 16 Nov 2024 22:20:16 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[为了保持您的电脑“干净”和流畅，您是否使用任何软件来删除应用程序残余、临时文件或类似会减慢电脑速度的东西？您能推荐我其中任何一个吗？谢谢    由    /u/Faoineag   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gsj1x5/pc_clean/</guid>
       <pubDate>Sat, 16 Nov 2024 08:32:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>查找 Android 笔记软件</title>
-      <link>https://www.reddit.com/r/software/comments/1gsix44/find_a_android_notes_software/</link>
-      <description><![CDATA[我希望它很简单。可以保存创建时间和最后编辑时间可以插入图片。提前致谢。    提交人    /u/redditfordemo   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gsix44/find_a_android_notes_software/</guid>
-      <pubDate>Sat, 16 Nov 2024 08:22:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
