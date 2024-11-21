@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Thu, 21 Nov 2024 12:27:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 15:14:28 GMT</lastBuildDate>
+    <item>
+      <title>自动化平台的收费为何如此不同？</title>
+      <link>https://www.reddit.com/r/automation/comments/1gwhc1s/why_are_automation_platforms_charging_so/</link>
+      <description><![CDATA[最近深入研究自动化平台，它们的定价模型有些令人着迷的地方。 Zapier 按任务收费，Make 按操作收费，而 n8n 和 Latenode 等较新的平台提供更公平的定价，例如按工作流或按场景运行时收费。 关键观察：  Zapier：出色的生态系统，5000 多个应用程序，但每个操作都算作一项单独的任务，需要花费一分钱 Make：更复杂的工作流，2500 多个应用程序，按每次使用节点收费，但很多人报告故障 n8n：专为技术团队提供的现代替代方案，提供自托管，按整个工作流收费，比上述两者便宜数十倍。 Latenode：AI 辅助开发、代码集成和基于运行时的定价，这意味着 50 个步骤的 30 秒自动化与 2 个步骤的自动化成本相同。  这四个之间的对比是惊人的！ 从现实世界的角度来看：在 Zapier 上，集成 30 多个组件的工作流程至少要花费 200 美元，而在 n8n 和 Latenode 上，相同的工作流程肯定要花费不到 20 美元。然而，问题不仅仅在于价格，还在于这些传统的定价模式是否仍然适合现代自动化需求。 您对不同平台的体验如何？定价是否曾迫使您重组自动化系统？    提交人    /u/Familiar_Flow4418   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1gwhc1s/why_are_automation_platforms_charging_so/</guid>
+      <pubDate>Thu, 21 Nov 2024 14:18:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于个性化 Loom 视频的 AI——我该怎么做？</title>
+      <link>https://www.reddit.com/r/automation/comments/1gwg08b/ai_for_personalized_loom_videoshow_can_i_do_this/</link>
+      <description><![CDATA[大家好， 我听说有人使用 AI 通过自定义前几秒钟来个性化他们的 Loom 销售推广视频。他们说，它会编辑他们的嘴唇和声音来说出收件人的姓名和公司，但他们没有解释他们是如何做到的。所以他们先拍摄一个通用的织布机，然后让这个人和公司的名字以及他们的背景根据他们发送给谁而改变 我很想弄清楚这一点——录制一个通用视频并使用 AI 使其适应多个收件人听起来像是一个游戏规则改变者。  使用现有工具是否现实/可行？ 是否已经存在用于此的工具或平台？ 如果没有，有什么建议（教程、软件）？  提前感谢任何指导！   由    /u/gsafaryan  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1gwg08b/ai_for_personalized_loom_videoshow_can_i_do_this/</guid>
+      <pubDate>Thu, 21 Nov 2024 13:15:39 GMT</pubDate>
+    </item>
     <item>
       <title>项目管理功能可提高营销代理团队的生产力</title>
       <link>https://www.reddit.com/r/automation/comments/1gwe091/project_management_features_to_improve_a/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>关于 Gumloop 的反馈</title>
       <link>https://www.reddit.com/r/automation/comments/1gw5yqc/feedback_regarding_gumloop/</link>
-      <description><![CDATA[我很好奇您如何在工作流程中使用 Gumloop，以及您发现的有趣用例。您喜欢它什么？有什么可以改进的？还有其他类似的平台吗？    提交人    /u/Expensive_Exchange74   [link] [评论]]]></description>
+      <description><![CDATA[我很好奇您在工作流程中如何使用 Gumloop，以及您发现的有趣用例。您喜欢它什么？有什么可以改进的？还有其他类似的平台吗？    提交人    /u/Expensive_Exchange74   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1gw5yqc/feedback_regarding_gumloop/</guid>
       <pubDate>Thu, 21 Nov 2024 02:46:38 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[问候 - 我是新手，但看过很多 Nick Saraev 的视频和他的自动化 Maker School 材料。它值得每月花费和投入时间吗？    由   提交  /u/QuestionEast3491   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1guj4cy/is_maker_school_by_nick_saraev_worth_the_time_or/</guid>
       <pubDate>Mon, 18 Nov 2024 23:37:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>为自动化任务分配价值</title>
-      <link>https://www.reddit.com/r/automation/comments/1gucg0n/assigning_value_to_automated_tasks/</link>
-      <description><![CDATA[我工作的公司正在转向自动化我们一直在外包的重复性任务。我们正在努力为工作分配价值。这显然有硬件、软件和维护成本。但也有编码投资和利用率（执行工作的机器可能不会每天 24 小时忙于运行代码）。作为这个过程的初学者，有人可以给我一些最佳实践建议或提供经验分享吗？提前谢谢了！！    提交人    /u/reflective_parts   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1gucg0n/assigning_value_to_automated_tasks/</guid>
-      <pubDate>Mon, 18 Nov 2024 18:58:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动轴承分选机</title>
-      <link>https://www.reddit.com/r/automation/comments/1gu7pvf/automated_bearing_sorting_machine/</link>
-      <description><![CDATA[      嗨，我正在有一个项目，我需要制作自动轴承分选机，但我似乎找不到适合我的项目，因为我有一张需要遵循的严格图纸。图片上显示了图纸。 有没有类似的东西可以用于这种机制？    提交人    /u/Knez_1396   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1gu7pvf/automated_bearing_sorting_machine/</guid>
-      <pubDate>Mon, 18 Nov 2024 15:46:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
