@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 20 Nov 2024 21:14:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 01:05:54 GMT</lastBuildDate>
+    <item>
+      <title>公司管理员从网站上删除了特定按钮，但链接仍然有效，我没有特定的 URL，有什么办法可以找到它吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gw2jd9/company_admin_removed_specific_button_from_site/</link>
+      <description><![CDATA[该网站是我们公司的调度网站，您可以使用个人登录详细信息登录，我们的管理员通常会删除有用的功能，但仍保持网址正常工作，我猜是出于调试原因，有没有办法找出我们网站所有可能的网址并使用它直到找到合适的网址？    提交人    /u/yazzzzzzzu   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gw2jd9/company_admin_removed_specific_button_from_site/</guid>
+      <pubDate>Thu, 21 Nov 2024 00:06:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>业余程序员在这里：我刚刚制作了 TimeAtlas.Live，为一切事物制作了一个众包仪表板！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gw24x8/amateur_coder_here_i_just_made_timeatlaslive_to/</link>
+      <description><![CDATA[  由    /u/Stryker336  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gw24x8/amateur_coder_here_i_just_made_timeatlaslive_to/</guid>
+      <pubDate>Wed, 20 Nov 2024 23:48:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何构建股票通知系统？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gw0y30/how_to_architect_a_stock_notification_system/</link>
+      <description><![CDATA[您将如何设计股票通知服务？我正在做一个业余项目，当用户正在跟踪的股票行情发生特定事件时，我想提醒用户。 示例：用户想知道股票“AAPL”在 1 天内何时变化 5%。 一般详情：  我正在使用来自 API 的实时股票数据 每个用户都会跟踪多只股票，每只股票都设置了许多警报条件。 用户需要在触发警报条件后 10 秒内收到警报通知  我正在努力设计一个可以使用大量数据的系统，并将其与所有平台用户警报进行交叉引用，以便发出通知。理想的解决方案需要随着系统的用户数量而扩展。  我认为发布/订阅架构可能有意义，其中用户的股票警报作为订阅渠道创建，因此如果两个用户有相同的警报，则不会重复。 需要帮助充实它......    提交人    /u/nameichoose   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gw0y30/how_to_architect_a_stock_notification_system/</guid>
+      <pubDate>Wed, 20 Nov 2024 22:35:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>您希望将开发人员工具的 Dock Side 位置设在哪儿？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gw0it5/what_is_your_dock_side_location_preference_for/</link>
+      <description><![CDATA[使用开发者工具时，您希望将开发者工具面板停靠在哪里：底部、左侧、右侧还是单独的窗口？    提交人    /u/bgux   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gw0it5/what_is_your_dock_side_location_preference_for/</guid>
+      <pubDate>Wed, 20 Nov 2024 21:56:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 background-clip border-area 制作创意边框</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gw0c97/make_creative_borders_with_backgroundclip/</link>
+      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gw0c97/make_creative_borders_with_backgroundclip/</guid>
+      <pubDate>Wed, 20 Nov 2024 21:47:14 GMT</pubDate>
+    </item>
     <item>
       <title>黑暗模式还有其他方面吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gvz8hr/is_there_another_facet_to_dark_patterns/</link>
@@ -43,7 +78,7 @@
     <item>
       <title>在会话期间存储用户的个人资料信息-最佳实践</title>
       <link>https://www.reddit.com/r/webdev/comments/1gvxi8t/storing_a_users_profile_info_during_session_best/</link>
-      <description><![CDATA[大家好， 我很感激一些意见。我正在使用 next.js 15 并完成了我的身份验证流程，将 jwt 存储在 httpOnly、严格、安全的 cookie 中。 但是，我想知道存储/缓存用户首选名称、其个人资料图片链接（预签名 url）等内容的最佳做法是什么。它需要快速访问但仍然是安全的。我正在考虑如何在不发送垃圾邮件数据库请求的情况下跨组件动态呈现他们的姓名和图像。这是我以前没有考虑过的事情。 现在我已将其设置为使用标头，由我的 middleware.js 设置，在组件中使用示例： import HeaderComponent from &#39;@/ui/HeaderComponent&#39;; import { getHeaders } from &#39;@/utils/get-metadata&#39;;导出默认异步函数 Header() { const headerData = await getHeaders(); 返回（&lt;&gt; &lt;HeaderComponent headerData={headerData}/&gt; &lt;/&gt; ); } 从&#39;next/headers&#39;导入{headers}；导出异步函数 getHeaders() { const headersList = await headers(); const preferredName = headersList.get(&#39;x-preferred-name&#39;) || &#39;用户&#39;; const profilePictureUrl = headersList.get(&#39;x-profile-picture-url&#39;) || &#39;/public/static/placeholder-profile-pic.png&#39;; const userId = headersList.get(&#39;x-user-id&#39;) || &#39;用户&#39;; 返回 { preferredName, profilePictureUrl, userId, }; }  但我遇到了一些随机问题，有时 userId 不在标头中，尽管中间件总是将其设置得很好。这似乎真的很挑剔和不稳定。所以我相信有更好的方法。谢谢你的帮助！    提交人    /u/mobot-mobot   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 我很感激一些意见。我正在使用 next.js 15 并完成了我的身份验证流程，将 jwt 存储在 httpOnly、严格、安全的 cookie 中。 但是，我想知道存储/缓存用户首选名称、其个人资料图片链接（预签名 url）等内容的最佳做法是什么。它需要快速访问但仍然是安全的。我正在考虑如何跨组件动态呈现他们的姓名和图像而不发送垃圾邮件数据库请求。这是我以前没有考虑过的事情。 现在我已将其设置为使用标头，由我的 middleware.js 设置，在组件中使用示例： import HeaderComponent from &#39;@/ui/HeaderComponent&#39;; import { getHeaders } from &#39;@/utils/get-metadata&#39;;导出默认异步函数 Header() { const headerData = await getHeaders(); 返回（&lt;&gt; &lt;HeaderComponent headerData={headerData}/&gt; &lt;/&gt; ); } 从&#39;next/headers&#39;导入{headers}；导出异步函数 getHeaders() { const headersList = await headers(); const preferredName = headersList.get(&#39;x-preferred-name&#39;) || &#39;用户&#39;; const profilePictureUrl = headersList.get(&#39;x-profile-picture-url&#39;) || &#39;/public/static/placeholder-profile-pic.png&#39;; const userId = headersList.get(&#39;x-user-id&#39;) || &#39;用户&#39;; 返回 { preferredName, profilePictureUrl, userId, }; }  但我遇到了一些随机问题，有时 userId 不在标头中，尽管中间件总是将其设置得很好。这似乎真的很挑剔和不稳定。所以我相信有更好的方法。谢谢你的帮助！    提交人    /u/mobot-mobot   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gvxi8t/storing_a_users_profile_info_during_session_best/</guid>
       <pubDate>Wed, 20 Nov 2024 19:12:37 GMT</pubDate>
     </item>
@@ -53,13 +88,6 @@
       <description><![CDATA[（从 r/css 转发） 大家好， 我目前正在尝试为以下收据打印过渡制作动画： 第一个实例 最后一个实例 我有一个代码笔，基本布局已准备就绪，但现在我正式陷入困境，试图弄清楚如何使收据溢出可见，并且在正确的时刻...我怀疑我正在尝试做的可能不是正确的路径。 我也在努力弄清楚如何根据要求应用正确的 box-shadow。 仅供参考，我现在使用 div 来表示收据，但稍后将将其更改为图像元素（svg）以获取整个收据。 非常感谢您对此的任何指导或建议！    提交人    /u/-Neurotica-   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gvw52l/animation_struggling_to_transition_the_overflow/</guid>
       <pubDate>Wed, 20 Nov 2024 18:17:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>针对前端开发人员和 Figma 的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvverz/question_for_frontend_devs_and_figma/</link>
-      <description><![CDATA[作为前端开发人员，我发现自己经常不得不花费大量时间在 figma 中做一些变通方法，因为我的设计师喜欢从驱动器中获取多张图像并将它们粘贴到同一个“位置”，使它们看起来和表现得像一张图像，但甚至没有对它们进行分组？ 另一个例子是到处都是框架，不尊重容器边框，或者在图像上添加渐变等。 基本上，他们使用 figma 直接处理图像，而不是其他软件，然后只需在 figma 中粘贴已经处理过的图像。 这是常见的做法吗？我需要接受这个事实，还是意味着我的设计师必须学习如何正确地将完成的设计交给我们？ 提前谢谢！    提交人    /u/Main_Problem3269   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvverz/question_for_frontend_devs_and_figma/</guid>
-      <pubDate>Wed, 20 Nov 2024 17:47:46 GMT</pubDate>
     </item>
     <item>
       <title>Web Dev Portfolio - 它需要使用 HTML 和 CSS 吗？</title>
@@ -81,34 +109,6 @@
       <description><![CDATA[嘿！ 有没有欧洲复制的替代方案？我想运行模型，但只需支付推理费用    提交人    /u/Dizzy-Revolution-300   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gvto76/european_replicate_alternative/</guid>
       <pubDate>Wed, 20 Nov 2024 16:37:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个视觉上令人愉悦的 HTML 颜色名称显示</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvt91o/i_created_a_visually_pleasing_html_color_name/</link>
-      <description><![CDATA[  由    /u/Madsenmm  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvt91o/i_created_a_visually_pleasing_html_color_name/</guid>
-      <pubDate>Wed, 20 Nov 2024 16:19:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>从头开始构建一个网站。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvt1ys/building_a_website_from_scratch/</link>
-      <description><![CDATA[我是一名产品所有者，我想学习开发方面的内容。我购买了一个 URL，想从头开始构建一个网站。我正在寻找开发网站所需研究内容的分步说明。我很菜，不理解其他帖子中的所有首字母缩略词。 网站要求：3-5 个选项卡。一个选项卡是关于我本人的，带有照片。第二个选项卡是日历，最好链接到我的苹果日历，这样我就可以显示可用的日子。第三个选项卡是时事通讯，然后我希望有空间随着时间的推移和需要来增加功能。 任何关于从哪里开始和初学者资源的建议都会有所帮助。此外，您建议我使用哪种语言？    提交人    /u/roseinmybud   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvt1ys/building_a_website_from_scratch/</guid>
-      <pubDate>Wed, 20 Nov 2024 16:11:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dribbble 社区！创建群聊！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvsypc/dribbble_community_creating_a_group_chat/</link>
-      <description><![CDATA[希望在 Dribbble 上找到其他设计师来帮助发展我们自己的帐户！ 给我发送 DM，我将与所有人创建一个 reddit 群聊 :)    提交人    /u/SEOwhale   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvsypc/dribbble_community_creating_a_group_chat/</guid>
-      <pubDate>Wed, 20 Nov 2024 16:07:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>请问如何从此网站复制文本</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvs8it/how_to_copy_text_from_this_site_pls/</link>
-      <description><![CDATA[我试图将文本从此站点复制到文本文档。但不知何故，当我尝试在 PC 上复制粘贴时，我得到的是“编码乱码”。而当我尝试从 android 复制粘贴时，我得到的是中文文本。 请帮忙。谢谢    提交人    /u/Goble_hook   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvs8it/how_to_copy_text_from_this_site_pls/</guid>
-      <pubDate>Wed, 20 Nov 2024 15:36:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
