@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 21 Nov 2024 09:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 12:28:35 GMT</lastBuildDate>
+    <item>
+      <title>[出租] 提供价格实惠的 UX/UI 设计和全栈开发服务 – 登陆页面特别优惠！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gweko6/for_hire_offering_affordable_uxui_design/</link>
+      <description><![CDATA[嗨，👋， 我是一名 UX/UI 设计师和全栈开发人员，拥有超过 6 年的专业经验。 我提供一系列服务，从 Web 应用程序开发到定制设计工作，所有服务均根据您独特的业务需求量身定制。 我的费率： * 20 美元/小时，可选择固定费率定价 * 如果您的预算紧张，请让我们进行交谈，看看我们如何在您的限制范围内工作！ 特别优惠： * 在限定时间内，我仅以 175 美元的价格为企业构建登陆页面 - 仅适用于前 5 位客户。这是一种无需花费大笔资金即可为您的企业获得专业且引人入胜的在线形象的好方法。 我使用的技术： * 前端：React、Angular、Vue、Next.js、Figma、Framer、HTML/CSS、JavaScript、Typescript * 后端：Node.js、Express、Django、Python * 数据库：MongoDB、SQL、PostgreSQL、DynamoDB * 云服务：AWS、Firebase * 其他服务：Web 应用、Chrome 扩展程序、自动化机器人、API 开发、Web 抓取、动画等等！ 作品集： https://linktr.ee/Hannah.dev 无论您是需要时尚的登录页面、自定义 Web 应用还是自动化解决方案，我已经为你做好了准备。 如果您有兴趣或有任何疑问，请随时给我发私信，预订您的时段或讨论您的项目需求。让我们一起创造伟大的东西吧！    提交人    /u/Careless-Ad2000   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gweko6/for_hire_offering_affordable_uxui_design/</guid>
+      <pubDate>Thu, 21 Nov 2024 11:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>迄今为止最大的客户网站 - 关于托管服务器大小的新手问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwekln/biggest_client_website_yet_noob_question_about/</link>
+      <description><![CDATA[大家好 - 我目前在 cloudways 上托管了一个 Digital Ocean 服务器，上面有我几个客户的网站。这些网站通常都是 php cms 框架“Kirby”，这意味着没有数据库，因为它是一个平面文件系统。所有这些网站都是相对较小的本地公司，因此服务器性能对我来说从来都不是问题；我只需要关注磁盘空间。 但我有一位新客户，他们是一家更受欢迎的公司，每年的页面浏览量约为 130 万次，这比我以前处理的流量要高得多。我真的不知道如何根据这个流量找出我需要的服务器大小，想知道是否有人可以给我一些提示？  我当前的服务器具有以下规格：4 GB RAM、80 GB NVMe 磁盘、4 TB 传输、2 核处理器 并且此服务器是可扩展的，因此人们会建议仅扩展此服务器（如果上述内容还不够）并仍然将我的所有客户端安置在一台服务器上，还是为它提供自己的专用服务器更有意义？ 提前感谢任何帮助！    提交人    /u/Tiny_Major_7514   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwekln/biggest_client_website_yet_noob_question_about/</guid>
+      <pubDate>Thu, 21 Nov 2024 11:58:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>请诚实地回答，这对我来说意义重大。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwdm6y/please_respond_with_an_honest_take_it_means_a_lot/</link>
+      <description><![CDATA[大家好！我是 Web 开发新手，希望在 6 个月内找到一份好工作。我应该先从 React.js 开始，专注于工作机会，还是先深入研究 Svelte.js，然后再学习 React？非常希望得到您的建议！    提交人    /u/kawaiboii   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwdm6y/please_respond_with_an_honest_take_it_means_a_lot/</guid>
+      <pubDate>Thu, 21 Nov 2024 10:56:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个图像描述应用程序。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwcfyz/i_made_a_image_describer_app/</link>
+      <description><![CDATA[我使用 react、firebase 和 openai 创建了一个描述图像的应用程序。 仅提供建设性反馈。 https://wikisum-13bd2.firebaseapp.com 编辑：“我修好了”    提交人    /u/Honest-Insect-5699   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwcfyz/i_made_a_image_describer_app/</guid>
+      <pubDate>Thu, 21 Nov 2024 09:32:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>工作闲暇时我能做的最好的事情是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwce18/what_is_the_best_thing_i_can_do_during_idle_times/</link>
+      <description><![CDATA[我所在的新公司做事比较慢。我认为他们不希望我在工作时间闲着不工作，所以我巧妙地向我的领导提出了这个问题，他们说要在任务间隙研究代码库。 有些日子任务很多，但有些日子有半天或更长时间的空闲时间。 也许我“不擅长研究代码库”，但我觉得仅通过浏览代码可以吸收的知识有限。我做错了吗？ 我喜欢这份工作的一切，除了担心他们可能会觉得我是多余的。然而，这不是一家美国公司，所以他们不能随意解雇员工。我也不想离开，我觉得我在这里中了彩票。 我处于中低水平，他们花了很多时间来培训我，教我他们需要我知道的东西。我很困惑，现在他们教了我所有这些，似乎对我来说没有多少工作要做。我想我在公司里做的工作最少（这是一家相当小的公司）。 有什么建议吗？    提交人    /u/RedditorUserNetizen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwce18/what_is_the_best_thing_i_can_do_during_idle_times/</guid>
+      <pubDate>Thu, 21 Nov 2024 09:28:23 GMT</pubDate>
+    </item>
     <item>
       <title>将 Web 应用程序包装到 Android/Iphone 的最新技术？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gwc79y/latest_tech_for_wrapping_a_web_app_into/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[您好！我稍微搜索了一下，但不知道该去哪里找（或者用什么搜索词）——有人能推荐一个专门用于组织/显示链接的开源内容管理系统吗？谢谢！    提交人    /u/shellendorf   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gw4fv8/links_cms/</guid>
       <pubDate>Thu, 21 Nov 2024 01:33:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>公司管理员从网站上删除了特定按钮，但链接仍然有效，我没有特定的 URL，有什么办法可以找到它吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gw2jd9/company_admin_removed_specific_button_from_site/</link>
-      <description><![CDATA[该网站是我们公司的调度网站，您可以使用个人登录详细信息登录，我们的管理员通常会删除有用的功能，但仍保持网址正常工作，我猜是出于调试原因，有没有办法找出我们网站所有可能的网址并使用它直到找到合适的网址？    提交人    /u/yazzzzzzzu   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gw2jd9/company_admin_removed_specific_button_from_site/</guid>
-      <pubDate>Thu, 21 Nov 2024 00:06:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>业余程序员在这里：我刚刚制作了 TimeAtlas.Live，为一切事物制作了一个众包仪表板！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gw24x8/amateur_coder_here_i_just_made_timeatlaslive_to/</link>
-      <description><![CDATA[  由    /u/Stryker336  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gw24x8/amateur_coder_here_i_just_made_timeatlaslive_to/</guid>
-      <pubDate>Wed, 20 Nov 2024 23:48:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何构建股票通知系统？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gw0y30/how_to_architect_a_stock_notification_system/</link>
-      <description><![CDATA[您将如何设计股票通知服务？我正在做一个业余项目，当用户正在跟踪的股票行情发生特定事件时，我想提醒用户。 示例：用户想知道股票“AAPL”在 1 天内何时变化 5%。 一般详情：  我正在使用来自 API 的实时股票数据 每个用户都会跟踪多只股票，每只股票都设置了许多警报条件。 用户需要在触发警报条件后 10 秒内收到警报通知  我正在努力设计一个可以使用大量数据的系统，并将其与所有平台用户警报进行交叉引用，以便发出通知。理想的解决方案需要随着系统的用户数量而扩展。  我认为发布/订阅架构可能有意义，其中用户的股票警报作为订阅渠道创建，因此如果两个用户有相同的警报，则不会重复。 需要帮助充实它......    提交人    /u/nameichoose   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gw0y30/how_to_architect_a_stock_notification_system/</guid>
-      <pubDate>Wed, 20 Nov 2024 22:35:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>您希望将开发人员工具的 Dock Side 位置设在哪儿？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gw0it5/what_is_your_dock_side_location_preference_for/</link>
-      <description><![CDATA[使用开发者工具时，您希望将开发者工具面板停靠在哪里：底部、左侧、右侧还是单独的窗口？    提交人    /u/bgux   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gw0it5/what_is_your_dock_side_location_preference_for/</guid>
-      <pubDate>Wed, 20 Nov 2024 21:56:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 background-clip border-area 制作创意边框</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gw0c97/make_creative_borders_with_backgroundclip/</link>
-      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gw0c97/make_creative_borders_with_backgroundclip/</guid>
-      <pubDate>Wed, 20 Nov 2024 21:47:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
