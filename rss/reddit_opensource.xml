@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 22 Nov 2024 12:27:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 15:15:28 GMT</lastBuildDate>
     <item>
       <title>Streamsphere - 一款用于下载和管理媒体的应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1gx6091/streamsphere_an_app_to_dl_manage_your_media/</link>
@@ -57,7 +57,7 @@
     <item>
       <title>带有开放 API 软件的 GPS 硬件</title>
       <link>https://www.reddit.com/r/opensource/comments/1gws7ms/gps_hardware_with_open_api_software/</link>
-      <description><![CDATA[正在寻找开源的 airtag 复制品，有人知道好的吗？    提交人    /u/LongevityFutureMe   [链接] [评论]]]></description>
+      <description><![CDATA[正在寻找开源的 airtag 复制品，有人知道好的吗？    由   提交  /u/LongevityFutureMe   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gws7ms/gps_hardware_with_open_api_software/</guid>
       <pubDate>Thu, 21 Nov 2024 22:26:53 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>商业硬件中的开源许可证</title>
       <link>https://www.reddit.com/r/opensource/comments/1gwpgsj/open_source_license_in_commercial_hardware/</link>
-      <description><![CDATA[嗨，我很难理解一件事： 我正在使用一款采用 GPL V3 许可证的软件。我计划将我开发的所有软件都置于同一许可证之下。但我计划开发自己的硬件（PCB、外壳等），并销售产品及其安装。因此，从技术上讲，我是将该软件用于商业用途。不是吗？我这样做是否违反了许可证条款？换句话说，软件许可证是否会转移到最终产品的非软件方面？    提交人    /u/Wild-Carry-9253   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我很难理解一些事情： 我正在使用具有 GPL V3 许可证的软件。我计划将我开发的所有软件保留在同一许可证下。但我计划开发自己的硬件（PCB、外壳等），并销售产品及其安装。因此，从技术上讲，我是将该软件用于商业用途。不是吗？我这样做是否违反了许可条款？换句话说，软件许可证是否会转移到最终产品的非软件方面？    提交人    /u/Wild-Carry-9253   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gwpgsj/open_source_license_in_commercial_hardware/</guid>
       <pubDate>Thu, 21 Nov 2024 20:30:38 GMT</pubDate>
     </item>
