@@ -4,11 +4,18 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 22 Nov 2024 18:19:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 21:14:17 GMT</lastBuildDate>
+    <item>
+      <title>Asuite 的替代品？</title>
+      <link>https://www.reddit.com/r/software/comments/1gxeh90/alternative_to_asuite/</link>
+      <description><![CDATA[大家好， 我正在寻找一个程序启动器 salvadorbs 的 Asuite 的替代品。我一直用它来列出文件夹中的应用程序，基本上让我能够打开一个或两个文件夹来单击启动应用程序。我可以为应用程序设置自定义图标并为其提供描述，但是描述需要将鼠标悬停在图标上，所以我通常不使用它们。我主要在寻找一种替代方案，它可以在列表中显示应用程序，可以有文件夹来对应用程序进行排序，并且可以选择以某种方式以管理员身份运行应用程序。  我已经尝试寻找替代品了。Flow Launcher 很酷，但它是一种通用搜索工具，并不真正适合我正在寻找的文件夹结构。RocketDock 很棒，但它用于不同的目的，当我只想要一个简单的窗口时，它使用起来很麻烦。此应用程序的任何可能替代方案都很棒！    提交人    /u/UnderWhiteFlags   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gxeh90/alternative_to_asuite/</guid>
+      <pubDate>Fri, 22 Nov 2024 18:19:26 GMT</pubDate>
+    </item>
     <item>
       <title>制作动画最简单、功能最丰富的程序？</title>
       <link>https://www.reddit.com/r/software/comments/1gxc9v7/easiest_and_most_featurerich_program_to_make/</link>
-      <description><![CDATA[2024 年制作动画最简单、功能最丰富的软件是什么？想想没有脚本能力的旧 Flash。Adobe After Effects 远不在这个列表中。已经搜索过了，但显然你必须能够画画，成为一名设计师和程序员，才能制作出像弹跳球一样简单的动画。 我有 Windows 和 Mac。    提交人    /u/xtreme79   [link] [评论]]]></description>
+      <description><![CDATA[2024 年制作动画最简单、功能最丰富的软件是什么？想想没有脚本能力的旧 Flash。Adobe After Effects 远不在这个列表中。已经搜索过了，但显然你必须能够画画，成为一名设计师和程序员，才能制作像弹跳球一样简单的动画。 我有 Windows 和 Mac。    提交人    /u/xtreme79   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gxc9v7/easiest_and_most_featurerich_program_to_make/</guid>
       <pubDate>Fri, 22 Nov 2024 16:48:16 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我有两个内置驱动器和两个外置驱动器，这些年来我把它们弄得一团糟。我想找一些软件，可以按类型将它们组织到文件夹中。有人有什么想法吗？提前谢谢了。 是的，我可以自己按每个驱动器的文件类型排序等等。但肯定有一个我可以买的程序可以帮我做这件事。    提交人    /u/puledrotauren   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gwrsdy/multiple_drives_that_need_to_be_sorted/</guid>
       <pubDate>Thu, 21 Nov 2024 22:08:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于在窗口中镜像另一个显示器的程序</title>
-      <link>https://www.reddit.com/r/software/comments/1gwpnco/program_to_mirror_in_a_window_the_other_display/</link>
-      <description><![CDATA[嗨， 我有一台 Wacom 绘图板，可用作辅助显示器，我想知道是否有一个程序可以将第二台显示器投影到我可以放在第一台显示器上的窗口上。为了说明这一点，这里有一张图片： https://preview.redd.it/8k33iu5tfb2e1.png?width=522&amp;format=png&amp;auto=webp&amp;s=b4c9aa0175fe902184530de2dcfd7f02dec7a8be 谢谢，    提交人    /u/pangredditlamang   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gwpnco/program_to_mirror_in_a_window_the_other_display/</guid>
-      <pubDate>Thu, 21 Nov 2024 20:38:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
