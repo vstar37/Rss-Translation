@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 29 Nov 2024 12:28:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 15:15:33 GMT</lastBuildDate>
+    <item>
+      <title>PlayStation 图像和视觉效果的工作原理</title>
+      <link>https://www.reddit.com/r/programming/comments/1h2nutt/how_playstation_graphics_visual_artefacts_work/</link>
+      <description><![CDATA[  由    /u/rom1v  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h2nutt/how_playstation_graphics_visual_artefacts_work/</guid>
+      <pubDate>Fri, 29 Nov 2024 15:11:10 GMT</pubDate>
+    </item>
     <item>
       <title>揭开 fork 系统调用的神秘面纱</title>
       <link>https://www.reddit.com/r/programming/comments/1h2k701/disillusioning_the_magic_of_the_fork_system_call/</link>
@@ -74,13 +81,6 @@
       <description><![CDATA[  由    /u/sujjeeee  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h2fy5w/i_built_chill_guy_meme_generator/</guid>
       <pubDate>Fri, 29 Nov 2024 06:52:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软架构师透露，C++26 是自 C++11 以来最具影响力的版本</title>
-      <link>https://www.reddit.com/r/programming/comments/1h2f0to/c26_the_most_influential_release_since_c11/</link>
-      <description><![CDATA[  由    /u/No_Schedule7680  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h2f0to/c26_the_most_influential_release_since_c11/</guid>
-      <pubDate>Fri, 29 Nov 2024 05:51:56 GMT</pubDate>
     </item>
     <item>
       <title>Kadne 的效率算法</title>
