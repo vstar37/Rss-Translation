@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 07 Dec 2024 01:08:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 03:30:39 GMT</lastBuildDate>
     <item>
       <title>ChatGPT 专业版</title>
       <link>https://www.producthunt.com/posts/chatgpt-pro-1</link>
@@ -132,20 +132,6 @@ Bluesky Analytics 跟踪病毒式传播和连续传播
       <pubDate>Wed, 04 Dec 2024 20:31:23 GMT</pubDate>
     </item>
     <item>
-      <title>旅行包装</title>
-      <link>https://www.producthunt.com/posts/travel-wrapped</link>
-      <description><![CDATA[
-将您一年的旅行变成可共享的信息图
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/travel-wrapped</guid>
-      <pubDate>Wed, 04 Dec 2024 19:06:21 GMT</pubDate>
-    </item>
-    <item>
       <title>再生资源</title>
       <link>https://www.producthunt.com/posts/refgrow</link>
       <description><![CDATA[
@@ -158,20 +144,6 @@ Bluesky Analytics 跟踪病毒式传播和连续传播
 ]]></description>
       <guid>https://www.producthunt.com/posts/refgrow</guid>
       <pubDate>Wed, 04 Dec 2024 12:39:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单的AI电话助手</title>
-      <link>https://www.producthunt.com/posts/simple-ai-phone-assistant</link>
-      <description><![CDATA[
-Simple AI 可以拨打电话，这样您就不必自己拨打电话了
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/simple-ai-phone-assistant</guid>
-      <pubDate>Wed, 04 Dec 2024 05:40:04 GMT</pubDate>
     </item>
     <item>
       <title>FidForward 的公司价值生成器</title>
@@ -214,6 +186,34 @@ Simple AI 可以拨打电话，这样您就不必自己拨打电话了
 ]]></description>
       <guid>https://www.producthunt.com/posts/zenadmin</guid>
       <pubDate>Fri, 22 Nov 2024 09:57:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>反射云</title>
+      <link>https://www.producthunt.com/posts/reflex-cloud</link>
+      <description><![CDATA[
+使用纯 Python 构建 Web 应用 + 使用单个命令进行部署
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/reflex-cloud</guid>
+      <pubDate>Thu, 14 Nov 2024 21:47:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>指针</title>
+      <link>https://www.producthunt.com/posts/pointer-3</link>
+      <description><![CDATA[
+Google Docs 的 AI 编辑副驾驶
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/pointer-3</guid>
+      <pubDate>Fri, 08 Nov 2024 13:34:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
