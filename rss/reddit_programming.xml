@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 08 Dec 2024 21:13:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 01:10:42 GMT</lastBuildDate>
+    <item>
+      <title>[Protobuf] 使用本地供应商插件替换 Buf 远程插件</title>
+      <link>https://www.reddit.com/r/programming/comments/1h9ua9f/protobuf_replace_buf_remote_plugins_with_local/</link>
+      <description><![CDATA[  由    /u/birdayz  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h9ua9f/protobuf_replace_buf_remote_plugins_with_local/</guid>
+      <pubDate>Sun, 08 Dec 2024 22:11:39 GMT</pubDate>
+    </item>
     <item>
       <title>关于密码</title>
       <link>https://www.reddit.com/r/programming/comments/1h9nln1/on_passwords/</link>
@@ -39,13 +46,6 @@
       <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h9kqvq/writing_system_software_code_comments/</guid>
       <pubDate>Sun, 08 Dec 2024 15:06:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单、轻量级的依赖图来构建复杂的模型</title>
-      <link>https://www.reddit.com/r/programming/comments/1h9knfv/simple_lightweight_dependency_graph_to_build/</link>
-      <description><![CDATA[  由    /u/hmoein  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h9knfv/simple_lightweight_dependency_graph_to_build/</guid>
-      <pubDate>Sun, 08 Dec 2024 15:02:00 GMT</pubDate>
     </item>
     <item>
       <title>了解 C# 中的多维数组</title>
