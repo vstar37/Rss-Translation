@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 12 Dec 2024 01:07:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 03:33:11 GMT</lastBuildDate>
     <item>
       <title>Claude 文件夹上传</title>
       <link>https://www.producthunt.com/posts/claude-folder-upload</link>
@@ -46,6 +46,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/stable-2</guid>
       <pubDate>Tue, 10 Dec 2024 23:26:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>明亮数据</title>
+      <link>https://www.producthunt.com/posts/bright-data</link>
+      <description><![CDATA[
+世界如何收集公共网络数据
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/bright-data</guid>
+      <pubDate>Tue, 10 Dec 2024 15:02:56 GMT</pubDate>
     </item>
     <item>
       <title>杀手研究</title>
@@ -132,6 +146,20 @@
       <pubDate>Sat, 07 Dec 2024 15:28:29 GMT</pubDate>
     </item>
     <item>
+      <title>砖块</title>
+      <link>https://www.producthunt.com/posts/bricks-7d28cd1e-2d96-478a-ae15-66d2cd0cf592</link>
+      <description><![CDATA[
+我们一直在等待的 AI 电子表格
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/bricks-7d28cd1e-2d96-478a-ae15-66d2cd0cf592</guid>
+      <pubDate>Sat, 07 Dec 2024 06:06:25 GMT</pubDate>
+    </item>
+    <item>
       <title>列表</title>
       <link>https://www.producthunt.com/posts/listadum</link>
       <description><![CDATA[
@@ -174,20 +202,6 @@
       <pubDate>Mon, 02 Dec 2024 21:59:14 GMT</pubDate>
     </item>
     <item>
-      <title>模板化</title>
-      <link>https://www.producthunt.com/posts/templated-3</link>
-      <description><![CDATA[
-将类似 Canva 的编辑器嵌入到您的应用中
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/templated-3</guid>
-      <pubDate>Thu, 28 Nov 2024 19:05:13 GMT</pubDate>
-    </item>
-    <item>
       <title>RODCast</title>
       <link>https://www.producthunt.com/posts/rodcast</link>
       <description><![CDATA[
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/rodcast</guid>
       <pubDate>Thu, 21 Nov 2024 10:17:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>提及</title>
-      <link>https://www.producthunt.com/posts/remention</link>
-      <description><![CDATA[
-利用人工智能将您的产品置于数十亿次在线讨论中
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/remention</guid>
-      <pubDate>Fri, 15 Nov 2024 07:55:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
