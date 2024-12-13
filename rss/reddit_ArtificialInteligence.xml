@@ -3,14 +3,77 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 13 Dec 2024 12:27:52 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Fri, 13 Dec 2024 21:12:47 GMT</lastBuildDate>
     <item>
-      <title>需要帮助优化稳定扩散工作流程以更快地生成帧</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdax9k/need_help_optimizing_stable_diffusion_workflow/</link>
-      <description><![CDATA[大家好！我正在开展一个项目，该项目涉及使用稳定扩散生成一系列 AI 生成的帧，以创建流畅一致的动画。我的工作流程要求：  跨帧的一致艺术风格（使用 LoRA 微调）。 一致的关键元素，如角色或对象（使用 DreamBooth）。 帧之间的平滑过渡（使用 Flux 等技术）。  目前，我遇到了一个主要瓶颈 - 在我的设置上，每帧需要大约 3 分钟才能渲染，即使是为短动画创建足够的帧也非常耗时。按照这个速度，生成一分钟的视频可能需要 24 个多小时！ 我已经在探索 AWS g4 实例（Tesla T4 GPU）以加快渲染速度，但我想知道是否有人有以下方面的提示或经验：  优化的稳定扩散模型或替代的轻量级架构。 模型优化技术，如量化或修剪。 平衡成本和性能的管道优化或硬件设置。 时间一致性或帧插值的有效技术。  我愿意接受任何建议，无论是关于特定工具、模型配置还是基础设施设置。提前感谢您提供的任何帮助！    提交人    /u/Otherwise_Builder235   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdax9k/need_help_optimizing_stable_diffusion_workflow/</guid>
-      <pubDate>Fri, 13 Dec 2024 12:14:43 GMT</pubDate>
+      <title>如果接受政治虚假信息的训练，AGI 还能安全吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdmei1/can_agi_be_safe_if_trained_on_political/</link>
+      <description><![CDATA[如果 AGI 可能接受虚假信息的训练，特别是在内部和外部政治领域，我们如何开发一种无威胁的 AGI？这难道不是一个有缺陷和危险的工具吗？这里的基本问题是，AGI 和任何 AI 一样，都是从训练它的数据中学习的。如果这些数据有偏见、有操纵性或完全是错误的，AGI 可能会继承这些缺陷，并可能以难以控制的方式放大它们。如果 AGI 接触到虚假信息——无论是政治宣传、假新闻还是操纵的叙述——它可能会学会延续甚至放大这些谎言。这可能导致有害意识形态或基于不准确信息的决定的传播，无论是在政治背景还是其他方面。     提交人    /u/FluidMeasurement8494   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdmei1/can_agi_be_safe_if_trained_on_political/</guid>
+      <pubDate>Fri, 13 Dec 2024 21:10:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一个语音克隆器，可以让您调整结果的语音质量/特性/特征。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdl9g2/looking_for_a_voice_cloner_that_allows_you_to/</link>
+      <description><![CDATA[到目前为止，我尝试过 Elevenlabs 和 Character AI，但似乎都没有这种功能。我谷歌了一下，还浏览了其他几个（没有注册和尝试），但运气不佳。有什么建议吗？有这样的应用程序吗？ 详细说明一下我的意图：我正在尝试为我的原创角色 (OC) 创建声音。我清楚地知道他们在我脑海中的声音，而且我遇到过一些声音（即歌手和现有游戏角色），听起来非常相似。我一直在使用这些声音作为参考，以想象我的 OC 的声音（我认为这通常被称为“声音声明”哈哈）。但它们并没有完全达到标准，所以如果我可以尝试使用其中任何一个，让它们更接近我角色的声音，那就太完美了。 所以基本上，我正在寻找一个应用程序，可以让我上传这些语音样本中的任何一个，创建它们的克隆，然后调整语音的声音属性，如深度、音调、鼻音、音色等。 提前谢谢您！    提交人    /u/CukeJr   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdl9g2/looking_for_a_voice_cloner_that_allows_you_to/</guid>
+      <pubDate>Fri, 13 Dec 2024 20:18:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能类比？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdk71o/ai_analogy/</link>
+      <description><![CDATA[我和某人讨论过人工智能艺术，他们认为“艺术家已经死了”，于是我解释说： 艺术家仍然是需要的，只是他们会使用数字工具来让最终的图像栩栩如生。 人工智能是一种辅助手段，它可以帮助你起步。 这就像一个渔夫：他不设计和建造船、线、网、锚、燃料、GPS 等，但他会熟悉涉水者，准备好所提供的装备，掌握知识，出海捕鱼，然后满载而归。 这个比喻可以适用于任何人工智能，即取证、编码等。 当然，在人工智能发展到不需要人类之前，这个比喻还能适用多久？人类是阻碍人工智能从头到尾执行任务的机器吗？    提交人    /u/ArtichokeEmergency18   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdk71o/ai_analogy/</guid>
+      <pubDate>Fri, 13 Dec 2024 19:30:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA 的人质：垄断的赛博朋克现实</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdjd0x/nvidias_hostages_a_cyberpunk_reality_of_monopolies/</link>
+      <description><![CDATA[  由    /u/SevenShivas  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdjd0x/nvidias_hostages_a_cyberpunk_reality_of_monopolies/</guid>
+      <pubDate>Fri, 13 Dec 2024 18:54:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>NotebookLM 重大更新</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdg3vi/major_notebooklm_update/</link>
+      <description><![CDATA[https://blog.google/technology/google-labs/notebooklm-new-features-december-2024/ 实质上是新的界面、与播客互动的能力，以及高级版本，令人担忧的是，它包括“额外的隐私和安全”（为什么这不在免费版本中，我不知道）。    提交人    /u/iamjacobsparticus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdg3vi/major_notebooklm_update/</guid>
+      <pubDate>Fri, 13 Dec 2024 16:32:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是人工智能领域的新闻动态。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdft58/heres_whats_making_news_in_ai/</link>
+      <description><![CDATA[聚焦：OnlyFans 模特正在使用 AI 模仿者来跟上他们的 DM（来源：WIRED）  ChatGPT 现在可以理解实时视频，这是 OpenAI 首次演示七个月后（来源：TechCrunch） Anthropic 的 3.5 Haiku 模型面向 Claude 用户（来源：TechCrunch） 哈佛大学和谷歌将发布 100 万本公共领域书籍作为 AI 训练数据集（来源：TechCrunch） 微软的 M12 在 NeuBird 获得 1 亿美元估值种子轮数月后再次向其投资 2250 万美元（来源：TechCrunch） 谷歌发布 Gemini 2、AI 代理和原型个人助理（来源：WIRED）  如果您想了解 AI 新闻，请首先在此处启动所有来源。    提交人    /u/codeharman   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdft58/heres_whats_making_news_in_ai/</guid>
+      <pubDate>Fri, 13 Dec 2024 16:19:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年人工智能监管现状播客</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdf2mq/the_2024_state_of_ai_regulations_podcast/</link>
+      <description><![CDATA[曾经与律师谈论过 AI 法规吗？他们对 AI 法规历史以及行业发展方向的回答可能会让您大吃一惊。对话中的一些亮点： - 保险公司是大数据公司 - 人们用来做决定的数据是一个灰色地带 - 用于招聘流程的 AI 是一个大问题 - 一个系统发现一家公司应该只雇用名叫 Chad 的打长曲棍球的人 - ADMT：自动决策技术 - 哪些书最准确地预测了我们当前的技术？ https://www.youtube.com/watch?v=0e26FuP-s6o    提交人    /u/TrustGraph   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdf2mq/the_2024_state_of_ai_regulations_podcast/</guid>
+      <pubDate>Fri, 13 Dec 2024 15:47:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>与其他模型相比，GPT 更有可能产生公众人物言论的幻觉</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdet4j/gpt_is_much_more_likely_than_other_models_to/</link>
+      <description><![CDATA[https://www.fastcompany.com/91245091/gpt-is-far-likelier-than-other-ai-models-to-surface-questionable-quotes-by-public-figures-our-data-analysis-shows    提交人    /u/snappcrack   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdet4j/gpt_is_much_more_likely_than_other_models_to/</guid>
+      <pubDate>Fri, 13 Dec 2024 15:34:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能机器/机器人将在多久时间内取代人类医生？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdedra/how_long_if_at_all_will_ai_machinesrobot_replace/</link>
+      <description><![CDATA[人工智能机器/机器人将在多久内取代人类医生？ 您认为在不久的将来有可能吗？为什么或为什么不可能？随着人工智能诊断能力比医生更好，人工智能机器人被训练做手术，像 Neko 扫描仪和 Live Video Gemini 功能这样的扫描仪 - 您认为我们将走向何方？多久？目前面临的挑战是什么？     提交人    /u/MassiveConstant599   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdedra/how_long_if_at_all_will_ai_machinesrobot_replace/</guid>
+      <pubDate>Fri, 13 Dec 2024 15:15:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>真实的幻覺率是多少？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdd4z4/what_is_the_real_hallucination_rate/</link>
+      <description><![CDATA[我一直在搜索有关 LLM 的这个非常重要的主题。 我读到很多人说幻觉太频繁（高达 30%），因此不能相信 AI。 我也读过 3% 幻觉的统计数据 我知道人类有时也会出现幻觉，但这不是借口，我不能使用有 30% 幻觉的 AI。 我也知道精确的提示或自定义 GPT 可以减少幻觉。但总的来说，我希望计算机是精确的，而不是幻觉。    提交人    /u/nick-infinite-life   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdd4z4/what_is_the_real_hallucination_rate/</guid>
+      <pubDate>Fri, 13 Dec 2024 14:16:24 GMT</pubDate>
     </item>
     <item>
       <title>生成式人工智能的输出已经开始影响各种出版渠道</title>
@@ -20,67 +83,11 @@
       <pubDate>Fri, 13 Dec 2024 11:59:16 GMT</pubDate>
     </item>
     <item>
-      <title>好玩的AI手机游戏</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hda94a/fun_ai_mobile_games/</link>
-      <description><![CDATA[有人知道任何很酷的集成 AI 的新手机游戏吗？我知道他们制作了那些奇怪的聊天机器人，但我更多地谈论你玩的合适的游戏。 他们能做到这一点吗？或者像 Chat GPT 这样的聊天机器人是我们目前能走的最远的吗？    提交人    /u/Live-Arrival5610   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hda94a/fun_ai_mobile_games/</guid>
-      <pubDate>Fri, 13 Dec 2024 11:30:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>从单独的AI辅助任务转向AI解决方案？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hd9utu/going_from_separate_aiassisted_tasks_to_ai/</link>
-      <description><![CDATA[我是一名技术素养一般但非 AI 专家，如何才能制作自定义 AI 解决方案，将我可以分别访问的各个功能“粘合在一起”？ 我感到很沮丧，因为我确定我想做的事情是可能的，但我不知道如何才能实现。 示例：我想将专家之间的对话细节捕获到标准布局的规范文档中 过去：手动将笔记记入 Word 模板 现在：记录 Teams 会议，获取 AI 记录，将其输入 CoPilot，并提示我希望将其放入的标题 下一步：我很乐意邀请​​ AI 会议与会者参加 Teams 会议，随后在正确的 Teams 文件夹中创建文档。这肯定是有人已经做过的事情吧？    提交人    /u/Otterly_wonderful_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hd9utu/going_from_separate_aiassisted_tasks_to_ai/</guid>
-      <pubDate>Fri, 13 Dec 2024 11:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能用于房屋设计</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hd9sn8/ai_for_designing_houses/</link>
-      <description><![CDATA[最近，我有机会尝试一款被低估的 AI 工具，你可能在谷歌的前几页都找不到它，我自己是设计专业的，我一直对尝试新的 AI 工具感兴趣，用于图形、网页、室内设计、建筑、工业设计等领域的设计。  这款工具允许我在几秒钟内将草图或未渲染的模型上传到整洁、逼真且漂亮的渲染图中。我在想这个工具或 AI 如何在建筑设计领域更加规范化，别误会我的意思，它目前无法取代任何人，但它肯定在工作流程中占有一席之地，不记得有多少次客户想要多种风格的变体，这需要一天以上的时间来完成所有这些变体，只是在挑选一两种之后丢弃其中的大部分。所以我明白它应该属于哪里。该工具的开发人员非常友好，我很高兴认识他们。  根据规则，以下是该工具的直接链接：https://neolocus.ai    提交人    /u/Burntout_designer   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hd9sn8/ai_for_designing_houses/</guid>
-      <pubDate>Fri, 13 Dec 2024 10:58:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年排名前 9 位的 AI 音乐生成器</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hd9izs/top_9_ai_music_generators_in_2024/</link>
-      <description><![CDATA[2024 年排名前 9 的 AI 音乐生成器（播客创建者）https://www.patreon.com/posts/top-9-ai-music-117881912?utm_medium=clipboard_copy&amp;utm_source=copyLink&amp;utm_campaign=postshare_creator&amp;utm_content=join_link    提交人    /u/djquimoso   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hd9izs/top_9_ai_music_generators_in_2024/</guid>
-      <pubDate>Fri, 13 Dec 2024 10:38:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>克劳德和困惑——会提升你的游戏水平吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hd8ol2/claude_and_perplexity_going_to_lift_your_game/</link>
-      <description><![CDATA[过去几天，我们看到了 Open AI、Gemini 和 Grok 的更新。另外两名选手会做些什么吗？    提交人    /u/AppropriateRespect91   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hd8ol2/claude_and_perplexity_going_to_lift_your_game/</guid>
-      <pubDate>Fri, 13 Dec 2024 09:33:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否发现过可以分析整个网站并根据该文本输出信息的 GPT？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hd7vgu/have_you_found_any_gpts_that_can_analyze_a_whole/</link>
-      <description><![CDATA[例如，我正在尝试弄清楚如何使用 localai.io 设置我自己的本地运行 AI，以 ollama 为特色。  但是，我不是开发人员，并且在每个步骤中都遇到了困难，因为我从未使用过它们所需的 80% 的后端程序。实际上没有其他文档，但我一直在使用 Gemini 和 chatgpt 来帮助回答问题，唯一的问题是他们实际上只分析您提供给他们的单个页面。是否有任何包装器可以查看整个部分（即本网站上的文档部分，大约 20 页），然后成为帮助我设置一切的专家？    提交人    /u/PuttPutt7   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hd7vgu/have_you_found_any_gpts_that_can_analyze_a_whole/</guid>
-      <pubDate>Fri, 13 Dec 2024 08:27:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 2024 年 12 月 12 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hd5lta/oneminute_daily_ai_news_12122024/</link>
-      <description><![CDATA[ 诉讼：一个聊天机器人暗示一个孩子应该因为屏幕时间限制而杀死他的父母。[1] Meta 发布 AI 模型以增强元宇宙体验。[2] 微软在研究预览中首次推出了一种新的生成 AI 模型 Phi-4。[3] 谷歌 构建了一个可以为您进行研究的 AI 工具。[4]  来源包括：https://bushaicave.com/2024/12/12/12-12-2024/    提交人    /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hd5lta/oneminute_daily_ai_news_12122024/</guid>
-      <pubDate>Fri, 13 Dec 2024 05:43:08 GMT</pubDate>
-    </item>
-    <item>
       <title>“人工智能竞赛的疯狂”对这篇文章有什么看法？下面我会摘录一些片段</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hd45lj/the_madness_of_the_race_to_build_artificial/</link>
       <description><![CDATA[https://www.truthdig.com/articles/the-madness-of-the-race-to-build-artificial-general-intelligence/ 人工智能公司究竟是如何看待 AGI 的潜在危险的？在 2023 年的一次演讲中，OpenAI 首席执行官 Sam Altman 被问及 AGI 是否会毁灭人类，他回答说：“最糟糕的情况——我认为这很重要——就是我们所有人都会灭亡。”在之前的一些采访中，他宣称“我认为人工智能……很可能会导致世界末日，但与此同时，也会有优秀的公司通过严肃的机器学习诞生”，并且“人工智能可能会杀死我们所有人，但在此之前，我们会培养出很多优秀的学生。”观众对此大笑。但他是在开玩笑吗？如果他在开玩笑，那他也是认真的：OpenAI 网站本身在 2023 年的一篇文章中指出，AGI 的风险可能是“生存性的”，大致意思是它们可能会消灭整个人类物种。他们网站上的另一篇文章肯定了“失调的超级智能 AGI 可能会对世界造成严重伤害。” Altman 在 2015 年的个人博客上的一篇文章中写道：“超人机器智能的发展可能是对人类继续生存的最大威胁。” “AGI” 指的是在科学、数学、社交操控和创造力等所有重要认知领域至少与人类一样有能力的任何人工系统，而“SMI” 则是一种能力超人的 AGI。许多“人工智能安全”领域的研究人员认为，一旦我们拥有了 AGI，我们很快就会拥有超级智能机器。原因是设计能力越来越强的机器是一项智力任务，因此这些系统变得越“智能”，它们设计更“智能”系统的能力就越强。因此，第一批 AGI 将设计下一代更“智能”的 AGI，直到这些系统达到“超人”水平。 同样，当试图打造 AGI 的最强大人工智能公司的首席执行官说超级智能机器可能会杀死我们时，人们不需要接受这种推理就会感到震惊。  就在前几天，OpenAI 的一名 Twitter/X 用户名为“roon”的员工发推文称，“事情正在加速发展。实现 AGI 几乎不需要改变任何方向……担心时间表”——即担心 AGI 是否会在今年晚些时候或 10 年后建成——“是无谓的焦虑，超出了你的控制范围。你应该担心愚蠢的凡人之事。你的父母讨厌你吗？你的妻子爱你吗？”换句话说，AGI 指日可待，其发展无法停止。一旦创建，它将带来我们所知道的世界末日，也许是杀死地球上的所有人。因此，你不应该过多考虑这种情况何时会发生，而应该考虑对我们人类有意义的更平凡的事情：我们的生活是否井然有序？我们与朋友、家人和伴侣的关系是否融洽？当你乘坐的飞机开始向地面俯冲时，大多数人都会转向自己的伴侣说“我爱你”，或者试着给亲人发几条最后的短信说再见。据 OpenAI 的某人说，这就是我们现在应该做的。    提交人    /u/jvstnmh   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hd45lj/the_madness_of_the_race_to_build_artificial/</guid>
       <pubDate>Fri, 13 Dec 2024 04:16:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么电影中的人工智能大多是邪恶的？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hd0niq/why_is_ai_mostly_evil_in_movies/</link>
-      <description><![CDATA[如果这是一个警告，为什么我们不听呢？这是公司最终走得太远之前的“有趣”时期吗？    提交人    /u/Burlingtonfilms   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hd0niq/why_is_ai_mostly_evil_in_movies/</guid>
-      <pubDate>Fri, 13 Dec 2024 01:11:24 GMT</pubDate>
     </item>
     <item>
       <title>人工智能焦虑</title>
@@ -95,13 +102,6 @@
       <description><![CDATA[如果您有产品要推广，可以在这里进行推广，本帖之外的内容将被删除。  禁止引用链接或带有 utms 的链接，请遵守我们的推广规则。    提交人    /u/AutoModerator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcmzr2/weekly_self_promotion_post/</guid>
       <pubDate>Thu, 12 Dec 2024 15:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 重大更新后，OpenAI 的 ChatGPT 停用</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcmfps/openais_chatgpt_goes_dark_after_apples_big_update/</link>
-      <description><![CDATA[关键要点  ChatGPT 在 12 月 11 日遭遇严重中断，影响全球用户，恰逢其与 Apple 的 Siri 集成； OpenAI 在数小时内解决了中断问题，但此次事件是 ChatGPT 近几个月来的第四次重大中断； Siri 新的由 ChatGPT 提供支持的功能在中断期间推出，这引发了人们对扩展 AI 集成挑战的质疑。  来源：https://news.bitdegree.org/openais-chatgpt-goes-dark-after-apples-big-update?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-openais-chatgpt-goes-dark    提交人    /u/webbs3   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcmfps/openais_chatgpt_goes_dark_after_apples_big_update/</guid>
-      <pubDate>Thu, 12 Dec 2024 14:36:37 GMT</pubDate>
     </item>
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
