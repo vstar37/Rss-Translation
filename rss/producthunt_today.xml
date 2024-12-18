@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 18 Dec 2024 12:27:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 15:15:58 GMT</lastBuildDate>
     <item>
       <title>健身包裹</title>
       <link>https://www.producthunt.com/posts/fitness-wrapped</link>
@@ -121,7 +121,7 @@ Spotify Wrapped 为您的 Apple Fitness 锻炼服务
       <title>Straighty.app</title>
       <link>https://www.producthunt.com/posts/straighty-app</link>
       <description><![CDATA[
-通过瑜伽指导实时监测姿势
+实时姿势和瑜伽助手 | 私人 | 无可穿戴设备
 
 
 讨论
@@ -130,20 +130,6 @@ Spotify Wrapped 为您的 Apple Fitness 锻炼服务
 ]]></description>
       <guid>https://www.producthunt.com/posts/straighty-app</guid>
       <pubDate>Fri, 13 Dec 2024 21:53:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>BoldVoice 口音神谕</title>
-      <link>https://www.producthunt.com/posts/boldvoice-accent-oracle-2</link>
-      <description><![CDATA[
-说话，我们会猜你的口音。你能骗过神谕吗？
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/boldvoice-accent-oracle-2</guid>
-      <pubDate>Fri, 13 Dec 2024 00:03:52 GMT</pubDate>
     </item>
     <item>
       <title>Tempo 实验室</title>
@@ -214,6 +200,20 @@ AI 驱动的免版税音乐平台
 ]]></description>
       <guid>https://www.producthunt.com/posts/newoaks-ai-phone-agent</guid>
       <pubDate>Mon, 25 Nov 2024 03:12:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Findr：记住一切</title>
+      <link>https://www.producthunt.com/posts/findr-remember-everything</link>
+      <description><![CDATA[
+使用您的（AI）第二大脑解锁无限的数字记忆
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/findr-remember-everything</guid>
+      <pubDate>Tue, 29 Oct 2024 19:30:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
