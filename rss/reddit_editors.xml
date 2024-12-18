@@ -4,7 +4,28 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 18 Dec 2024 01:05:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 06:20:19 GMT</lastBuildDate>
+    <item>
+      <title>Avid 播放问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1hgv4ip/avid_playback_issues/</link>
+      <description><![CDATA[我在使用 Media Composer 时遇到了播放问题，但不知道是什么原因造成的。播放运行良好，持续 5-10 秒，然后跳过并显示可怕的红条。 这是我当前的设置：  Mac Studio M1 Ultra，128 GB RAM 运行 ma​​cOS Sonoma，运行最新版本的 Media Composer 连接到 QNAP 服务器，速度如下： 写入：869 MB/s 读取：1061 MB/s  素材转换为 UHD DNxHR LB 时间轴设置为最佳性能  我可能遗漏了什么吗？ 谢谢！    由   提交  /u/MoffatEdits   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hgv4ip/avid_playback_issues/</guid>
+      <pubDate>Wed, 18 Dec 2024 05:53:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想聘请编辑来制作视频，长期工资为每小时 30-40 美元</title>
+      <link>https://www.reddit.com/r/editors/comments/1hgrien/im_looking_to_hire_editors_to_create_videos_with/</link>
+      <description><![CDATA[寻找类似这些视频的酷东西：https://www.instagram.com/raised.online_________________/reels/ 如果您在新泽西州/纽约州有摄像师联系方式，那就太好了，我在那里工作。 编辑：请将您编辑过的与自然相似的特定视频链接到上面示例中的视频。 如果您只是将您的作品集或网站发送给我，我会认为您无法遵循指示而无法前进。    提交人    /u/fadedsociety   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hgrien/im_looking_to_hire_editors_to_create_videos_with/</guid>
+      <pubDate>Wed, 18 Dec 2024 02:25:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Media Composer 兼容推子</title>
+      <link>https://www.reddit.com/r/editors/comments/1hgqn17/media_composer_compatible_faders/</link>
+      <description><![CDATA[我真的很想在我的编辑套件中添加一些推子，但选项似乎有限。我的理解是它必须具有 Eucon 协议，基本上只剩下 s1 或艺术家混音……这真的是我仅有的两个选项吗？    由   提交  /u/Mysterious-Law-2123   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hgqn17/media_composer_compatible_faders/</guid>
+      <pubDate>Wed, 18 Dec 2024 01:39:42 GMT</pubDate>
+    </item>
     <item>
       <title>愚蠢的交付问题</title>
       <link>https://www.reddit.com/r/editors/comments/1hgn3p4/dumb_delivery_questions/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[在 Avid 中，我遇到一种情况，我必须编辑组以将音频轨道添加到组中。然后，我想在包含这些已编辑组的序列上刷新序列。这是我过去绝对没有问题地做过的事情（尽管这是几个 Avid 版本之前的事情）。 我目前正在尝试在 Avid 2023.12.3 中执行此操作，一旦我单击刷新序列，我收到了此警告。 而且，如果我点击“继续”，什么也不会发生。 但是，一旦我打开刷新序列，我就会得到此警告最终导致我的 Avid 崩溃。 有人有什么想法吗？此外，我在此操作过程中根本没有操纵持续时间。只是添加一个音轨并剪切一段新音频。 谢谢！    提交人    /u/fly_swatter_friendly   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hg1vxx/edit_group_and_refresh_sequence_mishap_in_avid/</guid>
       <pubDate>Tue, 17 Dec 2024 03:43:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否存在一种 AI 工具或者其他东西可以从完成的剪辑中识别出源素材片段？</title>
-      <link>https://www.reddit.com/r/editors/comments/1hg1p5o/is_there_an_ai_tool_or_something_that_recognizes/</link>
-      <description><![CDATA[我在一家广告公司担任编辑，他们要求我将一款旧的垂直产品调整为水平产品，该产品很久以前由一位前员工编辑过。但是，该产品上有类似文本的图形，重新调整起来有点棘手。 原始项目已不复存在，但原始素材仍然存在。 是否有一种工具可以根据成品识别特定素材选择中的剪辑？基本上，将光标放在最终视频的时间轴上的任意位置，选择素材箱中的一系列素材，然后“重新链接或定位”？ 我使用 Macbook Pro 2019 i7 16GB RAM，通常在 Premiere 和 DaVinci 上编辑。    提交人    /u/feliperalo21   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hg1p5o/is_there_an_ai_tool_or_something_that_recognizes/</guid>
-      <pubDate>Tue, 17 Dec 2024 03:32:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>曾经编辑过 SD 卡上的内容吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1hfzgpn/ever_edit_off_of_an_sd_card/</link>
-      <description><![CDATA[奇怪的问题，但我正在考虑在我的 M4 MacBook Pro 中使用 SD 卡作为 Lucid 上编辑的缓存。有人成功做到了吗？目前使用 V90 SD 卡，速度大约为 300MB/s。    由   提交  /u/SailsAcrossTheSea   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hfzgpn/ever_edit_off_of_an_sd_card/</guid>
-      <pubDate>Tue, 17 Dec 2024 01:34:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>编辑音乐排练文档 - 在 Premiere 中将 64 个音轨链接到视频的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/editors/comments/1hfqnfs/editing_a_music_rehearsal_doc_best_way_to_keep_64/</link>
-      <description><![CDATA[您好，我正在设置一个 Premiere 项目，该项目涉及编辑大型乐队的音乐排练。我有一个 3 台摄像机的多机位序列，与制作音频和摄像机音频同步 - 但我还有来自混音板的 64 个乐器音轨，我需要在编辑时将其与视频保持链接。我的第一个想法是将所有多轨音频嵌套在多机位序列中的一个音轨上 - 因为我无法想象尝试编辑所有这些音轨，但我刚刚了解到您无法在 Premiere 中嵌套音频。我很好奇是否有人对如何处理这种情况有建议。排练将被截断和重新安排，因此我的目标是确保乐队的多轨乐器音频始终与编辑相链接，这样后期混音器就不会遇到将大约 5 小时的多轨音频与我的编辑进行匹配的不可能完成的任务。    提交人    /u/IronTough7225   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hfqnfs/editing_a_music_rehearsal_doc_best_way_to_keep_64/</guid>
-      <pubDate>Mon, 16 Dec 2024 19:03:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
