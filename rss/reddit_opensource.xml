@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 22 Dec 2024 01:09:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 03:22:15 GMT</lastBuildDate>
     <item>
       <title>crypt.fyi - 开源、短暂、零知识秘密共享，具有端到端加密</title>
       <link>https://www.reddit.com/r/opensource/comments/1hjkbnz/cryptfyi_opensource_ephemeral_zeroknowledge/</link>
@@ -50,7 +50,7 @@
     <item>
       <title>LTX Video 的最新更新</title>
       <link>https://www.reddit.com/r/opensource/comments/1hj296v/ltx_videos_latest_update/</link>
-      <description><![CDATA[终于在开源视频生成中看到了真正的竞争 - LTX Video 的最新更新 一直在关注开源视频生成的发展，刚刚遇到了 LTX Video 0.9.1。对于那些不熟悉的人来说，这是一个高效的视频生成框架，试图解决我们经常看到的资源瓶颈。这次更新引起了我的注意： 团队设法消除了困扰大多数开放框架的那些可怕的频闪纹理。任何玩过视频生成的人都知道我在说什么 - 那些让一切看起来都像坏了的电视机的奇怪的闪烁伪影。消失了。 资源使用率仍然出奇地合理。能够在普通硬件上运行它，而不会出现通常的 VRAM 问题。这可能是大多数开源视频项目进入的最大障碍，所以看到这一点令人耳目一新。 一个有趣的技术选择是他们对 AI 生成的图像的处理。他们实施了一个图像降级系统，似乎可以产生更自然的运动。这是一个解决社区一直感到沮丧的问题的明智方法。 注意事项：如果您想使用新的 VAE 改进（相信我，您会这样做），您现在需要它们特定的 ComfyUI 节点。可在 https://github.com/Lightricks/ComfyUI-LTXVideo 对于想要进行实验的同行：他们的文档（https://github.com/Lightricks/LTX-Video）建议从图像字幕开始作为基本描述，然后手动添加运动元素。经过一些测试，这肯定会比直接跳到运动提示产生更好的效果。 真的很高兴看到它的发展方向。这个领域已经停滞了一段时间，所以拥有可靠的开源替代方案来推动创新正是我们所需要的。    提交人    /u/hadjiprimesx30   [链接] [评论]]]></description>
+      <description><![CDATA[终于在开源视频生成中看到了真正的竞争 - LTX Video 的最新更新 一直在关注开源视频生成的发展，刚刚遇到了 LTX Video 0.9.1。对于那些不熟悉的人来说，这是一个高效的视频生成框架，试图解决我们经常看到的资源瓶颈。这次更新引起了我的注意： 团队设法消除了困扰大多数开放框架的那些可怕的频闪纹理。任何玩过视频生成的人都知道我在说什么 - 那些让一切看起来都像坏了的电视机的奇怪闪烁伪影。消失了。 资源使用率仍然出奇地合理。能够在普通硬件上运行它，而不会出现通常的 VRAM 问题。这可能是大多数开源视频项目进入的最大障碍，所以看到这一点令人耳目一新。 一个有趣的技术选择是他们对 AI 生成的图像的处理。他们实施了一个图像降级系统，似乎可以产生更自然的运动。这是一个解决社区一直感到沮丧的问题的明智方法。 注意事项：如果您想使用新的 VAE 改进（相信我，您会这样做），您现在需要它们特定的 ComfyUI 节点。可在 https://github.com/Lightricks/ComfyUI-LTXVideo 对于想要进行实验的同行：他们的文档（https://github.com/Lightricks/LTX-Video）建议从图像字幕开始作为基本描述，然后手动添加运动元素。经过一些测试，这肯定会比直接跳到运动提示产生更好的效果。 真的很高兴看到它的发展方向。这个领域已经停滞了一段时间，所以拥有可靠的开源替代方案来推动创新正是我们所需要的。    提交人    /u/hadjiprimesx30   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hj296v/ltx_videos_latest_update/</guid>
       <pubDate>Sat, 21 Dec 2024 04:33:31 GMT</pubDate>
     </item>
@@ -64,14 +64,14 @@
     <item>
       <title>我最好的 roku 替代品是什么？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hiyp3y/whats_my_best_option_for_a_roku_alternative/</link>
-      <description><![CDATA[我曾经很喜欢我的 roku，但每年都会用广告换取性能。我们主要用它来观看流媒体服务：netflix、disney、max、youtube 和 paramount。 我看过 kodi。如果我们有一个媒体库，它看起来会很棒，但我找不到插件来让它支持我们观看的服务。 Mythtv 似乎仍在做 DVR 的东西，但我们不再支付有线电视费了。    提交人    /u/SuperfluousBrain   [链接] [评论]]]></description>
+      <description><![CDATA[我曾经很喜欢我的 roku，但每年都会用广告换取性能。我们主要用它观看流媒体服务：netflix、disney、max、youtube 和 paramount。 我看过 kodi。如果我们有一个媒体库，它看起来会很棒，但我找不到插件来让它支持我们观看的服务。 Mythtv 似乎仍在做 DVR 的东西，但我们不再支付有线电视费了。    提交人    /u/SuperfluousBrain   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hiyp3y/whats_my_best_option_for_a_roku_alternative/</guid>
       <pubDate>Sat, 21 Dec 2024 01:08:18 GMT</pubDate>
     </item>
     <item>
       <title>与 MIT 无署名和未授权的双重授权</title>
       <link>https://www.reddit.com/r/opensource/comments/1hiwcqz/duallicensing_with_the_mit_no_attribution_and/</link>
-      <description><![CDATA[为了获得最大的自由，我想将我的软件放入公共领域。但是，公共领域的概念并非在每个司法管辖区都存在。因此，我想使用宽松许可证和非许可证双重许可。有趣的是，stb（C/C++ 的单文件公共领域库）在 MIT 和非许可证下获得双重许可。请参阅https://github.com/nothings/stb/blob/master/LICENSE。但是，MIT 许可证要求对软件进行署名。我希望我的软件尽可能宽松，所以我用同样的想法制作了自己的许可证，但使用 MIT 无署名 (MIT-0) 而不是 MIT。以下是许可证文本，从现在起我将在我的开源项目中使用它： ``` 该软件有两种许可证 - 请选择您喜欢的任意一种。  许可证 1 - MIT 无署名 (MIT-0) 版权所有 &lt;YEAR&gt; &lt;版权所有者&gt; 特此授予获得此软件和相关文档文件（“软件”）副本的任何人免费许可，以无限制方式处理软件，包括但不限于使用、复制、修改、合并、发布、分发、再许可和/或销售软件副本的权利，以及允许向其提供软件的人员这样做。 该软件按“原样”提供，不作任何形式的保证，无论明示或暗示，包括但不限于适销性、针对特定目的的适用性和不侵权性的保证。在任何情况下，作者或版权所有者均不对任何索赔、损害或其他责任负责，无论是合同行为、侵权行为还是其他行为，无论是由软件或使用或其他处理软件引起的，还是与之相关的。  许可证 2 - 未授权 https://unlicense.org 这是免费且不受限制的软件，已发布到公共领域。 任何人都可以自由复制、修改、发布、使用、编译、销售或分发此软件，无论是以源代码形式还是编译后的二进制文件形式，用于任何目的，无论是商业还是非商业目的，通过任何方式。 在承认版权法的司法管辖区，本软件的作者或作者们将软件中的所有版权利益奉献给公共领域。我们做出此奉献是为了广大公众的利益，但会损害我们的继承人和继任者的利益。我们打算将此奉献视为永久放弃版权法规定的此软件的所有现有和未来权利的公开行为。 本软件按“原样”提供，不作任何形式的保证，无论明示或暗示，包括但不限于适销性、针对特定目的的适用性和不侵权性的保证。在任何情况下，作者均不对任何索赔、损害或其他责任负责，无论是合同行为、侵权行为还是其他行为，无论是由软件或使用或以其他方式处理软件而引起、由其引起或与之有关。 ```    提交人    /u/SaltyMaybe7887   [link] [评论]]]></description>
+      <description><![CDATA[为了获得最大的自由，我想将我的软件放入公共领域。但是，公共领域的概念并非在每个司法管辖区都存在。因此，我想使用宽松许可证和非许可证双重许可。有趣的是，stb（C/C++ 的单文件公共领域库）在 MIT 和非许可证下获得双重许可。请参阅https://github.com/nothings/stb/blob/master/LICENSE。但是，MIT 许可证要求对软件进行署名。我希望我的软件尽可能宽松，所以我用同样的想法制作了自己的许可证，但使用 MIT 无署名 (MIT-0) 而不是 MIT。以下是许可证文本，从现在起我将在我的开源项目中使用它： ``` 该软件有两种许可证 - 选择您喜欢的任何一种。  许可证 1 - MIT 无署名（MIT-0） 版权所有 &lt;YEAR&gt; &lt;版权所有者&gt; 特此授予获得此软件和相关文档文件（“软件”）副本的任何人免费许可，以无限制方式处理软件，包括但不限于使用、复制、修改、合并、发布、分发、再许可和/或销售软件副本的权利，以及允许向其提供软件的人员这样做。 该软件按“原样”提供，不作任何形式的保证，无论明示或暗示，包括但不限于适销性、针对特定目的的适用性和不侵权性的保证。在任何情况下，作者或版权所有者均不对任何索赔、损害或其他责任负责，无论是合同行为、侵权行为还是其他行为，无论是由软件或使用或其他处理软件引起的，还是与之相关的。  许可证 2 - 未授权 https://unlicense.org 这是免费且不受限制的软件，已发布到公共领域。 任何人都可以自由复制、修改、发布、使用、编译、销售或分发此软件，无论是以源代码形式还是编译后的二进制文件形式，用于任何目的，无论是商业还是非商业目的，通过任何方式。 在承认版权法的司法管辖区，本软件的作者或作者们将软件中的所有版权利益奉献给公共领域。我们做出此奉献是为了广大公众的利益，但会损害我们的继承人和继任者的利益。我们打算将此奉献视为永久放弃版权法规定的此软件的所有现有和未来权利的公开行为。 本软件按“原样”提供，不作任何形式的保证，无论明示或暗示，包括但不限于适销性、针对特定目的的适用性和不侵权性的保证。在任何情况下，作者均不对任何索赔、损害或其他责任负责，无论是合同行为、侵权行为还是其他行为，无论是由软件或使用或其他处理软件引起的，还是与之相关的。 ```    提交人    /u/SaltyMaybe7887   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hiwcqz/duallicensing_with_the_mit_no_attribution_and/</guid>
       <pubDate>Fri, 20 Dec 2024 23:09:04 GMT</pubDate>
     </item>
