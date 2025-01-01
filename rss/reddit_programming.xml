@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 01 Jan 2025 01:08:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 03:25:43 GMT</lastBuildDate>
+    <item>
+      <title>2025 年你的编程学习路线图是什么？一起分享讨论吧！</title>
+      <link>https://www.reddit.com/r/programming/comments/1hqtnso/whats_your_programming_learning_roadmap_for_2025/</link>
+      <description><![CDATA[  由    /u/slidoooor  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hqtnso/whats_your_programming_learning_roadmap_for_2025/</guid>
+      <pubDate>Wed, 01 Jan 2025 02:21:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何管理不稳定的测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1hqsipv/how_to_manage_flaky_tests/</link>
+      <description><![CDATA[  由    /u/lihaoyi  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hqsipv/how_to_manage_flaky_tests/</guid>
+      <pubDate>Wed, 01 Jan 2025 01:12:29 GMT</pubDate>
+    </item>
     <item>
       <title>我所知道的有关运输符合规格的产品的所有提示</title>
       <link>https://www.reddit.com/r/programming/comments/1hqpsvv/every_tip_i_know_for_shipping_products_that_match/</link>
@@ -69,13 +83,6 @@
       <pubDate>Tue, 31 Dec 2024 16:52:32 GMT</pubDate>
     </item>
     <item>
-      <title>我们建立了一个 AI 代理目录来帮助你找到最好的 AI 代理</title>
-      <link>https://www.reddit.com/r/programming/comments/1hqdqr4/we_built_an_ai_agents_directory_to_help_you_find/</link>
-      <description><![CDATA[  由    /u/sahilypatel  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hqdqr4/we_built_an_ai_agents_directory_to_help_you_find/</guid>
-      <pubDate>Tue, 31 Dec 2024 12:29:52 GMT</pubDate>
-    </item>
-    <item>
       <title>Jonot 的博客：为什么我用 Zig 编写 Game Boy Advance 游戏</title>
       <link>https://www.reddit.com/r/programming/comments/1hqchsh/jonots_blog_why_i_wrote_a_game_boy_advance_game/</link>
       <description><![CDATA[注意：这可能无法在实际的 GBA 上运行，因为它没有实现 GBA 复制保护。它应该可以在大多数模拟器上运行（在 mGBA 上测试过） 2048-zig v1.0 发布：https://github.com/jonot-cyber/2048-zig/releases/tag/1.0    提交人    /u/NXGZ   [链接] [评论]]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/AsyncBanana  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hq3ybz/my_2025_javascript_wishlist/</guid>
       <pubDate>Tue, 31 Dec 2024 02:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>TIL 在 Java 中格式化日期时，YYYY 和 yyyy 之间存在差异</title>
-      <link>https://www.reddit.com/r/programming/comments/1hq3hzp/til_that_theres_a_difference_between_yyyy_and/</link>
-      <description><![CDATA[显然，如果您在 2024-12-30 这样的日期上使用 YYYY，它会转换为 2025-12-30（如果您使用 YYYY）    提交人    /u/neeraj8le   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hq3hzp/til_that_theres_a_difference_between_yyyy_and/</guid>
-      <pubDate>Tue, 31 Dec 2024 01:38:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

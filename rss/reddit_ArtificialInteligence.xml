@@ -3,8 +3,8 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 01 Jan 2025 01:07:34 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 01 Jan 2025 03:25:05 GMT</lastBuildDate>
     <item>
       <title>请帮我找到正确的选项</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hqribd/help_me_find_the_correct_option_pls/</link>
@@ -41,11 +41,11 @@
       <pubDate>Tue, 31 Dec 2024 21:57:46 GMT</pubDate>
     </item>
     <item>
-      <title>启动 iMessage</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hqozap/initiate_imessage/</link>
-      <description><![CDATA[我想要一个助手，自动化，可以帮我做以下事情。 - 在 Apple 通讯录应用中获取我的联系人（或者我可能需要将它们放入电子表格中）。它将能够为联系人记录生日、重要日期、家庭成员姓名、我们如何互相认识等... - 它将通过我的 Mac 或 iPad 上的 iMessage 向代表我的人发送预定日期、节假日、场合的消息。例如，在他们生日时发送生日消息。使用 AI，每条消息对该人来说都是独一无二的。 - 精心设计的消息可以根据我们上次互动之间的时间长度提出问题。如果我在 6 个月内没有给此人发消息，它可能会在消息中询问他们的孩子近况如何。 - 我只希望它发起消息，而不是替我回复。或者阅读我的消息。  - 如果联系人从“联系人”应用中删除，则该联系人也会从这些消息中删除。 如果没有直接的应用程序可以一次性完成此操作，是否有解决方法？使用 2 个不同的 AI，然后通过 Make 或 Zapier 等服务链接它们，然后可以在我的本地 Mac 上运行脚本来制作和发送消息？ 提前致谢。    提交人    /u/ManaHijinx   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hqozap/initiate_imessage/</guid>
-      <pubDate>Tue, 31 Dec 2024 21:55:09 GMT</pubDate>
+      <title>我正在寻找一个可以用来制作 AI 歌曲模仿秀的程序。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hqmksa/im_looking_for_a_program_that_can_be_used_to_make/</link>
+      <description><![CDATA[目前，我正在编写这首歌的替代版本，录制自己的声音，然后使用 RVC 将我的声音改为歌手的声音。这听起来不太好，因为它保留了原始录音中我的声音的语调。我想要一个程序，它允许你插入新的歌词，它会用新的歌词重新创作原曲，歌手、语调和旋律都是一样的。我见过的一个例子是一个在 2019 年左右流行的应用程序，你可以在其中选择一首歌，用你想要的任何内容替换歌词，它会用与原曲相同的声音和曲调演唱。这款应用对免费用户来说非常有限，唯一的免费歌曲是“Chain Hang Low”，所以人们制作的大多数视频都是这首歌。有一个付费版本，你可以在其中选择歌曲，但我相信选择仍然仅限于堡垒之夜表情歌曲和类似歌曲。我不记得这个应用程序的名字了，但它的功能可能太有限了，无法满足我的需求。如果有人知道可以用于此功能的免费 AI，请告诉我。    提交人    /u/vrcfangirl   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hqmksa/im_looking_for_a_program_that_can_be_used_to_make/</guid>
+      <pubDate>Tue, 31 Dec 2024 19:52:44 GMT</pubDate>
     </item>
     <item>
       <title>对于我的用例，您推荐哪种 AI 系统？</title>
@@ -99,14 +99,14 @@
     <item>
       <title>我添加了专业人士的天赋</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hmc09x/i_added_flairs_for_professionals/</link>
-      <description><![CDATA[由于最近对专业内容更加突出的兴趣，我认为一个好的开始是了解用户的哪些答案来自真正了解他们所谈论内容的人。 因此，我通过 mods 使经过验证的专业标签仅可分配。如果您想要该标签，您必须证明您在该领域工作。我把这留给您，我不在乎您的数据，并在看到后删除所有内容。如果您获得了标签，结果发现您对自己的职业撒了谎，无论出于何种原因，您都将被永久禁止，并且无法上诉。 一旦我们拥有足够多的人，我们还可以允许用户将某些帖子限制为仅那些用户进行更专业的讨论。 让我知道您的想法    提交人    /u/ILikeBubblyWater   [链接] [评论]]]></description>
+      <description><![CDATA[由于最近对专业内容更加突出的兴趣，我认为一个好的开始是了解用户的哪些答案来自真正了解他们所谈论内容的人。 因此，我通过 mods 使经过验证的专业标签仅可分配。如果您想要该标签，您必须证明您在该领域工作。我把这留给您，我不在乎您的数据，并在看到后删除所有内容。如果您获得了标签，结果发现您对自己的职业撒了谎，无论出于何种原因，您都将被永久禁止，并且无法上诉。 一旦我们拥有足够多的人，我们还可以允许用户将某些帖子限制为仅供那些用户进行更专业的讨论。 让我知道您的想法    提交人    /u/ILikeBubblyWater   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hmc09x/i_added_flairs_for_professionals/</guid>
       <pubDate>Wed, 25 Dec 2024 23:49:53 GMT</pubDate>
     </item>
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hlffed/weekly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，除了此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hlffed/weekly_is_there_a_tool_for_post/</guid>
       <pubDate>Tue, 24 Dec 2024 15:09:09 GMT</pubDate>
     </item>
