@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 05 Jan 2025 12:24:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 15:13:03 GMT</lastBuildDate>
+    <item>
+      <title>重新思考“公开”开源的敌人</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hu619e/rethinking_enemies_of_open_source_openly/</link>
+      <description><![CDATA[德意志民主共和国  -&gt; 没有民主 - 付款不当  朝鲜民主主义人民共和国  -&gt; 遵守规则，否则您就是共和国的敌人 开源 -&gt; 捐赠仅用于慈善目的，不支持任何商业模式... 医生是免费工作还是社会要求他们这样做？ 开源社区的真正敌人是当前的许可证，它阻止了对开发人员进行适当的补偿！ 软件自由正在将 MongoDB 的 SSPL 等许可证视为“开放”，因为源代码是公开可用的。 “我没有获得资助，所以其他人也应该免费工作”既不是机会，也不是为开源开发者提供良好报酬的选择。 最终，争取要求为某些用例付费的许可证是一种嫉妒行为。 在维基百科中争论哪些许可证是开源的，哪些不是未注册商标的开源术语，是一种绝望的行为，而不是改变一些东西变得更好。 我们需要改变这一点——目前的方式开源是不可持续的。 我们需要公开思考如何更好地创造和定义开源。 对于所有 Gnu 和 Apache 键盘战士，请在您咆哮之前考虑以下几点： 研究表明，一半的人会接受 50% 的低工资，以防止同事赚得比他们多。你想成为其中之一吗？ 这篇文章是讨论，而不是术语定义。   由    /u/Timbo2020  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hu619e/rethinking_enemies_of_open_source_openly/</guid>
+      <pubDate>Sun, 05 Jan 2025 12:26:03 GMT</pubDate>
+    </item>
     <item>
       <title>允许我打开 Microsoft Docs 的 Android 应用</title>
       <link>https://www.reddit.com/r/opensource/comments/1hu5pqz/android_app_that_lets_me_open_microsoft_docs/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好！ 我的 Github 存储库在不到 3 个月的时间内就获得了 180 多个星。这是我的存储库：https://github.com/Fajar-RahmadJaya/KeyTik。我知道这并不多，但我想分享我在开发过程中的经验。 对我来说，市场调研很重要。除了营销，我们还需要为我们的产品增加价值。尽可能多地收集用户的反馈或研究我们的竞争对手，以找出我们需要在产品中添加什么。例如，在项目 1 上他们缺少这个，或者在项目 2 上他们有这个很好的功能。 找到与我们的项目相关的社区。研究他们想要什么并将其实现到我们的项目中。看到一些带有问号的帖子，例如“我该怎么做” &quot;是否有任何工具可以做到这一点&quot;。研究它并决定它是否适合我们的项目。 当然，我们的创造力和想法也很重要。如果你认为某件事对你的项目有好处，就记下来。 最后是一致性。不要让你的项目被抛弃，并记录你的进展。对我们的用户好一点。如果他们对我们的项目有一些想法，就和他们详细阐述。不要放弃这个想法。毕竟它是开源的，每个人都可以为它做出贡献，即使只是提供一个想法。 我希望这对你有用，如果有什么不对的地方，我很抱歉。谢谢！    提交人    /u/National_Operation14   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1htg1gw/what_i_learn_while_developing_my_opensource/</guid>
       <pubDate>Sat, 04 Jan 2025 14:56:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>完全开源的鼠标。开箱即用的 QMK 固件。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hte2a7/the_completely_opensource_mouse_qmk_firmware_out/</link>
-      <description><![CDATA[  由    /u/Candace_Owens_4225  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hte2a7/the_completely_opensource_mouse_qmk_firmware_out/</guid>
-      <pubDate>Sat, 04 Jan 2025 13:10:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
