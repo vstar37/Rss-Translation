@@ -4,14 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 09 Jan 2025 01:03:44 GMT</lastBuildDate>
-    <item>
-      <title>开源软件并不总是更安全</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hx06uz/opensource_software_isnt_always_safer/</link>
-      <description><![CDATA[就像人们说有机食品实际上比非有机食品更健康一样，很多水果或蔬菜可能确实如此，它们使用了大量杀虫剂，这些杀虫剂会被这些水分充足的水果和蔬菜吸收；有机食品也使用有机杀虫剂，并且没有明确或没有真正的证据表明，与常规杀虫剂相比，在美国多花 5 到 30 美元购买有机食品更健康，而且此外，几乎没有证据表明您的有机食品实际上是有机，因为它们都来自其他国家，您不知道他们对您购买和食用的食品做了什么，也不知道他们邻近的农场在做什么，所以那些“有机”食物中可能含有有机农药和常规农药的混合物，而且两种农药的含量都可能非常高。 这对于开源软件来说大致是相同的情况，所以我只是想知道谁真正花时间阅读并知道如何理解其中一个程序的问题；好吧，据我所知，如果您不是程序员，或者没有服务器端经验，您怎么知道这些人中是否有人读过它来了解它呢？ 因此，我认为当我们看到一个新程序弹出时，我们应该重新考虑它，该程序因开源而受到如此多的赞扬，但似乎没有人读过代码，当你尝试时，它对大多数人来说就像一堆胡言乱语。 现在，就我自己对编程的了解，如果有人和我一样质疑同样的事情，您可能能够使用记事本查看代码，看看是否可以找到指向 github 页面或类似内容的链接，但这需要付出很多努力，我不知道是否有人真的在这样做，所以即使有所有这些信息，人们仍然将有机食品视为实际上比非有机食品更好，即使它可能并非如此。 欢迎任何意见或批评。    由   提交  /u/One-Material-9466   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hx06uz/opensource_software_isnt_always_safer/</guid>
-      <pubDate>Thu, 09 Jan 2025 00:48:23 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Jan 2025 03:36:33 GMT</lastBuildDate>
     <item>
       <title>Ubuntu Linux 的领军人物之一史蒂夫·兰加塞克去世</title>
       <link>https://www.reddit.com/r/opensource/comments/1hwxyxt/steve_langasek_one_of_ubuntu_linuxs_leading/</link>
@@ -29,7 +22,7 @@
     <item>
       <title>React 中有没有什么小游戏？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hwt1ol/any_short_games_in_react/</link>
-      <description><![CDATA[我希望在我的应用程序中添加简短/快速的游戏，以获得奖励，例如井字游戏、快速拼图、匹配、旋转轮、刮刮卡。 有没有支持此功能的库或开源代码？    提交人    /u/Diligent-Alps4642   [link] [评论]]]></description>
+      <description><![CDATA[我希望在我的应用程序中添加简短/快速的游戏，以获得奖励，例如井字游戏、快速拼图、匹配、旋转轮、刮刮卡。是否有任何库或开源代码支持此功能？    提交人    /u/Diligent-Alps4642   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hwt1ol/any_short_games_in_react/</guid>
       <pubDate>Wed, 08 Jan 2025 19:46:59 GMT</pubDate>
     </item>
@@ -85,7 +78,7 @@
     <item>
       <title>复活一个已经找到的丢失的开源项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hwmop4/revive_a_lost_open_source_project_that_has_been/</link>
-      <description><![CDATA[大家好，开源 Redditors！我有点道德上的困惑。 早在 2008 年，有人编写并发布了一个名为 southatlantic 的 Java 游戏引擎和库（托管在 southatlantic-games.com）。很久以前，我玩过这个库，这是一个非常有趣的学习体验，使用起来很愉快（至少主观上）。但就我个人而言，在过去的 10-15 年里，生活阻碍了我，现在我又开始做更多的开源工作。但遗憾的是，在互联网档案馆进行了一些简单的挖掘后，该网站显然在 2019 年或 2020 年初的某个时候下线了——连同作者的所有示例、文档和代码。 现在，我一直有点“囤积癖”。最近，我在我的一个 NAS 设备中翻找东西，然后，我使用某种抓取工具存档了整个网站，同时存储了所有的 .jar、代码、Javadocs、实用程序、源代码 - 我的意思是所有内容。您可以从 Internet Archive 获取其中的一些内容，但它并没有获取所有内容 - 我做到了。 显然，它是由其作者根据知识共享许可（署名-非商业-相同方式共享 2.0 通用（CC BY-NC-SA 2.0））发布的，该许可似乎允许修改和重新分发用于非商业目的，我想使所有这些可用并以新名称对其进行改进，使其恢复生机，添加新功能。许可证似乎允许这样做。 但我犹豫着是否将其放回去。为什么？因为该网站及其所有作品都已消失，可能是作者出于某种原因将其删除。我想联系作者，看他们是否同意将其重新发布，但我所知道的只是一个来源名称，到目前为止，我无法发现他们的任何踪迹。 因此，尽管原作者是在允许我这样做的许可证下发布的，但我无法核实该网站及其作品的删除是故意的还是随着时间的流逝而消失。 我的问题是：如果一个开源项目拥有宽松的许可证，但可能因为某些神秘原因被作者故意破坏，那么恢复该项目的活力可以吗？  （是的，无论如何我都可以这样做，而且感觉没有跨越真正的道德界限，但我仍然想检查一下自己，因为我对此仍然有一点疑虑） 非常感谢您的任何指导。    提交人    /u/trifleneurotic   [link] [评论]]]></description>
+      <description><![CDATA[大家好，开源 Redditors！我有点道德上的困惑。 早在 2008 年，有人编写并发布了一个名为 southatlantic 的 Java 游戏引擎和库（托管在 southatlantic-games.com）。很久以前，我玩过这个库，这是一个非常有趣的学习体验，使用起来很愉快（至少主观上）。但就我个人而言，在过去的 10-15 年里，生活阻碍了我，现在我又开始做更多的开源工作。但遗憾的是，在互联网档案馆进行了一些简单的挖掘后，该网站显然在 2019 年或 2020 年初的某个时候下线了——连同作者的所有示例、文档和代码。 现在，我一直有点“囤积癖”。最近，我在我的一个 NAS 设备中翻找东西，然后，我使用某种抓取工具存档了整个网站，同时存储了所有的 .jar、代码、Javadocs、实用程序、源代码 - 我的意思是所有内容。您可以从 Internet Archive 获取其中的一些内容，但它并没有获取所有内容 - 我做到了。 显然，它是由其作者根据知识共享许可（署名-非商业-相同方式共享 2.0 通用（CC BY-NC-SA 2.0））发布的，该许可似乎允许修改和重新分发用于非商业目的，我想使所有这些可用并以新名称对其进行改进，使其恢复生机，添加新功能。许可证似乎允许这样做。 但我犹豫着是否将其放回去。为什么？因为该网站及其所有作品都已消失，可能是作者出于某种原因将其删除。我想联系作者，看他们是否同意将其重新发布，但我所知道的只是一个来源名称，到目前为止，我无法发现他们的任何踪迹。 因此，尽管原作者是在允许我这样做的许可证下发布的，但我无法核实该网站及其作品的删除是故意的还是随着时间的流逝而消失。 我的问题是：如果一个开源项目拥有宽松的许可证，但可能因为某些神秘原因被作者故意破坏，那么恢复该项目的活力可以吗？  （是的，无论如何我都可以这样做，而且感觉没有跨越真正的道德界限，但我仍然想检查一下自己，因为我对此仍然有一点疑虑） 在此先谢谢大家的指导。    提交人    /u/trifleneurotic   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hwmop4/revive_a_lost_open_source_project_that_has_been/</guid>
       <pubDate>Wed, 08 Jan 2025 15:25:39 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[        提交人    /u/jeremy_feng   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hwei1i/opensource_timeseries_database_built_on_rust_for/</guid>
       <pubDate>Wed, 08 Jan 2025 07:35:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有以社区为中心的 Gotify 替代品？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hwcqtk/any_alternative_to_gotify_that_is_community/</link>
+      <description><![CDATA[我们正在寻找一个可自行托管的开源软件，可以轻松处理带有移动支持的推送通知。 我们发现了 Gotify 和 ntfy，它们非常棒，但是！问题是，我们的应用程序是一个项目任务跟进提醒器，用于提醒团队成员，它会向用户发送针对其任务的单独电子邮件提醒。 为了使用 Gotify 发送特定于用户的推送通知，我们需要为每个用户创建单独的应用程序，从该应用程序中获取令牌，并将其存储在我们的核心应用程序中。这会使简单的过程变得过于复杂。 有什么建议吗？    提交人    /u/abdulkarim1422   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hwcqtk/any_alternative_to_gotify_that_is_community/</guid>
+      <pubDate>Wed, 08 Jan 2025 05:46:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
