@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 09 Jan 2025 21:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 01:05:09 GMT</lastBuildDate>
     <item>
       <title>假数据</title>
       <link>https://www.producthunt.com/posts/fakedata</link>
@@ -104,20 +104,6 @@ WhatsApp 的 Calendly
       <pubDate>Tue, 07 Jan 2025 04:59:03 GMT</pubDate>
     </item>
     <item>
-      <title>固定的</title>
-      <link>https://www.producthunt.com/posts/fixa-3</link>
-      <description><![CDATA[
-语音代理的开源测试和可观察性
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/fixa-3</guid>
-      <pubDate>Mon, 06 Jan 2025 22:01:42 GMT</pubDate>
-    </item>
-    <item>
       <title>绵羊脚本.AI</title>
       <link>https://www.producthunt.com/posts/sheepscript-ai</link>
       <description><![CDATA[
@@ -174,20 +160,6 @@ AI 代理对美国股市进行 360° 分析
       <pubDate>Sun, 29 Dec 2024 20:28:03 GMT</pubDate>
     </item>
     <item>
-      <title>点副驾驶</title>
-      <link>https://www.producthunt.com/posts/dot-copilot</link>
-      <description><![CDATA[
-简化您的生活，而不会中断您的工作流程
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/dot-copilot</guid>
-      <pubDate>Fri, 27 Dec 2024 03:03:58 GMT</pubDate>
-    </item>
-    <item>
       <title>墨迹故事</title>
       <link>https://www.producthunt.com/posts/inkstory-5</link>
       <description><![CDATA[
@@ -214,6 +186,34 @@ AI Kindle 阅读伙伴
 ]]></description>
       <guid>https://www.producthunt.com/posts/2read-4</guid>
       <pubDate>Wed, 11 Dec 2024 14:09:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>鲸</title>
+      <link>https://www.producthunt.com/posts/whale-9</link>
+      <description><![CDATA[
+安全存款，人人可用。
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/whale-9</guid>
+      <pubDate>Tue, 10 Dec 2024 21:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>测试精灵 1.0</title>
+      <link>https://www.producthunt.com/posts/testsprite-1-0</link>
+      <description><![CDATA[
+第一个自动化整个软件测试过程的 AI 代理
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/testsprite-1-0</guid>
+      <pubDate>Fri, 25 Oct 2024 22:52:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
