@@ -4,20 +4,27 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 11 Jan 2025 21:12:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 01:09:29 GMT</lastBuildDate>
+    <item>
+      <title>六年前我编写了这个简单的“文本编辑器”，从那时起我几乎每天都在使用它</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hz7vb8/i_wrote_this_simple_text_editor_six_years_ago_and/</link>
+      <description><![CDATA[        由    /u/yojimbo_beta  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hz7vb8/i_wrote_this_simple_text_editor_six_years_ago_and/</guid>
+      <pubDate>Sat, 11 Jan 2025 22:36:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有集中代码检查功能的 Honey 替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hz7513/honey_alternative_with_centralized_code_checking/</link>
+      <description><![CDATA[我认为开源 honey 替代品需要采取不同的方法。控制浏览器检查优惠券代码的想法会带来太多的安全风险。我正在考虑一种更像标准优惠券聚合器网站但又不差的方法。它可以使用抓取工具来检查用户贡献的代码，因此如果您在网站上看到某些内容，则它比那些粗略的网站更有可能是有效的。这需要付出代价，但它可以随着网站而不是用户而扩展，因此是可管理的。与浏览器控制方法相比，您需要向人们提出更多要求，但如果经常重新检查代码，则要求应该不高。只有当人们为他们关心的所有网站贡献抓取工具时，它才会起作用。主要是集思广益，但这看起来像是人们会使用或贡献的东西吗？    提交人    /u/lmfork   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hz7513/honey_alternative_with_centralized_code_checking/</guid>
+      <pubDate>Sat, 11 Jan 2025 22:03:17 GMT</pubDate>
+    </item>
     <item>
       <title>无需登录文件共享平台</title>
       <link>https://www.reddit.com/r/opensource/comments/1hz4qn1/no_login_file_sharing_platform/</link>
       <description><![CDATA[大家好，我是 Zade，我一直在研究这个名为 Vouz 的开源文件共享项目。Vouz 是一个简单且无忧的文件共享应用程序，无需登录。 您所要做的就是创建一个具有唯一名称和密钥的储物柜。将您想要共享的文件加载到储物柜中。与您想要的任何人共享凭据，他们就可以轻松地下载储物柜中的文件。完成所有操作后，您可以从服务器中删除和移除所有数据。 测试我们的应用程序，让我知道您是否喜欢它。 由于 Vouz 是开源的，我很乐意听到您的贡献和改进建议。 VOUZ    提交人    /u/scoop_creator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hz4qn1/no_login_file_sharing_platform/</guid>
       <pubDate>Sat, 11 Jan 2025 20:15:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何知道何时检查源代码？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hz3f9j/how_do_you_know_when_to_check_the_source_code/</link>
-      <description><![CDATA[这是我一段时间以来一直在思考的问题。在使用项目之前，您如何知道是否应该检查其源代码中是否存在木马？例如，您是否使用了特定的启发式方法？ 我从 Linux 开始就一直在使用开源代码。早在 90 年代，我就会查看代码。但是，随着时间的推移，我逐渐形成了“有星号，就一定是安全的”的心态。例如，我认为有足够多的安全研究人员在查看任何具有中等活动的项目的源代码，因此我不必担心。 但是，不久前，我正在尝试另一个工具的插件。我去了他们的网站，它看起来很棒，他们有一个 github 帐户。因此，我查看了 github，它看起来有一个社区，而且很活跃。因此，我从 github 版本中下载了它并使用它。  它有一个很酷的功能，所以我决定查看源代码。我浏览源代码，然后找到我正在寻找的功能部分，它实际上位于存储库中没有的另一个库中。因此，我查看了构建说明，发现该库是从远程站点下载的。  这时我开始担心。然后我检查本地文件并在那里看到库。我对其进行反编译并检查源代码，似乎没有什么异常，所以我想没问题。我阅读了源代码以了解其工作原理，然后删除插件并继续。 但是，事后，它让我很烦，因为他们将来不能将该库换成另一个库或限制对它的访问吗？ 我觉得我应该打开 PR。但是，我总是不愿意，尤其是当我对项目一无所知的时候。而且，我还假设他们了解自己在做什么，所以可能有原因。    提交人    /u/Practical_Farmer_554   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hz3f9j/how_do_you_know_when_to_check_the_source_code/</guid>
-      <pubDate>Sat, 11 Jan 2025 19:17:10 GMT</pubDate>
     </item>
     <item>
       <title>创立基金会能拯救一个项目吗？</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好！ Rhyolite 是一款简单直观的文本编辑器，用于做笔记，灵感来自 Obsidian！这是一款基于 Tauri 的应用程序，后端使用 Rust，前端使用 Svelte。Rhyolite 旨在成为实用的文本编辑器，专注于提供高效、无干扰的笔记记录体验。 项目状态 该项目仍在开发中，仅积极开展了 4 周。尽管还处于早期阶段，Rhyolite 已经支持：  自动保存：确保您的笔记永不丢失。 标签：用于无缝多任务处理。 Markdown 支持。 图像插入：轻松将视觉元素添加到您的笔记中。 截至目前，该项目正在进行大规模更新！  我们需要设计师，可以帮助设计 UI 和设计按钮等元素。 Github Repo：https://github.com/RedddFoxxyy/Rhyolite    提交人    /u/Lopsided-Tough-9580   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hy9o0g/rhyolite_open_source_alternative_to_obsidian/</guid>
       <pubDate>Fri, 10 Jan 2025 17:25:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望获得一些实际项目经验。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hy9m9r/looking_to_get_some_experience_with_real_projects/</link>
-      <description><![CDATA[我希望获得一些真正的、相当大的项目经验。我在 Python 方面经验最丰富，其次是 C#，然后是 C++。如果有人能推荐一些我可以参与的项目，那就太好了 :)    提交人    /u/FlocklandTheSheep   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hy9m9r/looking_to_get_some_experience_with_real_projects/</guid>
-      <pubDate>Fri, 10 Jan 2025 17:23:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
