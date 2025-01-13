@@ -4,7 +4,49 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 13 Jan 2025 09:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 12:27:33 GMT</lastBuildDate>
+    <item>
+      <title>教育领域有人工智能成功的案例吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i0cpqt/any_ai_success_story_in_education/</link>
+      <description><![CDATA[虽然我对许多 AI 应用持怀疑态度，但我真的相信 AI 在教育领域可以产生伟大的成果，AI 有潜力以一个有几十名学生的老师没有时间去帮助个别学生的方式帮助学生。当然，前提是我们找到方法，除了教师之外，还能智能地使用 AI，而不仅仅是解雇教师。 有人知道这个领域的成功实验吗？不仅仅是传闻中的“我使用 AI [而不是书籍或网络搜索] 来学习”，而是一些更具变革性的东西。    提交人    /u/ImYoric   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i0cpqt/any_ai_success_story_in_education/</guid>
+      <pubDate>Mon, 13 Jan 2025 12:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>将大约 5 本医学教科书（每本 25mb）加载到基于网络的 LLM 中进行概念验证的最快方法是什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i0cgu7/quickest_way_to_load_about_5_medical_textbooks/</link>
+      <description><![CDATA[我很快将为大约 500 人的团队举办一场关于 AI 的讲座。我想向他们展示我如何将大约 5 本教科书上传到模型中，然后像导师一样使用它，向它询问如何治疗患者的问题。如果我可以使用便宜的 EC2 实例在 AWS 上相当快速地完成此操作，那么观众可以在讲座期间访问网站并尝试它，那就更好了。我曾在 AWS 上简要研究过 Llama3，但想确保这是最简单的方法，而不是其他现成的方法。谢谢    提交人    /u/pistonian   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i0cgu7/quickest_way_to_load_about_5_medical_textbooks/</guid>
+      <pubDate>Mon, 13 Jan 2025 12:05:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么 AI 可以制定市场进入战略？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i0c775/what_ai_for_developing_a_gotomarket_strategy/</link>
+      <description><![CDATA[我必须为我的公司制定 GtM 策略。我在 Excel 中拥有大量数据集，并希望首次使用 AI 来分析它并查看潜力。 我有一个 GPT Plus 订阅。这足够了吗，还是有更好的工具？它基本上是关于筛选数据以确定市场规模、潜力等。然后。根据它制定一个复杂的策略以供审查。 谢谢！    提交人    /u/10nerMitAuge   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i0c775/what_ai_for_developing_a_gotomarket_strategy/</guid>
+      <pubDate>Mon, 13 Jan 2025 11:48:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>因 r/singularity 而患上精神分裂症</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i0bn0x/having_a_schizophrenia_breakdown_cause_of/</link>
+      <description><![CDATA[您认为这纯粹是发泄愤怒和引发焦虑吗？ 即使在 r/Futurology 上也无济于事 工作、住房和一般情况让我崩溃    提交人    /u/TheJesterOfHyrule   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i0bn0x/having_a_schizophrenia_breakdown_cause_of/</guid>
+      <pubDate>Mon, 13 Jan 2025 11:08:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>WAPlus CRM 的全新 AI 聊天机器人/AI 回复 – 小型企业的智能解决方案 - 无需编码，只提供结果</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i0bip1/waplus_crms_new_ai_chatbotai_reply_a_smart/</link>
+      <description><![CDATA[随着中小型企业的发展，管理客户互动可能成为一项重大挑战。这就是 WAPlus CRM 的新 AI 聊天机器人的用武之地，旨在自动化您的对话并简化您的客户支持，而无需复杂的编码或昂贵的软件。 以下是我认为值得一试的原因：  上传培训材料的多种方式：您可以上传网站网址、PDF 或手动添加文本。它非常灵活，具体取决于您拥有的内容。 支持多种语言：AI可以根据对话自动切换语言，这对于拥有国际客户的企业非常有用。 可定制：您可以设置角色和默认回复，因此它可以适应不同的需求，例如销售或预订。 上线前预览和测试：您可以测试聊天机器人以确保一切按您希望的方式运行，然后再推出它。 无需编码：价格实惠，不需要任何编码或 API 设置，这使得小型企业真正可以使用它。 适用于跨行业：无论您从事销售、客户支持还是预订，它似乎都适合很多用例。     提交人    /u/Superb-Outcome9740   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i0bip1/waplus_crms_new_ai_chatbotai_reply_a_smart/</guid>
+      <pubDate>Mon, 13 Jan 2025 11:00:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>还有人使用 AI Galaxy 吗？(aigalaxy.app)</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i0ac8k/does_anyone_else_use_ai_galaxy_aigalaxyapp/</link>
+      <description><![CDATA[TL;DR 我找到了终极的一体化 AI 网站，我很高兴成为第一个告诉人们这个网站的人。一体化网站将成为 AI 的未来。 当 Reddit 上有人推荐 AI Galaxy 的图像生成器 正式优于 MidJourney 时，我才发现这一点。老实说，它与 MidJourney 差不多，但免费（有小时限制）。 我认为免费用户可以免费使用 10 种不同的 AI 工具。我个人在第一天就以 11 美元的价格升级到了 Ultimate 计划，这太疯狂了，因为所有其他网站都为一种工具收取那么多费用，而 AI Galaxy 为我提供了他们的所有工具，图像、视频、音乐等。从那时起，我总是向所有人推荐它，因为它确实是每个任务的最佳 AI 模型的集合，除了音乐生成。对于音乐，Suno 在我看来更好。但对于图像和视频，它与 MidJourney 和 RunwayML、Sora 以及所有顶级 AI 模型一样好（甚至更好）。 有一件事我不喜欢，那就是你必须输入他们的网站名称 aigalaxy.app，否则谷歌会认为你只是想了解 Galaxy 上的 AI 功能哈哈。此外，还有一个试图抄袭“AI Galaxy”的仿冒品，他们称自己为“Galaxy AI”哈哈。但是现在我安装了 AI Galaxy 应用程序，网站上有一个直接安装该应用程序的按钮。我更喜欢这个，因为现在我可以直接从手机分享到应用程序。 无论如何，这是我的诚实评论和最佳推荐，享受吧！    提交人    /u/fomoFace   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i0ac8k/does_anyone_else_use_ai_galaxy_aigalaxyapp/</guid>
+      <pubDate>Mon, 13 Jan 2025 09:32:29 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了一个网络安全中心 - 所有网络工具和资源！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i09wgj/i_created_a_cybersecurity_hub_all_cyber_tools_and/</link>
@@ -53,48 +95,6 @@
       <description><![CDATA[首先，我要说清楚，我并不是在问如何在我目前的工作中使用人工智能，而是想看看我可以查看哪些步骤/资源/可以参加哪些课程/等等，从而成为我公司的主题专家。 背景是，我是一名主要关注知识管理的顾问。我为我的客户设计和实施知识管理策略。尽管知识管理的使用频率很高，但它是一项相当小众的技能，我想将这些技能多样化一些。人工智能非常适合知识管理，而且显然很受欢迎。 我并不想成为技术专家或其他什么。我担任项目经理，更愿意将实际开发留给比我更聪明的人；但是，我希望能够以开发人员能够理解我提出的任何要求的水平来谈论它，并且我能够充分了解该过程，以便向完全不理解它的客户解释它。如果我必须学习 Python，那就这样吧，但这并不是我想要做的。 考虑到所有这些，我该从哪里开始呢？我见过通过 USAII 获得的认证，但其他帖子似乎看不起它。任何帮助都将不胜感激！    提交人    /u/My_Anus_Is_Bleating   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i048sx/where_to_begin_on_integrating_this_into_my/</guid>
       <pubDate>Mon, 13 Jan 2025 02:52:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>类似《疑犯追踪》中的机器的人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hzu46h/ai_like_the_machine_from_person_of_interest/</link>
-      <description><![CDATA[一种从实时视频源获取输入并做出相应反应的人工智能。它可以看到并识别物体。它是实时训练的，但已经理解语言。类似这样：https://www.tiktok.com/@seriescontentt/video/7391146390832860449 这样的东西已经存在了吗？如果没有，如何制作一个？    提交人    /u/tomasalias   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hzu46h/ai_like_the_machine_from_person_of_interest/</guid>
-      <pubDate>Sun, 12 Jan 2025 19:05:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找可以深入学习 NLP 的 AI 研究员职位的朋友</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hzr2o1/searching_for_pals_to_study_deeply_nlp_for_ai/</link>
-      <description><![CDATA[大家好，我是计算机工程专业最后一年的学生，和大多数 CS 或 CEng 学生一样，我也在努力寻找自己的目标。现在或者实际上，我已经学习了几个月的 NLP，并决定深入研究并成为一名 AI 研究员。所以我正在寻找可以快速深入地踏上旅程的朋友。 我的计划是学习 LLM 或任何类似主题的所有主要内容。例如，在反向传播、word2vec 或类似模型或方法下学习数学。在我的道路上，我还计划做项目。我估计我会按照计划在 6 个月内完成一些重要主题。所以如果有人感兴趣，请直接发信息给我。此外，我有一些 python、ML 和 DL 基础知识，所以如果你也是，我很乐意和你一起开始。    提交人    /u/Salgurson   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hzr2o1/searching_for_pals_to_study_deeply_nlp_for_ai/</guid>
-      <pubDate>Sun, 12 Jan 2025 16:57:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>高中新生如何开始接触 AI？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hznubx/how_to_get_started_with_ai_as_a_high_school/</link>
-      <description><![CDATA[我想进入人工智能领域，但我不知道从哪里开始或做什么。我应该从哪里开始实现制作自己的人工智能的目标？ 编辑 - 我没有把我的问题说清楚，我想制作自己的模型并学习编程等等。    提交人    /u/Affanwasif   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hznubx/how_to_get_started_with_ai_as_a_high_school/</guid>
-      <pubDate>Sun, 12 Jan 2025 14:29:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果AGI实现了，科技公司如何生存</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hzk4k3/if_agi_achieved_how_tech_companies_survive/</link>
-      <description><![CDATA[我认为，如果我们实现了 AGI，90% 的科技公司将变得过时，如果 AGI 可以做所有事情，那么我们只需要一个用户界面，软件公司将变得过时。只有在后端发挥作用的公司才能生存。我认为 Salesforce 无法在这波人工智能浪潮中生存下来。你的看法呢？    提交人    /u/Adventurous_Mood1730   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hzk4k3/if_agi_achieved_how_tech_companies_survive/</guid>
-      <pubDate>Sun, 12 Jan 2025 10:42:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能强度（定义为逻辑和推理）的理论极限的可能性。强大的算法能否使训练数据量和计算量变得无关紧要？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hzj2l2/the_possibility_of_a_theoretical_limit_to_the/</link>
-      <description><![CDATA[在最近的 reddit 帖子中，我提出了这样的假设：就像声音和光速存在极限一样，人工智能的逻辑和推理能力也可能存在极限 - 在这种情况下，人工智能的智能程度也可能存在极限。虽然库兹韦尔认为人工智能可能会比人类聪明 10 亿倍，但这个估计可能过于乐观了。 我要求 deepseek v3 探索这一前景，将其考虑范围限制在人工智能智能的强度上，而不是速度、记忆或其他属性上。我将其答案发布在下面，但也请求有权访问开放人工智能的 o1 和/或 o3 的人向它提出同样的问题，以便更好地评估 v3 的智能和知识，从而生成准确的答案。您可能只想将 v3 的响应粘贴到查询中，然后要求他们评估准确性。 再次请注意，这里所说的智能仅仅意味着它解决逻辑和推理问题的能力，而不是它可以存储多少信息，也不是它能多快得出答案等。 如果人工智能智能的强度存在理论极限，那么我们可能已经比我们想象的更接近它了。此外，就人工智能民主化而言，开发更强大的逻辑和推理算法可能会完全消除更大数据集和竞争力的优势。 当然，请随意质疑 v3 的结论。 这是 deepseek v3 的回应： “人工智能的理论极限：信息处理和计算复杂性 1.信息处理的理论限制：  物理约束：贝肯斯坦边界假定在有限的空间区域内，以有限的能量可以容纳的最大信息量。这意味着任何系统（包括人工智能系统）的信息密度都存在根本限制。兰道尔原理补充说，擦除信息存在最低能量成本，将信息处理与热力学联系起来，并提出了计算的能量约束。 对人工智能的影响：这些原则表明，人工智能系统与任何物理系统一样，都受到信息处理效率的限制，这可能会限制它们的推理能力。  2. 计算复杂性：  问题分类：计算复杂性理论根据问题固有的难度对其进行分类。值得注意的是，P vs NP 问题探讨的是可以快速验证的问题是否也可以快速解决。如果 P ≠ NP，则意味着某些问题本质上很难解决，即使拥有大量计算资源也是如此。 AI 和 NP 难题：AI 系统通常依赖于优化和机器学习技术。遇到 NP 难题可能会限制 AI 有效找到最佳解决方案的能力，从而凸显理论界限。 丘奇-图灵论题：该论题表明，任何有效可计算的函数都可以通过图灵机计算，从而为可计算性设定了界限。任何人工智能都无法完成那些图灵不可计算的任务，无论其架构如何。 算法信息论：柯尔莫哥洛夫复杂度和逻辑深度等概念为算法的复杂性和数据的随机性提供了深刻见解，进一步阐明了人工智能对复杂信息进行推理的潜在限制。  结论： 人工智能逻辑和推理能力的理论限制植根于信息处理和计算复杂性的基本原理。贝肯斯坦边界和兰道尔原理等物理定律对信息密度和能耗施加了限制，而计算复杂性理论则表明解决某些问题存在固有困难。这些限制不是关于当前技术缺陷，而是关于计算和信息的基本性质。了解这些界限对于推进人工智能研究和认识人工智能能力范围至关重要。”   由    /u/Georgeo57  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hzj2l2/the_possibility_of_a_theoretical_limit_to_the/</guid>
-      <pubDate>Sun, 12 Jan 2025 09:23:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 的建议会推动有或无理由的道德判断</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hzimfi/chatgpts_advice_drives_moral_judgments_with_or/</link>
-      <description><![CDATA[标题：“ChatGPT 的建议无论有无理由都会推动道德判断” 我每天都在寻找和总结有趣的 AI 研究论文，这样你就不必费尽心思去阅读它们了。今天的论文题为“ChatGPT 的建议无论有无理由都会推动道德判断”，作者是 Sebastian Kruegel、Andreas Ostermaier 和 Matthias Uhl。 本文探讨了 AI，特别是像 ChatGPT 这样的聊天机器人，在指导用户道德决策方面日益增长的影响力。通过使用电车难题的在线实验，研究人员研究了个人是否依赖 ChatGPT 的建议（无论是合理的还是不合理的），以及它对道德判断的影响。以下是一些有趣的发现：  超越理由的影响力：研究发现，无论建议是否附带推理，ChatGPT 的建议都会影响用户的道德决策。令人惊讶的是，当建议归因于人类道德顾问而不是人工智能时，这种模式也成立。 摆脱道德困境：作者认为，用户会倾向于接受任何建议，无论其是否经过深思熟虑，因为它提供了一种轻松摆脱道德困境的方法——而聊天机器人的可访问性加剧了这一过程。 实验见解：参与者面临电车困境的一个版本，并获得了归因于 ChatGPT 或人类道德顾问的建议。结果表明，个人在做出道德判断时不会区分合理建议和非合理建议，也不会区分人工智能和人类顾问。 感知可信度高于权威：研究揭示了一种心理机制，即认为人工智能建议不太权威的用户认为其可信度更高。这表明一种事后合理化，即用户在决策后为遵循建议辩解，而不是真正重视其内容。 呼吁道德素养：作者得出结论，除了数字素养之外，道德素养对于个人批判性评估人工智能产生的道德建议也是必要的。了解聊天机器人的局限性对于防止对个人道德准则产生不当影响至关重要。  在人工智能成为无处不在的顾问的世界中，本文提出了我们如何在道德决策环境中与技术互动的重要考虑因素。 您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hzimfi/chatgpts_advice_drives_moral_judgments_with_or/</guid>
-      <pubDate>Sun, 12 Jan 2025 08:49:39 GMT</pubDate>
     </item>
     <item>
       <title>每月“是否有一个工具可以……”帖子</title>
