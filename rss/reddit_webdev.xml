@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 14 Jan 2025 09:14:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 12:25:52 GMT</lastBuildDate>
+    <item>
+      <title>简单音乐数据库网站教程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i14hkj/simple_music_database_website_tutorial/</link>
+      <description><![CDATA[大家好， 在搜索了这个 Reddit 子版块和在线内容后，我找不到创建音乐数据库网站的基本教程。我正在尝试学习，并认为构建类似的东西可能会有所帮助。有人知道教程吗？我不确定用什么来构建它，所以任何帮助都值得感激。    提交人    /u/murodot   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i14hkj/simple_music_database_website_tutorial/</guid>
+      <pubDate>Tue, 14 Jan 2025 12:00:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>ORM 到 Crud Web 工具工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i14gri/orm_to_crud_web_tool_tool/</link>
+      <description><![CDATA[Tl;dr; 是否有一个工具可以给我一个 ORM 工件，它可以创建一个与数据库交互的 CRUD Web 界面。 我目前正在为我工​​作的机构开发一个新的模板仓库，目前正试图摆脱以前的模板，该模板的后端是基于 Strapi 4 构建的。 这个仓库很大程度上是我自己的东西，我希望说服人们它会更具功能性并可能节省成本。 现在我正在使用 NestJS 作为后端，并弄清楚要使用哪个 ORM（我知道 nest 推荐什么，但仍试图四处看看，而不仅仅是被我有限的经验所引导，这些经验主要是 prisma）。有了这个，我预见到的一个大挑战是 PM/销售人员如何喜欢 Strapi，因为他们可以在以相当简单（尽管丑陋）的方式构建任何 UI 之前将数据粘贴到其中。他们显然不关心代码或 Strapi 造成的痛苦，因为只要“它有效”就没问题。 所以我试图找到一个工具、平台，最好是自托管的，我可以提供一个 ORM 工件（不关心它是一个 prisma 文件、带装饰器的 .ts、.proto 还是其他什么），它可以自动生成一个有点“理智”的Crud Web 门户允许数据管理。 我完全清楚： - 这不是一个简单的问题，而且要求很高 - Strapi 的 json 内容类型有点 ORM 风格 - 我可以使用 nest 超快速构建 Crud API - 任何工具，无论 ORM 是什么，都无法推断实际代码可能强制执行的自定义验证逻辑 - 我可以使用低代码工具（如 base row、app smith、nocodb 等）相当快速地构建 UI，这是他们的一般领域 - 我可以用 dbeaver 或 robo3t（或任何已重命名的名称）讲课 感谢您的所有帮助。  注意：在有人问起之前，我尝试了 Strapi 5，并没有解决我使用 4 的痛点，虽然作为 CRM 还可以，但我个人并不喜欢将它用作任何事情的基础，如果我有精神能力和勇气把自己放在那里，我可能会在某一天写下我对它的不满清单    提交人    /u/Drakeskywing   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i14gri/orm_to_crud_web_tool_tool/</guid>
+      <pubDate>Tue, 14 Jan 2025 11:58:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>对如何增强感到困惑</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i13zov/confused_by_how_enhance_works/</link>
+      <description><![CDATA[我将其安装到我的 vps 上，我尝试过的每个其他控制面板都使用端口，因此我通过该端口访问 cp，这个似乎使用了我的文字域名 website.com 这是否意味着该域名纯粹用于控制面板，而我需要使用其他域名来访问网站，我在这里的理解相当模糊，而且我一直以来的做法是将控制面板放在 website.com:2083 上，因此我仍然可以在 website.com 上拥有一个网站  我在安装过程中做错了什么吗？我需要做些更改吗？     提交人    /u/Trillroop   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i13zov/confused_by_how_enhance_works/</guid>
+      <pubDate>Tue, 14 Jan 2025 11:26:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>为客户设置登录页面的最佳方式，包括电子邮件和内容编辑工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i13v3o/best_way_to_setup_a_landing_page_for_a_client/</link>
+      <description><![CDATA[大家好， 我可能通过一个我认识的人获得了第一份简单的登陆页面合同。问题是，除了 wordpress 之外，我从未使用过 CMS 的其他任何内容，我有点讨厌它，如果可能的话，我想避免使用它。客户已经准备好了设计，我怀疑任何预制的 WP 主题是否足以满足它的需求，所以我必须使用自定义编码的主题，这在 WP 中很麻烦，至少在我的经验中是这样。 我知道 WP 可能是快速设置和许多可用托管选项的最佳选择。 你们知道还有其他选择吗，开发人员第一，内容管理第二？客户唯一要管理的基本上是文本内容；布局、颜色等。由我来负责。 提前谢谢大家   由    /u/Cyber​​Weirdo420  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i13v3o/best_way_to_setup_a_landing_page_for_a_client/</guid>
+      <pubDate>Tue, 14 Jan 2025 11:17:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>宣传和销售域名的最佳方式是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i13soo/whats_the_best_way_to_advertise_and_sell_domain/</link>
+      <description><![CDATA[我有几个旧项目中不再需要的域名。GoDaddy 的在线工具估计其中两个域名价值 1000 美元以上，但如果它们真的能达到这个价格，我会非常惊讶。我有 .com 和 .co.uk 域名要出售，但只有 .com 域名可能价值更高。 宣传和销售它们的最佳方式是什么？有人能提供一些关于这个过程如何运作的提示，或者分享他们的经验吗？提前谢谢。    提交人    /u/sean-uk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i13soo/whats_the_best_way_to_advertise_and_sell_domain/</guid>
+      <pubDate>Tue, 14 Jan 2025 11:12:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>您将如何构建您的登陆页面？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i13hrw/how_would_you_build_your_landing_page/</link>
+      <description><![CDATA[当您在处理一个更大的项目时，您将如何构建登录页面，其中网站将由登录页面和其背后的门户组成？它适用于希望在某种市场中为自己的客户共享信息和管理一些项目的公司。门户当然是自定义编码的，可通过登录页面上的登录按钮访问。登录页面将只是一些关于公司和门户的基本信息。您会在这里使用任何登录页面构建器吗？如果是，哪一个？我听说过 Astro、Framer 等。     提交人    /u/lotfii03   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i13hrw/how_would_you_build_your_landing_page/</guid>
+      <pubDate>Tue, 14 Jan 2025 10:51:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于我的网站的评论</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i12nd1/reviews_about_my_website/</link>
+      <description><![CDATA[几个月前我创建了一个网站，但并没有获得任何流量。我以为有趣的测试会引起人们的注意，但事实并非如此。我甚至为这个网站编写了一个安卓应用程序，但也没有流量。你能看看并评论我应该在网站上添加或修复什么吗？ 网站是： https://www.testarot.com/    提交人    /u/ozanbilgic   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i12nd1/reviews_about_my_website/</guid>
+      <pubDate>Tue, 14 Jan 2025 09:50:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该将前端切换到后端吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i12j8v/should_i_switch_frontend_to_backend/</link>
+      <description><![CDATA[您好， 我目前在一家初创公司担任兼职全栈开发人员，使用 React、Next.js 和 Node.js。我还有 4-5 个月就要毕业了，我的公司为我提供了转用 Java Spring Boot 的机会（目前后端有空缺）。我还没有使用过 Java Spring。但是，我对 React、Next.js、Node.js 和 React Native 相当了解。转用 Java Spring 可以为我提供宝贵的成长机会。您建议我做什么？    提交人    /u/inducator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i12j8v/should_i_switch_frontend_to_backend/</guid>
+      <pubDate>Tue, 14 Jan 2025 09:42:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作音乐家作品集网站的最佳选择是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i12e1a/what_would_be_the_best_options_to_make_a/</link>
+      <description><![CDATA[嗨，我正在帮我的音乐家朋友为自己做一个网站。他们主要想展示多年来所做的工作，从他们自己的音乐到他们配乐的电影，他们演奏过的其他人的作品等等。本质上，只是一个可以托管所有这些内容的地方，没有商店或表格或任何东西。 我还想自由地让它看起来有点独立/另类，并进行一些自定义，比如使用 GIF 作为按钮并能够插入艺术/元素/有趣的东西。我想知道我应该走哪条路来做到这一点。他们想要一个自定义域名。 我以前也没有真正做过网络开发。我对 WordPress 和 HTML/CSS 有点熟悉，曾经在 Tumblr 和 WordPress 上玩过模板，所以我在这方面的知识就这么多了。以下是我想到的一些选项：  WordPress — 个人计划，用于建立网站 + 获取域名。 Webflow — 基本计划，用于建立网站 + 获取域名。  除此之外，还有 Framer 和 Wix。我不确定是否应该走这条路并从 Cloudflare 获取域名？还有其他网站可以使用吗？还有 Cargo 网站，它更符合我想象中的美学境界，但我记得尝试过一次，感觉有点烦人。 谢谢！    提交人    /u/starzined   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i12e1a/what_would_be_the_best_options_to_make_a/</guid>
+      <pubDate>Tue, 14 Jan 2025 09:30:46 GMT</pubDate>
+    </item>
     <item>
       <title>您会推荐哪些技术用于创意商业网站？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i11gat/what_technologies_would_you_recommend_for_a/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[我知道 Bluehost 的质量较差，但是......我最近问他们为什么我不能通过 SFTP 连接，他们说了一些关于专用服务器之类的话，就像......只允许在特定情况下使用。 所以......这只是一个主要的不安全因素还是......使用 FTP 迁移你的网站文件真的可以吗？ 这只是 Wordpress 网站，但我很惊讶。    提交人    /u/inquisitive_melon   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i0zgps/so_apparently_bluehost_doesnt_allow_sftp_and_i/</guid>
       <pubDate>Tue, 14 Jan 2025 05:56:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>厌倦了手动从 JSON 创建类型？我构建了一个工具来自动化它！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i0zgby/tired_of_manually_creating_types_from_json_i/</link>
-      <description><![CDATA[大家好，我最近一直在与外部 API 作斗争，不断为不同的数据集创建接口和类型让我抓狂！这真的很耗时。所以，我构建了一个小工具来帮助自动化这个过程。它根据我使用的语言将 JSON 转换为接口或类型。这对我来说是救星。我想分享一下，以防你们中有人面临同样的困境。这是实时网站的链接：https://jsonx.tanelt.com/ 请告诉我你的想法！  * 主要特点：* * 支持多种编程语言 * 界面简单易用 * 节省大量时间 Repo    提交人    /u/originalfaskforce   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i0zgby/tired_of_manually_creating_types_from_json_i/</guid>
-      <pubDate>Tue, 14 Jan 2025 05:56:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试将我的 .by（白俄罗斯）域名（重新）连接到我的 squarespace 网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i0zbjn/trying_to_re_connect_my_by_belarussian_domain_to/</link>
-      <description><![CDATA[      我的域名已过期，由于语言障碍，我只是等待它到期并在可用时再次购买。 我确定我上次我自己解决了这个问题，但这次在 domain.by 网站上找不到进行 dns 条目的方法。  我想我应该点击这 5 个链接中的添加 DNS 服务器？（第一张图片）当我这样做时，我得到了第二张图片，但它看起来不太熟悉。 第三张图片是我的 squarespace 页面 提前抱歉！我想我只需要提醒一下:)    提交人    /u/longunderscorestory   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i0zbjn/trying_to_re_connect_my_by_belarussian_domain_to/</guid>
-      <pubDate>Tue, 14 Jan 2025 05:47:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试将我的 .by（白俄罗斯）域名（重新）连接到我的 squarespace 网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i0zaxl/trying_to_re_connect_my_by_belarussian_domain_to/</link>
-      <description><![CDATA[      我的域名已过期，由于语言障碍，我只是等待它到期并在可用时再次购买。 我确定我上次我自己解决了这个问题，但是在 domain.by 网站上找不到进行 DNS 条目的方法  我想我应该点击这 5 个链接中的添加 DNS 服务器？当我这样做时，我得到了第二张图片，但它看起来不太熟悉。 第三张图片是我的 squarespace 页面 提前抱歉！我想我只需要提醒一下:)    提交人    /u/longunderscorestory   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i0zaxl/trying_to_re_connect_my_by_belarussian_domain_to/</guid>
-      <pubDate>Tue, 14 Jan 2025 05:46:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要自动截屏，而要自动执行 iframe</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i0yvqa/dont_automate_screenshots_automate_iframes/</link>
-      <description><![CDATA[  由    /u/kankyo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i0yvqa/dont_automate_screenshots_automate_iframes/</guid>
-      <pubDate>Tue, 14 Jan 2025 05:18:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我希望我先看看这个 subreddit</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i0ymno/i_wish_id_looked_into_this_subreddit_first/</link>
-      <description><![CDATA[我今天从 GoDaddy 购买了一个域名（1 年计划），但这个 subreddit 上的每个人都称这个网站为骗局...我该怎么办，我可以退款吗？如果我获得退款，我担心 GoDaddy 会购买我的域名。我可以在获得退款后从其他网站购买相同的域名吗？还是不应该要求退款？    提交人    /u/Intrepid_Ad_5138   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i0ymno/i_wish_id_looked_into_this_subreddit_first/</guid>
-      <pubDate>Tue, 14 Jan 2025 05:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>您通常为小型企业提供多长时间的支持/托管？您有计划吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i0yk30/how_long_do_you_typically_supporthost_for_small/</link>
-      <description><![CDATA[我只是对包括托管网站在内的人们感到好奇，你们的合同期限一般是多长？你们是否规定，如果你们因任何原因停业，你们将为他们提供服务，直到他们的合同结束，并帮助他们将网站转移到他们选择的新托管服务提供商。 我只想要一个出路，如果我碰巧转行，不会让客户或我自己陷入困境。客户（小型企业）通常是否希望通过他们的初始费用保持他们的网站在线，还是他们希望在此基础上每月支付费用？他们期望多长时间？只是根据您的经验寻找大概的数字和估计。 这将适用于使用 directadmin/enhance 或类似工具的基于 wordpress 的网站，这些工具能够轻松迁移网站。我要找的客户无法访问该面板，也不想访问它，他们自己进行的任何编辑（如果有的话）都将通过网站编辑器本身进行。    提交人    /u/Trillroop   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i0yk30/how_long_do_you_typically_supporthost_for_small/</guid>
-      <pubDate>Tue, 14 Jan 2025 04:59:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>大写字母如何破坏 vercel 上的部署？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i0y5qx/how_does_a_capital_letter_break_a_deployment_on/</link>
-      <description><![CDATA[我第一次部署到 vercel 时，大约一个小时都不知道该怎么处理。 经过大量的搜索和挫折，我将所有图像都改为更简单的名字，因为我一直收到图像错误。 Rollup 无法解析 import &quot;/images/simple-setup.jpg 文件名是 Simple-Setup.jpg，但我在 html 中使用了小写字母 s。它在我的本地主机开发服务器上运行正常，但在部署时崩溃了。 经过这些年来 Web 开发方面取得的所有进步，如果在 html 中使用小写字母，为什么文件名的大写会破坏部署？ 编辑：谢谢，Linux。    提交人    /u/TrustIsAWeakness   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i0y5qx/how_does_a_capital_letter_break_a_deployment_on/</guid>
-      <pubDate>Tue, 14 Jan 2025 04:36:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年你们使用什么模型工具！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i0xa4p/what_mock_up_tool_do_you_guys_use_in_2025/</link>
-      <description><![CDATA[Figma 可能是最受欢迎的。    提交人    /u/ballbeamboy2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i0xa4p/what_mock_up_tool_do_you_guys_use_in_2025/</guid>
-      <pubDate>Tue, 14 Jan 2025 03:48:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何通过 GST API 实施 GST（无明确文档可用）印度</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i0x46l/how_to_implement_gst_valid_thorugh_gst_api_no/</link>
-      <description><![CDATA[问题是我想在 node js backedn 中实现 gst 验证系统，所以我想要来自 gov 的 api 来检查该号码是否有效 但是我找不到关于如何实现它的解释?? 有人可以帮助我吗？    提交人    /u/TechArtist7   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i0x46l/how_to_implement_gst_valid_thorugh_gst_api_no/</guid>
-      <pubDate>Tue, 14 Jan 2025 03:39:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
