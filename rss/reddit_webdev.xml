@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 18 Jan 2025 12:22:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 18:16:35 GMT</lastBuildDate>
     <item>
-      <title>UiBun - 拖放式顺风构建器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i462xi/uibun_drag_drop_tailwind_builder/</link>
-      <description><![CDATA[      大家好，我为制造商和工程师构建了一个拖放式 tailwindcss 网站构建器。 在 UiBun 中您可以：  拖放预制的 BunUI 模板块 导入您自己的 HTML/tailwind 代码块（包括 TailwindUI 和其他 UI 工具包） 导出可用于生产的 HTML 代码（下载 zip）  链接：https://www.uibun.dev 希望你们都喜欢它 和平✌️    提交人    /u/Mesthabro   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i462xi/uibun_drag_drop_tailwind_builder/</guid>
-      <pubDate>Sat, 18 Jan 2025 11:59:33 GMT</pubDate>
+      <title>租用 GPU</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i4dl6k/renting_gpus/</link>
+      <description><![CDATA[因此，我注意到，当您租用 GPU 进行计算时，就好像您在租用它一样，它完全属于您，因此您需要全天候支付费用。 我正在创建一个网站，我认为一开始它的流量不会足够高，因此租用 GPU 是有意义的。 有什么办法可以解决这个问题吗？    提交人    /u/Gheeas   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i4dl6k/renting_gpus/</guid>
+      <pubDate>Sat, 18 Jan 2025 18:14:01 GMT</pubDate>
     </item>
     <item>
-      <title>如果我想进行无 Docker 部署，获取运行时的最佳方式是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i45ygd/if_i_wanted_to_do_a_dockerless_deployment_what/</link>
-      <description><![CDATA[假设我想在没有 Docker 的情况下部署我的 Python 项目。 （我认为我所写的内容适用于多个（如果不是全部）运行时。Python 只是我熟悉的流行运行时之一） 获取所需版本的最佳方法是什么？ 在我看来，有几种选择。  取决于系统的包管理器提供的版本。在我看来，问题是它可能会过时，或者可能会突然更新并弃用某些功能。理想情况下，就像依赖项一样，我希望我的 Python 版本冻结。 获取第三方二进制文件。我知道，对于 Python，至少有 Anaconda 和 Deadsnakes（适用于 Ubuntu）。我猜缺点是它们可能不存在，或者很难找到，或者很难验证。 在您的服务器上构建二进制文件。事实上，如果您使用 asdf 或 pyenv 进行开发，您通常会在您的计算机上构建所需的二进制文件。但我不敢想象如果我尝试在我的 1 CPU、1 Gb RAM 机器上构建 Python 会发生什么。 在您的计算机上构建二进制文件并将其上传到服务器。我想说遇到某种不兼容的可能性相当高。  所以，如果你想要/必须进行无 docker 部署，你会选择哪个选项？    提交人    /u/art-solopov   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i45ygd/if_i_wanted_to_do_a_dockerless_deployment_what/</guid>
-      <pubDate>Sat, 18 Jan 2025 11:50:39 GMT</pubDate>
+      <title>第一个在线网页</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i4dee5/first_web_page_online/</link>
+      <description><![CDATA[      我经常使用网页来获取当前周数，我的大脑每周都忘记了，那些页面全是广告，真的很烦人。所以我建立了一个基本的0成本网页。有什么需要改进的，我对网页开发只有5%的了解。    提交人    /u/TAVIIC0   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i4dee5/first_web_page_online/</guid>
+      <pubDate>Sat, 18 Jan 2025 18:05:46 GMT</pubDate>
     </item>
     <item>
-      <title>双向支付 SDK 不是加密的吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i4501r/2_way_payment_sdk_thats_not_crypto/</link>
-      <description><![CDATA[嗨， 正在开发一个游戏类项目，用户可以购买数字物品、出售它们并通过交易赚取现金。 你们有人知道有什么方法可以设置它吗？ 有任何允许支付和收款的网络支付 SDK 吗？ 我不是在寻找 web3/区块链/加密解决方案 编辑上下文： 我是一名法国自由职业者，客户是一位美国企业家，他很快就会得到一些资金。    提交人    /u/wellandr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i4501r/2_way_payment_sdk_thats_not_crypto/</guid>
-      <pubDate>Sat, 18 Jan 2025 10:44:10 GMT</pubDate>
+      <title>我建立了一个工作公告板，省去了中间人——只直接列出公司信息！[v0.2]</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i4d5ow/i_built_a_job_board_that_cuts_out_the_middleman/</link>
+      <description><![CDATA[        提交人    /u/NetworkEducational81   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i4d5ow/i_built_a_job_board_that_cuts_out_the_middleman/</guid>
+      <pubDate>Sat, 18 Jan 2025 17:55:17 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个 WhatsApp AI 代理，它使用 Cal.com 而不是 Calendly 进行预约</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i44wjo/i_made_a_whatsapp_ai_agent_who_books_appointments/</link>
-      <description><![CDATA[        提交人    /u/ngsayjoe   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i44wjo/i_made_a_whatsapp_ai_agent_who_books_appointments/</guid>
-      <pubDate>Sat, 18 Jan 2025 10:37:15 GMT</pubDate>
+      <title>帮我为我的开发者和加密新闻应用程序项目选择一个标题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i4d5bw/help_me_choose_a_heading_for_my_developer_crypto/</link>
+      <description><![CDATA[      ​ https://preview.redd.it/mk4nd2bgjsde1.png?width=1903&amp;format=png&amp;auto=webp&amp;s=565f9d7c4ca46baeb113090508b0d0f0a7d0e585 查看投票    提交人    /u/Yuuji_Kazami86   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i4d5bw/help_me_choose_a_heading_for_my_developer_crypto/</guid>
+      <pubDate>Sat, 18 Jan 2025 17:54:49 GMT</pubDate>
     </item>
     <item>
-      <title>纯 HTML + CSS + JS 还存在吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i44mlz/is_pure_html_css_js_still_a_thing/</link>
-      <description><![CDATA[我是一名自由网页开发者，最近我发现自己在中小型项目中使用越来越多的纯（手写）代码。 以前我是从纯 HTML 开始的，很快转向 WordPress，最近又切换到 Webflow。由于我的技术背景，我发现 Webflow 有点限制（尤其是 CSS 选择器）。 几个月前，一位客户要求制作一张简单的“数字名片”。对于一个千篇一律的网站来说，Webflow 和 WordPress 似乎有点小题大做。所以 HTML / CSS / JS 就是最好的选择 - 我不得不承认：CSS 已经取得了长足的进步！显然，我知道 flexbox 和 grid，但很多“微小的改进”我都不知道。那时我决定让自己了解最新的发展。* 现在我又回到了 00 年代早期的风格，在文本编辑器中制作网站。当然不是全部，但大多数中小型网站不需要花哨的 CMS，每年唯一的内容变化就是版权日期。此外，例如，准系统托管比 Webflow 便宜得多。 但客户需要能够自己更新网站吗？老实说，我可能有五个客户真的自己更新了他们的主页（或需要博客**）。大多数客户还是会打电话给我更新页面。 当然，我事先和主题谈过，并向他们解释，托管更便宜，但更新网站需要支付我的小时费。对于十年更新一两次的客户来说，这仍然是更好的解决方案。 你对此有何看法？你还手工编码吗？ ... [] 我当然知道 webdev 的最新变化，但不是那么详细。 [*] 大多数真正“需要”博客的客户只需发布一篇文章即可。    提交人    /u/anonRexus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i44mlz/is_pure_html_css_js_still_a_thing/</guid>
-      <pubDate>Sat, 18 Jan 2025 10:16:42 GMT</pubDate>
+      <title>我做了一个有趣的网站来追踪 NHL 统计数据</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i4ch4g/i_made_a_fun_website_to_track_nhl_stats/</link>
+      <description><![CDATA[        提交人    /u/bobemil   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i4ch4g/i_made_a_fun_website_to_track_nhl_stats/</guid>
+      <pubDate>Sat, 18 Jan 2025 17:25:15 GMT</pubDate>
     </item>
     <item>
-      <title>我今年 28 岁，开发了一款没有图表和热图的应用程序，MRR 为 0（因为没有付款）——你认为我能在 2025 年取得成功吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i44k4b/im_28_and_have_built_an_app_without_charts_and/</link>
-      <description><![CDATA[嗨，我有一份稳定的工作，收入足以让我过上舒适的生活。此外，我身边没有人抱怨任何促使我创建应用程序的事情。 但我仍然创建了一个应用程序来更多地了解你的 SO 并深入讨论关系。 深入。 Stack 有点无聊： - React - Vercel - use-gesture - react-springs 链接在第一条评论中，不足为奇    提交人    /u/RealDaikon7106   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i44k4b/im_28_and_have_built_an_app_without_charts_and/</guid>
-      <pubDate>Sat, 18 Jan 2025 10:11:36 GMT</pubDate>
+      <title>我和我的朋友正在构建一个游戏库管理网站/应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i4cfdn/my_friend_and_i_are_building_a_game_library/</link>
+      <description><![CDATA[      因此，我们去年发布了关于这个项目的信息，当时它还处于开发的早期阶段，从那时起，我们的 2 人团队（一名设计师和一名开发人员）已经成功： - 为网站推出 v1.0.0 - 为 Android 推出具有完整功能的移动版本parity - 为 Steam 和 PSN 添加游戏和游戏时间导入支持（计划增加更多功能） 经过近一年的积极开发，我不得不说，作为一名开发人员，这是我最有价值和最艰难的经历之一，特别是当你与一个非常小的团队处理营销、托管和审核等事情时。老实说，最困难的部分实际上是让人们使用你的东西😆  看到你投入大量时间的东西随着时间的推移而成长并成为某人日常使用的工具，这也是非常好的。    提交人    /u/Lamarcke   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i4cfdn/my_friend_and_i_are_building_a_game_library/</guid>
+      <pubDate>Sat, 18 Jan 2025 17:23:08 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Spring Boot 和 Docker 容器为我的 Minecraft 朋友制作了这个简单的角度计算器（带有 Nether 转换器）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i448qu/made_this_simple_angle_calculator_with_nether/</link>
-      <description><![CDATA[        提交人    /u/lonelyroom-eklaghor   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i448qu/made_this_simple_angle_calculator_with_nether/</guid>
-      <pubDate>Sat, 18 Jan 2025 09:47:54 GMT</pubDate>
+      <title>Framer Motion 是最好的前端动画库吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i4cdgh/is_framer_motion_the_best_animation_library_for/</link>
+      <description><![CDATA[我正在构建一个 React/Tailwind（用于前端）应用程序，并使用 Framer Motion 制作动画。我不是前端人员，所以对于这个非常基础的问题深表歉意。  这是目前最好的动画库吗，或者有更好的吗？  我的目的是制作漂亮的动画，但我的 Framer Motion 动画看起来有点不连贯，我也不太清楚为什么。     提交人    /u/Worldly_Expression43   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i4cdgh/is_framer_motion_the_best_animation_library_for/</guid>
+      <pubDate>Sat, 18 Jan 2025 17:20:45 GMT</pubDate>
     </item>
     <item>
-      <title>🚀 我为你制作了一个神奇的工具！释放动态 AI 组件的力量！🤖</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i4433z/i_made_a_magic_tool_for_you_unleash_the_power_of/</link>
-      <description><![CDATA[        提交人    /u/kadketon   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i4433z/i_made_a_magic_tool_for_you_unleash_the_power_of/</guid>
-      <pubDate>Sat, 18 Jan 2025 09:36:12 GMT</pubDate>
+      <title>递归真实生活场景</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i4c2dq/recursion_real_life_scenario/</link>
+      <description><![CDATA[我试图理解递归以及何时应该使用递归，但我很难理解何时以及如何使用它。有人能像对五岁小孩那样向我解释并提供一个例子吗？ 提前致谢    提交人    /u/bluhze   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i4c2dq/recursion_real_life_scenario/</guid>
+      <pubDate>Sat, 18 Jan 2025 17:07:12 GMT</pubDate>
     </item>
     <item>
-      <title>失业后，我开始为朋友编写生活追踪器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i43zhg/unemployed_i_started_to_code_a_life_tracker_for/</link>
-      <description><![CDATA[        提交人    /u/InnerPhilosophy4897   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i43zhg/unemployed_i_started_to_code_a_life_tracker_for/</guid>
-      <pubDate>Sat, 18 Jan 2025 09:28:56 GMT</pubDate>
+      <title>我弄清楚了如何对 GraphQL 测试的模拟解析器进行类型检查！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i4bea3/i_figured_out_how_to_typecheck_mock_resolvers_for/</link>
+      <description><![CDATA[        提交人    /u/DrewHoov   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i4bea3/i_figured_out_how_to_typecheck_mock_resolvers_for/</guid>
+      <pubDate>Sat, 18 Jan 2025 16:37:42 GMT</pubDate>
     </item>
     <item>
-      <title>✨ 查看我的新设计样本！🚀 我很想听听你的想法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i43jku/check_out_my_new_design_sample_id_love_to_hear/</link>
-      <description><![CDATA[      https://preview.redd.it/osn9x3ywupde1.png?width=6184&amp;format=png&amp;auto=webp&amp;s=c268c70df17d916f932b8ec419b3f826f5bd07d7 我是一名专业的全栈开发人员和设计师，专门从事高转换率着陆页。我帮助客户创建登陆页面，这些页面不仅展示他们的服务，还可以充当强大的销售机器。 今天，我重新设计了它 - 请随意分享您的想法！如果您希望我为您设计或构建技术解决方案，请随时给我发私信。 感谢您的时间！😊    提交人    /u/Careless-Ad2000   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i43jku/check_out_my_new_design_sample_id_love_to_hear/</guid>
-      <pubDate>Sat, 18 Jan 2025 08:56:06 GMT</pubDate>
+      <title>从登陆页面重定向时会加载 CSS，但直接导航到时不会加载。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i4b69x/css_loads_on_redirect_from_landing_page_but_not/</link>
+      <description><![CDATA[编辑：这个问题已解决。我忘记将 app.css 导入该网页，但由于重定向，它似乎可以正常工作，因此我没有注意到我的错误。 如果我的措辞很奇怪，请见谅。 我有一个简单的用 SvelteKit 构建的 Web 应用程序，其中登录页面会检查用户是否已登录。如果没有，他们会被重定向到 mysite_com/login。这没有问题，因为页面按预期加载。 但是，如果我刷新页面或直接转到 mysite_com/login，则不会向浏览器发送任何 CSS 文件。检查页面时，没有错误消息。 这是我的 /src 目录中 app.css 文件的内容： u/tailwind base; @tailwind components; @tailwind utility;  这是我的 tailwind.config.js 文件的内容： /** @type {import(&#39;tailwindcss&#39;).Config} */ export default { content: [&#39;./src/**/*.{html,js,svelte,ts}&#39;], theme: { extend: {}, }, plugins: [], }  这是我的 postcss.config.js 文件： export default { plugins: { tailwindcss: {}, autoprefixer: {}, }, };  我很感激任何指导。我是初学者，所以可以肯定我可能忽略了一些东西或者犯了一个愚蠢的错误。如果需要更多信息，请告诉我。    提交人    /u/ennui_no_nokemono   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i4b69x/css_loads_on_redirect_from_landing_page_but_not/</guid>
+      <pubDate>Sat, 18 Jan 2025 16:27:24 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个 3D 核弹模拟器：“不要核弹”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i43fut/i_created_a_3d_nuke_simualtor_dont_nuke/</link>
-      <description><![CDATA[        提交人    /u/Vinserello   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i43fut/i_created_a_3d_nuke_simualtor_dont_nuke/</guid>
-      <pubDate>Sat, 18 Jan 2025 08:48:21 GMT</pubDate>
+      <title>构建另一个 UI 组件库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i4ahc5/build_yet_another_ui_components_library/</link>
+      <description><![CDATA[大家好，在过去的两个月里，我构建了一个开源、免费的可定制组件集合，主要用于 React / Next.js。 每个组件都可以以不同的方式使用 - 复制粘贴代码 - 通过 cli 直接在您的项目中安装 - 从 Vercel 在 V0 中打开以提示并进行更多自定义 我试图让它们与其他组件略有不同，特别是 ai-input 如果您想看一看：https://kokonutui.com/ 请随时分享任何反馈！    提交人    /u/dorianbaffier   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i4ahc5/build_yet_another_ui_components_library/</guid>
+      <pubDate>Sat, 18 Jan 2025 15:56:07 GMT</pubDate>
     </item>
     <item>
-      <title>PageSpeed，是你吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i43f0u/pagespeed_was_that_you/</link>
-      <description><![CDATA[我最近在一个随机命名的子域上建立了一个网站，并意外发现来自该子域的搜索结果出现在 Google 搜索的各个角落。奇怪的是，没有一个链接指向该子域。DNS 通过 Cloudflare 管理。我所做的只是偶尔使用 PageSpeed Insights 测试页面加载速度。 从现在开始，我将始终从创建一个 robots.txt 文件开始，以阻止在暂存网站上建立索引。 有人对可能导致暂存网站被发现的原因有其他想法吗？    提交人    /u/nrg_name   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i43f0u/pagespeed_was_that_you/</guid>
-      <pubDate>Sat, 18 Jan 2025 08:46:39 GMT</pubDate>
+      <title>我建立了一个浏览器扩展程序来自动申请工作，并为每个求职申请定制简历。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i4ac6y/i_built_a_browser_extension_to_auto_apply_for/</link>
+      <description><![CDATA[大家好，r/webdev 社区，我是 Swift Apply AI 的创始人。 我现在正在申请全职工作，如果你也经历过，你就会知道这个过程有多痛苦。 我对 Workday、SuccessFactors、Oracle 等网站感到非常失望，所以我决定将这个过程自动化。我开发了一个可以自动填写工作申请的浏览器扩展程序。它会从您在设置扩展程序时提供的信息中提取信息，并每次为您填写所有那些烦人的字段。 一旦我让它工作了，我想我会升级它。我添加了一项功能，让您只需单击一下即可根据 LinkedIn 上的任何职位描述定制您的简历。它对于自定义应用程序非常有用，而无需花费 20 分钟手动调整所有内容。 现在，除了简历定制功能之外的所有内容都是完全免费的。您可以获得工作申请的自动填充功能，这是一种跟踪工具，可以跟踪您申请的内容。此外，定制的简历保存在扩展程序中，因此您可以随时访问它们。 它的价格非常合理，物有所值。我收费的唯一原因是运行它需要花钱。 您可以在此处查看：Swift Apply AI - Microsoft Edge Addons    提交人    /u/West_Subject_8780   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i4ac6y/i_built_a_browser_extension_to_auto_apply_for/</guid>
+      <pubDate>Sat, 18 Jan 2025 15:49:35 GMT</pubDate>
     </item>
     <item>
-      <title>我为我的女朋友制作了一个 AI 美甲生成器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i432mb/i_made_an_ai_nail_art_generator_for_my_girlfriend/</link>
-      <description><![CDATA[        提交人    /u/rohanrajpal   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i432mb/i_made_an_ai_nail_art_generator_for_my_girlfriend/</guid>
-      <pubDate>Sat, 18 Jan 2025 08:20:32 GMT</pubDate>
+      <title>服务器帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i4a1mo/server_help/</link>
+      <description><![CDATA[假设我有一台服务器（物理服务器） 运行该服务器是否就是我所需要的 或者我是否需要学习 mongoDB 或 php 之类的东西才能使用它    提交人    /u/East_Concentrate_817   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i4a1mo/server_help/</guid>
+      <pubDate>Sat, 18 Jan 2025 15:35:51 GMT</pubDate>
     </item>
     <item>
-      <title>Cloudflare DNS 查找</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i42car/cloudflare_dns_lookup/</link>
-      <description><![CDATA[        提交人    /u/Consistent-Gap-6565   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i42car/cloudflare_dns_lookup/</guid>
-      <pubDate>Sat, 18 Jan 2025 07:26:21 GMT</pubDate>
+      <title>创建了我的投资组合，其中包含前端和后端。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i49llj/created_my_portfoliowhich_has_frontend_backend/</link>
+      <description><![CDATA[嗨，我是开发新手，我创建了一个带有表单的投资组合，使用 nodejs 后端将数据传递到数据库，我购买了域名，我将索引文件上传到了公共 html 文件夹中，但不知道将服务器文件放在哪里，以及如何处理我设置的 url（例如 localhost:5001）以通过 api 发布数据，需要帮助    提交人    /u/HornOkPleaz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i49llj/created_my_portfoliowhich_has_frontend_backend/</guid>
+      <pubDate>Sat, 18 Jan 2025 15:14:30 GMT</pubDate>
     </item>
     <item>
-      <title>建立网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i4202k/making_a_website/</link>
-      <description><![CDATA[大家好，我妻子想为她的甜点/蛋糕/糕点生意做一个网站。我想我可以解决这个问题，但我宁愿先听听大家的意见，无论是花钱还是免费，都可以。 想做一个围绕她生意的网站，只是一个简单的东西，你可以访问它主要是为了询问，我猜是一个问卷调查，以及查看产品，就这么简单。至少我认为这算是简单的。我应该在哪里开始这样的想法？    提交人    /u/No_Serve6795   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i4202k/making_a_website/</guid>
-      <pubDate>Sat, 18 Jan 2025 07:01:58 GMT</pubDate>
+      <title>使用一个命令获取本地主机的公共 URL - 无需安装</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i4931c/get_public_urls_to_localhost_with_one_command_no/</link>
+      <description><![CDATA[       由    /u/Outrageous_Car4912  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i4931c/get_public_urls_to_localhost_with_one_command_no/</guid>
+      <pubDate>Sat, 18 Jan 2025 14:49:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
