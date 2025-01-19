@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 18 Jan 2025 21:13:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 06:18:02 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个免费的开源程序，使用免费的 AI 语音模型，在家用的消费硬件上将文档（尤其是小说）转换成有声读物。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i4rvyr/i_made_a_free_open_source_program_to_turn/</link>
+      <description><![CDATA[GitHub - Hexatona/AITTSMaker：一个基于 Python 的工具，使用 CoquiTTS 将文档转换为有声读物。 这是我在 LLM 取得巨大飞跃之前就已经研究了很多年的过程。 我的程序做了一些我觉得与付费程序不同的事情。 + 设计为自动导出到 MP3。 + 即使没有 GPU 也可以运行 + 专门为小说而制作。使对话的音调高于旁白，并且斜体文本以稍慢的语速强调。 + 列出可能不熟悉的单词列表，并按最多到最少的顺序排列，这样您就可以先听这些单词，然后确定是否可以修复它们。 + 允许您自动替换单词，这样如果模型总是发音错误，您可以用效果更好的其他拼写来替换它。 + 甚至考虑分节符和省略号，在适当的地方添加停顿。 您可以在我的 YouTube 页面上看到结果，我在那里使用此程序制作了同人小说的有声读物：圣骑士的任务 - 世界的重量 - 第 001 章 我纯粹是为了自己而制作的，所以肯定还有改进的空间 - 但我希望大家能找到它的好用处。如果您在安装或使用它时遇到问题，请随时给我留言。    提交人    /u/Hexatona   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i4rvyr/i_made_a_free_open_source_program_to_turn/</guid>
+      <pubDate>Sun, 19 Jan 2025 06:01:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个程序来批量下载TikTok</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i4oi3s/i_made_a_program_to_mass_download_tiktoks/</link>
+      <description><![CDATA[此程序使用您可以从 TikTok 请求的数据来尝试快速将您的收藏和喜欢的内容下载到您的系统以进行备份。 https://github.com/SparksCool/TikTokDL    提交人    /u/SparksCool   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i4oi3s/i_made_a_program_to_mass_download_tiktoks/</guid>
+      <pubDate>Sun, 19 Jan 2025 02:56:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>除了 sigil 之外，还有其他 ePub 创建 FOSS 软件吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i4nzec/any_epub_creator_foss_software_other_than_sigil/</link>
+      <description><![CDATA[因此，我在 html 编辑方面遇到了麻烦，而且该软件对我来说似乎很混乱。我喜欢这些功能，但在我看来它有点混乱。 寻找 Linux 或 Windows，而不是 Mac。    由   提交  /u/CloudyyySXShadowH   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i4nzec/any_epub_creator_foss_software_other_than_sigil/</guid>
+      <pubDate>Sun, 19 Jan 2025 02:27:56 GMT</pubDate>
+    </item>
     <item>
       <title>构建 OSS“电视流媒体”？</title>
       <link>https://www.reddit.com/r/opensource/comments/1i4cerk/building_an_oss_tv_streamer/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[LCLV 是一款实时计算机视觉应用程序，使用 Moondream + Ollama 完全在本地运行。 视频演示可在这里获取。 它的作用：  通过网络摄像头进行实时视频分析 &amp;分类（情绪检测、疲劳分析、凝视跟踪等） 在您的机器上 100% 本地运行 使用 TailwindCSS 清理 UI 超级容易设置！  快速设置：  安装 Ollama 并在 Ollama 服务器上运行 Moondream ollama pull moondream 和 ollama run moondream 克隆 repo 并运行 Web 应用程序：  ​ git clone cd lclv npm install npm run devhttps://github.com/HafizalJohari/lclv.git  查看 repo 了解更多详细信息 &amp;在这里亲自尝试一下：https://github.com/HafizalJohari/lclv 如果您在运行过程中遇到问题，请告诉我！如果遇到问题，请跳转到 Moondream discord 中的 #support 频道，或在此处发表评论以获得即时帮助。    提交人    /u/ParsaKhaz   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i3o5ul/lclv_realtime_video_classification_analysis_with/</guid>
       <pubDate>Fri, 17 Jan 2025 19:13:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>TilBuci 新版本 - 一款免费的交互式内容创建软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i3n00f/new_tilbuci_version_a_free_software_for/</link>
-      <description><![CDATA[大家好。我很高兴发布 TilBuci 的新版本，这是我一直在开发的一款用于创建交互式内容的软件。它可从软件存储库获取： https://github.com/lucasjunqueira-var/tilbuci/releases/tag/v8 从此版本开始，许可证从自定义&quot;MIT-like&quot; 更改为 MPL 2.0。如果您有兴趣了解 TilBuci，请访问网站：https://tilbuci.com.br/    提交人    /u/chokito76   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i3n00f/new_tilbuci_version_a_free_software_for/</guid>
-      <pubDate>Fri, 17 Jan 2025 18:23:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>depthviz-开源自由潜水深度叠加工具-寻求反馈</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i3mcb5/depthviz_opensource_freediving_depth_overlay_tool/</link>
-      <description><![CDATA[大家好！👋 我正在开发 depthviz，这是一款开源 CLI 工具，可根据潜水电脑日志为自由潜水视频生成深度跟踪叠加层。目标是提供一种简单有效的方法来可视化潜水资料并增强自由潜水镜头。  GitHub repo：https://github.com/noppanut15/depthviz 主要功能：  解析来自各种来源（Apnealizer、Shearwater、Garmin、Suunto 和手动模式）的潜水日志。 生成具有可自定义文本格式的 MP4 视频叠加以显示深度。 使用线性插值获得平滑的深度剖面。  我正在寻找社区对以下方面的反馈和贡献：  代码质量和最佳实践。 （Python） 潜在的改进和新功能。 可用性和整体用户体验。 支持其他潜水电脑/数据格式。  如果您有兴趣为开源项目做出贡献、从事数据可视化工作，或者只是想尝试一下，请查看 repo 并分享您的想法！欢迎所有反馈、错误报告和功能请求。    提交人    /u/noppanut15   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i3mcb5/depthviz_opensource_freediving_depth_overlay_tool/</guid>
-      <pubDate>Fri, 17 Jan 2025 17:55:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pixelfed，去中心化的 Instagram 竞争对手</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i3lu65/meet_pixelfed_the_decentralized_instagram/</link>
-      <description><![CDATA[        提交人    /u/Sastamotive1134   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i3lu65/meet_pixelfed_the_decentralized_instagram/</guid>
-      <pubDate>Fri, 17 Jan 2025 17:34:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
