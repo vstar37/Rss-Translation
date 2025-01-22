@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 22 Jan 2025 12:26:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 15:15:06 GMT</lastBuildDate>
     <item>
       <title>指尖</title>
       <link>https://www.producthunt.com/posts/fingertip</link>
@@ -132,20 +132,6 @@
       <pubDate>Sat, 18 Jan 2025 00:08:18 GMT</pubDate>
     </item>
     <item>
-      <title>Every.io</title>
-      <link>https://www.producthunt.com/posts/every-io</link>
-      <description><![CDATA[
-以 0 美元的价格成立您的科技初创公司
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/every-io</guid>
-      <pubDate>Fri, 17 Jan 2025 20:22:39 GMT</pubDate>
-    </item>
-    <item>
       <title>马迪奥</title>
       <link>https://www.producthunt.com/posts/maidio</link>
       <description><![CDATA[
@@ -160,18 +146,18 @@
       <pubDate>Fri, 17 Jan 2025 09:42:34 GMT</pubDate>
     </item>
     <item>
-      <title>针</title>
-      <link>https://www.producthunt.com/posts/needle-5</link>
+      <title>新闻快讯</title>
+      <link>https://www.producthunt.com/posts/newsbang</link>
       <description><![CDATA[
-在几秒钟内启用 AI 搜索所有数据
+您的第一个 AI 新闻和见解应用
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/needle-5</guid>
-      <pubDate>Wed, 15 Jan 2025 12:20:57 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/newsbang</guid>
+      <pubDate>Wed, 15 Jan 2025 08:48:05 GMT</pubDate>
     </item>
     <item>
       <title>swiftnotes.ai</title>
@@ -200,6 +186,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/launchy-for-macos</guid>
       <pubDate>Tue, 14 Jan 2025 00:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>JoggAI 2.0：AI头像生成器</title>
+      <link>https://www.producthunt.com/posts/joggai-2-0-ai-avatar-generator</link>
+      <description><![CDATA[
+根据文本提示创建逼真、个性化的 AI 头像
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/joggai-2-0-ai-avatar-generator</guid>
+      <pubDate>Mon, 06 Jan 2025 14:54:52 GMT</pubDate>
     </item>
     <item>
       <title>屏幕空间</title>
