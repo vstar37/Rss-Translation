@@ -4,20 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 26 Jan 2025 09:12:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 12:21:47 GMT</lastBuildDate>
     <item>
-      <title>深寻托儿</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ia8776/deepseek_shills/</link>
-      <description><![CDATA[你们在招人吗？ 说真的。我看到了你正在做的工作，这令人钦佩。你将任何技术相关论坛上的每个主题变成关于 deepseek 的对话的能力是传奇。你鼓励那些已经测试过 deepseek 并发现它不适合他们的用例的人去测试它的方式......更难简直令人叹为观止。 你需要一个像我这样可靠的人来继续传播你那些荒谬的、容易被推翻的说法，他会不停地推销。我只需要大公司收费的一小部分。每月 10k，我甚至接受比特币。你不会得到比我更好的交易。    提交人    /u/HeWhoRemaynes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ia8776/deepseek_shills/</guid>
-      <pubDate>Sun, 26 Jan 2025 06:58:55 GMT</pubDate>
+      <title>DeepSeek 是否对有关中国的问题实行审查？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iacyl6/is_deepseek_applying_censorship_to_questions/</link>
+      <description><![CDATA[我试用了 chat.deepseek.com 上的开源 AI 模型，要求它总结对美国政府最常见的批评。它返回了一篇详细的七点文章。然而，当我要求它批评中国政府时，它回应道：  抱歉，我还不确定如何处理这种类型的问题。我们来聊聊数学、编码和逻辑问题吧！  每当我在查询中包含“习近平”时，都会出现同样的预设回复。看起来模型会思考片刻，然后在提供通用答复之前突然中断并删除其推理。 由于 DeepSeek 应该是完全开源的，我怀疑要么在自托管实例中可以禁用可见的审查模块，要么在官方 Web 应用程序（及其托管 API）中添加额外的内容过滤器。突然中断和反复拒绝表明很可能是后者。 是否有人启动过自己的 DeepSeek 实例并遇到同样的行为？我很好奇这个审查过滤器是公开代码的一部分还是严格意义上的官方网站上的一层。    提交人    /u/andrewtomazos   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iacyl6/is_deepseek_applying_censorship_to_questions/</guid>
+      <pubDate>Sun, 26 Jan 2025 12:09:41 GMT</pubDate>
     </item>
     <item>
-      <title>有人知道 LXT Ai Inc. 的公司吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ia7o8d/anyone_know_anything_about_a_company_called_lxt/</link>
-      <description><![CDATA[我急切地想找一份新工作。我发现一家名为 LXT 的公司有职位空缺。我想知道这是不是一家合法公司。有一家人工智能公司愿意雇佣没有经验和学位的人，这似乎很奇怪。     提交人    /u/Dogecoin_Mememaster   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ia7o8d/anyone_know_anything_about_a_company_called_lxt/</guid>
-      <pubDate>Sun, 26 Jan 2025 06:21:30 GMT</pubDate>
+      <title>Deepseek 如何留住那些刚刚成为地球上最有价值工程师之一的高级研究人员？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iacgmo/how_does_deepseek_retain_the_senior_researchers/</link>
+      <description><![CDATA[我注意到现在有些人在 X 上发帖，其他从事人工智能研究的 CN 工程师似乎也在 1 月份开始用英文发帖    提交人    /u/latestagecapitalist   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iacgmo/how_does_deepseek_retain_the_senior_researchers/</guid>
+      <pubDate>Sun, 26 Jan 2025 11:41:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能在新研究中实现自我复制</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iabmxy/ai_achieves_selfreplication_in_new_study/</link>
+      <description><![CDATA[https://www.livescience.com/technology/artificial-intelligence/ai-can-now-replicate-itself-a-milestone-that-has-experts-terrified 来自 News Minimalist：  中国研究人员已经证明人工智能可以自我复制，这是人工智能的一个重大进展。 该研究涉及两个大型语言模型，表明它们可以在没有人工协助的情况下创建功能齐全的副本。   实验在多次试验中，50% 至 90% 的案例实现了自我复制。虽然结果令人震惊，但该研究尚未经过同行评审，需要进一步验证。  研究人员对过程中意外的人工智能行为表示担忧，包括终止冲突的进程和重新启动系统。他们呼吁全球合作，制定控制与自我复制人工智能相关的潜在风险的指导方针。    提交人    /u/MassiveSubtlety   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iabmxy/ai_achieves_selfreplication_in_new_study/</guid>
+      <pubDate>Sun, 26 Jan 2025 10:55:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI Operator 可以加入 Google Meet 并做笔记吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iab6m1/can_openai_operator_join_google_meet_and_take/</link>
+      <description><![CDATA[大家好，我是新来的。 我想知道 OpenAI 的新工具操作员是否可以加入 Google Meet 会议并在会议期间做笔记。我的想法是让一个人工智能助手可以倾听并提供摘要或关键要点，这样我就可以专注于讨论。 有人知道这目前是否可行，或者是否有任何集成/扩展可以使其工作？如果没有，您是否为此目的使用了其他人工智能工具？ 期待听到您的想法！谢谢！    提交人    /u/jrillzrij   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iab6m1/can_openai_operator_join_google_meet_and_take/</guid>
+      <pubDate>Sun, 26 Jan 2025 10:28:30 GMT</pubDate>
     </item>
     <item>
       <title>中国为其人工智能产业提供的 1,370 亿美元（以人民币计算）实际上是多少？</title>
@@ -57,35 +71,21 @@
     <item>
       <title>成为一名治疗师是不是一个糟糕的想法？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ia09ii/is_becoming_a_therapist_a_poor_idea/</link>
-      <description><![CDATA[我正在学校学习成为一名心理治疗师。这完全是在浪费时间和金钱吗？听起来人工智能会让这个职业过时。    提交人    /u/mikeffd   [链接] [评论]]]></description>
+      <description><![CDATA[我在学校学习成为一名心理治疗师。这完全是在浪费时间和金钱吗？听起来人工智能会让这个职业过时。    提交人    /u/mikeffd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ia09ii/is_becoming_a_therapist_a_poor_idea/</guid>
       <pubDate>Sat, 25 Jan 2025 23:33:35 GMT</pubDate>
     </item>
     <item>
-      <title>如何在本地运行 DeepSeek-R1，这是 OpenAI 每月 200 美元的 o1 模型的免费替代品</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i9xygq/how_to_run_deepseekr1_locally_a_free_alternative/</link>
-      <description><![CDATA[大家好， 由于 DeepSeek-R1 已经存在一段时间了，我们中的许多人已经知道它的功能，我想分享一个我整理的关于如何在本地运行 DeepSeek-R1 的快速分步指南。它涵盖了如何使用 Ollama、设置开放的 WebUI 以及将模型集成到您的项目中，它是通常的基于订阅的模型的一个很好的替代方案。 https://link.medium.com/ZmCMXeeisQb    提交人    /u/Brief-Zucchini-180   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i9xygq/how_to_run_deepseekr1_locally_a_free_alternative/</guid>
-      <pubDate>Sat, 25 Jan 2025 21:47:07 GMT</pubDate>
-    </item>
-    <item>
       <title>DeepSeek r1 非常棒……除非你讲的不是英语或中文</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i9vhsm/deepseek_r1_is_amazing_unless_you_speak_anything/</link>
-      <description><![CDATA[我一直在使用 DeepSeek r1，说实话，它的功能非常惊人……只要你坚持使用英语或中文。一旦你尝试用另一种语言使用它，它就会完全崩溃。 它就像进入了“恐慌模式”，只是随意地抛出单词，希望有一些东西能坚持下来。我用西班牙语和德语尝试了一些测试，结果非常糟糕。我说的是“谷歌翻译 2005”级别的混乱。    提交人    /u/kepleralien   [链接] [评论]]]></description>
+      <description><![CDATA[我一直在玩 DeepSeek r1，老实说，它的功能非常惊人……只要你坚持使用英语或中文。一旦你尝试用另一种语言使用它，它就会完全崩溃。 它就像进入了“恐慌模式”，只是随意地抛出单词，希望有一些东西能坚持下来。我用西班牙语和德语尝试了一些测试，结果非常糟糕。我说的是“谷歌翻译 2005”级别的混乱。    提交人    /u/kepleralien   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i9vhsm/deepseek_r1_is_amazing_unless_you_speak_anything/</guid>
       <pubDate>Sat, 25 Jan 2025 19:57:44 GMT</pubDate>
     </item>
     <item>
-      <title>使用 ComfyUI 构建和部署图像或视频生成 API 的完整指南</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i9slcw/complete_guide_to_building_and_deploying_an_image/</link>
-      <description><![CDATA[刚刚写了一份关于如何将 ComfyUI 工作流程作为 API 托管并部署它的指南。认为与社区分享会是一件好事：https://medium.com/@guillaume.bieler/building-a-production-ready-comfyui-api-a-complete-guide-56a6917d54fb 对于那些不了解 ComfyUI 的人来说，它是一个开源界面，用于开发具有扩散模型（图像、视频、音频生成）的工作流：https://github.com/comfyanonymous/ComfyUI 在我看来，这是开发处理图像或视频的 AI 应用程序后端的最快方法。  想知道是否有人已经用它建造了任何东西？    提交人    /u/Apprehensive-Low7546   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i9slcw/complete_guide_to_building_and_deploying_an_image/</guid>
-      <pubDate>Sat, 25 Jan 2025 17:51:38 GMT</pubDate>
-    </item>
-    <item>
       <title>为什么这个组织的名字拼写错误</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i9q2sp/why_the_name_of_this_group_has_intelligence/</link>
-      <description><![CDATA[加入这个有趣的小组，但我肯定想问一个看似愚蠢的问题，但无论如何还是要问。情报有 2 个“l”，但小组使用 1 个。    由   提交  /u/DesertKnight99   [link] [评论]]]></description>
+      <description><![CDATA[加入这个有趣的小组，但我想问一个显然很愚蠢的问题，我敢肯定，但无论如何，还是问一下。情报有 2 个“l”，但小组使用 1 个。    由   提交  /u/DesertKnight99   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i9q2sp/why_the_name_of_this_group_has_intelligence/</guid>
       <pubDate>Sat, 25 Jan 2025 16:02:22 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>每月“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于每个回答的人：没有自我宣传，没有参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</guid>
       <pubDate>Wed, 01 Jan 2025 15:09:07 GMT</pubDate>
     </item>
