@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Mon, 27 Jan 2025 18:18:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 21:13:31 GMT</lastBuildDate>
+    <item>
+      <title>对于自动化对话列表有什么建议吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ibiz1h/any_suggestions_for_automating_dialogue_lists/</link>
+      <description><![CDATA[我需要创建一个列表，将每行对话与源和序列 TC 的输入输出、源媒体名称和说话者的姓名配对。  目前，我正在：  转录序列以生成字幕 在时间线上放置与字幕相对应的剪辑 在每个部分的开头放置剪辑标记，将对话粘贴到名称中 导出 EDL 使用 Power Query 将 EDL 转换为 Excel 手动输入演讲者的姓名  我正在考虑这样做：  转录序列以生成字幕 导出 SRT 使用自动化块将 SRT 转换为标记 导出 EDL 使用 Power Query 将 EDL 转换为 Excel 手动输入演讲者的姓名  我正在使用 EDL 获取源媒体名称、源和序列 TC In - Out，并从剪辑标记中获取对话。欢迎提出建议或想法！    提交人    /u/TypelessTemplate   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ibiz1h/any_suggestions_for_automating_dialogue_lists/</guid>
+      <pubDate>Mon, 27 Jan 2025 20:20:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>RAID 5 与 RAID 0 - 2025 年 RAID 5 是否仍然值得？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ibhf6m/raid_5_vs_raid_0_is_raid_5_still_worth_it_in_2025/</link>
+      <description><![CDATA[如果这不是正确的 subreddit，我深表歉意... 首先，RAID 不是一种备份策略。我有一个单独的备份策略。这里的目标是冗余，以便在驱动器发生故障时延长正常运行时间。 就冗余而言，我不清楚 RAID 5 相对于 RAID 1（镜像）有什么优势。我理解优势应该是您可以从一组驱动器（驱动器总容量的 3/4）获得更多可用存储空间。 但是，例如，如今四个 5 TB 驱动器的成本超过 700 美元（RAID 5 设置），而两个 16 TB 驱动器（RAID 1）的成本略高于 400 美元。每个驱动器的总容量为 15-16 TB。 RAID 1 速度更快。 为什么有人想使用 RAID5？ 是否只需要总容量大于 32TB（目前的最大驱动器大小）？    提交人    /u/ZealousidealAd9428   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ibhf6m/raid_5_vs_raid_0_is_raid_5_still_worth_it_in_2025/</guid>
+      <pubDate>Mon, 27 Jan 2025 19:17:17 GMT</pubDate>
+    </item>
     <item>
       <title>项目文件的保存位置</title>
       <link>https://www.reddit.com/r/editors/comments/1ibearm/where_to_keep_project_files/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>询问专业人士 - 每周 - 周一 2025 年 1 月 27 日 - 禁止提问！如果您不以此为生，请在此发帖！规则 + 职业问题？</title>
       <link>https://www.reddit.com/r/editors/comments/1ib4wxa/ask_a_pro_weekly_monday_mon_jan_27_2025_no_stupid/</link>
-      <description><![CDATA[r/editors 是后期制作专业人士的社区。 每周，我们都会使用此主题进行公开讨论，供任何对编辑或后期制作有疑问的人讨论，**无论您的专业或专业状态如何。**  再次强调，如果您是新手，请注意此子版块针对专业人士。我们的版主团队会修剪子版块并在此处发布新手级别的问题。  如果您不确定自己属于哪一类？这是您要查找的主题。 关键规则：彼此之间要优秀（并有耐心）。禁止自我宣传。禁止盗版。 其余规则可在此处找到。 如果您不从事该领域，那么您的问题应该放在这里 什么样的问题适合这个帖子？  上学值得吗？ 职业问题？ 您应该为哪个编辑器付费？*（免费工具？请参阅 r/videoediting） 考虑做副业？ 我应该将我的费率定为多少？（请参阅 WIKI） 从学校毕业？并需要入门建议？  此子版块有 wiki。 欢迎随意建议其所需的页面。 我们有一个姐妹版块 r/videoediting。如果您不以此为生，它是理想的选择 - 但此主题适合所有人！ 如果您想闯入，这是必读内容： 如果您想将此作为副业开始，那么现在这个行业很艰难。  很容易被利用 - 拥有水管工工具和修理自己的水槽并不能使您成为水管工。你 100% 应该为别人工作（理想情况下是作为实习生）。  # 不，没有一个神奇的神话地方可以容纳所有的工作。 我建立了两个链接因为在尝试这样的事情之前，你应该真正搜索一下 subreddit 并了解这个行业。 去年的一组 线程 关于人们多么容易陷入困境。 并且 请参阅我们的 wiki 了解网络等其他详细信息。    由    /u/AutoModerator  提交  [链接] [评论]]]></description>
+      <description><![CDATA[r/editors 是后期制作专业人士的社区。 每周，我们都会使用此主题进行公开讨论，供任何对编辑或后期制作有疑问的人讨论，**无论您的专业或专业状态如何。**  再次强调，如果您是新手，请注意此子版块针对专业人士。我们的版主团队会修剪子版块并在此处发布新手级别的问题。  如果您不确定自己属于哪一类？这是您要查找的主题。 关键规则：彼此之间要优秀（并有耐心）。禁止自我宣传。禁止盗版。 其余规则可在此处找到。 如果您不从事该领域的工作，那么您的问题应该放在这里 什么样的问题适合这个帖子？  上学值得吗？ 职业问题？ 您应该为哪个编辑器付费？*（免费工具？请参阅 r/videoediting） 考虑做副业？ 我应该将我的费率定为多少？（请参阅 WIKI） 从学校毕业？并需要入门建议？  此子版块有 wiki。 欢迎随意建议其所需的页面。 我们有一个姐妹版块 r/videoediting。如果您不以此为生，它是理想的选择 - 但此主题适合所有人！ 如果您想闯入，这是必读内容： 如果您想将此作为副业开始，那么现在这个行业很艰难。  很容易被利用 - 拥有水管工工具和修理自己的水槽并不能使您成为水管工。你 100% 应该为别人工作（理想情况下是作为实习生）。  # 不，没有一个神奇的神话地方可以容纳所有的工作。 我建立了两个链接因为在尝试这样的事情之前，你应该真正搜索一下 subreddit 并了解这个行业。 去年的一组 线程 关于人们多么容易陷入困境的帖子。 并且 请参阅我们的 wiki 了解网络等其他详细信息。    由    /u/AutoModerator  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ib4wxa/ask_a_pro_weekly_monday_mon_jan_27_2025_no_stupid/</guid>
       <pubDate>Mon, 27 Jan 2025 10:00:23 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>周日卷轴评论</title>
       <link>https://www.reddit.com/r/editors/comments/1iadyb2/sunday_reel_review/</link>
-      <description><![CDATA[每周日与我们的“Reel Review”交替进行。 ## 您想对您的 reel 提出反馈吗？这里就是您提出反馈的地方！ ​ **需要记住的要点**：reel 不会像名片或网站一样为您保住工作。虽然它可能必不可少，但它并不是获得工作的主要手段。 ​ **您通过自己开发的网络获得就业机会，**而不是通过任何在线求职网站。建立网络需要时间，这是有利的，因为它可以让你学习该领域。 ​ ## 规则 ​ * **规则 1**：以顶级评论的形式提交你的 reel *及其播放时间*（意味着你直接回复此帖子） * **规则 2**：*以年为单位指定你的专业经验*（纳税 = 作为专业人士的年数，新手）。 * **规则 3**：解释发布 reel 的原因/方向。你是新手吗？你和客户合作了十年了吗？给我们你想要的明确方向。 * **规则 4**：你必须查看另外两个 reel。**两个**。你有五天的时间来完成这项任务，回应两个不同的 reel。 **然后**编辑您发布卷轴的评论：并输入两个用户名。 ​ **可接受的发布平台**：您的 Vimeo 网站或未列出的 YouTube 链接。如果我们发现指向具有 10k 次观看次数的频道或视频的链接，请注意此线程不适用于此类内容。 ​ 审核团队将对此进行监控，我们正在尝试鼓励社区（即您）提供帮助。这就是为什么提供两个评论至关重要的原因。 ​ 最后，作为评估人们的卷轴的人：如果存在大量动态图形，我希望您能够创建它们和/或将其作为服务提供。如果色彩分级是一项技能，并且您从 Log 过渡到完成分级，那么这绝对是一个危险信号。 ​ &amp;#x200B; ​ ***复制/粘贴此部分：*** ​ * 卷轴链接：（不要忘记运行时间） * 经验： * 方向： * 我审查的两个卷轴：    提交人    /u/greenysmac   [链接] [评论]]]></description>
+      <description><![CDATA[每周日与我们的“Reel Review”交替进行。 ## 您想对您的 reel 提出反馈吗？这里就是您提出反馈的地方！ ​ **需要记住的要点**：reel 不会像名片或网站一样为您保住工作。虽然它可能必不可少，但它并不是获得工作的主要手段。 ​ **您通过自己开发的网络获得就业机会，**而不是通过任何在线求职网站。建立网络需要时间，这是有利的，因为它可以让你学习该领域。 ​ ## 规则 ​ * **规则 1**：以顶级评论的形式提交你的 reel *及其播放时间*（意味着你直接回复此帖子） * **规则 2**：*以年为单位指定你的专业经验*（纳税 = 作为专业人士的年数，新手）。 * **规则 3**：解释发布 reel 的原因/方向。你是新手吗？你和客户合作了十年了吗？给我们你想要的明确方向。 * **规则 4**：你必须查看另外两个 reel。**两个**。你有五天的时间来完成这项任务，回应两个不同的 reel。 **然后**编辑您发布作品的评论：并输入两个用户名。 ​ **可接受的发布平台**：您的 Vimeo 网站或未列出的 YouTube 链接。如果我们发现指向具有 10k 次观看次数的频道或视频的链接，请注意此线程不适用于此类内容。 ​ 审核团队将对此进行监控，我们正在尝试鼓励社区（即您）提供帮助。这就是为什么提供两篇评论至关重要的原因。 ​ 最后，作为评估人们的卷轴的人：如果存在大量动态图形，我希望您能够创建它们和/或将其作为服务提供。如果色彩分级是一项技能，并且您从 Log 过渡到完成分级，那么这绝对是一个危险信号。 ​ &amp;#x200B; ​ ***复制/粘贴此部分：*** ​ * 卷轴链接：（不要忘记运行时间） * 经验： * 方向： * 我审查的两个卷轴：    提交人    /u/greenysmac   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1iadyb2/sunday_reel_review/</guid>
       <pubDate>Sun, 26 Jan 2025 13:01:09 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我的音频工程师朋友正在用 5.1 为我混合电影音频。这将是他的第一次尝试。他已经弄清楚了如何将频道路由到监视器，我们在工作室中有一个不错的设置。我了解如何获取 6 条音频轨道并在 Resolve 中路由它们以进行导出。有没有人有知识或资源可以让我学习如何播放电影，使用 5.1 音频文件来听听它是否在消费级环绕声系统上正常工作以验证它是否准确？到目前为止，我的研究表明我可以创建一个具有环绕声的 MP4，但我如何在具有环绕声的电视上播放它？任何其他选项都欢迎。     提交人    /u/Horror_Locksmith_901   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i9zgyn/verify_a_51_export/</guid>
       <pubDate>Sat, 25 Jan 2025 22:56:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的字幕使用什么字体和属性？</title>
-      <link>https://www.reddit.com/r/editors/comments/1i9wq5k/what_font_and_attributes_do_you_use_for_your/</link>
-      <description><![CDATA[我想要一个简洁干净的外观，就像你在电影院里看到的那样，但总感觉不对劲，而且每个页面都推荐使用另一种字体？你建议使用什么字体？    提交人    /u/Iggytje   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i9wq5k/what_font_and_attributes_do_you_use_for_your/</guid>
-      <pubDate>Sat, 25 Jan 2025 20:52:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用哪些应用程序作为“第二大脑”？</title>
-      <link>https://www.reddit.com/r/editors/comments/1i9u90f/what_apps_do_you_use_as_a_second_brain/</link>
-      <description><![CDATA[我开始从事自由视频编辑工作，在组织方面遇到了很多困难。您会推荐哪些应用程序来更好地组织我的工作流程、做笔记等？    提交人    /u/seilanaosei01   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i9u90f/what_apps_do_you_use_as_a_second_brain/</guid>
-      <pubDate>Sat, 25 Jan 2025 19:03:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
