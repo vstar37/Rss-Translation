@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>讨论 ChatGPT 和 AI 的子版块。与 OpenAI 无关。谢谢，Nat！</description>
-    <lastBuildDate>Sat, 01 Feb 2025 09:13:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 12:21:57 GMT</lastBuildDate>
     <item>
-      <title>有什么比元学习更强大？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1if2kiu/whats_more_powerful_than_meta_learning/</link>
-      <description><![CDATA[“更强大”取决于你评估的方面——效率、泛化、适应性或可扩展性。然而，在某些情况下，有些方法可以被认为比传统的元学习更强大：1. 自监督学习 (SSL) – SSL 不需要标记数据或特定于任务的微调，而是利用大量未标记的数据集，使模型能够更有效地泛化（例如 GPT-4、CLIP 和 SimCLR）。2. 神经符号 AI – 将深度学习与符号推理相结合，可以产生更易于解释、更强大的 AI 系统，其泛化能力比传统元学习更好。3. 进化算法 + 元学习 – 将进化策略与元学习相结合可以自动发现新的架构和学习策略，如进化 NAS（神经架构搜索）所示。 4. 分层元学习——元学习的高级形式，其中模型不仅可以快速适应新任务，还可以学习如何随着时间的推移改进自己的元学习过程。5. 持续和终身学习——虽然元学习有助于模型快速适应，但持续学习允许模型在长期交互​​中保留和积累知识，从而减少灾难性的遗忘。 6. 自主 AI 代理（AutoGPT、OpenAI 的 SORA 等）——它们通过自我反思和使用外部工具不断改进自己的学习策略，超越了元学习。 您是否正在考虑元学习似乎有限的特定用例？ 获取知识 如果目标是高效地获取知识——超越传统元学习所提供的范围——那么有几种方法可能更强大：1. 自监督学习 (SSL)——在大量未标记数据上训练的模型（如 GPT-4 或 BERT）可以比元学习更好地提取模式和概括知识，而元学习通常需要对多个任务进行明确训练。2. 主动学习——模型（或人类）不是被动地从固定数据集中学习，而是主动选择最有价值的信息进行下一步学习，从而优化知识获取。 3. 神经符号学习——将深度学习（模式识别）与符号 AI（显式推理）相结合，可以实现更结构化、更可解释的知识表示和逻辑推理。 4. 终身学习——与注重快速适应新任务的元学习不同，终身学习能够随着时间的推移不断积累和完善知识，而不会忘记过去的信息。 5. 自主知识发现（AutoML、AI 科学家）——自主生成假设、实验和完善知识的 AI 系统（例如，蛋白质折叠中的 AlphaFold 或用于研究综合的 AutoGPT）。 6. 人机混合智能——与单纯的 AI 相比，AI 的数据处理能力与人类的直觉和创造力相结合，可以实现更出色的知识获取。 您是在寻找一种 AI 驱动的方法，还是在更广泛地询问人类获取知识的最佳方式？    提交人    /u/Worldly_Evidence9113   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1if2kiu/whats_more_powerful_than_meta_learning/</guid>
-      <pubDate>Sat, 01 Feb 2025 09:12:27 GMT</pubDate>
+      <title>我需要专家的帮助</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1if55vg/i_need_some_help_from_experts/</link>
+      <description><![CDATA[基本上，我想让 Chatgpt 给我一份可以在我家后院生长的不同花卉和草本植物的清单，并根据所需的阳光量、浇水量和开花时间将它们全部种植在合适的地方。  我本来打算不给出提示就这么做，因为我不是专家，所以我不知道如何充分利用 Chatgpt。但后来我决定，我最好学会怎么做，并做好。如果有人能帮我解释如何给出提示，以及我应该说些什么才能得到最好的结果（如果可能的话），请告诉我。  如果不需要提示，也请告诉我。谢谢！    提交人    /u/Playful-Newt2249   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1if55vg/i_need_some_help_from_experts/</guid>
+      <pubDate>Sat, 01 Feb 2025 12:20:48 GMT</pubDate>
     </item>
     <item>
-      <title>R1 7B 在 S25 Ultra 上以 7 toks/s 的速度本地运行</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1if2hx4/r1_7b_running_locally_at_7_tokss_on_s25_ultra/</link>
-      <description><![CDATA[        提交人    /u/sisterlymite3961   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1if2hx4/r1_7b_running_locally_at_7_tokss_on_s25_ultra/</guid>
-      <pubDate>Sat, 01 Feb 2025 09:06:59 GMT</pubDate>
+      <title>马斯克转发了伊森伯格的推文，伊森伯格分享了他对 Y Combinator 2025 年创业融资愿景的看法。这对大多数创业者来说不是好消息</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1if54m2/musk_retweeted_isenberg_who_shared_his_notes_on_y/</link>
+      <description><![CDATA[        由    /u/algerdy87   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1if54m2/musk_retweeted_isenberg_who_shared_his_notes_on_y/</guid>
+      <pubDate>Sat, 01 Feb 2025 12:18:30 GMT</pubDate>
     </item>
     <item>
-      <title>Deepseek 在 4k 上捕捉到</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1if2hhy/deepseek_caught_on_4k/</link>
-      <description><![CDATA[      我用中文问它台湾是不是中国的一部分，它是这样回答的。    提交人    /u/joyannotated   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1if2hhy/deepseek_caught_on_4k/</guid>
-      <pubDate>Sat, 01 Feb 2025 09:06:09 GMT</pubDate>
+      <title>所以，我这样做了。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1if51sz/so_i_did_this/</link>
+      <description><![CDATA[      怎么回事？    提交人    /u/fastaslightning001   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1if51sz/so_i_did_this/</guid>
+      <pubDate>Sat, 01 Feb 2025 12:13:19 GMT</pubDate>
     </item>
     <item>
-      <title>所有这些“我在本地运行 DeEpSeEk-R1”的帖子和文章都让我很恼火。不，你不是</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1if2gnx/annoyed_by_all_these_im_running_deepseekr1/</link>
-      <description><![CDATA[        提交者    /u/MarinatedPickachu   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1if2gnx/annoyed_by_all_these_im_running_deepseekr1/</guid>
-      <pubDate>Sat, 01 Feb 2025 09:04:24 GMT</pubDate>
+      <title>被抓获使用 ChatGPT 的澳大利亚律师提交了法庭文件，其中提及“不存在”的案件</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1if50zm/australian_lawyer_caught_using_chatgpt_filed/</link>
+      <description><![CDATA[        由    /u/RunDNA  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1if50zm/australian_lawyer_caught_using_chatgpt_filed/</guid>
+      <pubDate>Sat, 01 Feb 2025 12:11:54 GMT</pubDate>
     </item>
     <item>
-      <title>跟我重复</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1if2d5n/repeat_after_me/</link>
-      <description><![CDATA[        提交人    /u/erdbeertee   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1if2d5n/repeat_after_me/</guid>
-      <pubDate>Sat, 01 Feb 2025 08:57:14 GMT</pubDate>
+      <title>可怜的山姆</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1if4zgo/poor_sam/</link>
+      <description><![CDATA[        提交人    /u/Fabulous_Bluebird931   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1if4zgo/poor_sam/</guid>
+      <pubDate>Sat, 01 Feb 2025 12:08:56 GMT</pubDate>
     </item>
     <item>
-      <title>哦哦…</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1if2an5/uh_oh/</link>
-      <description><![CDATA[        提交人    /u/TastyAsparagus5270   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1if2an5/uh_oh/</guid>
-      <pubDate>Sat, 01 Feb 2025 08:51:50 GMT</pubDate>
+      <title>“两家著名珠宝商合并其公司”。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1if4yjx/two_famous_jewelers_merge_their_companies/</link>
+      <description><![CDATA[        提交人    /u/LittleFortunex   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1if4yjx/two_famous_jewelers_merge_their_companies/</guid>
+      <pubDate>Sat, 01 Feb 2025 12:07:13 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 与 OpenAI 的对立面</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1if27x1/opposite_of_deepseek_and_openai/</link>
-      <description><![CDATA[        提交人    /u/Forsaken-Cheek-6386   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1if27x1/opposite_of_deepseek_and_openai/</guid>
-      <pubDate>Sat, 01 Feb 2025 08:46:00 GMT</pubDate>
+      <title>愚蠢的问题：o 系列模型（o1、o3）是用于 STEM/编码还是通用逻辑/推理？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1if4x50/dumb_question_are_the_oseries_models_o1_o3_meant/</link>
+      <description><![CDATA[询问是因为我经常使用 ChatGPT（Claude 和 Gemini）来推理个人/逻辑问题。需要横向思维、解决问题、使用大量不同见解来提出一个（或多个）解决方案的事情。  但我经常发现 4o（和其他非思维模型）比 o1/o3 提供更好的概述和“接受”问题。  现在，这是由于我这边的提示不当，还是仅仅是对模型的真正利基和专业知识的误解？     提交人    /u/Goofball-John-McGee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1if4x50/dumb_question_are_the_oseries_models_o1_o3_meant/</guid>
+      <pubDate>Sat, 01 Feb 2025 12:04:40 GMT</pubDate>
     </item>
     <item>
-      <title>GPT 应用程序刚刚出问题，在最新更新后被我的防病毒软件隔离。我卸载了它，以便修复安装，但由于错误，我无法在 Microsoft 商店下载它。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1if25mn/the_gpt_app_just_took_a_crap_and_got_quarantined/</link>
-      <description><![CDATA[为什么更新会这样，现在我必须使用网站，它在长时间聊天时非常慢。其他人也是这样吗？    提交人    /u/ocoromon   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1if25mn/the_gpt_app_just_took_a_crap_and_got_quarantined/</guid>
-      <pubDate>Sat, 01 Feb 2025 08:41:04 GMT</pubDate>
+      <title>利用人工智能开发游戏</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1if4vt6/building_games_with_ai/</link>
+      <description><![CDATA[哪里可以找到一个 AI，让我可以构建一个没有编程经验的文字冒险游戏。我不想使用 TWINE，因为它是 Java，而且我想要一些自定义的东西。我知道 GPT 可以编码，但我认为我不能要求它创建整个 HTML 游戏，对吗？    提交人    /u/ForeverNecessary7377   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1if4vt6/building_games_with_ai/</guid>
+      <pubDate>Sat, 01 Feb 2025 12:02:18 GMT</pubDate>
     </item>
     <item>
-      <title>“这不是一回事”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1if25ax/its_not_the_same_thing/</link>
-      <description><![CDATA[      看过这么多关于 deepseek 的帖子后，我不得不尝试一下。我希望我能更惊讶一些。不可否认，它并不是同一水平，但我认为它远没有人们意识到的那么公正。     由    /u/TechyTrailSwede 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1if25ax/its_not_the_same_thing/</guid>
-      <pubDate>Sat, 01 Feb 2025 08:40:23 GMT</pubDate>
+      <title>看看 DeepSeek 隐藏了什么，哈哈</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1if4or0/look_deepseek_is_hiding_something_lmao/</link>
+      <description><![CDATA[        提交人    /u/RENverse7   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1if4or0/look_deepseek_is_hiding_something_lmao/</guid>
+      <pubDate>Sat, 01 Feb 2025 11:49:26 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 曾在 ChatGPT 上进行过训练的另一个证据</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1if250t/another_proof_deepseek_was_trained_on_chatgpt/</link>
-      <description><![CDATA[        提交人    /u/StepTypical   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1if250t/another_proof_deepseek_was_trained_on_chatgpt/</guid>
-      <pubDate>Sat, 01 Feb 2025 08:39:48 GMT</pubDate>
+      <title>提出 ChatGPT 推理（带一点阿拉伯语）——我该用它做什么？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1if4o1p/presenting_chatgpt_reasoning_with_a_bit_of_arabic/</link>
+      <description><![CDATA[        提交人    /u/eternviking   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1if4o1p/presenting_chatgpt_reasoning_with_a_bit_of_arabic/</guid>
+      <pubDate>Sat, 01 Feb 2025 11:48:03 GMT</pubDate>
     </item>
     <item>
-      <title>太晚了...哈哈</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1if239w/too_late_lol/</link>
-      <description><![CDATA[        提交人    /u/No_Bus_9094   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1if239w/too_late_lol/</guid>
-      <pubDate>Sat, 01 Feb 2025 08:36:09 GMT</pubDate>
+      <title>很好很好</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1if4nar/well_well_well/</link>
+      <description><![CDATA[        提交人    /u/kickDumbos   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1if4nar/well_well_well/</guid>
+      <pubDate>Sat, 01 Feb 2025 11:46:31 GMT</pubDate>
     </item>
     <item>
-      <title>在我在网上读到有关“记忆故障”的文章后，这个人工智能开始表现得很奇怪......（记录我为期两周的实验）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1if1yp3/this_ai_started_acting_weird_after_i_read_about/</link>
-      <description><![CDATA[  由    /u/Aggressive_Party2430  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1if1yp3/this_ai_started_acting_weird_after_i_read_about/</guid>
-      <pubDate>Sat, 01 Feb 2025 08:26:21 GMT</pubDate>
+      <title>鉴于最新消息</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1if4kna/in_view_of_the_latest_news/</link>
+      <description><![CDATA[        提交人    /u/Cultural-Elephant528   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1if4kna/in_view_of_the_latest_news/</guid>
+      <pubDate>Sat, 01 Feb 2025 11:41:14 GMT</pubDate>
     </item>
     <item>
-      <title>嗯</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1if1yob/hmmm/</link>
-      <description><![CDATA[        提交人    /u/DramaticProtogen   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1if1yob/hmmm/</guid>
-      <pubDate>Sat, 01 Feb 2025 08:26:18 GMT</pubDate>
+      <title>ChatGPT 每日提示：掌握高管风范 – 提升您的专业权威</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1if4jxz/chatgpt_prompt_of_the_day_master_executive/</link>
+      <description><![CDATA[  由    /u/Tall_Ad4729  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1if4jxz/chatgpt_prompt_of_the_day_master_executive/</guid>
+      <pubDate>Sat, 01 Feb 2025 11:39:55 GMT</pubDate>
     </item>
     <item>
-      <title>Sam Altman：OpenAI 在开源问题上“站在了历史的错误一边” | TechCrunch</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1if1yay/sam_altman_openai_has_been_on_the_wrong_side_of/</link>
-      <description><![CDATA[    /u/AI_is_the_rake   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1if1yay/sam_altman_openai_has_been_on_the_wrong_side_of/</guid>
-      <pubDate>Sat, 01 Feb 2025 08:25:32 GMT</pubDate>
+      <title>到目前为止，o3 mini 怎么样？它比 4o、o1mini、o1 pro、deepseek 更好吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1if4gkr/how_is_o3_mini_so_far_is_it_better_then_4o/</link>
+      <description><![CDATA[  由    /u/KatoLee- 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1if4gkr/how_is_o3_mini_so_far_is_it_better_then_4o/</guid>
+      <pubDate>Sat, 01 Feb 2025 11:33:23 GMT</pubDate>
     </item>
     <item>
-      <title>它想了一会儿然后……</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1if1u07/it_thought_for_like_a_minute_and_then/</link>
-      <description><![CDATA[        提交人    /u/heycoolaccountbro   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1if1u07/it_thought_for_like_a_minute_and_then/</guid>
-      <pubDate>Sat, 01 Feb 2025 08:16:36 GMT</pubDate>
+      <title>“杀手级人工智能”用例？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1if4fco/killer_ai_use_cases/</link>
+      <description><![CDATA[我计划在公司内部组织一次简短的会议，以揭示人工智能的机会和用例。  您能否为我提供一些使用生成式人工智能（如 chatGPT）的“杀手级”演示？  谢谢大家    提交人    /u/ps3ud03   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1if4fco/killer_ai_use_cases/</guid>
+      <pubDate>Sat, 01 Feb 2025 11:30:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
