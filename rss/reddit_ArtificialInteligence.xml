@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 05 Feb 2025 12:25:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 15:14:00 GMT</lastBuildDate>
+    <item>
+      <title>以下是人工智能领域的新闻动态。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iibj7x/heres_whats_making_news_in_ai/</link>
+      <description><![CDATA[聚焦： OpenAI 的新商标暗示了人形机器人和智能珠宝  DeepSeek：禁止这家 AI 公司技术的国家和机构 ((TechCrunch) 披头士乐队昨晚凭借 AI 获得格莱美奖 (TechCrunch、格莱美、TMZ) 谷歌解除了禁止使用 AI 进行武器和监视的禁令 (TechCrunch) OpenAI 重塑品牌 (OpenAI/brand、TechCrunch、The Verge) Tana 获得 2500 万美元融资，其 AI 驱动的工作知识图谱吸引了 16 万多名候补名单 (TechCrunch) 软银支持的亿万富翁将向印度 AI 初创公司投资 2.3 亿美元Krutrim (TechCrunch) 加拿大的 StackAdapt 为其基于 AI 的程序化平台融资 2.35 亿美元 (TechCrunch)  如果您想了解 AI 新闻，它会在这里首先推出，其中包含所有来源和文章的完整摘要。    提交人    /u/codeharman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iibj7x/heres_whats_making_news_in_ai/</guid>
+      <pubDate>Wed, 05 Feb 2025 14:44:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>为法学硕士/代理定制操作系统</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ii9bd8/custom_os_for_llmagents/</link>
+      <description><![CDATA[我促使 GPT o3-mini-high 编写针对其进行优化的操作系统的基本代码。它生成了看似已售出的代码，但我尚未测试过。我会在周末有更多空闲时间时尝试这样做。 AI 专用操作系统可能有哪些好处，又有哪些安全隐患？如果它的代码设计为仅接受内部制作的软件，它是否会提供更安全的 UI？我很想听听您的想法。    提交人    /u/Herodont5915   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ii9bd8/custom_os_for_llmagents/</guid>
+      <pubDate>Wed, 05 Feb 2025 12:56:18 GMT</pubDate>
+    </item>
     <item>
       <title>宪法分类器：使用基于规则的合成数据训练 LLM 保障措施，以防止普遍越狱</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ii6lls/constitutional_classifiers_training_llm/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>什么会先发生？机器人接管世界还是通过其他人类方式终结文明？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ihz6a1/what_will_come_first_the_robot_takeover_or_the/</link>
-      <description><![CDATA[由于我们现在有了人工智能来编写代码。我们距离机器人编程机器人，然后是机器人末日只有一步之遥。但同时，人类正走在一条下行轨道上，我们踩着油门通过各种机制。我相信你们都知道。我们绝对不能合作解决世界上的任何问题。我们甚至有世界上最富有的三个人在同一个国家独立建造自己的火箭，如果人类有任何希望，我们都会共同努力解决我们共同的问题，但我离题了，你认为哪一个会先发生？    提交人    /u/BSato83   [链接] [评论]]]></description>
+      <description><![CDATA[由于我们现在有了人工智能来编写代码。我们距离机器人编程机器人，然后是机器人末日只有一步之遥。但同时，人类正走在一条下行轨道上，我们踩着油门，通过各种机制。我相信你们都知道。我们绝对不能合作解决世界上的任何问题。我们甚至有世界上最富有的三个人在同一个国家独立建造自己的火箭，如果人类有任何希望，我们都会共同努力解决我们共同的问题，但我离题了，你认为哪一个会先发生？    提交人    /u/BSato83   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ihz6a1/what_will_come_first_the_robot_takeover_or_the/</guid>
       <pubDate>Wed, 05 Feb 2025 02:04:55 GMT</pubDate>
     </item>
@@ -57,16 +71,9 @@
     <item>
       <title>AMD 今日收益 2/4/25</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ihruxe/amd_earnings_today_2425/</link>
-      <description><![CDATA[新闻：GPU 和 HPC-AI 股票 AMD 将于 2025 年 2 月 4 日发布收益。收益表现将受到 CPU/GPU 销售、MI300X GPU 的当前需求以及 HPC-AI 对 Instinct MI350X GPU 的预测（可能比 NVDA 具有更好的价值推断）的影响，预计在 2025 年下半年。详情如下： 对于 2024 年，最好的整体和游戏 CPU 可能是 AMD 的 Ryzen 7 9800X3D（比英特尔的 Core Ultra 9 285k 更有价值）。此外，最平衡的工作/游戏 CPU 可能是 AMD 的 Ryzen 9 7950X（比能效低得多的英特尔 Core i9 14900K 更好）。 AMD 的 Ryzen 7 5700X3D 可能在升级方面最灵活（旧 MOBO 支持 AM4）。  2024 年，英特尔的第 13 代和第 14 代 CPU 稳定性问题令人大失所望。再加上糟糕的性价比，AMD 在 CPU 领域占据主导地位。尽管如此，在竞争对手开始宣布生产定制硅片后，AMD 的 HPC-AI 预测下降，这在很大程度上导致了 AMD 股价下跌。然而，各种客户仍在使用 AMD MI300X GPU，例如 ORCL（Oracle 云基础设施）和 IBM Cloud 最近成为部署 MI300X 预计在 2025 年上半年的新合作伙伴。看看 AMD 能否击败 FUD 并在今天表现出色将会很有趣。    提交人    /u/charliealza   [链接] [评论]]]></description>
+      <description><![CDATA[新闻：GPU 和 HPC-AI 股票 AMD 将于 2025 年 2 月 4 日发布收益。收益表现将受到 CPU/GPU 销售、MI300X GPU 的当前需求以及 HPC-AI 对 Instinct MI350X GPU 的预测（可能比 NVDA 具有更好的价值推断）的影响，预计在 2025 年下半年。详情如下： 对于 2024 年，最好的整体和游戏 CPU 可能是 AMD 的 Ryzen 7 9800X3D（比英特尔的 Core Ultra 9 285k 更有价值）。此外，最平衡的工作/游戏 CPU 可能是 AMD 的 Ryzen 9 7950X（比能效低得多的英特尔 Core i9 14900K 更好）。 AMD 的 Ryzen 7 5700X3D 可能在升级方面最灵活（旧 MOBO 支持 AM4）。  2024 年，英特尔的第 13 代和第 14 代 CPU 稳定性问题令人大失所望。再加上糟糕的性价比，AMD 在 CPU 领域占据主导地位。尽管如此，在竞争对手开始宣布生产定制硅片后，AMD 的 HPC-AI 预测下降，这在很大程度上导致了 AMD 的下滑。然而，各种客户仍在使用 AMD MI300X GPU，例如 ORCL（Oracle 云基础设施）和 IBM Cloud，最近成为部署 MI300X 预计在 2025 年上半年的新合作伙伴。看看 AMD 能否击败 FUD 并在今天表现出色将会很有趣。    提交人    /u/charliealza   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ihruxe/amd_earnings_today_2425/</guid>
       <pubDate>Tue, 04 Feb 2025 20:40:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>一旦人工智能达到人类水平的智能——假设这是 Yann Lecun 的积极情景</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ihpunl/once_ai_reach_human_level_intelligence_assuming/</link>
-      <description><![CDATA[假设 Yann LeCun 的积极情景得以实现，其中 AI 基本上将作为我们的助手。 Yann LeCun 表示，人类将像公司领导或经理一样，告诉通常比他们聪明得多的员工该做什么才能提高生产率。 但我们是否也能直接说“我坐在家里就能赚钱”？如果这是我想要的？ 或者也会有护栏以某种方式防止这种情况发生，就像护栏会防止 AI 伤害人类等一样。 ---------- 此外，假设一切保持不变，只是我们都有 AI 助手帮助我们完成任务，那么竞争将如何发挥作用，因为它是资本主义的一个基本特征？  例如，小公司能够通过更灵活和允许自己承担更多风险来超越大公司。 人工智能是否会让大公司完善自己，以至于基本上不可能与它们竞争？ ----------- 我发表这篇文章的前提是 Yann Lecun 的场景正在成为现实，其中“达到人类水平甚至超越人类智能的人工智能将作为我们的助手，仅此而已”。    提交人    /u/Vklo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ihpunl/once_ai_reach_human_level_intelligence_assuming/</guid>
-      <pubDate>Tue, 04 Feb 2025 19:18:29 GMT</pubDate>
     </item>
     <item>
       <title>OpenAI 称其模型比 82% 的 Reddit 用户更有说服力</title>
@@ -74,13 +81,6 @@
       <description><![CDATA[大家对此有什么看法？你认为事实确实如此吗？82% 是一个相当大的数字。    提交人    /u/Arthur_Morgan44469   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ihogyg/openai_says_its_models_are_more_persuasive_than/</guid>
       <pubDate>Tue, 04 Feb 2025 18:22:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>r1：2 个月，sky-t-1：19 天，斯坦福新开源 s1 在 26 分钟内完成训练！正在朝着数分钟的递归迭代迈进？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ihmg57/r1_2_months_skyt1_19_days_stanfords_new_open/</link>
-      <description><![CDATA[好吧，让我们回顾一下我们所做的事情。deepseek 在 2 个月内用大约 2,000 个 h800 训练了 r1。加州大学伯克利分校在 19 天内用 8 个 h100 训练了 sky-t1。斯坦福大学仅用 26 分钟就用 16 个 h100 训练了其新的开源 s1 模型。这太不可思议了。 这里有更多详细信息。33b si 是在一个非常小的 1,000 个推理示例的数据集上进行训练的。它比 openai 在 aime24 上的 o1-preview 提高了 27%。通过“预算强制”， s1 在 aime 上的准确率从 50% 提升到了 57%。 它在解决数学问题和复杂的推理任务中特别有效，最适合于计算效率和对推理步骤的精确控制至关重要的应用。 如果研究人员想要从 s1 递归迭代新模型，则每个周期对新版本进行微调或迭代可能需要几分钟或几个小时。按照这种发展速度，我们大概每周都可以期待新的极具竞争力的开源模型。让我们看看会发生什么。 https://the-decoder.com/getting-the-right-data-and-telling-it-to-wait-turns-an-llm-into-a-reasoning-model/    提交人    /u/Georgeo57   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ihmg57/r1_2_months_skyt1_19_days_stanfords_new_open/</guid>
-      <pubDate>Tue, 04 Feb 2025 17:01:03 GMT</pubDate>
     </item>
     <item>
       <title>还有人发现那些自以为智力优越的人无法理解法学硕士学位吗？</title>
@@ -92,7 +92,7 @@
     <item>
       <title>LLM 能带来 AGI 吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ihhgmh/can_llms_lead_to_agi/</link>
-      <description><![CDATA[标题。 从本质上讲，法学硕士每天都在变得越来越强大和先进。如果他们已经能够生成图像并为一小部分经济活动做出贡献，那么是什么阻止他们最终处理在线经济任务和现实世界的识别呢？ 只是一个问题。谢谢！    由   提交  /u/FireTriumph   [link] [评论]]]></description>
+      <description><![CDATA[标题。 从本质上讲，法学硕士每天都在变得越来越强大和先进。如果他们已经可以生成图像并为一小部分经济活动做出贡献，那么是什么阻止他们最终处理在线经济任务和现实世界的识别呢？ 只是一个问题。谢谢！    由   提交  /u/FireTriumph   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ihhgmh/can_llms_lead_to_agi/</guid>
       <pubDate>Tue, 04 Feb 2025 13:19:36 GMT</pubDate>
     </item>
