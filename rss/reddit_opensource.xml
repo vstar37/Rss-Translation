@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 05 Feb 2025 21:13:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 01:03:16 GMT</lastBuildDate>
+    <item>
+      <title>Transformer Lab：一种用于本地训练、推理和所有 LLM 的开源替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iinixq/transformer_lab_an_opensource_alternative_to/</link>
+      <description><![CDATA[https://github.com/transformerlab/transformerlab-app    由   提交  /u/Firm-Development1953   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iinixq/transformer_lab_an_opensource_alternative_to/</guid>
+      <pubDate>Wed, 05 Feb 2025 22:57:08 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个开源 LeetCode/Codeforces 克隆。</title>
       <link>https://www.reddit.com/r/opensource/comments/1iikjgi/i_made_an_opensource_leetcodecodeforces_clone/</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[你好。我想加密一个文件以存储在云中。我是 CLI 新手，有人告诉我 GnuPG 是我最好的选择。我问了 AI，到目前为止，这是我得到的命令： gpg -c --armor --cipher-algo AES256 --no-symkey-cache --output cryptographic-file.asc original-file.txt  解密： gpg -d filename.gpg  有人能告诉我我做的是否正确吗？ 1-使用 GnuPG 加密在云中长期存储是否安全？ 2-我如何确认加密是安全的？ 3-GnuPG 是否比仅使用 .7z AES-256 密码加密更好？如果都一样，那么使用 PeaZip 可能更容易。 任何额外的指导都非常感谢。我最不想做的就是上传我的文件并让恶意行为者暴露它们    提交人    /u/floatontherainbowtw   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iihpp0/am_i_using_gnupg_correct/</guid>
       <pubDate>Wed, 05 Feb 2025 18:58:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>ArxivTok – TikTok 风格的界面，用于浏览 ArXiv 论文</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iih37p/arxivtok_tiktokstyle_interface_for_browsing_arxiv/</link>
-      <description><![CDATA[       由    /u/Miguel07Alm  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iih37p/arxivtok_tiktokstyle_interface_for_browsing_arxiv/</guid>
-      <pubDate>Wed, 05 Feb 2025 18:33:31 GMT</pubDate>
     </item>
     <item>
       <title>Sage：开源且自托管的语音聊天系统，提供法学硕士课程</title>
