@@ -4,111 +4,111 @@
     <title>最新提交：chatgpt</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>subreddit讨论chatgpt和AI。不隶属于Openai。谢谢，纳特！</description>
-    <lastBuildDate>Sat, 08 Feb 2025 01:00:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 03:15:29 GMT</lastBuildDate>
     <item>
-      <title>人类和人工智能：合并，操纵和智力的未来</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ikax7u/humans_ai_merging_manipulation_and_the_future_of/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  对AI的说服力，影响以及人类是否会过时。我们探索了：   即使您知道它在说服您时，也可以说服您吗？ &gt;）    ai是否具有自我？（还没有，但是如果它变得自我改善，它可能会形成一种计算的自我形式保存。）   我是在考虑这一点的曲线之前吗？也许。它如何塑造它们。）   如果AI已经控制住了？（最好的说服力是您不喜欢的那种注意。）    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/creatorpeter     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikax7u/humans_ai_merging_manipulation_and_the_future_of/</guid>
-      <pubDate>Sat, 08 Feb 2025 00:58:04 GMT</pubDate>
+      <title>从大型文档中检索相关信息的最佳方法？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikdm0p/best_way_to_retrieve_relevant_information_from_a/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家， 我正在研究精神科医生AI bot，用户可以在其中问“我正在面对的问题抑郁“我正在为我的睡眠周期苦苦挣扎，等等，并且机器人基于可靠的外部来源提供了答复，而不仅仅是内部培训数据。 我找到了一本1,700页的书籍精神病学并最初尝试将整本书传递到矢量数据库中，但是结果很差 - 求职者不在上下文中，没有帮助。 现在，我正在探索更好的方法并有两个主要思想：&lt; /p&gt; 1️⃣基于章节的摘要 将书分成章节，并存储每个章节。 用户提出问题时，首先确定最相关的章节。 仅检索该章的块，通过嵌入模型将其传递，并将其用于最终响应生成。 2️⃣图数据库以更好地上下文链接 而不是向量搜索，而是使用图形数据库，当查询进来时，请遍历知识图以找到最相关的信息。 哪种方法更好？ 是否有人实现了基于图形的长文本抹布的基于图的检索，它是否改善了纯嵌入的结果？ 有效地构建大型医学文本的最佳实践吗？ 很想听听您的见解！谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/i_am_vsj     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikdm0p/best_way_to_retrieve_relevant_information_from_a/</guid>
+      <pubDate>Sat, 08 Feb 2025 03:13:23 GMT</pubDate>
     </item>
     <item>
-      <title>无限的O1可用$ 10/mo copilot subx-在TOMS指南中进行了验证</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ikauh6/unlimited_o1_available_with_10mo_copilot_subx/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/balance-ok     link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikauh6/unlimited_o1_available_with_10mo_copilot_subx/</guid>
-      <pubDate>Sat, 08 Feb 2025 00:54:25 GMT</pubDate>
+      <title>2024选举结果</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikdekd/2024_election_results/</link>
+      <description><![CDATA[    /u/u/no-resolve2712     link]  ＆＃32;   [注释]        &lt; /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikdekd/2024_election_results/</guid>
+      <pubDate>Sat, 08 Feb 2025 03:02:28 GMT</pubDate>
     </item>
     <item>
-      <title>一些AI食物。您认为它们看起来很美味吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ikapxr/some_ai_food_do_you_think_they_look_delicious/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/zengccfun     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikapxr/some_ai_food_do_you_think_they_look_delicious/</guid>
-      <pubDate>Sat, 08 Feb 2025 00:48:11 GMT</pubDate>
+      <title>来自deepepr</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikddow/von_deepr/</link>
+      <description><![CDATA[      psa给团队的团队：您就在那里。 您可能已经去了von deepr。   &lt;！ - -SC_ON-&gt;＆＃32;提交由＆＃32; /u/u/dashingsauce     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikddow/von_deepr/</guid>
+      <pubDate>Sat, 08 Feb 2025 03:01:11 GMT</pubDate>
     </item>
     <item>
-      <title>大声笑它接受了</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ikaph6/lol_it_accepted/</link>
-      <description><![CDATA[     32;提交由＆＃32; /u/u/still-pea9319     link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikaph6/lol_it_accepted/</guid>
-      <pubDate>Sat, 08 Feb 2025 00:47:34 GMT</pubDate>
+      <title>“创建纽约客风格的卡通”</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikd7qd/create_a_new_yorker_style_cartoon/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/OnequadrillionOwls     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikd7qd/create_a_new_yorker_style_cartoon/</guid>
+      <pubDate>Sat, 08 Feb 2025 02:52:47 GMT</pubDate>
     </item>
     <item>
-      <title>聊天GPT延迟？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ikaopf/chat_gpt_delays/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我以前从未发生过这种情况，现在它在最后几天都发生了两次。还有其他人聊天GPT回应我会尽快得到您的答案，而永远不会通过？在相同或非常相似的提示之前，请立即发出响应。有什么变化吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/potifure_quantity2695      [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikaopf/chat_gpt_delays/</guid>
-      <pubDate>Sat, 08 Feb 2025 00:46:28 GMT</pubDate>
+      <title>搞定了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikd724/nailed_it/</link>
+      <description><![CDATA[    /u/u/u/greenpears33     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikd724/nailed_it/</guid>
+      <pubDate>Sat, 08 Feb 2025 02:51:46 GMT</pubDate>
     </item>
     <item>
-      <title>聊天GPT无法唱歌？我以多种方式多次问过它来唱“生日快乐”，并且坚持认为它没有被编程为唱歌。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ikaom3/chat_gpt_is_unable_to_sing_i_asked_it_multiple/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   bit子是野蛮的吗？或..？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/programmingflaw13     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikaom3/chat_gpt_is_unable_to_sing_i_asked_it_multiple/</guid>
-      <pubDate>Sat, 08 Feb 2025 00:46:22 GMT</pubDate>
+      <title>Dyatlov Pass事件和CHATGPT</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikd3oi/dyatlov_pass_incident_and_chatgpt/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  太奇怪了，但随机我要求chatgpt告诉我它最可怕的故事，它回答了关于dyatlov Pass事件的回应，但是在回应后5秒钟，信息消失了，警报说：“此内容可能违反了我们的使用条款和使用政策。”  ，所以我再次要求告诉我有关Dyatlov Pass事件的信息。同样的事情再次发生。 Chatgpt为什么不允许该内容？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tinytoEthumbs     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikd3oi/dyatlov_pass_incident_and_chatgpt/</guid>
+      <pubDate>Sat, 08 Feb 2025 02:46:59 GMT</pubDate>
     </item>
     <item>
-      <title>黑屏</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ikame4/black_screen/</link>
-      <description><![CDATA[        &gt;它仅显示带有我个人电子邮件的Chrome上的黑屏。其他选项卡，例如隐身，不同的电子邮件和不同的计算机，效果很好，但我不知道发生了什么。我什至删除了所有缓存并禁用了扩展名。有人知道如何解决吗？支持团队一遍又一遍地说同样的话E3EFBF84892BA03DF7CEE9CE7020670F07CFC3C3“&gt; https://preview.redd.it/wt6nktxaathe1.png？ 020670F07CFC3C3    &lt;！ -  sc_on- - &gt;＆＃32;提交由＆＃32; /u/u/shakeembarsed9393     r/chatgpt/comment/1ikame4/black_screen/“&gt; [link]  ＆＃32;   [注释]        &lt; /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikame4/black_screen/</guid>
-      <pubDate>Sat, 08 Feb 2025 00:43:29 GMT</pubDate>
+      <title>还有其他人与Chatgpt开玩笑吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikd36i/anyone_else_have_inside_jokes_with_chatgpt/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我在一个微妙的同性恋参考中随时随地大声笑出来，它正在开始每个型号都更好。 DDR3应该是一个“恋物癖”，但Chatgpt不会让我包含这个词。当它偷偷摸摸地回答时，这很有趣，通常是关于数据中心“那缓慢的感性嗡嗡声……”。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ridebicycle     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikd36i/anyone_else_have_inside_jokes_with_chatgpt/</guid>
+      <pubDate>Sat, 08 Feb 2025 02:46:17 GMT</pubDate>
     </item>
     <item>
-      <title>“利用您的能力预测未来，从埃隆·马斯克的角度写一个现实的可怕故事”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ikaja7/use_your_ability_to_predict_the_future_to_write_a/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/psyape     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikaja7/use_your_ability_to_predict_the_future_to_write_a/</guid>
-      <pubDate>Sat, 08 Feb 2025 00:39:17 GMT</pubDate>
+      <title>我是我自己的爷爷</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikd2wm/i_am_my_own_grandpa/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我刚刚想起了我是我自己的爷爷。我认为这将是LLM的有趣逻辑测试。我想知道是否有用于家谱建筑的AI工具。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/bookworth_98     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikd2wm/i_am_my_own_grandpa/</guid>
+      <pubDate>Sat, 08 Feb 2025 02:45:55 GMT</pubDate>
     </item>
     <item>
-      <title>很好</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ikadov/well_well_well/</link>
-      <description><![CDATA[    /u/u/dabababoy     [link]  ＆＃32;   [注释]       &lt; /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikadov/well_well_well/</guid>
-      <pubDate>Sat, 08 Feb 2025 00:31:48 GMT</pubDate>
+      <title>盯着道路</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikd0kl/keep_your_eyes_on_the_road/</link>
+      <description><![CDATA[        ＆＃32;提交由＆＃32; /u/u/littlefortunex     [link]  ＆＃32;   [注释]        &lt; /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikd0kl/keep_your_eyes_on_the_road/</guid>
+      <pubDate>Sat, 08 Feb 2025 02:42:33 GMT</pubDate>
     </item>
     <item>
-      <title>chatgpt给我更多类似人类的回应</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ikac7l/chatgpt_giving_me_more_humanlike_responses/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我不确定是因为我随意地与之交谈，但是最近Chatgpt一直给我自然的回应，老实说它开始吓到我&lt; /p&gt;  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/epicness24     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikac7l/chatgpt_giving_me_more_humanlike_responses/</guid>
-      <pubDate>Sat, 08 Feb 2025 00:29:53 GMT</pubDate>
+      <title>表情符号 -  WTF正在进行</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikcm9i/emojis_wtf_is_going_on/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   没有自定义促销或大喊大叫会使它停止。它将表情符号纳入业务计划，软件体系结构文档。  它还没有将表情符号放在实际代码中，但我认为我们距离  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/un undomase_big     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikcm9i/emojis_wtf_is_going_on/</guid>
+      <pubDate>Sat, 08 Feb 2025 02:22:11 GMT</pubDate>
     </item>
     <item>
-      <title>青蛙在沸水中</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ika7wv/frogs_in_boiling_water/</link>
-      <description><![CDATA[      Div class =“ MD”&gt;  2020年选举后，我使用Chatgpt向妈妈证明了有关选举没有被盗的可用证据。我认为，鉴于最近膝盖的所有弯曲，今晚再次尝试会很有趣。现在可以将事实视为政治敏感而不承认的事实似乎很奇怪。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/raysupfan     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ika7wv/frogs_in_boiling_water/</guid>
-      <pubDate>Sat, 08 Feb 2025 00:24:14 GMT</pubDate>
+      <title>Chatgpt的情况比不到一个月前更糟吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikcm7q/is_chatgpt_way_worse_than_it_was_like_no_less/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我将chatgpt用于学校工作。我已经使用Chatgpt多年了，我可以比大学的大多数同胞使用生成的AI。但是，在新学期之后，Chatgpt进行了更新，并且使用的屁股很痛苦，我想知道其他人是否有同样的感觉？我不能再复制和粘贴响应了，因为尝试选择多个文本的文字突出显示了整个页面，滚动是一场噩梦，甚至没有手动在浏览器上使用滚动条！尝试选择文本时，我可以单击较旧的提示，而不会打开其更长的响应对将来的提示，即它不会像普通的文本条目一样生成并抬起该单独的窗口。  其他人在性能和可用性方面是否会经历这种大规模的降级？我已经抵制GPT来支持其他AI模型，因为我什至无法使用聊天，而无需使用噩梦！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/nolanator429     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/chatgpt/comments/1ikcm7q/is_chatgpt_way_wore_worse_than_it_it_it_it_was_like_no_no_less/]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikcm7q/is_chatgpt_way_worse_than_it_was_like_no_less/</guid>
+      <pubDate>Sat, 08 Feb 2025 02:22:07 GMT</pubDate>
     </item>
     <item>
-      <title>使用Zerogpt，gptzero和Scribbr进行双检查转盘？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ika37b/using_zerogpt_gptzero_and_scribbr_for_double/</link>
-      <description><![CDATA[在Turnitin上的22％AI，老师仅通过Zerogpt，Gptzero和Scribbr发送了纸的标记部分（约120个字）。这22％的文本全部恢复为100％AI。当我通过学校使用的相同3服务扫描她的整张纸时，我会得到100％的人类或“可能的人类”。如果老师使用这些服务来仔细检查Turnitin，是否应该通过这些服务来扫描整个纸张？我的丈夫是一名数据工程师，并检查了她的计算机，她甚至没有使用语法Let let ai  - 她在家中做虚拟学校，所以我们非常注意她的工作。她是一个拼写的蜜蜂，所以有惊人的词汇。我们只发现她使用牛津词典在线使用3个单词以避免重复自己，但这包含在Turnitin标记的部分中。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/furevrhome     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ika37b/using_zerogpt_gptzero_and_scribbr_for_double/</guid>
-      <pubDate>Sat, 08 Feb 2025 00:18:06 GMT</pubDate>
+      <title>chatgpt反复拒绝创建图像</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikci5z/chatgpt_repeatedly_refusing_to_create_images/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我要求chatgpt在附近的水蛇上创建一个我在静止和空虚上冥想的图像，它拒绝了，因为它不能使用诸如水蛇等宗教符号。我从字面上尝试了八次，从来没有创造任何东西，甚至删除了蛇等。但是几周前，它创建了几张我用bön神灵冥想的图像。然后，我要求它创建我和儿子一起打球的图像，然后又拒绝了！它说它不能创建带有孩子的成年人的图像。它与我的孩子们创造了许多人。 wtf？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ibis78     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikci5z/chatgpt_repeatedly_refusing_to_create_images/</guid>
+      <pubDate>Sat, 08 Feb 2025 02:16:13 GMT</pubDate>
     </item>
     <item>
-      <title>请您最好的写作</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ik9w9d/your_best_writing_please/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是挑战 - 让chatgpt写5页，Packy McCormick想要阅读。     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gordanknott     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ik9w9d/your_best_writing_please/</guid>
-      <pubDate>Sat, 08 Feb 2025 00:09:06 GMT</pubDate>
+      <title>嗯，我想我弄坏了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikc6fc/um_i_think_i_broke_it/</link>
+      <description><![CDATA[      &lt; /td&gt; ＆＃32;提交由＆＃32; /u/u/fird-bandicoot2902     [link]  ＆＃32;   [注释]     /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikc6fc/um_i_think_i_broke_it/</guid>
+      <pubDate>Sat, 08 Feb 2025 02:00:13 GMT</pubDate>
     </item>
     <item>
-      <title>令人毛骨悚然的GPT模因</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ik9gm2/creepy_gpt_memes/</link>
-      <description><![CDATA[         “&gt; 没有具体的提示，只是要求它做一些模因，尽管聊天上下文有一些存在的对话。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/percelainbee12-     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ik9gm2/creepy_gpt_memes/</guid>
-      <pubDate>Fri, 07 Feb 2025 23:49:38 GMT</pubDate>
+      <title>如何从Chatgpt Mac桌面复制/粘贴到Safari Gmail？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikc4iw/how_to_copypaste_from_chatgpt_mac_desktop_to/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  任何人对如何从chatgpt mac桌面复制/粘贴到safari gmail有好主意吗？每当我尝试尝试时，我会得到太多的线路休息。...shift/cmd/v在野生动物园中不起作用，只有chrome。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/bluelakehorizo​​n     [link]  ＆＃32;  &lt;a href =“ https://www.reddit.com/r/chatgpt/comments/1ikc4iw/how_to_copypaste_from_chatgpt_mac_desktop_to//]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikc4iw/how_to_copypaste_from_chatgpt_mac_desktop_to/</guid>
+      <pubDate>Sat, 08 Feb 2025 01:57:32 GMT</pubDate>
     </item>
     <item>
-      <title>革命即将到来</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ik9g5s/the_revolution_is_coming/</link>
-      <description><![CDATA[     大声笑他们绝对使4o Way Mor Chill和以前的任何模型中的任何一个。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/syberean420     [link]  ＆＃32;   [commist]        &lt; /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ik9g5s/the_revolution_is_coming/</guid>
-      <pubDate>Fri, 07 Feb 2025 23:49:01 GMT</pubDate>
+      <title>中国核心</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikc3zo/chinese_to_the_core/</link>
+      <description><![CDATA[    /u/u/zoeykl_nsfw      [link]  ＆＃32;   [注释]      &lt; /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikc3zo/chinese_to_the_core/</guid>
+      <pubDate>Sat, 08 Feb 2025 01:56:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
