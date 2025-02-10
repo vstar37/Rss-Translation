@@ -4,18 +4,32 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 10 Feb 2025 01:03:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 06:20:07 GMT</lastBuildDate>
     <item>
-      <title>我的第一个编程视频：解释的编程范例</title>
-      <link>https://www.reddit.com/r/programming/comments/1ilqute/my_first_programming_video_programming_paradigms/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/okmemetranslator     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ilqute/my_first_programming_video_programming_paradigms/</guid>
-      <pubDate>Sun, 09 Feb 2025 22:16:55 GMT</pubDate>
+      <title>整个计算过程中使用的主要数学库实际上都没有正确地舍入。</title>
+      <link>https://www.reddit.com/r/programming/comments/1ilzfzt/none_of_the_major_mathematical_libraries_that_are/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/andarmanik     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ilzfzt/none_of_the_major_mathematical_libraries_that_are/</guid>
+      <pubDate>Mon, 10 Feb 2025 06:03:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI的API用于基于应用的聊天机器人？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ilz6tg/openais_api_for_appbased_chatbot/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，这里是新的，在Web编程方面只有很少的经验（HTML，Python，C ++）。现在，我想根据OpenAI的API（是的changpt）又称基于应用程序的聊天机器人，也就是在我的应用程序的聊天机器人上使用chatgpt。谁能告诉我谁从头开始？谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/btcs_kyla     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ilz6tg/openais_api_for_appbased_chatbot/</guid>
+      <pubDate>Mon, 10 Feb 2025 05:47:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java中的文本块</title>
+      <link>https://www.reddit.com/r/programming/comments/1ilx906/bloques_de_texto_en_java/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/emanuelpeg     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ilx906/bloques_de_texto_en_java/</guid>
+      <pubDate>Mon, 10 Feb 2025 03:54:14 GMT</pubDate>
     </item>
     <item>
       <title>PSA：通过同步到磁盘来避免数据损坏</title>
       <link>https://www.reddit.com/r/programming/comments/1ilpgew/psa_avoid_data_corruption_by_syncing_to_the_disk/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/elibroftw     [link]  ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/elibroftw     [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ilpgew/psa_avoid_data_corruption_by_syncing_to_the_disk/</guid>
       <pubDate>Sun, 09 Feb 2025 21:16:31 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/vivek7405     [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ilkmi7/how_i_created_my_own_little_notes_app_for_my_new/</guid>
       <pubDate>Sun, 09 Feb 2025 17:55:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>隐形求解器 - “一种开源工具，旨在帮助解决技术评估和在线访谈中的编码问题。”</title>
-      <link>https://www.reddit.com/r/programming/comments/1iljpt3/stealth_solver_an_opensource_tool_designed_to/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/aphareedspeech78     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1iljpt3/stealth_solver_an_opensource_tool_designed_to/</guid>
-      <pubDate>Sun, 09 Feb 2025 17:17:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek-R1：窥视引擎盖下的窥视</title>
-      <link>https://www.reddit.com/r/programming/comments/1iljivs/deepseekr1_a_peek_under_the_hood/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/zabirauf     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1iljivs/deepseekr1_a_peek_under_the_hood/</guid>
-      <pubDate>Sun, 09 Feb 2025 17:09:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
