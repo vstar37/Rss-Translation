@@ -4,7 +4,28 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 11 Feb 2025 15:16:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 18:17:15 GMT</lastBuildDate>
+    <item>
+      <title>管理媒体和项目的最佳工作流程：Avid 中的重新链接与转码？</title>
+      <link>https://www.reddit.com/r/editors/comments/1in4urq/best_workflow_for_managing_media_and_projects/</link>
+      <description><![CDATA[各位编辑，大家好， 我想寻求有关在 Avid 中管理媒体和项目的最佳工作流程的建议。目前，我的设置如下： • 一个专用的媒体驱动器 • 另一个用于存放资产的驱动器 • 我的项目存储在 Google Drive 或本地计算机上。  我想知道社区认为最好的方法是什么： 1. 在外部进行转码（在 DaVinci Resolve 中），然后在 Avid 中重新链接，将转码后的文件保留在我的媒体硬盘上 2. 直接在 Avid 中转码，并将所有内容保留在本地项目文件夹中  您的经验和建议是什么？ 谢谢！！    提交人    /u/Available-Witness329   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1in4urq/best_workflow_for_managing_media_and_projects/</guid>
+      <pubDate>Tue, 11 Feb 2025 18:01:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 HDR 视频上传到 YouTube，在 SDR 显示器上看起来很糟糕</title>
+      <link>https://www.reddit.com/r/editors/comments/1in4jfs/uploading_hdr_video_to_youtube_looks_bad_on_sdr/</link>
+      <description><![CDATA[大家好！我是 HDR 视频的新手 - 我现在正在向 YouTube 发布 HDR，它在 SDR 显示器上看起来太暗了。 我以为因为视频是“HLG”，所以它会在 SDR 屏幕上正确显示？ 有什么指导或想法吗？如何让 HDR 视频即使在 SDR 显示器上看起来也不错？HDR/SDR 就是这样吗？    提交人    /u/Bluelove26   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1in4jfs/uploading_hdr_video_to_youtube_looks_bad_on_sdr/</guid>
+      <pubDate>Tue, 11 Feb 2025 17:48:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>ProRes LT 文件大小</title>
+      <link>https://www.reddit.com/r/editors/comments/1in35wt/prores_lt_file_sizes/</link>
+      <description><![CDATA[大家好！ 我刚刚找到了一份新工作（哇哦！），我正在为一家公司做 UGC 广告和有机内容，他们有大量的 B 卷，所以我正在下载、分类、删除并转换为 ProRes LT。 大多数素材都是用 4K 的 iPhone 拍摄的，所以我将其调整为 1080，因为 4K 对于广告来说有点太多了，但也有索尼相机的素材。 我的问题是：如果我转码手机素材，它会从 70MB 变为 300MB，但是当我转码相机素材时，它会从 45GB 变为 20GB，这是正常的吗？ 大多数相机素材是采访内容，没有动作，所以 LT 没有问题，但我认为相机素材会使它的大小增加一倍，而不是减少一倍它。 此外，4k 素材和全高清 ProRes LT 之间几乎没有视觉差异，只有当您放大太多时才会出现差异，但就像我说的，我们正在播放广告，而不是短片。 谢谢！    提交人    /u/Witjar23   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1in35wt/prores_lt_file_sizes/</guid>
+      <pubDate>Tue, 11 Feb 2025 16:52:37 GMT</pubDate>
+    </item>
     <item>
       <title>命名中的下划线 (_) 与连字符 (-)</title>
       <link>https://www.reddit.com/r/editors/comments/1in0hit/underscore_vs_hyphen_in_naming/</link>
@@ -22,12 +43,12 @@
     <item>
       <title>影片以 50fps 拍摄，但被加速了</title>
       <link>https://www.reddit.com/r/editors/comments/1imz9q7/footage_filmed_at_50fps_but_is_sped_up_sooc/</link>
-      <description><![CDATA[在拍摄某些部分时，我们想放慢镜头的速度。a7siii 设置为 50fps，快门设置为 1/100。 将镜头传输到我的笔记本电脑上，在 QuickTime 和 Vlc 上播放，镜头看起来加快了。比正常速度快 2 倍。将其带入 Premiere，情况也是如此。Premiere 将其读取为 50fps。 因此，我创建了一个 25fps 的时间线，放入镜头并将其放慢到 50%，只是为了让它恢复到正常速度（就像以 25fps 拍摄一样）。也尝试过解释镜头，但这给了我同样的结果。 是什么导致了这种情况？我猜是相机设置导致了这种情况，但我无法弄清楚？还是它只是出了故障，而我运气不好？     由   提交  /u/IfItAintBokeh   [链接] [评论]]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  进行了拍摄，在某些零件中，我们想减慢镜头。 A7SIII设置为50fps，快门设置为1/100。 已将镜头传输到我的笔记本电脑上，在Quicktime和VLC上播放，镜头看上去很加速。比平常快2倍。将其首映起来，也是如此。首映将其读为50fps。 因此，我为25fps创建了一个时间表，将镜头放入并慢慢下降至50％，仅使其恢复正常的速度（好像它以25fps拍摄） 。也尝试解释镜头，但这给了我同样的结果。  是什么实现了？我认为这是一个相机设置，但无法弄清楚？还是只是小故障，我很不幸？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ifItaintBokeh     [link]   ＆＃32;   [注释]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1imz9q7/footage_filmed_at_50fps_but_is_sped_up_sooc/</guid>
       <pubDate>Tue, 11 Feb 2025 14:03:45 GMT</pubDate>
     </item>
     <item>
-      <title>左手键盘推荐</title>
+      <title>左手键盘建议</title>
       <link>https://www.reddit.com/r/editors/comments/1imz3je/left_handed_keyboard_recommendations/</link>
       <description><![CDATA[寻找便携、蓝牙且使用方便的左手键盘的推荐。 我想要左侧有数字的键盘，这样我就可以将大多数热键映射到一只手。    提交人    /u/JordanFilmmaker   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1imz3je/left_handed_keyboard_recommendations/</guid>
@@ -48,14 +69,7 @@
       <pubDate>Tue, 11 Feb 2025 12:55:03 GMT</pubDate>
     </item>
     <item>
-      <title>Avid Media Composer 未显示用于媒体创建的外部 SSD</title>
-      <link>https://www.reddit.com/r/editors/comments/1imxwzh/avid_media_composer_not_showing_external_ssd_for/</link>
-      <description><![CDATA[你好， 我在使用 Avid Media Composer 时遇到了一个问题，在设置我的媒体创建驱动器时，它不显示我的外部 SSD（Samsung T7 Shield）。正如您在所附的屏幕截图中看到的，它只显示了我的 Mac 的内置驱动器 (Macintosh HD)，但我的 SSD 没有作为选项出现。 在媒体创建设置中，我已过滤掉系统驱动器，因此自然而然地，当我尝试导入时，Avid 根本无法识别任何媒体驱动器。  驱动器格式：我的 T7 Shield 格式化为 exFAT&gt; 媒体创建设置：我已将其设置为过滤掉系统驱动器，因此 SSD 应该会显示出来，但实际上并没有显示  这可能是因为 exFAT 格式吗？我听说 Avid 倾向于使用 MacOS Extended (Journaled) (HFS+) 或 Windows 上的 NTFS，但除非绝对必要，否则我宁愿不重新格式化。这样对吗？ https://imgur.com/a/Rj1GoQa 有人遇到过类似的问题吗？有解决方法吗？ 干杯！    提交人    /u/Available-Witness329   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1imxwzh/avid_media_composer_not_showing_external_ssd_for/</guid>
-      <pubDate>Tue, 11 Feb 2025 12:55:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>首映《达芬奇时间线》</title>
+      <title>首映达维奇时间线</title>
       <link>https://www.reddit.com/r/editors/comments/1imupe3/premiere_to_davinci_timeline/</link>
       <description><![CDATA[你好！ 我更熟悉在 Premiere 中同步和组织我的素材箱，但对于即将开展的项目，离线编辑器将使用 Davince Resolve。有没有办法从 Premiere 转换为 Davinci？或者，如果我只学习适应 Davinci Resolve 中的同步和归档，会更容易吗？谢谢！    提交人    /u/FoxI-Ny   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1imupe3/premiere_to_davinci_timeline/</guid>
@@ -71,7 +85,7 @@
     <item>
       <title>lucid link 与 studio suite 与镜像硬盘 =)</title>
       <link>https://www.reddit.com/r/editors/comments/1imf4av/lucid_link_vs_studio_suite_vs_mirrored_hard_drives/</link>
-      <description><![CDATA[大家好！ 我正在导演/制作一部包含大约 18 TB 素材的专题纪录片（十年来各种类型的素材）。编辑团队只有 3 个人，但我们认为编辑时会有一些反复，而且我们分布在 3 个地方。有人向我推荐了 lucid link，我也在考虑 studio suite。我们的独立预算非常紧张，所以 LL 相当昂贵（似乎 studio suite 便宜一点）。我一直在没有代理的情况下工作，因为我的电脑可以很好地处理 4k 素材，但我意识到对于完整的编辑，我们需要使用代理。 我想我的问题是，LL/SS 软件是否值得花费，而不是我们只是确保我们的硬盘镜像并且我们共享项目文件？我知道如果多人同时工作，这可能会变得复杂。我一直在 sub 上阅读有关 LL 的信息，但很想听到更多！谢谢！     由    /u/annac11 提交   [链接] [评论]]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，大家好！  我正在指导/生产一个大约18 TB镜头的功能文档（十年来非常混杂的镜头类型）。编辑团队只有3个人，但我们认为编辑会来回一些，我们在3个地点。我被推荐使用Lucid Link，还在研究Studio Suite。我们的独立预算非常紧张，因此LL非常昂贵（似乎工作室套房便宜一些）。我一直没有代理工作，因为我的计算机正在处理4K镜头，但是我意识到完整的编辑我们需要转到代理。 我想我的问题是，是LL/SS软件值得的成本与我们相反，只是确保我们的硬盘驱动器得到镜像并共享项目文件？我知道，如果多个人同时工作，这可能会变得复杂。我一直在阅读有关LL的信息，但很想听听更多！谢谢你！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/annac11     [link]  ＆＃32;  &lt;a href =“ https://www.reddit.com/r/editors/comments/1imf4av/lucid_link_vs_vs_studio_suite_vs_mirrorred_hard_hard_drives/]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1imf4av/lucid_link_vs_studio_suite_vs_mirrored_hard_drives/</guid>
       <pubDate>Mon, 10 Feb 2025 19:46:38 GMT</pubDate>
     </item>
@@ -83,7 +97,7 @@
       <pubDate>Mon, 10 Feb 2025 19:37:11 GMT</pubDate>
     </item>
     <item>
-      <title>Alienware 与 Dell Percision</title>
+      <title>Alienware vs Dell Percision</title>
       <link>https://www.reddit.com/r/editors/comments/1imeelo/alienware_vs_dell_percision/</link>
       <description><![CDATA[我正在寻找一款新的编辑工作站，到目前为止，我对 Alienware 的体验非常好。  从你们的经验来看，在游戏笔记本电脑和生产工作站上工作有什么真正显着的区别吗？Alienware 便宜得惊人，或者至少在我看来物有所值。任何建议都非常感谢！ 当前规格  Alienware m17 Intel i-7 2070 super，配备 32 GB 内存 Windows 10 镜头细节 n/a    提交人    /u/WHO_IS_THIS_GIRL_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1imeelo/alienware_vs_dell_percision/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[您好， 我们公司最近为我们的编辑人员购买了一台 NAS 进行编辑，我们目前有大约 10 台机器，我们经常使用这些机器来编辑视频。我是编辑人员之一，与 IT 部门保持密切联系，试图找到解决方案。 目前我们使用 Synology RS2423RP+ NAS 机架，配有 7 个 Seagate 8.9cm (3.5&quot;) 12TB SATA3 IronWolf Pro 7200 HDD。正在使用 RAID5。 我们所有的编辑人员都在 NAS 上直接加载了一个 1gig 以太网端口，它使用 10gig 交换机。 我们的问题是性能，我们对所有计算机进行了压力测试，网络没有受到影响。我们还尝试检查 HDD 是否太慢，但其他一些用户似乎可以处理。 有没有什么方法可以改进我们的 NAS，以便达到可以完全编辑的速度？我尝试查看一些有关 NAS 的 Linus Tech Tips 视频，但找不到任何有趣的东西。 非常感谢！    提交人    /u/Prior_Actuary5071   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1imdfpl/advice_needed_for_video_editing_nas/</guid>
       <pubDate>Mon, 10 Feb 2025 18:40:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于这里的剪辑师来说，他们同时也是导演/摄影师，您认为剪辑在多大程度上让您成为更好的导演/摄影师？在哪些方面？</title>
-      <link>https://www.reddit.com/r/editors/comments/1ima5h5/for_editors_here_who_also_directorsshooters_how/</link>
-      <description><![CDATA[  由    /u/jimppqq  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ima5h5/for_editors_here_who_also_directorsshooters_how/</guid>
-      <pubDate>Mon, 10 Feb 2025 16:29:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我的声音和图像不同步？</title>
-      <link>https://www.reddit.com/r/editors/comments/1im7qlc/why_wont_my_sound_and_picture_sync/</link>
-      <description><![CDATA[大家好， 我是一名导演，正在剪辑我自己的 5 分钟短片，该短片是用 16 毫米胶片拍摄的。我是一名初级剪辑师 - 我想接手这项工作以便学习（我不是电影学院的人），所以...我非常感谢您的善意和慷慨建议！ 我的声音和视频文件不同步，尽管我手动将它们与场记板拍手对齐。 到目前为止我已检查过的事情： - 我的首映项目是 24fps，我的视频素材也是 24fps - 我的视频上的场记标签肯定与音轨上的标签相匹配。  我知道这非常基础 - 但请帮助我，我在黑暗中谷歌搜索。 谢谢！    提交人    /u/Swimming-Piccolo-857   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1im7qlc/why_wont_my_sound_and_picture_sync/</guid>
-      <pubDate>Mon, 10 Feb 2025 14:47:08 GMT</pubDate>
     </item>
     </channel>
 </rss>

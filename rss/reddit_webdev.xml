@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 11 Feb 2025 15:16:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 18:17:55 GMT</lastBuildDate>
+    <item>
+      <title>业余。寻求支持和资源</title>
+      <link>https://www.reddit.com/r/webdev/comments/1in4sun/amateur_here_seeking_support_and_resources/</link>
+      <description><![CDATA[大家好， 我是业余爱好者。我在一家从未有过网站的小型非营利组织工作。我身兼五职，筹款、营销、技术。所以我真的没有时间致力于网站管理。 几年前，我建立了一个简陋的 Wordpress 网站。它运行良好，但绝对不符合我的审美标准。这在很大程度上取决于对资助者/基金会的信任，确保他们信任我们的组织，并且我们的网站看起来很简陋会很快让他们失望。 此外，我们在 WP 上的表单不断受到机器人的攻击。我敢肯定，这是非法的东西。我只是没有时间维护网站。 因此，我切换到 Squarespace，尽管域名仍由 WP 处理，以防我想回去。  我现在遇到一个问题，我的互联网提供商阻止我在家中访问我的网站。我不得不添加一堆 DNS 设置来配置其他系统（我们的捐赠者数据库等），这可能是原因吗？ 我知道 SS 很讨厌，但是听着，我还有很多其他事情要做，所以我无法更新和配置所有这些插件。 专家，我需要对我的 SS 网站或 DNS 或其他任何东西做些什么，以确保我的网站的安全性和可见性？我如何保证它的安全？您提供的任何资源都将非常棒。    提交人    /u/AnotherGreatPerson   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1in4sun/amateur_here_seeking_support_and_resources/</guid>
+      <pubDate>Tue, 11 Feb 2025 17:59:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>想知道最好的 IP 地理定位 API 是什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1in3v7u/wondering_what_the_best_ip_geolocation_api_is/</link>
+      <description><![CDATA[我目前正在开发一个 rails 应用程序，我需要知道每个请求的来源国。 我一直在研究支持大量 API 的 Geocoder 宝石。API 列表非常广泛，但我注意到大多数计划都非常昂贵，然后我通过 ip-api.com 找到了非常好的方案，只需很少的钱就可以发出无限的请求。在我看来有点太好了。 为什么像 ipinfo 这样的竞争对手相比之下如此昂贵？有人用过这些 API 吗？    提交人    /u/TheRealFL   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1in3v7u/wondering_what_the_best_ip_geolocation_api_is/</guid>
+      <pubDate>Tue, 11 Feb 2025 17:21:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要 PM 或 CRM 工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1in3ppz/pm_or_crm_tool_needed/</link>
+      <description><![CDATA[我正在寻找一个项目管理工具或 CRM，但找不到真正需要的。我花了几个小时寻找，但一无所获。这就是我需要的： Clients Dash  轻松登录，也许是 MagicLink，这样不太懂技术的客户也可以轻松登录 能够简单地添加“待办事项”他们的项目以供所有者（我）查看 每周接收进度电子邮件（待办事项状态更新） 查看一些分析数据（完成了多少待办事项等）  Owners Dash  查看所有打开的待办事项 按项目过滤 更改待办事项的状态（拒绝、批准、进行中、完成） 列表视图和看板视图 查看一些分析数据（完成了多少待办事项等） 从应用内部发送电子邮件客户端  有人用过这样的工具吗？似乎所有工具都有太多东西，而我愿意花同样的价钱买更少的东西。这只是一种管理客户请求并让他们随时了解情况的简便方法，无需笔记和电子邮件/slack，因为我的很多客户都不懂技术，只想要一致的更新和一种记录他们需要的东西的方法。如果没有，我打算构建它，所以当我启动并运行它时，有人会想要更多信息吗？    提交人    /u/Dramatic_Chance_8324   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1in3ppz/pm_or_crm_tool_needed/</guid>
+      <pubDate>Tue, 11 Feb 2025 17:14:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>SFTP上的服务器端PHP脚本：访问服务器端文件而不向全世界揭示其内容？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1in3dky/serverside_php_script_on_sftp_access_serverside/</link>
+      <description><![CDATA[嗨， 我有一个托管在 SFTP 服务器上的小网站，到目前为止运行顺利。 但是，我想添加 PHP 来添加两个功能。  收集反馈 从客户端接收 ID，将其转换为链接并将其发送回客户端。（然后他们会被重定向到该链接）  理论上（和内部测试）我有一个小 PHP 脚本，可以写入和读取存储在 PHP 脚本旁边的文件。到目前为止相当容易。 问题：PHP 脚本的文件对所有人都可见。我更愿意将反馈保留在内部 - 没有理由让全世界都能阅读其他人对网站 X 的评论。此外，ID 链接表可能包含尚未公开的 ID 和链接。 我想要：  在服务器上有一个反馈文件，PHP 脚本可以写入该文件，我可以读取/删除/替换该文件。 在服务器上有一个查找文件，PHP 脚本可以读取该文件，我可以读取/删除/替换该文件。  我尝试了文件访问权限，但到目前为止我并不满意。如果 PHP 脚本具有读取权限，那么其他人也拥有该权限。 如果我理解正确的话，外部人员不可能下载或查看 PHP 脚本。所以理论上我可以给文件起一些奇怪的名字，然后以这种方式“隐藏”它们。因为只有 PHP 知道文件在哪里，所以没有人会发现它们。但是，对我来说这似乎不太安全。 您将如何解决这个问题？ 谢谢 :)    提交人    /u/hiddenunderthebed   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1in3dky/serverside_php_script_on_sftp_access_serverside/</guid>
+      <pubDate>Tue, 11 Feb 2025 17:01:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>初学者如何学习构建微型工具或单页网络应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1in2jyk/how_can_a_beginner_learn_to_build_micro_tools_or/</link>
+      <description><![CDATA[大家好！对于没有实际 Web 开发背景（仅掌握基本的 HTML 和 CSS）的人来说，学习如何创建微型工具或单页 Web 应用程序（如计算器、生成器、调试器等）有多难？我从事 SEO 行业，我注意到能够为客户创建这样的东西是一种脱颖而出的好方法！ 所以我真的很想学习如何自己构建它们。我暂时不打算使用 Cursor 或 Bolt 等 AI 工具，我想先了解整个过程。我应该从哪里开始，我应该专注于学习什么？任何对完全初学者的建议都会非常有帮助！    提交人    /u/OpShift501   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1in2jyk/how_can_a_beginner_learn_to_build_micro_tools_or/</guid>
+      <pubDate>Tue, 11 Feb 2025 16:27:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>中大型公司是否会雇用专门的开发人员来管理他们的网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1in2etz/do_midtolarge_companies_hire_dedicated_developers/</link>
+      <description><![CDATA[我是一名 WordPress 开发人员，我被一家中型公司聘用，专门负责他们的网站。我的职责包括更新插件、优化性能、构建页面以及处理与网站相关的所有事务。我很好奇——这种做法有多普遍？其他公司是否也为他们的网站聘请专门的开发人员，还是通常由代理机构、自由职业者或内部营销/IT 团队处理？    提交人    /u/UnderstandingOk270   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1in2etz/do_midtolarge_companies_hire_dedicated_developers/</guid>
+      <pubDate>Tue, 11 Feb 2025 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 figma 中的风格代币转至 Bricks</title>
+      <link>https://www.reddit.com/r/webdev/comments/1in1w2o/getting_style_tokens_from_figma_to_bricks/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  是否有任何方法可以使用一组设计令牌，例如砖块（例如砖块）？  im根本没有一个wordpress的人，如果问题很愚蠢，很抱歉。  到目前为止，我已经进行了以下集成：github存储库已连接到无花果，并将令牌交付。这触发了我们的工作流程，以更新和发布这些样式为NPM软件包。到目前为止，这些软件包在效果正常的角度项目中使用。  现在，我有要求将令牌带入WordPress世界。但是，如果可以这样做，我几乎没有任何经验，甚至没有父亲！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/esibangi     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1in1w2o/getting_style_tokens_from_figma_to_bricks/</guid>
+      <pubDate>Tue, 11 Feb 2025 15:59:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用签名交换即时加载：可变子资源如何破坏 Google 推荐用户的体验</title>
+      <link>https://www.reddit.com/r/webdev/comments/1in1jks/instant_loading_with_signed_exchanges_how_mutable/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/repawel     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1in1jks/instant_loading_with_signed_exchanges_how_mutable/</guid>
+      <pubDate>Tue, 11 Feb 2025 15:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>抱怨，这个项目让我精疲力竭，对公司感到失望。我该如何处理？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1in1dxi/rant_project_has_me_so_burnt_out_and/</link>
+      <description><![CDATA[我从事开发人员工作已经近 20 年了，但从未像过去几个月一样感到如此持续的压力。 去年，我的公司决定更新我们所有网站的设计，但并未使用与代理机构签约的内部设计/开发团队。 这家代理机构在整个项目中一直把事情搞砸，以至于我们不得不承担他们应该做的很多事情。直到今天我仍然发现问题（我昨天刚刚查阅了他们的“官方”风格指南，发现他们的文本样式规范中有错别字……）。 我们被承诺会有一个“独特的设计”，但却发现他们为我们设计的组件与他们的另一个客户完全一样，只是稍微换了个样子。当我们觉得他们没有坦率或没有表现出他们会提供一款好产品时，我的公司决定承担开发工作。不过，整个事情是倒着交付的。首先，我们得到了线框来构建所有内容（但不知道任何东西实际上是什么样子）。只是通用组件的灰色模型。然后，我们得到了真正的 Figma，并被告知要让所有东西看起来像它。第二轮开发一切。没有规格，只是目测一切。 然后，就在我们的设计团队需要构建页面的一周前，我们得到了实际的样式指南，其中包含一些规格和实际定义。第三轮重建一切。更不用说从那时起领导层决定他们想要无休止地改变随机事物的所有编辑。我今天的任务是再次更改我们的全局标题大小。 整个项目我觉得我一直在追赶。我并不为我们建立的网站感到自豪，因为感觉我们一直在做最低限度的事情。整个设计团队都有类似的感受。 这个东西很快就要发布了，当他们找人责备时，我有一种沉重的感觉，我的头就要被砍掉了。我知道我在这里不是没有错的，但我觉得整个项目都是一个巨大的集群和一个字面上不可能完成的任务。 当几周后事情变得一团糟时，我该如何度过难关？或者，是时候重新开始我的简历并寻找更广阔的天地了？    提交人    /u/SquidThistle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1in1dxi/rant_project_has_me_so_burnt_out_and/</guid>
+      <pubDate>Tue, 11 Feb 2025 15:38:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Biomejs 切换到 ESLint – 您对 2025 年的 Biomejs 有何看法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1in18wd/switched_from_biomejs_to_eslint_whats_your_take/</link>
+      <description><![CDATA[我最近对我的模板 GitHub 存储库进行了更改。它最初使用 ESLint，然后我尝试了 Biomejs 一段时间，但我又切换回了 ESLint，因为我需要更多自定义选项。 我很好奇，您在 2025 年使用 Biomejs 的体验如何？它是否仍然值得尝试，或者您是否同意 ESLint 的灵活性胜出？    提交人    /u/IvesFurtado   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1in18wd/switched_from_biomejs_to_eslint_whats_your_take/</guid>
+      <pubDate>Tue, 11 Feb 2025 15:32:07 GMT</pubDate>
+    </item>
     <item>
       <title>MAMP 是垃圾，有什么替代品吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1in0fcy/mamp_is_trash_whats_an_alternative/</link>
@@ -22,93 +92,23 @@
     <item>
       <title>需要帮助找出最适合我需求的托管网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1in0be0/need_help_figuring_out_the_best_hosting_website/</link>
-      <description><![CDATA[我已经为一个 5 页的网站编写了代码。每周都会发布一个新页面，并删除旧页面。 因此每次只会发布一个页面。所有页面中最复杂的部分是使用 node.js 构建的聊天室。我已经购买了域名。 哪个托管平台对我来说最容易做这样的事情？ 我尝试使用 cloudways，但它似乎无法满足我的要求，而且没有太多教程或指南来指导如何根据我的需求启动和运行它。但是，如果 cloudways 最终成为最佳选择，我会花更多时间学习它。 在我的研究中，我发现了 adaptable.io，但它似乎更适合网络应用程序，而不是大部分静态网站。我的假设错了吗？ 谢谢。    提交人    /u/Uviation   [链接] [评论]]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我为5页网站完成了代码。每周都会发布新页面并删除旧页面。  因此一次只有一个页面。任何页面中最复杂的部分是使用node.js建造的聊天室。我也已经购买了一个域名。  我尝试使用Cloudways的托管平台最容易做到这一点？ ，但似乎无法做我想做的事，另外，关于如何使其满足我的需求，没有很多教程或指南。但是，如果Cloudways确实是最好的选择，我将花更多的时间学习它。 在我的研究中，我发现了Adaptable.io 。我假设我错了吗？ 谢谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/uviation     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1in0be0/need_help_figuring_out_the_best_host_website/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1in0be0/need_help_figuring_out_the_best_hosting_website/</guid>
       <pubDate>Tue, 11 Feb 2025 14:52:10 GMT</pubDate>
     </item>
     <item>
       <title>允许用户以多种方式过滤大量数据而无需挂断服务器/数据库？</title>
       <link>https://www.reddit.com/r/webdev/comments/1imzoss/allowing_users_to_filter_large_amounts_of_data_in/</link>
-      <description><![CDATA[因此，我有一个拥有相当多用户的网站，他们可以在其中记录比赛结果以及有关比赛的大量详细信息。尽量不要太过纠结，但基本上我希望他们能够查看一个统计页面，该页面将涵盖整个数据库中的所有比赛，按多种方式进行过滤，查看胜率以及许多组合（本队与本队比赛，或者像“这支球队与每支球队的表现如何，分开”或“这支球队在这种情况下的表现如何”等） 我现在可以获得所有这些信息，但加载需要几秒钟。我可以静态导出它的基本版本，但是需要计算的过滤器和排序组合太多了，我认为我无法静态导出每个组合。如果有 10,000 个用户同时点击它，我的网站就会崩溃。 所以我想问题是，对于这样的事情有哪些可用的工具/选项？我知道我可以稍微改进一下我的数据结构，但我只是想在进入它并尝试完成此操作之前深思熟虑，并确保没有什么是我不知道的，是为这种情况而设计的。 希望这说得通。谢谢！    提交人    /u/werdnaegni   [link] [comments]]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以我有一个网站，其中有大量用户可以在游戏中记录比赛结果，以及有关比赛的许多详细信息。试图不太陷入杂草，但基本上我希望他们能够查看一个统计页面，该页面将涵盖整个DB的所有匹配，通过多件事过滤，请参阅胜利率，以了解很多事情（这团队与这个团队，或者“这个团队如何与每个团队进行”但是，我可以静态地导出它的基本版本，但是要计算出很多过滤器和排序的组合，我认为我不能静态地导出每个组合10,000个用户同时遇到了这一点。 ，但是我只想在进入它之前进行周到的事，并试图实现这一目标，并确保没有一些我不知道这种情况的东西。 希望这是有道理的。 。谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/werdnaegni     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1imzoss/allowing_users_to_filter_large_amounts_of_data_in/</guid>
       <pubDate>Tue, 11 Feb 2025 14:23:36 GMT</pubDate>
     </item>
     <item>
       <title>tiiny host 是一个骗局托管吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1imy5py/is_tiiny_host_a_scam_hosting/</link>
-      <description><![CDATA[      大家好， 我正在寻找一种简单的静态网站托管服务，目前正在比较一些选项。在研究过程中，我注意到其中一项服务 Tiiny Host 在其定价页面上提供了误导性定价信息。这让我怀疑这是骗局还是只是提供糟糕的服务和支持。 示例： Pro 计划每月费用为 38 美元，这意味着每年 38 美元 × 12 = 456 美元。 但是，在他们的年度计划优惠中，他们声称有 50% 的折扣，但实际上，年度计划每年费用为 372 美元，即每月 31 美元。 456 美元 - 372 美元 = 84 美元 → 他们声称的 50% 折扣在哪里？还是我算错了？ 其他计划也是同样的故事…… 这里有人用过 Tiiny Host 吗？如果是，您对他们的可靠性、客户支持和整体质量的体验如何？还有隐藏费用... https://preview.redd.it/n5qy3ktgciie1.jpg?width=3384&amp;format=pjpg&amp;auto=webp&amp;s=7577ec3d45684a40fc5468a686f3b068c0c18c65 https://preview.redd.it/kfirh62mciie1.jpg?width=3352&amp;format=pjpg&amp;auto=webp&amp;s=49b7e65cbe2018afdcd82838ccbe0de2ed83d997    提交人    /u/Thick-Violinist9121   [链接] [评论] ]]></description>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  大家好， 我正在寻找一个简单的静态静态网站托管服务，目前比较一些选项。在研究时，我注意到其中一种服务是Tiiny Host，它在其定价页面上误导了定价信息。这让我想知道这是一个骗局，还是仅提供服务不良和支持。 示例：  Pro计划每月费用$ 38，这意味着$ 38×12 = 每年$ 456 。 但是，在他们的年度计划优惠中，他们享有50％的折扣，但实际上，年度计划成本每年372美元，每月31美元。  $ 456- $ 372 =  $ 84 →他们声称的50％折扣在哪里？还是我错误地计算？ 以及其他计划的同样故事...  以前有人在这里使用过Tiiny主机吗？如果是这样，您对他们的可靠性，客户支持和整体质量的经验是什么？还有隐藏的费用...    https://preview.itd.it/n5qy3ktgciie1.jpg？width = 3384＆amp; amp; format = pjpg&amp; amp; amp; amp; amp; am “ https：//预览.redd.it/kfirh62mciie1.jpg?width=3352&amp;format=pjpg&amp;auto=webp&amp;s=49b7e65cbe2018afdcd82838ccbe0de2ed83d997&quot;&gt;https://preview.redd.it/kfirh62mciie1.jpg?width=3352&amp;format=pjpg&amp;auto= webp＆amp; s = 49B7E65CBE2018AFDCD82838CCBE0DE2ED83D997    &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/usge-voliinist9121     [link]  ＆＃32;   [注释]     /table&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1imy5py/is_tiiny_host_a_scam_hosting/</guid>
       <pubDate>Tue, 11 Feb 2025 13:07:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prestashop 可能存在安全漏洞 - 核心文件空白</title>
-      <link>https://www.reddit.com/r/webdev/comments/1imx49v/prestashop_possible_security_breach_core_files/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1imx49v/prestashop_possible_security_breach_core_files/</guid>
-      <pubDate>Tue, 11 Feb 2025 12:08:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要平台上的想法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1imvl8v/need_ideas_on_a_platform/</link>
-      <description><![CDATA[所以我一直在运营图片网站，比如摄影、表情包和壁纸。很多网站都有各种平台，允许您按分辨率、标签等进行搜索。他们的图片网站似乎使用某种数据库。许多网站使用完全相同的东西，甚至可能使用不同的颜色，但仍然是同一个平台。你会说这些网站创建了这些系统、购买了它们，还是在网上免费找到它们？ 我的网站需要这样的东西，但我不知道从哪里开始寻找这样的东西。 有人能告诉我在哪里可以找到相同或类似的东西吗？甚至在寻找平台时应该在谷歌上搜索什么。 我甚至可能在未来付钱给别人来创建这样的平台，但现在这还遥不可及。    提交人    /u/catsandmemes86   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1imvl8v/need_ideas_on_a_platform/</guid>
-      <pubDate>Tue, 11 Feb 2025 10:28:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何用帧运动制作该动画？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1imv41m/how_to_make_this_animation_with_framer_motion/</link>
-      <description><![CDATA[      https://preview.redd.it/ch9824mefhie1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=e2c7403045fbc47c12c400ef61ea123499309f5d https://motion.dev/     由    /u/moncef_2006  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1imv41m/how_to_make_this_animation_with_framer_motion/</guid>
-      <pubDate>Tue, 11 Feb 2025 09:52:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>当启动麦克风时，iPhone Safari 音频从耳机扬声器而不是主扬声器播放</title>
-      <link>https://www.reddit.com/r/webdev/comments/1imv27h/iphone_safari_audio_is_playing_from_earpiece/</link>
-      <description><![CDATA[所以，我有这个聊天机器人，我通过麦克风接收用户的输入，并在两个不同的聊天机器人项目中的 webrtc 和音频元素中播放响应。问题是，当我没有在 Safari iPhone 上访问用户的麦克风时，它工作正常。但当我访问时，即使我没有在听，它也会继续从耳机扬声器播放音频。我该如何让它从主扬声器播放？还有人遇到过这个问题吗？    提交人    /u/Acrobatic_Ad3171   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1imv27h/iphone_safari_audio_is_playing_from_earpiece/</guid>
-      <pubDate>Tue, 11 Feb 2025 09:48:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何将 wordpress 与其他托管服务提供商一起使用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1imus0y/how_can_i_use_wordpress_with_other_hosting/</link>
-      <description><![CDATA[我已经从 VE host(现在是 webway) 购买了一个域名和主机，我正在尝试弄清楚如何使用 wordpress 构建我的网站。他们提供的网站构建器非常糟糕且不易使用。您能否向我解释如何在 wordpress 上进行设计以及我需要支付的费用。    提交人    /u/CaptainStates_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1imus0y/how_can_i_use_wordpress_with_other_hosting/</guid>
-      <pubDate>Tue, 11 Feb 2025 09:26:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的免费存储技巧是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1imu19i/whats_your_free_storage_hacks/</link>
-      <description><![CDATA[除了云免费套餐之外，您还可以做些什么来获得更便宜的存储？我最近看到了一些巧妙的存储用途，例如有人使用 GitHub 问题作为数据库。但是媒体 - 特别是视频呢？有没有人有创意并有故事要讲？注意：黑客越肮脏越好。如果它让企业架构师惊恐地尖叫，你就超出了这篇文章的要求。     提交人    /u/dev_life   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1imu19i/whats_your_free_storage_hacks/</guid>
-      <pubDate>Tue, 11 Feb 2025 08:28:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Laravel Filament 中上传和重新排序新图像和现有图像</title>
-      <link>https://www.reddit.com/r/webdev/comments/1imtgr1/uploading_reordering_new_and_existing_images_in/</link>
-      <description><![CDATA[嗨，我正在将 Nextjs T3 项目转换为 Laravel，并使用 Filament 作为我的管理面板。我的主要功能之一是能够编辑车辆、重新排序现有图像以及上传新图像 - 理想情况下是在为模型/资源生成的视图页面上。旁注：使用 s3 驱动程序。 我在 Filament 的文档中没有找到他们提到这一点，他们只显示重新排序上传的文件。 这是一个相当简单的项目，假设 fibre 可以做到这一点，考虑到它开箱即用的强大功能。这是他们功能集的一部分，还是提供此功能的软件包，或者是某种解决方法...... 谢谢大家。PS：我使用 Laravel 已经 2 周了，我喜欢这个生态系统的结构化、高效和可定制性。希望我早点放弃对 php 的仇恨，哈哈    提交人    /u/MeatBoyed   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1imtgr1/uploading_reordering_new_and_existing_images_in/</guid>
-      <pubDate>Tue, 11 Feb 2025 07:45:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>给定 20 个高度可变的项目，如何计算视口外项目的高度而不渲染它们（提示：用于虚拟列表/滚动）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1imtdtv/given_20_items_whose_heights_are_variable_how/</link>
-      <description><![CDATA[      如何在不实际将剩余项目渲染到 DOM 上的情况下计算它们的高度？  这似乎是一个棘手的问题 假设一页上有 20 个项目 每个项目都有不同的高度 您有一个只能显示几个项目的小视口 您不想渲染所有项目 您基本上想要某种虚拟列表或滚动条，而不会将每个项目添加到 DOM 中 如何在不渲染每个项目的情况下计算总高度  我尝试了什么？  我尝试取 4 个项目的平均高度并将其乘以 16 问题是，当我想要滚动到特定项目或索引时，此方法会将您带到错误的项目  问题  您将使用什么技术来获取其他 16 个元素的高度  注释  现在是 20，但如果底部无限滚动，它很容易达到 20000     提交人    /u/PrestigiousZombie531   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1imtdtv/given_20_items_whose_heights_are_variable_how/</guid>
-      <pubDate>Tue, 11 Feb 2025 07:39:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 Next.js 14、Tailwind CSS 和 shadcn/ui 制作了一个（有点慢的）桌面操作系统模拟器 UI [ 链接在评论中 ]</title>
-      <link>https://www.reddit.com/r/webdev/comments/1imt1io/i_made_a_kinda_slow_desktop_os_simulator_ui_with/</link>
-      <description><![CDATA[        由    /u/Accretence 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1imt1io/i_made_a_kinda_slow_desktop_os_simulator_ui_with/</guid>
-      <pubDate>Tue, 11 Feb 2025 07:14:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么库/框架/API 导致某些网站使用数百 MB 的磁盘存储空间？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1imsxlt/what_is_the_libraryframeworkapi_that_causes_some/</link>
-      <description><![CDATA[我最近一直在回收 Mac 上的一些磁盘空间，并注意到 chrome://settings/content/all 中的某些网站的磁盘使用率非常高。 其中一个网站是 ryanair.com，它使用了超过 400 MB 的空间。我在那里所做的就是预订航班和办理登机手续 — 它不应该是一个大型 Web 应用程序，它不是 Figma，不是 CodeSandbox 或任何其他会导致高磁盘使用率的东西。 此主题还报告了 bookmyshow.com 的高使用率，你猜怎么着，这个网站也在我的浏览器中使用了数百 MB，而且我除了预订音乐会门票外也没有做任何事情。其他几个网站也有类似的使用情况。 因此，似乎有些网站使用了一些技术，导致这种不合理的磁盘使用率。有人知道是什么吗？我想知道，这样我就可以避免在我的项目中使用它，并阻止其他人使用它（或建议需要正确配置它以避免此问题）。（就上下文而言，我在 Web 开发方面有超过 8 年的 YoE，所以请随意使用非常技术性的内容。）    提交人    /u/Nak3dMoleRat   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1imsxlt/what_is_the_libraryframeworkapi_that_causes_some/</guid>
-      <pubDate>Tue, 11 Feb 2025 07:07:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
