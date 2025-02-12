@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>发布独立黑客</title>
+    <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Wed, 12 Feb 2025 18:18:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 21:13:34 GMT</lastBuildDate>
     <item>
-      <title>2025年为开发人员提供的最佳AI编码工具</title>
+      <title>2025 年面向开发人员的最佳人工智能编码工具</title>
       <link>https://feed.indiehackers.world/post/e07fed3106</link>
       <description><![CDATA[主要功能：
 
@@ -42,22 +42,22 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Fri, 24 Jan 2025 18:12:32 GMT</pubDate>
     </item>
     <item>
-      <title>2025年的编码效率：独立黑客的简单黑客</title>
+      <title>2025 年的编码效率：独立黑客的简单技巧</title>
       <link>https://feed.indiehackers.world/post/00d8f78af5</link>
-      <description><![CDATA[在这篇文章中，我将分享一些黑客，这些黑客帮助我加快了我最近出售的SaaS的生产力。有关完整详细信息，请查看详细的视频。
-键提示
-在
-菜鸟级别：当您遇到错误时，请屏幕截图并将其馈送给您的AI助手。问＆quot“我为什么得到这个？”要快速了解该问题
-中级开发人员：像同事一样对待AI：如果最初的解决方案不起作用，请继续与您的AI助手进行对话，就像与人类同事一样。
-在
-为了真正从AI援助中受益，了解和保留解决方案至关重要。  
-创建自定义文本替换：设置“ Eli5”之类的快捷方式和“ eli6”在Mac上以快速访问提示，以帮助您了解复杂的概念
-    discord indiehackers chat    ads 在这里 ]]></description>
+      <description><![CDATA[在这篇文章中，我将分享一些技巧，这些技巧帮助我加快了开发我最近出售的 SaaS 的生产力。有关完整详细信息，请查看详细视频。
+关键提示
+截图并分析错误：
+新手级别：遇到错误时，请截取屏幕截图并将其提供给您的 AI 助手。问问自己“为什么我会遇到这个错误？”以快速了解问题
+中级开发人员：像对待同事一样对待人工智能：如果初始解决方案不起作用，请继续与您的人工智能助手对话，就像您与人类同事一样。
+10 工程师：增强学习和保留
+要真正从人工智能帮助中受益，理解和保留解决方案至关重要。
+创建自定义文本替换：在 Mac 上设置快捷方式（如“eli5”和“eli6”），以快速访问提示，帮助您理解复杂的概念
+Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/00d8f78af5</guid>
       <pubDate>Sun, 12 Jan 2025 17:05:04 GMT</pubDate>
     </item>
     <item>
-      <title>像生活一样保护您的势头</title>
+      <title>保护你的动力，就像你的生命取决于它一样</title>
       <link>https://feed.indiehackers.world/post/4d89ac1b0d</link>
       <description><![CDATA[
 Pieter Levels - 七款产品，并且还在增加中：Pieter Levels 通过公开构建和营销来保持势头。他透明的更新从一开始就激发了人们的兴趣并吸引了一批忠实的追随者
@@ -84,17 +84,17 @@ Discord Indiehackers Chat广告这里]]></description>
     <item>
       <title>在花费了 300 万美元并制造了 5 多个失败的产品之后，我们终于找到了出路</title>
       <link>https://feed.indiehackers.world/post/2fab744ef1</link>
-      <description><![CDATA[三年前，我们的团队筹集了300万美元，并踏上了雄心勃勃的旅程来建造下一件大事。我们尝试了所有内容 - 协作工具，生产力应用程序，视频会议解决方案，AI驱动的屏幕快照管理...您将其命名。我们建造了5种不同的产品和无数原型。
-每次，我们面临着同样的挑战：
+      <description><![CDATA[三年前，我们的团队筹集了 300 万美元，踏上了打造下一个大事件的雄心勃勃的旅程。我们尝试了一切 - 协作工具、生产力应用程序、视频会议解决方案、AI 驱动的屏幕截图管理......应有尽有。我们构建了 5 种不同的产品和无数原型。
+每次，我们都面临着同样的挑战：
 
-花在基本基础设施上的几个月
-在UI/UX迭代中浪费了几周
-开发人员设计师协调的无尽周期
-到我们推出时，市场已经转移
+花费数月时间在基本基础设施上
+花费数周时间在 UI/UX 迭代上
+开发人员-设计师协调的无休止循环
+当我们发布时，市场已经发生了变化
 
-我们意识到的转折点是：如果我们可以大幅度地减少从想法到工作产品的时间怎么办？如果有人可以描述他们的应用程序想法并在几分钟之内获得准备就绪的解决方案怎么办？
-这就是trick流的诞生 - 一种自然语言→全栈应用程序编译器。您用自然语言描述您的应用程序，我们生成从数据库模式到响应式UI的所有内容。
-    discord indiehackers chat    ads 在这里 ]]></description>
+当我们意识到这一点时，转折点就来了：如果我们可以大大缩短从创意到可用产品的时间会怎样？如果任何人都可以描述他们的应用程序创意并在几分钟内获得可用于生产的解决方案会怎样？
+这就是 Trickle 诞生的 - 一个自然语言 → 全栈应用程序编译器。您使用自然语言描述您的应用，我们生成从数据库架构到响应式 UI 的所有内容。
+Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/2fab744ef1</guid>
       <pubDate>Thu, 19 Dec 2024 20:30:13 GMT</pubDate>
     </item>
@@ -211,27 +211,27 @@ Discord Indiehackers Chat广告此处]]></description>
       <link>https://feed.indiehackers.world/post/7afc85fdd0</link>
       <description><![CDATA[
 免费（您的时间是唯一的投资）
-持久（内容保持数年相关）
-随着时间的推移而成的化合物（就像一项好投资）
+持久（内容多年保持相关性）
+随着时间的推移而复合（就像一项好的投资）
 
-独立黑客的完整SEO策略
- 1。发现关键字
-您应该关注两种类型的关键字：
- 短尾关键字：与您的行业或产品相关的最常见词
+独立黑客的完整 SEO 策略
+1.发现关键词
+您应该关注两种类型的关键词：
+短尾关键词：与您的行业或产品相关的最常用词
 
-广泛的术语（例如沐浴肥皂，生产力工具等）
-通用，通常很难对进行排名
+宽泛的术语（例如沐浴皂、生产力工具等）
+通用且通常难以排名
 
- 长尾关键字：这些是人们在搜索相关产品或服务时使用的短语
+长尾关键词：这些是人们在搜索相关产品或服务时使用的短语
 
-更具体（例如，独奏开发人员的最佳项目管理工具“ VS”项目管理工具“）
-由于特定意图，更高的转化率
+更具体（例如，“最适合个人开发人员的项目管理工具”与“项目管理工具”）
+由于特定意图而获得更高的转化率
 
- 2。关注您的比赛
+2.关注您的竞争对手
 
-使用诸如ahrefs或semrush之类的工具分析竞争对手
+使用 Ahrefs 或 SEMrush 等工具分析竞争对手
 
-    discord indiehackers chat    ads 在这里 ]]></description>
+Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/7afc85fdd0</guid>
       <pubDate>Mon, 28 Oct 2024 23:09:07 GMT</pubDate>
     </item>
