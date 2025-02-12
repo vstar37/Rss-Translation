@@ -4,45 +4,31 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 12 Feb 2025 15:15:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 18:18:41 GMT</lastBuildDate>
     <item>
       <title>图像人工智能</title>
       <link>https://www.producthunt.com/posts/bild-ai</link>
       <description><![CDATA[
-AI 让建筑工人免于熬夜绘制蓝图
+            AI从深夜绘制蓝图中拯救了构建者
+          
 
 
-讨论
-|
-链接
+            |
+             link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/bild-ai</guid>
       <pubDate>Tue, 11 Feb 2025 17:51:01 GMT</pubDate>
     </item>
     <item>
-      <title>一次性 LoRA</title>
-      <link>https://www.producthunt.com/posts/one-shot-lora</link>
-      <description><![CDATA[
-轻松将视频转换为 LoRA - 高质量一致的 AI 模型
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/one-shot-lora</guid>
-      <pubDate>Tue, 11 Feb 2025 06:58:46 GMT</pubDate>
-    </item>
-    <item>
       <title>Roamr 好友</title>
       <link>https://www.producthunt.com/posts/roamr-for-friends</link>
       <description><![CDATA[
-出差期间与朋友同住还能获得报酬
+            得到报酬，与朋友一起工作旅行
+          
 
 
-讨论
-|
-链接
+            |
+             link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/roamr-for-friends</guid>
       <pubDate>Mon, 10 Feb 2025 22:13:10 GMT</pubDate>
@@ -62,6 +48,20 @@ AI 让建筑工人免于熬夜绘制蓝图
       <pubDate>Mon, 10 Feb 2025 22:05:53 GMT</pubDate>
     </item>
     <item>
+      <title>Zyphra 区域</title>
+      <link>https://www.producthunt.com/posts/zyphra-zonos</link>
+      <description><![CDATA[
+具有高保真语音克隆的高表现力 TTS 模型
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/zyphra-zonos</guid>
+      <pubDate>Mon, 10 Feb 2025 19:28:41 GMT</pubDate>
+    </item>
+    <item>
       <title>托克分析器</title>
       <link>https://www.producthunt.com/posts/tokanalyzr</link>
       <description><![CDATA[
@@ -76,7 +76,7 @@ AI 让建筑工人免于熬夜绘制蓝图
       <pubDate>Mon, 10 Feb 2025 17:08:53 GMT</pubDate>
     </item>
     <item>
-      <title>保持平衡的丘比特</title>
+      <title>镇上的丘比特</title>
       <link>https://www.producthunt.com/posts/poised-cupid</link>
       <description><![CDATA[
 情人节的 AI 僚机 - 从热闹到浪漫 💘
@@ -90,18 +90,18 @@ AI 让建筑工人免于熬夜绘制蓝图
       <pubDate>Mon, 10 Feb 2025 16:28:20 GMT</pubDate>
     </item>
     <item>
-      <title>形象识别</title>
-      <link>https://www.producthunt.com/posts/figr-identity</link>
+      <title>Stitchflow 的续订追踪器</title>
+      <link>https://www.producthunt.com/posts/renewal-tracker-by-stitchflow</link>
       <description><![CDATA[
-几分钟内设计系统：更快地交付一致的产品
+整理 SaaS 合同、跟踪续订并获取自动提醒
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/figr-identity</guid>
-      <pubDate>Mon, 10 Feb 2025 14:27:19 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/renewal-tracker-by-stitchflow</guid>
+      <pubDate>Mon, 10 Feb 2025 08:30:50 GMT</pubDate>
     </item>
     <item>
       <title>视觉代理</title>
@@ -146,6 +146,20 @@ AI 让建筑工人免于熬夜绘制蓝图
       <pubDate>Fri, 07 Feb 2025 19:26:02 GMT</pubDate>
     </item>
     <item>
+      <title>思维流</title>
+      <link>https://www.producthunt.com/posts/thoughtflow-3</link>
+      <description><![CDATA[
+基于树的 AI 聊天助手
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/thoughtflow-3</guid>
+      <pubDate>Fri, 07 Feb 2025 18:20:17 GMT</pubDate>
+    </item>
+    <item>
       <title>3D人工智能工作室V3</title>
       <link>https://www.producthunt.com/posts/3d-ai-studio-v3</link>
       <description><![CDATA[
@@ -158,20 +172,6 @@ AI 让建筑工人免于熬夜绘制蓝图
 ]]></description>
       <guid>https://www.producthunt.com/posts/3d-ai-studio-v3</guid>
       <pubDate>Fri, 07 Feb 2025 17:37:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>配备 HR Copilot 的 FirstHR 2.0</title>
-      <link>https://www.producthunt.com/posts/firsthr-2-0-with-hr-copilot</link>
-      <description><![CDATA[
-适用于小型企业的一体化人力资源平台
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/firsthr-2-0-with-hr-copilot</guid>
-      <pubDate>Thu, 06 Feb 2025 13:20:55 GMT</pubDate>
     </item>
     <item>
       <title>阿里阿德涅</title>
@@ -188,7 +188,7 @@ AI 人才代理为所有人提供精英职业支持
       <pubDate>Thu, 06 Feb 2025 08:34:16 GMT</pubDate>
     </item>
     <item>
-      <title>结痂的</title>
+      <title>结壳日期</title>
       <link>https://www.producthunt.com/posts/crustdata-3</link>
       <description><![CDATA[
 通过 API 和 webhook 获取实时人员和公司数据
@@ -205,12 +205,12 @@ AI 人才代理为所有人提供精英职业支持
       <title>信友</title>
       <link>https://www.producthunt.com/posts/letterpal-2</link>
       <description><![CDATA[
-快速撰写优质新闻稿。
+            快速写好新闻通讯。
+          
 
 
-讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/letterpal-2</guid>
       <pubDate>Fri, 31 Jan 2025 14:37:26 GMT</pubDate>
