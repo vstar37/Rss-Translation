@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 12 Feb 2025 12:25:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 15:14:44 GMT</lastBuildDate>
+    <item>
+      <title>我不知道你们怎么想，但是双子座......</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1inr2ru/i_dont_know_about_you_guys_but_gemini/</link>
+      <description><![CDATA[完全搞乱了我的 Galaxy 24。自从我的手机更新了这种新格式后，我收到的诈骗短信和电话比以往都多。我的手机会自动将姓名和地点更正为一些我没有输入的内容！！如果我​​不重新阅读我的短信或帖子，您就无法理解我输入的内容。自动更正会选择它自己的单词。我想知道是否还有其他人遇到了问题，因为事情就是不对劲。这个 Bixby 手机垃圾正在录制我，当我按照提示说停止录制时，它说我不明白。这太疯狂了。是只有我一个人遇到问题还是其他人也遇到了问题。  谢谢。    提交人    /u/Emergency_Egg1281   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1inr2ru/i_dont_know_about_you_guys_but_gemini/</guid>
+      <pubDate>Wed, 12 Feb 2025 13:43:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>您认为人工智能应该是什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1inq2gb/what_should_artificial_intelligence_be_according/</link>
+      <description><![CDATA[首先我要声明，我直接使用 AI 的经验有限，但我拥有丰富的软件开发和架构经验。我们使用 GPT 进行草稿或润色最终稿（不包括客户名称）。 我认为完美的 AI 模型不是人类知识的终极集合，而是像人类一样能够识别何时需要专家。 就像我们不知道答案时一样，聪明人会求助于更精通该主题的人，而不是编造东西。 目前，AI 模型分为两大阵营：通用和专用。GPT 是通用的，经常产生幻觉或编造东西，而其他模型则针对特定任务进行训练，例如医学研究、历史分析或客户服务。  因此，与其让普通的 AI 接受来自各地的数 TB 级数据，却仍然无法满足要求或误导用户，不如向更可信的来源发送 API 调用（假设开源可访问性对所有人都有好处，呵呵……），该来源使用与请求更紧密相关的数据进行训练。虽然我觉得这不现实，但它可以实现不太容易产生幻觉的模型。  您的想法是什么？您认为完美的解决方案是什么样的？     提交人    /u/Panda_Satan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1inq2gb/what_should_artificial_intelligence_be_according/</guid>
+      <pubDate>Wed, 12 Feb 2025 12:52:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>OREAL：通过强化学习中的二元结果奖励优化数学推理</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1innw1l/oreal_optimizing_mathematical_reasoning_through/</link>
+      <description><![CDATA[这项研究探索了使用纯基于结果的奖励来向语言模型教授数学推理的有效性和局限性。核心方法使用仅使用正面示例的强化学习，测试模型在没有明确指导推理过程的情况下从看到正确解决方案中学习的效果。 关键技术要点： - 测试仅基于正确数学结果的各种奖励结构 - 比较不同数学推理任务的表现 - 评估直接答案的准确性和生成的推理步骤的质量 - 分析纯结果奖励无法产生稳健推理的位置和原因 主要结果： - 模型在类似于训练示例的问题上表现出更好的性能 - 在新的问题变化上进行测试时性能显着下降 - 在一定数量的训练数据后学习趋于平稳 - 纯结果奖励无法教授可推广的推理策略 我认为这项研究清楚地表明，我们需要更复杂的方法来教授人工智能系统数学推理。结果表明，就像人类学生一样，人工智能系统需要理解“什么”以及数学解决方案的“为什么”。展望未来，我预计我们将看到更多将结果奖励与明确的推理指导和中间反馈机制相结合的工作。 我认为最有趣的发现是，这清楚地表明了纯基于结果的学习的局限性。它提供了强有力的证据，表明我们需要重新思考如何构建奖励来向人工智能系统教授复杂的推理任务。 TLDR：纯基于结果的奖励不足以向人工智能系统教授强大的数学推理。我们需要能够指导解决方案和推理过程学习的方法。 完整摘要在这里。论文此处。    由    /u/Successful-Western27 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1innw1l/oreal_optimizing_mathematical_reasoning_through/</guid>
+      <pubDate>Wed, 12 Feb 2025 10:20:49 GMT</pubDate>
+    </item>
     <item>
       <title>Perplexity R1最新系统提示</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1innsw3/perplexity_r1_latest_system_prompts/</link>
@@ -39,13 +60,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1inido0/heres_the_real_reason_ai_will_reshape_everything/</guid>
       <pubDate>Wed, 12 Feb 2025 04:05:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 2025 年 2 月 11 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1inhwb1/oneminute_daily_ai_news_2112025/</link>
-      <description><![CDATA[ 万斯在他的第一次外交政策演讲中提出了关于人工智能放松管制的“美国优先”论点。[1] 苹果与阿里巴巴合作，为中国的 iPhone 带来人工智能功能，The Information 报道。[2] 麻省理工学院制造了大量微型机器人昆虫无人机，它们的飞行时间是之前设计的 100 倍。[3] BBC 发现，人工智能聊天机器人无法准确总结新闻。[4]  来源包括：https://bushaicave.com/2025/02/11/2-11-2025/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1inhwb1/oneminute_daily_ai_news_2112025/</guid>
-      <pubDate>Wed, 12 Feb 2025 03:39:08 GMT</pubDate>
     </item>
     <item>
       <title>如果人工智能取代了大部分工作，我们的经济将发生巨大变化。目前，金钱决定了你的舒适生活，但一旦我们不再为薪水而工作，整个系统会发生什么变化？</title>
@@ -88,20 +102,6 @@
       <description><![CDATA[我听很多人说，他们出生在 70-80 年代，当时计算机和软件还处于起步阶段。  他们乘风破浪，学习语言，编写程序，出售它们，赚了很多钱。 那么，我（18 岁）如何才能乘上这股人工智能浪潮，成为下一个大人物。我是金融背景，对编码、人工智能/机器学习领域不太感兴趣。但我相信我并不需要严格成为一名技术人员（是的，你必须对你正在做的事情有一点了解）。  如何规划​​我的下一个十年。我将非常感谢您的宝贵建议。     提交人    /u/Itsurboieweweaahaa   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1in4fxf/how_to_ride_this_ai_wave/</guid>
       <pubDate>Tue, 11 Feb 2025 17:44:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>是时候担心 DOGE 的人工智能计划了</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1in25js/its_time_to_worry_about_doges_ai_plans/</link>
-      <description><![CDATA[Bruce Schneier 和 Nathan E. Sanders：“唐纳德·特朗普和伊隆·马斯克的混乱改革方式正在颠覆政府运作……据报道，政府效率部希望利用人工智能来削减成本。据《华盛顿邮报》报道，马斯克的团队已经开始通过人工智能程序运行来自政府系统的敏感数据，以分析支出并确定可以削减哪些部分。这可能会导致人类工作被自动化取代。https://theatln.tc/8m5VixTw  “……利用人工智能提高政府效率是一项值得追求的事业，这并不是一个新想法。拜登政府披露了联邦政府正在开发的 2,000 多个 AI 应用程序……然而，用 AI 代理取代敬业且有原则的公务员的想法是新的，而且很复杂。“公务员队伍——管理政府机构的庞大员工队伍——在将法律和政策转化为社会运作方面发挥着至关重要的作用。新总统可以发布全面的行政命令，但这些命令往往没有真正的效果，除非它们真正改变了公务员的行为。无论你认为这些人是不可或缺的、鼓舞人心的做好事者、无聊的官僚职能人员，还是‘深层国家’的代理人，他们的数量和连续性都是抵制制度变革的压舱石。”“这就是特朗普和马斯克的行动如此重要的原因。人工智能决策越多地融入政府，变革就越容易。如果人类工人被人工智能广泛取代，行政人员将拥有单方面权力，可以立即改变政府的行为，这将极大地提高民主国家权力过渡的风险。特朗普史无前例地清洗公务员队伍，这可能是总统最后一次需要更换政府中的人类来决定其新职能。未来的领导人只需按一下按钮就可以做到这一点。 “需要明确的是，行政部门使用人工智能并不一定是灾难性的。从理论上讲，它可以允许新领导层迅速实现选民的愿望。但在独裁领导人手中，这可能会变得非常糟糕。人工智能系统将权力集中在高层，因此它们可以让行政人员立即对庞大的官僚机构进行变革。解雇和更换数万名人类官僚是一项艰巨的任务。将一个 AI 换成另一个 AI，或者修改这些 AI 运行的规则，会简单得多。 阅读更多：https://theatln.tc/8m5VixTw     提交人    /u/theatlantic   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1in25js/its_time_to_worry_about_doges_ai_plans/</guid>
-      <pubDate>Tue, 11 Feb 2025 16:10:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我就是没看到</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imxl5i/i_just_dont_see_it/</link>
-      <description><![CDATA[这可能是我的情况，但作为一名知识工作者，我看不到所有在我面前被嘲笑的人工智能技术有什么真正的好处。微软正在大力推广 Copilot，谷歌正在推广 Gemini 等。 我知道人工智能可以成为研究和工业应用的一个非常酷的工具，但我真的看不到当前针对知识工作的人工智能技术有什么好处。 到目前为止，我所做的每一份会议总结都漏掉了一两点，我所提示的每一份草稿都太过普通，我不得不把它扔掉，重新开始，而且太多的搜索都返回了完全错误的信息。不是每次搜索都是这样，但太多了，如果不核实事实（因此我自己搜索东西），就无法相信任何答案。 再说一次，也许我错过了什么，但我真的不明白所有的模糊之处。我做错了什么/我错过了什么？这其中有学习曲线吗？ 编辑：非常感谢大家的意见，谢谢大家！对我来说，TL;DR 是，目前开箱即用的 AI 技术对我来说还不够可靠，但这也因我自己的偏见、无知和缺乏经验而加剧。我会坚持下去，并以更积极的态度学习如何使用 AI。    提交人    /u/kwsni42   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imxl5i/i_just_dont_see_it/</guid>
-      <pubDate>Tue, 11 Feb 2025 12:36:45 GMT</pubDate>
     </item>
     <item>
       <title>每月“是否有一个工具可以……”帖子</title>
