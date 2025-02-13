@@ -4,7 +4,7 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Wed, 12 Feb 2025 21:13:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 01:03:48 GMT</lastBuildDate>
     <item>
       <title>Crustdata 今日在 Product Hunt 上线！🤩</title>
       <link>https://feed.indiehackers.world/post/af078c6ee5</link>
@@ -161,6 +161,23 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Mon, 03 Feb 2025 15:01:59 GMT</pubDate>
     </item>
     <item>
+      <title>🔥 寻找优秀的工程师来帮助构建 Tessarak – 人工智能法律管理软件</title>
+      <link>https://feed.indiehackers.world/post/caf025df4c</link>
+      <description><![CDATA[✅ Next.js（用于 Web 应用程序）
+✅ AWS 和 Auth0（用于后端基础设施和身份验证）
+✅ LLM API 和自定义 AI 管道（用于高级自动化）
+我正在寻找对以下方面感兴趣的优秀工程师：
+🔹 构建 AI 驱动的工作流程
+🔹 扩展现实世界的自动化解决方案
+🔹 塑造法律技术的未来
+如果您在 LLM、AI 代理、React Native、Next.js 或云基础设施方面有经验，请与我们联系！这是一个在具有巨大潜力的尖端法律自动化平台上工作的机会。
+如果您有兴趣加入构建，请发表评论或直接发信息给我！ 🚀
+目前仅限股权。
+Discord Indiehackers Chat广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/caf025df4c</guid>
+      <pubDate>Fri, 31 Jan 2025 00:03:15 GMT</pubDate>
+    </item>
+    <item>
       <title>刚刚在 PH 上推出！</title>
       <link>https://feed.indiehackers.world/post/a957543731</link>
       <description><![CDATA[大家好 👋
@@ -204,15 +221,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/9897812220</guid>
       <pubDate>Mon, 27 Jan 2025 21:34:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>一兆字节（TB）的数据有多少？</title>
-      <link>https://feed.indiehackers.world/post/35ca9f81dc</link>
-      <description><![CDATA[对于数据分析计算的数据库来说，1TB的数据量是巨大的，Teradata这个名字至今都还不过时。如果一个工具能够流畅地处理TB级的数据，比如将处理时间从几个小时压缩到几分钟，提升用户体验；或者将一个小型分布式环境简化为单机，大大降低运维成本，那么将意义非凡。而esProc SPL就是这样一个工具。
-对于大多数用户场景来说，追求PB级数据处理能力既没有必要，也不切实际。
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/35ca9f81dc</guid>
-      <pubDate>Mon, 27 Jan 2025 03:44:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
