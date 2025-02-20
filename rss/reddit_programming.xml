@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 20 Feb 2025 06:19:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 12:27:31 GMT</lastBuildDate>
+    <item>
+      <title>dotnet垃圾收集器的工作方式</title>
+      <link>https://www.reddit.com/r/programming/comments/1itw9tv/how_the_dotnet_garbage_collector_works/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/bizzehdee     [link]    32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1itw9tv/how_the_dotnet_garbage_collector_works/</guid>
+      <pubDate>Thu, 20 Feb 2025 11:22:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>💥Tech Talks Weekly＃47：在Voxxed Days '25，🆕NDCSecurity '25，🆕AIAction '25，YOW！等等举行的新会议演讲！</title>
+      <link>https://www.reddit.com/r/programming/comments/1itw4wq/tech_talks_weekly_47_new_conference_talks/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/techtalksweekly     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1itw4wq/tech_talks_weekly_47_new_conference_talks/</guid>
+      <pubDate>Thu, 20 Feb 2025 11:12:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>瑞典和印度的软件工程师</title>
+      <link>https://www.reddit.com/r/programming/comments/1itvq82/software_engineers_in_sweden_and_india/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/using trangecear927     [链接]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1itvq82/software_engineers_in_sweden_and_india/</guid>
+      <pubDate>Thu, 20 Feb 2025 10:45:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>瑞典和印度的软件工程师</title>
+      <link>https://www.reddit.com/r/programming/comments/1itvmxi/software_engineers_in_sweden_and_india/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/using trangecear927     [链接]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1itvmxi/software_engineers_in_sweden_and_india/</guid>
+      <pubDate>Thu, 20 Feb 2025 10:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用Pymunk模拟机械曲线图</title>
+      <link>https://www.reddit.com/r/programming/comments/1ituoau/simulating_mechanical_curve_drawing_using_pymunk/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/adavison2560     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ituoau/simulating_mechanical_curve_drawing_using_pymunk/</guid>
+      <pubDate>Thu, 20 Feb 2025 09:30:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>ML编程指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1itt5c3/guidance_for_a_ml_programming/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好，我是编程的完整新手，但是我很感谢您对如何更接近我的最终目标的任何帮助，我一直在研究机器学习图像检测，我正在尝试创建一个实时视频检测，将看到的对象转化为数据集示例：实时视频按区域检测到塑料瓶，然后是另一个塑料瓶，然后是一个苹果，数据收集了2个塑料瓶1苹果总和3个检测到的对象我为视频提供了一个参考，该视频显示了图像检测的密切示例，但没有收集数据，除非它是图像集，否则该项目的上下文是用于检测不同废物  &lt;的ROV设计的上下文。 ！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/lopsided_reveal_1218       [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1itt5c3/guidance_for_a_ml_programming/</guid>
+      <pubDate>Thu, 20 Feb 2025 07:40:49 GMT</pubDate>
+    </item>
     <item>
       <title>是什么使一名出色的软件工程师？ 🤔</title>
       <link>https://www.reddit.com/r/programming/comments/1itrf73/what_makes_a_great_software_engineer/</link>
@@ -18,13 +60,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/siriusastrebe     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1itr88c/cap_theorem_explained_with_a_horse_and_carriage/</guid>
       <pubDate>Thu, 20 Feb 2025 05:35:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助！我如何才能使我的项目仅与LAN合作</title>
-      <link>https://www.reddit.com/r/programming/comments/1itr5ps/help_how_can_i_make_my_project_to_work_only_with/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我使Airlink在LAN设备之间共享文件，并且在我的本地设置上正常工作，但是当我在铁路然后，现在可以看到互联网上的所有设备，这可能是一个大问题  github  airlink   我使用了html css＆amp; JS作为前端Python（WEBRTC）作为后端 请帮助我解决这个问题。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/adityasinh-sodha     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1itr5ps/help_how_can_i_make_my_project_to_work_only_with/</guid>
-      <pubDate>Thu, 20 Feb 2025 05:31:08 GMT</pubDate>
     </item>
     <item>
       <title>使用Rust + Leptos  - > WASM创建铬延长</title>
@@ -74,41 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://gaultier.github.io/blog/making_my_static_blog_generator_11_times_faster.html”&gt; [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ith9wr/making_my_static_blog_generator_11_times_faster/</guid>
       <pubDate>Wed, 19 Feb 2025 21:33:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI协助编程 - 比较分析</title>
-      <link>https://www.reddit.com/r/programming/comments/1ith6zg/ai_assisted_programming_a_comparative_analysis/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/super_television5155      [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ith6zg/ai_assisted_programming_a_comparative_analysis/</guid>
-      <pubDate>Wed, 19 Feb 2025 21:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成PDFS的实用指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1itgywy/a_practical_guide_to_generating_pdfs/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ManufacturersHort437     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1itgywy/a_practical_guide_to_generating_pdfs/</guid>
-      <pubDate>Wed, 19 Feb 2025 21:20:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>最初的alpha版本：狮身人面像feviverse</title>
-      <link>https://www.reddit.com/r/programming/comments/1itghrl/initial_alpha_release_sphinxfediverse/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/livinthelookingglass   href =“ https://www.reddit.com/r/python/comments/1itgesm/initial_alpha_release_sphinxfediverse/”&gt; [link]    32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1itghrl/initial_alpha_release_sphinxfediverse/</guid>
-      <pubDate>Wed, 19 Feb 2025 21:01:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>技术和非技术堆栈运行收听笔记（2025）</title>
-      <link>https://www.reddit.com/r/programming/comments/1itednk/tech_nontech_stacks_to_run_listen_notes_2025/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/wenbinf   href =“ https://www.listennotes.com/blog/tech-non-tech-stacks-to-run-listen-notes-2025-113/”&gt; [link]   ＆＃ 32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1itednk/tech_nontech_stacks_to_run_listen_notes_2025/</guid>
-      <pubDate>Wed, 19 Feb 2025 19:35:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>🌍角材料国家自动完成</title>
-      <link>https://www.reddit.com/r/programming/comments/1itdx92/angular_material_country_autocomplete/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;      🅰️与Angular 16-19完全兼容该库旨在与最新的Angular版本无缝地工作（16 ，17、18和19）。它利用现代角度的功能，同时保持向后兼容。 🌍多语言魔术支持英语，法语，西班牙语，意大利语，德语，阿拉伯语，中文，印地语，孟加拉语，孟加拉语，葡萄牙语和俄罗斯 +易于扩展到任何语言 🎌标志图像🇺🇸🇺🇸🇩🇪🇫🇷🇪🇸🇪🇸🇪🇸🇪🇸浏览器独立标志图像 ⚡优化的性能RXJS驱动搜索，并带有debounce＆amp;虚拟滚动 🔍智能搜索搜索国家通过：✓本地化名称✓任何翻译✓Alpha2/3代码   🎨材料设计出色的卓越无缝集成与角度材料组件 🧩独立组件零样本集成  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/wall3210     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1itdx92/angular_material_country_autocomplete/</guid>
-      <pubDate>Wed, 19 Feb 2025 19:18:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
