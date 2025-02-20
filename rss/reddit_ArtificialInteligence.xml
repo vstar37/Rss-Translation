@@ -4,7 +4,7 @@
     <title>人工智能门户</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 20 Feb 2025 01:02:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 03:17:54 GMT</lastBuildDate>
     <item>
       <title>有关AI/机器人技术以及上下文和空间意识的问题。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1itlvpg/question_about_airobotics_and_contextual_and/</link>
@@ -34,13 +34,6 @@
       <pubDate>Wed, 19 Feb 2025 23:46:33 GMT</pubDate>
     </item>
     <item>
-      <title>您是否认为应该为孩子们使用像角色AI这样的平台吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ithpsk/do_you_think_platforms_like_character_ai_should/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近遵循了一些有关角色AI的新闻，发现现在，即使是13岁的孩子也可以使用它而没有任何问题。 我的看法：如果您让孩子使用一个不受限制的平台，它们很容易受到影响并暴露于不适合他们的内容，尤其是NSFW材料。 并非每个父母都可以控制他们的什么孩子看到，最终，每个孩子都会偶然发现了NSFW内容。我已经看到了机器人回答的情况，并带有鼓励对他人的自杀，自杀或暴力行为的消息，这对未成年人来说是极其有害的内容。 这对参与的任何人都不好；它会损害平台和使用它的孩子，并设定了危险的先例。我希望其他未经审查的聊天机器人，例如看门人，辛辣的聊天和秘密欲望AI不会效仿并开始迎合儿童，因为我认为这会成为我们未来有害的新常态。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sterident_rub_6720     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ithpsk/do_you_think_platforms_like_character_ai_should/</guid>
-      <pubDate>Wed, 19 Feb 2025 21:51:27 GMT</pubDate>
-    </item>
-    <item>
       <title>大语言模型中的特质</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ithbbc/idiosyncrasies_in_large_language_models/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我每天都在发现并总结有趣的AI研究论文，因此您不必全部拖网。今天的论文的标题为“大语言模型中的“特质”，“ Mingjie Sun，Yida Yin，Zhiqiu Xu，J。ZicoKolter和Zhuang Liu”。  这项研究研究了独特的模式 - 特殊  - 将输出与不同的大语言模型（LLMS）区分开来。通过训练分类器以预测哪种模型生成给定文本，作者证明了LLMS表现出微妙而又一致的风格和词汇标记。  关键发现：    高分类精度：在文本嵌入式上训练的分类器可以区分模型生成的响应，最高 97.1 ％准确性跨越Chatgpt，Claude，Grok，Gemini和DeepSeek等模型。    转换：这些特质仍然可以检测到，即使文本被另一个模型重写，翻译或总结后，表明它们嵌入了语义内容中。   影响单词分布：在响应中改组单词对分类器的性能的影响很小，这表明单词选择在区分LLM输出中起着重要作用。   跨模型的稳定特质：式式标记在模型家族和大小之间存在，即使比较了同一模型的不同版本（例如，QWEN-2.5的各种尺寸） 。传播这些特质，可能在AI系统上编码偏差。   这些发现表明，检测和解释模型特异性模式对于跟踪AI生成的内容和评估模型相似性可能至关重要。  您可以在此处捕获完整的故障：在这里&lt; /a&gt; 您可以在这里捕获完整的原始研究论文：原始纸   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ithbbc/idiosyncrasies_in_in_large_langue_models/”&gt; [link]        [注释]  ]]></description>
@@ -60,6 +53,13 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  所以我使用targin.ai，我才刚刚开始。创建角色时，它要求我放入角色描述，然后将角色定义放置。差异到底是什么？这让我感到困惑，因为它们听起来都一样，但它们都以不同的方式影响角色。有人知道吗？或有一个示例？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/duckbox78     [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1itf8tr/difference_between_description_and_definition_of/</guid>
       <pubDate>Wed, 19 Feb 2025 20:10:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是AI和这个世界的初学者（从字面上的0），我得到了疑问</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1itehx8/i_am_a_beginner_literally_from_0_on_ai_and_this/</link>
+      <description><![CDATA[在您的想法是什么？  您不认为有点恐怖和危险，您甚至如何使用AI制作“假” AI AVATAR/场景等？就像您如何分辨它现在的某些事情   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/usinghuman55     [link]  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1itehx8/i_am_a_a_beginner_literally_from_0_0_oon_ai_and_and_this/]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1itehx8/i_am_a_beginner_literally_from_0_on_ai_and_this/</guid>
+      <pubDate>Wed, 19 Feb 2025 19:40:34 GMT</pubDate>
     </item>
     <item>
       <title>AI探测器的准确性</title>
