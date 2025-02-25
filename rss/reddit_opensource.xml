@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Tue, 25 Feb 2025 12:29:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 15:15:59 GMT</lastBuildDate>
+    <item>
+      <title>咖啡馆玛丽亚。一款功能性的烹饪模拟游戏完全在Mariadb中玩。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ixwwmj/cafe_maria_a_functional_cooking_sim_game_played/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我的疯狂科学实验螺旋不高。没有外部脚本，可以登录DB并通过存储过程完全播放。 我完成了概念证明，并决定是时候继续进行下一个项目了。因此，我将其释放给公众以您的娱乐和恐惧。提交由＆＃32; &lt; //github.com/todo-make-username/cafe_maria&quot;&gt; [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ixwwmj/cafe_maria_a_functional_cooking_sim_game_played/</guid>
+      <pubDate>Tue, 25 Feb 2025 14:57:44 GMT</pubDate>
+    </item>
     <item>
       <title>介绍github.com/bububa/Atomic-代理：原始python概念的golang改编</title>
       <link>https://www.reddit.com/r/opensource/comments/1ixsh9x/introducing_githubcombububaatomic_agents_a_golang/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>我为提示构建了一个AI-native（Edge和LLM）代理服务器。处理建筑代理应用中讨厌的繁重劳动。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ixjarn/i_built_an_ainative_edge_and_llm_proxy_server_for/</link>
-      <description><![CDATA[在/ArchGW   - 旨在处理构建代理应用程序讨厌繁重的AI -Native Edge和LLM代理服务器 - 提供快速提供⚡️查询路由，提示与（现有）业务API的无缝集成用于代理任务以及LLMS的统一访问和观察。  Arch Gateway是由 envoy代理相信：  提示是细微的和不透明的用户请求，它需要与传统的HTTP请求相同的功能，包括安全处理，智能路由，可观察到可观察性以及与后端（API）的个性化系统的集成 - 核心业务逻辑。*   ARCH由专门构建的LLM设计，以处理与提示的处理和处理有关的关键但讨厌的任务。这包括检测和拒绝越狱尝试，基于旨在提高任务准确性的基于意图的路由，将用户请求映射到“后端”中。功能，并以集中式的方式管理提示和LLM API调用的可观察性。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1ixjarn/i_built_an_ainative_endative_edge_and_and_llm_proxy_server_for/”&gt; [link]   [注释]   ]]></description>
+      <description><![CDATA[在/ArchGW   - 旨在处理构建代理应用程序讨厌繁重的AI -Native Edge和LLM代理服务器 - 提供快速提供⚡️查询路由，提示与（现有）业务API的无缝集成用于代理任务，以及LLMS的统一访问和观察。  Arch Gateway由 envoy代理相信：  提示是细微的和不透明的用户请求，它需要与传统的HTTP请求相同的功能，包括安全处理，智能路由，可观察到可观察性以及与后端（API）的个性化系统的集成 - 核心业务逻辑。*   ARCH由专门构建的LLM设计，以处理与提示的处理和处理有关的关键但讨厌的任务。这包括检测和拒绝越狱尝试，基于旨在提高任务准确性的基于意图的路由，将用户请求映射到“后端”中。功能，并以集中式的方式管理提示和LLM API调用的可观察性。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1ixjarn/i_built_an_ainative_endative_edge_and_and_llm_proxy_server_for/”&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ixjarn/i_built_an_ainative_edge_and_llm_proxy_server_for/</guid>
       <pubDate>Tue, 25 Feb 2025 01:42:08 GMT</pubDate>
     </item>
@@ -71,14 +78,14 @@
     <item>
       <title>作为福斯开发人员，我对促进项目感到沮丧</title>
       <link>https://www.reddit.com/r/opensource/comments/1ixgfap/as_a_foss_dev_im_torn_about_promoting_my_projects/</link>
-      <description><![CDATA[在在那里并在Reddit上推广我的项目。我总是感到内gui，因为大多数潜艇反对自我宣传，而且我感到自己正在踩脚趾。但事实是，Reddit可能是关注您工作的最佳平台。问题是，我不确定应该在哪里进行此促销。 我在Github，个人博客和其他几乎没有引起注意的地方看到了许多惊人的项目。这很令人沮丧，因为我知道这些项目付出了多少努力，以及他们只会受到用户的一点鼓励或关注而受益多少。开发人员确实需要这种反馈和热情来继续前进，尤其是当他们为社区工作而不是为了利润而工作时。 ，我们该怎么办？我们应该建立一个专门的子雷迪特，福斯开发人员可以以积极的建设性方式促进他们的项目？我们可以自由展示新工具，获得反馈并建立社区感的空间？我很想知道您的想法。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1ixgfap/as_a_foss_foss_dev_im_im_torn_about_about_myoting_my_projects/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1ixgfap/as_a_a_foss_dev_im_im_im_about_about_promoting_my_projects/]]></description>
+      <description><![CDATA[在在那里并在Reddit上推广我的项目。我总是感到内gui，因为大多数潜艇反对自我宣传，而且我感到自己正在踩脚趾。但事实是，Reddit可能是关注您工作的最佳平台。问题是，我不确定应该在哪里进行此促销。 我在Github，个人博客和其他几乎没有引起注意的地方看到了许多惊人的项目。这很令人沮丧，因为我知道这些项目付出了多少努力，以及他们只会受到用户的一点鼓励或关注而受益多少。开发人员确实需要这种反馈和热情来继续前进，尤其是当他们为社区工作而不是为了盈利而努力时。 ，我们该怎么办？我们应该建立一个专门的子雷迪特，福斯开发人员可以以积极的建设性方式促进他们的项目？我们可以自由展示新工具，获得反馈并建立社区感的空间？我很想知道您的想法。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1ixgfap/as_a_foss_foss_dev_im_im_torn_about_about_myoting_my_projects/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1ixgfap/as_a_a_foss_dev_im_im_im_about_about_promoting_my_projects/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ixgfap/as_a_foss_dev_im_torn_about_promoting_my_projects/</guid>
       <pubDate>Mon, 24 Feb 2025 23:28:41 GMT</pubDate>
     </item>
     <item>
       <title>我已经开源并提供免费的电子邮件验证API</title>
       <link>https://www.reddit.com/r/opensource/comments/1ixe8qd/ive_opensourced_and_serve_a_free_email/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经构建了一个轻量级的电子邮件验证服务，您可以为便士自我宿主。我对昂贵的SaaS解决方案感到沮丧后开了开源。 &lt; /p&gt; 技术堆栈：•进行1.21+ •redis（仅用于域缓存，没有电子邮件存储）•Prometheus指标•grafana监视•Docker＆amp; Docker Ready Ready &lt; /p&gt; 功能：•没有数据离开您的服务器•无跟踪 /分析•完全自我插入•超轻量级在最小资源上）•所有核心功能均包括： -MX记录验证  - 一次性电子邮件检测  - 域验证  -  Typo建议  - 批处理处理 部署：•准备部署在 fly.io   •docker撰写包括•清除文档•最小依赖项&lt; /p&gt;  github： https://github.com/umuterturk/email-verifier  着陆页： https://rapid-email-email-verifier.fly.dev/    我是一个dev无法进行任何有效的公告，所以我认为这个社区将是一个很好的起点，而且您的人们可能会很喜欢知道这一点。非常适合任何运行自己的注册系统或需要电子邮件验证的人，而无需依赖外部服务。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/helbette     [link]       [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经构建了一个轻量级的电子邮件验证服务，您可以为便士自我宿主。我对昂贵的SaaS解决方案感到沮丧后开了开源。 &lt; /p&gt; 技术堆栈：•进行1.21+ •redis（仅用于域缓存，无电子邮件存储）•Prometheus指标•grafana监视•Docker＆amp; Docker Ready Ready &lt; /p&gt; 功能：•没有数据离开您的服务器•无跟踪 /分析•完全自我插入•超轻量级在最小资源上）•所有核心功能均包括： -MX记录验证  - 一次性电子邮件检测  - 域验证  -  Typo建议  - 批处理处理 部署：•准备部署在 fly.io   •docker撰写包括•清除文档•最小依赖项&lt; /p&gt;  github： https://github.com/umuterturk/email-verifier  着陆页： https://rapid-email-email-verifier.fly.dev/    我是一个dev无法进行任何有效的公告，所以我认为这个社区将是一个很好的起点，而且您的人们可能会很喜欢知道这一点。非常适合任何运行自己的注册系统或需要电子邮件验证的人，而无需依赖外部服务。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/helbette     [link]       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ixe8qd/ive_opensourced_and_serve_a_free_email/</guid>
       <pubDate>Mon, 24 Feb 2025 21:57:08 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  受这么多成功的OSS的启发，我将代码库重构为新仓库使其开源。我的项目是一个小型搜索引擎，使用NextJS 15＆amp; React生态系统的supabase，使质量首先内容易于访问和可发现。 我正在创建此项目，因为我认为通用搜索引擎并没有向我们展示最佳结果 - 它们只是显示最相关的内容，并且在这个无尽的内容时代，这不再削减它。另外，我正在添加一个内置目录，以帮助用户探索生态系统，而通用搜索引擎无法实现。 如果您认为搜索引擎不会始终向我们展示优质结果，我很想听听您的想法是否需要解决。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1ix53uy/i_opensource_my_my_nextjs_project/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ix53uy/i_opensource_my_nextjs_project/</guid>
       <pubDate>Mon, 24 Feb 2025 15:47:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>将所有AI开发人员和研究人员称为项目“ Research2Reality”，我们聚集在一起实施未完成的研究论文！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iwtbni/calling_all_ai_developers_and_researchers_for/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/dippatel21     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iwtbni/calling_all_ai_developers_and_researchers_for/</guid>
-      <pubDate>Mon, 24 Feb 2025 04:09:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
