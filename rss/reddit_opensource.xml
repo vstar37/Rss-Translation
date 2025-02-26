@@ -4,7 +4,63 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Wed, 26 Feb 2025 01:04:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 15:16:30 GMT</lastBuildDate>
+    <item>
+      <title>开源日志Explorer模板</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iyp8bc/opensource_logs_explorer_template/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们发布了一个开源日志Explorer模板，可帮助开发人员在其应用程序中构建可观察性功能。  这是一个完整的堆栈解决方案，带有下一个frontend和tinybird后端，旨在按大规模处理数十亿个日志。目的是使任何软件项目都可以轻松提供大型平台提供的日志探索。  MIT许可并开放以供捐款。 github： github.com/tinybirdco/logs-explorer-template      &lt;！ -  &lt;！ -SC_ON-&gt;＆＃32;提交由＆＃32; /u/u/u/itty-bitty-birdy-tb      [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iyp8bc/opensource_logs_explorer_template/</guid>
+      <pubDate>Wed, 26 Feb 2025 14:50:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立了一个用于产品测试的数据分析平台 - 寻找反馈</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iykqyu/built_a_data_analytics_platform_for_product/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 👋 我一直在研究 hovernest ，开源数据分析平台旨在帮助小型企业，产品经理和产品经理和开发人员有效地测试其产品。它为产品性能，用户行为和潜在改进提供了深刻的见解。我正在寻找诚实的反馈以完善平台。   https：https：https：https：https： //vimeo.com/1060422597/f530eac40f?share=copy    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1iykqyu/built_a_a_data_analytics_platform_for_product/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iykqyu/built_a_data_analytics_platform_for_product/</guid>
+      <pubDate>Wed, 26 Feb 2025 10:44:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是一个值得更多关注的OSS项目？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iyk723/whats_an_oss_project_that_deserves_more_attention/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们大多数人可能知道在创建和维护开源项目方面有多少努力。但是，凭借开源世界的广阔世界，有无数的项目在雷达下飞行。  tbh，这有时使我感到沮丧一点鼓励确实可以在保持开发人员的动机方面有所作为。 因此，我想分享一些很棒的OSS项目（所有的5k恒星），我认为这应该得到更多的爱。 （   fyi我都不隶属于这些 - 只是粉丝！  ）    &lt; ul&gt;   codapi （1.7k stars） - 让您在文档中制作交互式代码示例。用户不仅可以阅读，还可以与他们一起玩 - 让学习方式更有趣，动手！ - 玩家（2.7k星级） - 在网站上播放终端命令，例如视频 - 但使用实际文本可以复制/粘贴，因此您可以将鼠标滚动到它上面如果您喜欢的话，请复制/粘贴命令。编程源代码。它使您可以查看是否可以在某些地方简化代码，例如集中函数在各处使用，等等。   trackia （4.9k stars） - 超级快速运行时验证器库用于打字稿。与其他库不同，典型不需要额外的架构定义。只有1行代码。   当然，这只是在刮擦表面。您知道其他被低估的OSS项目值得更多关注吗？我很想检查它们！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1iyk723/whats_an_oss_oss_project_that_that_deserves_more_atterention/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iyk723/whats_an_oss_project_that_deserves_more_attention/</guid>
+      <pubDate>Wed, 26 Feb 2025 10:05:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源是梦想死亡的地方</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iyj3iu/opensource_is_where_dreams_go_to_die/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/strical-idalial-ideal6236     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iyj3iu/opensource_is_where_dreams_go_to_die/</guid>
+      <pubDate>Wed, 26 Feb 2025 08:42:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>ReceCtroast：一个用于UI反馈收集的Web小部件。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iyiqp6/reactroast_a_web_widget_for_ui_feedback_collection/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我制作了一个工具，使向开发人员发送反馈更加容易。这是针对产品经理，技术线索和网络设计师的工具。  React React React React允许用户在网页上选择元素，捕获其状态（包括屏幕截图），然后将详细信息发送到所需的频道。&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; /p&gt; 之前，向开发人员发送反馈是一团糟且耗时的。  您必须进行屏幕截图并将其发送给开发人员。 或您必须设置会议并展示问题。  用React Roast进行React Roast，您可以在不离开页面的情况下发送反馈。  npm： https://www.npmjs.coms.com/package/reaect-react-roast-roast-roast-roast-a&gt;   demo： demo：&lt; https://growati.com“&gt; https://growati.com   请使用它并报告问题。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/satyamskillz     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1iyiqp6/reactoctroast_a_web_widget_for_ui_feedback_collection_collection/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iyiqp6/reactroast_a_web_widget_for_ui_feedback_collection/</guid>
+      <pubDate>Wed, 26 Feb 2025 08:15:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>🦜toutui：Linux的TUI Audiobookshelf客户端。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iyi7fm/toutui_a_tui_audiobookshelf_client_for_linux/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi opensource社区！ 在过去的几周里，我真的很喜欢为Linux建立一个Tui Audiobookshelf客户端（用Rust和I编写了我我很高兴与您分享第一个版本。&lt; /p&gt; 与此应用程序，您可以收听您的有声读物和播客（&lt; /p&gt;  AudioBookshelf Server）在保持您的进度和统计数据时。查看 github page 以获取详细的演示。 P&gt; 希望您会喜欢这个TUI应用程序！欢迎任何反馈。 享受！  源代码。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1iyi7fm/toutui_a_a_tui_audiobookshelf_client_for_for_linux/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iyi7fm/toutui_a_tui_audiobookshelf_client_for_linux/</guid>
+      <pubDate>Wed, 26 Feb 2025 07:36:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>完美的分心免费开源Android发射器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iyhur1/a_perfect_distraction_free_opensource_android/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，伙计，我从OnePlus 6T切换后7-8个月我一直在使用手机（Vivo V30E），因为它的电池寿命显着减少。但是，我真的不喜欢它的UI（当然，个人喜好）。由于我非常沉迷于Reddit，X和Instagram，因此我需要一个快速解决方案来最大程度地减少干扰。我正在寻找一个舒适的开源启动器，可以帮助我减少手机使用情况，类似于简约应用。你有什么建议吗？预先感谢！＆quot＆quot   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sunkazarazs    href =“ https://www.reddit.com/r/opensource/comments/1iyhur1/a_perfect_distraction_free_opensource_opensource_android/”&gt; [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iyhur1/a_perfect_distraction_free_opensource_android/</guid>
+      <pubDate>Wed, 26 Feb 2025 07:11:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于开源开发：您跟踪什么指标？您怎么知道您的项目对您自己以外的人有用？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iydsfa/for_open_source_devs_what_metrics_do_you_track/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近开始构建打开 - 抹布的源项目。我有很多有趣的建筑。但是，我正在努力评估自己的表现（或糟糕）。我的目标是构建人们发现真正有用的东西，并且我不确定如何量化该指标或跟踪的指标。我觉得由于机器人只是刮擦github和pypi，在此阶段，克隆和PIP下载太肿了，无法在此阶段进行跟踪。我听说一些开发人员的朋友提到了Github上的星星也只是虚荣心的指标。  如果您构建了一个您认为成功的开源项目，我很想听听您用来定义成功的指标。  谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/Advanced_army4706     [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iydsfa/for_open_source_devs_what_metrics_do_you_track/</guid>
+      <pubDate>Wed, 26 Feb 2025 03:10:56 GMT</pubDate>
+    </item>
     <item>
       <title>寻找免费/开源AI开发人员代理</title>
       <link>https://www.reddit.com/r/opensource/comments/1iy6l3k/looking_for_freeopen_source_ai_developer_agent/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我正在开发一个名为Graphina的开放源代码锈库，用于图形数据科学。该图书馆正处于开发的早期阶段，因此可能还没有准备好认真使用。但是，已经实施了许多核心功能和算法的早期版本。 我在这里宣布该项目以邀请社区的贡献和建议。我对Rust仍然相对较新，因此我特别感谢您可能需要帮助改善Graphina的任何建设性反馈。  github链接： https://github.com/habedi/graphina   感谢您的兴趣和支持！  &lt;！ - sc_on-&gt;＆＃32;提交由＆＃32; /u/u/no_pomegranate7508      [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ixyyey/graphina_a_highlevel_graph_data_science_library/</guid>
       <pubDate>Tue, 25 Feb 2025 16:24:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>咖啡馆玛丽亚。一款功能性的烹饪模拟游戏完全在Mariadb中玩。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ixwwmj/cafe_maria_a_functional_cooking_sim_game_played/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我的疯狂科学实验螺旋不高。没有外部脚本，可以登录DB并通过存储过程完全播放。 我完成了概念证明，并决定是时候继续进行下一个项目了。因此，我将其释放给公众以您的娱乐和恐惧。提交由＆＃32; &lt; //github.com/todo-make-username/cafe_maria&quot;&gt; [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ixwwmj/cafe_maria_a_functional_cooking_sim_game_played/</guid>
-      <pubDate>Tue, 25 Feb 2025 14:57:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Drupal还是Strapi？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ixs8tw/drupal_or_strapi/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   WordPress就像在Autobahn上驾驶驾驶。 Joomla就像在Jello中建造了一个Jenga塔。  让我思考drupal或strapi。我对Drupal的经历是，这是屁股的巨大痛苦，所以Strapi看起来很诱人...但是我以前受到了伤害，并且想获得第二个意见。  &lt;！ - sc_on-&gt;＆＃32;提交由＆＃32; /u/-_ o/-_ o-laserBeak-o_--       [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ixs8tw/drupal_or_strapi/</guid>
-      <pubDate>Tue, 25 Feb 2025 10:49:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Whispercat v1.4.0发布 - 开源转录和后处理应用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ixr1h5/whispercat_v140_released_open_source/</link>
-      <description><![CDATA[在一个开源音频捕获，转录和后处理应用程序。 链接： https://github.com/ddxy/whispercat      有什么新功能？      打开Web UI支持： Whispercat现在与Open Web UI集成 - 这意味着您可以使用免费的，开源的转录模型！  更快的服务器集成： v1.3.0发布引入了对更快的服务器的支持，这是一种免费的开源文本，是语音模型的免费开源文本。  增强了全球热键＆amp;背景模式：享受可定制的热键，用于启动/停止录音和改进的系统托盘最小化，以使窃窃私猫在背景中安静地运行。   麦克风测试＆amp;通知：在使用我们的测试功能录制之前验证麦克风并接收有关重要事件或错误的屏幕通知。  精制的GUI＆amp;黑暗模式支持：界面已通过更好的设置管理和完整的黑暗模式支持进行了抛光。  我很想听听您的想法，因此请随时分享您的反馈和建议。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sircheckmatesalot     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ixr1h5/whispercat_v140_released_open_source/</guid>
-      <pubDate>Tue, 25 Feb 2025 09:25:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek通过FlashMLA开始开源周：改变游戏规则的GPU优化</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ixqxtm/deepseek_kicks_off_open_source_week_with_flashmla/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/xyz_labs       ＆＃32;   /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ixqxtm/deepseek_kicks_off_open_source_week_with_flashmla/</guid>
-      <pubDate>Tue, 25 Feb 2025 09:17:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Amurex-开源AI会议副标士，现已演变成开源助理助理</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ixm6ne/amurex_the_open_source_ai_meeting_copilot_now/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家👋 上个月，我制作了Amurex，一个开源的AI会议copilot，现在正在演变成某物更大：开源执行助理。我们正在构建诸如在您所有在线知识中的汇总搜索之类的功能，但是如果您想看到其他任何东西，我们都是耳朵！ 👂 现在，Amurex与Google Meet和Microsoft团队合作，处理笔录，摘要，甚至提供实时建议。 •github repo： https://github.com/thepersonalaicompany/amurex     •网站： https://www.amurex.ai    检查一下，让我知道哪些功能会使您的工作流程更轻松，更轻松，也许他们会在下一个版本中出现！ 😉 确实让我知道您的想法：d   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/stealthanthrax   href =“ https://www.reddit.com/r/opensource/comments/1ixm6ne/amurex_the_open_source_ai_meeting_copilot_now/”&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ixm6ne/amurex_the_open_source_ai_meeting_copilot_now/</guid>
-      <pubDate>Tue, 25 Feb 2025 04:06:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Turingtape-用C ++编写的功能齐全的Cl图灵机</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ixjk81/turingtape_a_fully_functional_cl_turing_machine/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我会喜欢一些反馈/贡献！你们都认为  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cmnews08     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ixjk81/turingtape_a_fully_functional_cl_turing_machine/</guid>
-      <pubDate>Tue, 25 Feb 2025 01:55:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源LinkedIn替代平台？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ixjhx5/opensource_linkedin_alternative_platform/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  是否有任何网站或应用程序可以在不创建帐户的情况下查看LinkedIn？就像imginn.com/一样，我们可以在没有帐户的情况下查看Instagram。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/tasty-mint-4945     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ixjhx5/opensource_linkedin_alternative_platform/</guid>
-      <pubDate>Tue, 25 Feb 2025 01:51:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为提示构建了一个AI-native（Edge和LLM）代理服务器。处理建筑代理应用中讨厌的繁重劳动。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ixjarn/i_built_an_ainative_edge_and_llm_proxy_server_for/</link>
-      <description><![CDATA[在/ArchGW   - 旨在处理构建代理应用程序讨厌繁重的AI -Native Edge和LLM代理服务器 - 提供快速提供⚡️查询路由，提示与（现有）业务API的无缝集成用于代理任务，以及LLMS的统一访问和观察。  Arch Gateway由 envoy代理相信：  提示是细微的和不透明的用户请求，它需要与传统的HTTP请求相同的功能，包括安全处理，智能路由，可观察到可观察性以及与后端（API）的个性化系统的集成 - 核心业务逻辑。*   ARCH由专门构建的LLM设计，以处理与提示的处理和处理有关的关键但讨厌的任务。这包括检测和拒绝越狱尝试，基于旨在提高任务准确性的基于意图的路由，将用户请求映射到“后端”中。功能，并以集中式的方式管理提示和LLM API调用的可观察性。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1ixjarn/i_built_an_ainative_endative_edge_and_and_llm_proxy_server_for/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ixjarn/i_built_an_ainative_edge_and_llm_proxy_server_for/</guid>
-      <pubDate>Tue, 25 Feb 2025 01:42:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
