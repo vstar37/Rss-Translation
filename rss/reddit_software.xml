@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件有关的事物。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 02 Mar 2025 12:24:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 15:13:25 GMT</lastBuildDate>
+    <item>
+      <title>切成黑白</title>
+      <link>https://www.reddit.com/r/software/comments/1j1rxm0/cut_to_black_and_white/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我如何使视频剪切成黑白冻结帧，例如在下面的评论中？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/low-finance-2275     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1j1rxm0/cut_to_black_and_white/</guid>
+      <pubDate>Sun, 02 Mar 2025 14:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>下载YouTube音乐播放列表</title>
+      <link>https://www.reddit.com/r/software/comments/1j1r0wz/download_a_youtube_music_playlist/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个3000首歌曲ytm播放列表，我想在手机/PC上下载。我可以使用什么来一次下载整个播放列表？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/tropitronc     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1j1r0wz/download_a_youtube_music_playlist/</guid>
+      <pubDate>Sun, 02 Mar 2025 13:38:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>avif到apng</title>
+      <link>https://www.reddit.com/r/software/comments/1j1qnqi/avif_to_apng/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  哪些工具可以将动画avif文件转换为apngs而不会丢失质量？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/low-finance-2275     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1j1qnqi/avif_to_apng/</guid>
+      <pubDate>Sun, 02 Mar 2025 13:18:52 GMT</pubDate>
+    </item>
     <item>
       <title>最简单的视频/音频修剪器</title>
       <link>https://www.reddit.com/r/software/comments/1j1p1iu/easiest_videoaudio_trimmer/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，大家好！因此，我最近决定将我从社交媒体上拔掉，我想切换到翻转手机。这意味着我的音乐必须是我必须放入手机的存储卡上的mp3。我拥有Apple Music上的所有音乐，但是我有一个应用程序，目前我正在将其全部移动到YouTube音乐中的播放列表。有人知道我可以将这些播放列表/专辑转换为MP3的安全且合法的网站吗？我已经看到了几个线程，但是所有的线程都有些旧，所以也许现在有更好的方法可以做到！ Tyia !!  对不起，为了清楚起见，我正在寻找将YouTube音乐播放列表转换为MP3的最安全软件。我不希望它是一个大文件，而希望每首歌的单个文件。我希望这有意义  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ushygushy1167     [link]    32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1j0zuyl/youtube_music_playlists_to_mp3/</guid>
       <pubDate>Sat, 01 Mar 2025 13:49:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从Adobe Connect（网络研讨会）下载旧录音？</title>
-      <link>https://www.reddit.com/r/software/comments/1j0z7t6/how_can_i_download_older_recording_from_adobe/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们在Adobe Connect软件中制作了录音，但大多数是从2024年开始的，在录音的页面上，实际上没有一个选择下载它们的选择，只是为了重新记录它们，问题是，我们只想下载450个小时的录像，但要求出1个小时的工作，但实际上是在catch&gt; catch&gt;        p。工作。例如，它提出的第一个解决方案之一是用obs录制它，这是出于明显的原因而在桌子上不在桌子上。它提供的另一个解决方案是试图在开发人员工具中找到录制的URL，然后将该链接粘贴到下载管理器中，但我们发现的只是.mp3和.mp4文件，名为Dummyaudio和Dummyvideo，它们也只有几秒钟的时间，我们最好的猜测是它们是网站本身的。它还建议我们尝试使用命令 document.queryselectorall（“ video，source”）的开发人员工具控制台，但实际上一无所获。另一个建议是检查该页面的视频文件源，但它再次提出的是 dummy 文件，尽管我们可能没有寻找正确的文件扩展名，但我们试图搜索的短语是： .mp4 ，， .flv  flv ，em&gt;，em&gt;，em&gt; em&gt; em&gt;，em&gt;，em&gt;  output 。 我想第一个问题是：实际上是否可以下载这些文件，而不仅仅是重新录制它们？如果可能的话，您可以帮助我找出一种下载它们的方法吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/bb250517     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1j0z7t6/how_can_i_download_older_recording_from_adobe/</guid>
-      <pubDate>Sat, 01 Mar 2025 13:15:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找任务栏hider</title>
-      <link>https://www.reddit.com/r/software/comments/1j0z4vv/looking_for_a_taskbar_hider/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   autohide函数是绝对的屁股，除了屁股。我已经与之抗争了很长时间，我想知道是否有任何具有Hotkey Task Both Issparity的软件？没有调整任何大小的东西都很棒。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ungnickk   href =“ https://www.reddit.com/r/software/comments/1j0z4vv/looking_for_a_taskbar_hider/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1j0z4vv/looking_for_a_taskbar_hider/</guid>
-      <pubDate>Sat, 01 Mar 2025 13:11:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>T480 i7-8th Ram16笔记本电脑</title>
-      <link>https://www.reddit.com/r/software/comments/1j0y0s9/t480_i78th_ram16_laptop/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  需要您的帮助小伙子，我不知道为什么有时我打开笔记本电脑，键盘不起作用，因此我需要在某个时候再次启动键盘，而无需任何理由冻结它，我需要按下电源按钮3s，请按下3s，请重新启动pothops the Maptops the Raptops heans home home hells hells helps heans pls pls？提交由＆＃32; /u/u/u/karzanmuhammed     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1j0y0s9/t480_i78th_ram16_laptop/</guid>
-      <pubDate>Sat, 01 Mar 2025 12:05:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
