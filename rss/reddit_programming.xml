@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 02 Mar 2025 01:08:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 03:24:09 GMT</lastBuildDate>
+    <item>
+      <title>Linux的早期</title>
+      <link>https://www.reddit.com/r/programming/comments/1j1fm5p/the_early_days_of_linux/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/stackoverflooooooow      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j1fm5p/the_early_days_of_linux/</guid>
+      <pubDate>Sun, 02 Mar 2025 01:43:00 GMT</pubDate>
+    </item>
     <item>
       <title>中国开发商的开源旅程</title>
       <link>https://www.reddit.com/r/programming/comments/1j1ep8q/a_chinese_developers_open_source_journey/</link>
@@ -55,13 +62,6 @@
       <pubDate>Sat, 01 Mar 2025 18:09:34 GMT</pubDate>
     </item>
     <item>
-      <title>我为Discord Application命令创建了Terraform（DisgoForm v0.10）</title>
-      <link>https://www.reddit.com/r/programming/comments/1j13x7h/i_created_terraform_for_discord_application/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;  /u/SwitchUpCB   [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j13x7h/i_created_terraform_for_discord_application/</guid>
-      <pubDate>Sat, 01 Mar 2025 16:53:43 GMT</pubDate>
-    </item>
-    <item>
       <title>如何使用git range-diff进行基于补丁的评论</title>
       <link>https://www.reddit.com/r/programming/comments/1j13em1/how_to_do_patchbased_review_with_git_rangediff/</link>
       <description><![CDATA[＆＃32;提交由＆＃32; /u/strangerding      [注释]  ]]></description>
@@ -99,7 +99,7 @@
     <item>
       <title>COBOL与C ++，宣布死亡 - 还活着</title>
       <link>https://www.reddit.com/r/programming/comments/1j0z6z3/cobol_vs_c_declared_dead_still_alive/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/_a4z      [注释]  ]]></description>
+      <description><![CDATA[＆＃32;提交由＆＃32;  /u/_a4z   [link] ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j0z6z3/cobol_vs_c_declared_dead_still_alive/</guid>
       <pubDate>Sat, 01 Mar 2025 13:14:12 GMT</pubDate>
     </item>
