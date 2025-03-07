@@ -4,7 +4,7 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Fri, 07 Mar 2025 12:27:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 15:15:17 GMT</lastBuildDate>
     <item>
       <title>第一次使用WordPress  - 如何将插件连接到我的API？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j5l35j/first_time_using_wordpress_how_to_connect_plugin/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>寻找针对琐事的评分软件。</title>
       <link>https://www.reddit.com/r/webdev/comments/1j5kxc4/looking_for_scoring_software_for_team_trivia/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我不确定这是否是提出此问题的正确子，但是对reddit进行搜索只是在列表的顶部弹出。我主持了当地的琐事之夜，我们最多拥有30支球队，并且需要一种简单的方法来跟踪可以向球员展示的分数。我们的琐事分为6轮，每轮最多15个问题。在每个回合之间是获得奖励积分的机会。我正在寻找一个简单的系统，我的得分守护者可以在屏幕上滚动并为正确的团队打出加​​号，并且如果不适合减去减法的能力。  理想的情况将是一个跑步记分牌，一旦提交了所有分数，所有团队都可以显示所有团队之间的观点。我真正想要的是一个系统，您可以在每个问题中进行每个问题（请记住每回合15个问题，6发问题），只需以正确的分数而打一个加号，以防万一分数偶然受到打击。然后，在每个问题结束时击中提交的能力以及添加到运行tally中的分数。我知道这在问很多，但我希望也许有人可以成为他们爱好的这一部分。相信你是否发布了一个应用程序，我敢打赌，它具有所有这些功能，它可以带来合理的资金。我愿意为完成所有这些的应用支付20美元。我敢肯定，还有很多人是有多个团队的游戏记分员。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/whofarted24     [link]       [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我不确定这是否是提出此问题的正确子，但是对reddit进行搜索只是在列表的顶部弹出。我主持了当地的琐事之夜，我们最多拥有30支球队，并且需要一种简单的方法来跟踪可以向球员展示的分数。我们的琐事分为6轮，每轮最多15个问题。在每个回合之间是获得奖励积分的机会。我正在寻找一个简单的系统，我的得分守护者可以在屏幕上滚动并为正确的团队打出加​​号，并且如果不适合减去减法的能力。  理想的情况将是一个跑步记分牌，一旦提交了所有分数，所有团队都可以显示所有团队之间的观点。我真正想要的是一个系统，您可以在每个问题中进行每个问题（请记住每回合15个问题，6发问题），只需以正确的分数而打一个加号，以防万一分数偶然受到打击。然后，在每个问题结束时击中提交的能力以及添加到运行tally中的分数。我知道这在问很多，但我希望也许有人可以成为他们爱好的这一部分。相信你是否发布了一个应用程序，我敢打赌，它具有所有这些功能，它可以带来合理的资金。我愿意为完成所有这些的应用支付20美元。我敢肯定，还有很多人是有多个团队的游戏记分员。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j5kxc4/looking_for_for_scoring_software_for_team_team_trivia/”&gt; [link]       [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j5kxc4/looking_for_scoring_software_for_team_trivia/</guid>
       <pubDate>Fri, 07 Mar 2025 10:58:19 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>AWS S3到数字海洋空间 - 文件传输脚本</title>
       <link>https://www.reddit.com/r/webdev/comments/1j5i188/aws_s3_to_digital_ocean_space_file_transfer_script/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  所以，这就是故事。我目前为此工作的公司希望将其Web服务存储之一从AWS S3移至数字海洋空间。因此，正如我目前正在工作的开发人员一样，我已被分配将所有数据和VM从一个云提供商转移到另一个云提供商（又名AWS到数字海洋）。我已经完成了VMS。由于存储在AWS S3上的文件超过100,000（〜46.9 GB），包括图像，PDF等，因此我必须以低成本（包括图像，PDF等）移动这些文件，因此我必须以低成本移动这些。 在研究一些文档后，我没有找到任何可以支持此支持的文档。因此，我创建了可以帮助数据传输的脚本，然后决定将其供电。  github repo-  htttps.git href =“ https://preview.redd.it/w1krklnkz7ne1.png?width = 212&amp; amp; amp; format = png&amp; amp = webppppp.s = a066af6af6af6af6af6e375f49df49dfd322a7444444444dd553217217f53217217fd553217217fd553217fd53217fd53242bdd51724fddd517fd53242bddd517fd53242bddd517fd53242bddd517fd53217fd53217fd53242bd大小      p.s：我已经使用脚本完成了移动数据。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/kyle-sin-lynn     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j5i188/aws_s3_to_to_digital_ocean_space_file_file_transfer_script/]]></description>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  所以，这就是故事。我目前为此工作的公司希望将其Web服务存储之一从AWS S3转移到数字海洋空间。因此，正如我目前正在工作的开发人员一样，我已被分配将所有数据和VM从一个云提供商转移到另一个云提供商（又名AWS到数字海洋）。我已经完成了VMS。由于存储在AWS S3上的文件超过100,000（〜46.9 GB），包括图像，PDF等，因此我必须以低成本（包括图像，PDF等）移动这些文件，因此我必须以低成本移动这些。 在研究一些文档后，我没有找到任何可以支持此支持的文档。因此，我创建了可以帮助数据传输的脚本，然后决定将其供电。  github repo-  htttps.git href =“ https://preview.redd.it/w1krklnkz7ne1.png?width = 212&amp; amp; amp; format = png&amp; amp = webppppp.s = a066af6af6af6af6af6e375f49df49dfd322a7444444444dd553217217f53217217fd553217217fd553217fd53217fd53242bdd51724fddd517fd53242bddd517fd53242bddd517fd53242bddd517fd53217fd53217fd53242bd大小      p.s：我已经使用脚本完成了移动数据。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/kyle-sin-lynn     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j5i188/aws_s3_to_to_digital_ocean_space_file_file_transfer_script/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j5i188/aws_s3_to_digital_ocean_space_file_transfer_script/</guid>
       <pubDate>Fri, 07 Mar 2025 07:27:23 GMT</pubDate>
     </item>
