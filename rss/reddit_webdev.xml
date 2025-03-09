@@ -4,7 +4,21 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 09 Mar 2025 00:58:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 03:13:54 GMT</lastBuildDate>
+    <item>
+      <title>我为NBA游戏构建了LetterboxD/Goodreads</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6ybov/i_built_letterboxdgoodreads_for_nba_games/</link>
+      <description><![CDATA[     ＆＃32;提交由＆＃32; /u/u/proshowersinger      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6ybov/i_built_letterboxdgoodreads_for_nba_games/</guid>
+      <pubDate>Sun, 09 Mar 2025 03:12:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>1600多个虚假注册击中了我的燃料网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6xi4h/1600_fake_signups_hit_my_firebase_site/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  一些黑客用1600多个假签名将我的网站锤击，将我的firebase数据库淹没了。它引发了警报并留下了一团糟。  我怀疑这来自看到我以前的Reddit帖子的人。从中学到的教训： reddit肯定会给您带来曝光，但它肯定会引发嫉妒。  无论如何，我创建了一个脚本来清洁这些垃圾邮件帐户，但是我认为验证码可能会下次阻止。  还有其他人遇到过吗？您如何防止它发生 - 验证码，费率限制或其他技巧？  很想听听对您有用的东西！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/euphoric_natural_304      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j6xi4h/1600_fake_signups_hit_hit_my_firebase_site/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6xi4h/1600_fake_signups_hit_my_firebase_site/</guid>
+      <pubDate>Sun, 09 Mar 2025 02:26:53 GMT</pubDate>
+    </item>
     <item>
       <title>将PDF转换为HTML的纯文本</title>
       <link>https://www.reddit.com/r/webdev/comments/1j6vl8b/convert_pdf_to_plain_text_for_html/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[       &lt;！ -  sc_off-&gt;  大家好，我是初学者，我刚开始反应，我想问的是，我该如何设置与React Native的尾风。我已经阅读了他们的文档，并完成了所需的一切，在我的清单文件中，所有内容都在那里，并且也设置了尾风配置文件。有其他方式在React Native中起作用，我在Core React和Tailwind方面做得很好。谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/gainsedgur8213       [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j6otcr/tailwind_with_expo_setup/</guid>
       <pubDate>Sat, 08 Mar 2025 19:27:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费正常运行时间和性能监控工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6oqrf/free_uptime_and_performance_monitoring_tool/</link>
-      <description><![CDATA[    ＆＃32;提交由＆＃32; /u/u/svvnguy       [注释]            ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6oqrf/free_uptime_and_performance_monitoring_tool/</guid>
-      <pubDate>Sat, 08 Mar 2025 19:24:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>体育 +数据：由NBA Analytics Executive设计的免费SQL课程</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6ohw7/sports_data_free_sql_course_designed_by_nba/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 r/webDev 👋 我想分享那些可能有助于分手参加体育分析的人。我的朋友（NBA团队的数据分析高管）和我刚刚启动了量身定制的平台 - 一个专门设计的学习平台。将技术技能与体育行业的背景结合在一起（我的联合创始人说这对于面试至关重要）  我们的目标很简单：确保任何完成我们课程的人都是真正的“准备工作”。对于体育分析角色。 我们目前正在Beta中，并正在寻找社区的反馈。 课程是完全免费的，，我很乐意亲自帮助入职。 如果您有兴趣尝试一下：  直接在 ，因为有些人问 -  是的，这是在我们的Beta阶段中完全免费的。我们要确保我们为社区建立了真正有价值的东西。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/seaf-worldliness-394      [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6ohw7/sports_data_free_sql_course_designed_by_nba/</guid>
-      <pubDate>Sat, 08 Mar 2025 19:13:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
