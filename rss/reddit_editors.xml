@@ -4,7 +4,21 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>该子雷迪特（Subreddit）适合后专业人士。您是否想成为职业专业人士？随意使用我们的“问Pro”线程。侧h？使用“问Pro”线程。爱好？娱乐？我们的姐姐子r/录像带是您想要的！</description>
-    <lastBuildDate>Mon, 10 Mar 2025 12:28:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 15:16:59 GMT</lastBuildDate>
+    <item>
+      <title>直接编辑外部TB4/TB3驱动器</title>
+      <link>https://www.reddit.com/r/editors/comments/1j7yrss/direct_edit_off_of_external_tb4tb3_drive/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以我购买了M3 Pro 18GB 512GB以进行窃取。我知道512还不够，所以我一直在寻找TB4/TB3外部SSD或外壳要工作。以下是我的问题。  1）我想知道27-2800 r/w vs 3100是否在直接拥有项目文件和磁盘本身上的数据时会有所作为，可以从NLE（？）  2中编辑（？  2），许多人的经验不好，但是我没有录制过唱片的G40 PROS。仍然应该远离G40的情况吗？我有点想着Thowe，因为它们是一个最快的读写之一，用于小型型号便携式驱动器。   3）外部SSD外壳有两个品种，即TB4的W Intel芯片和那些ASM。以前的跑步速度较慢，后者跑得更热。我听说过的编辑用途酶没有热数据。如果我选择OWC 1M2或ACASIS TB4，那么直接使用NLE直接用于编辑外部的热负载/节流机会是多少？  4）如果我的项目直接从上述外部驱动器中进行了编辑，那么向我的Mac发送了多少数据？带宽的消耗太多了，因为编辑是一个实时过程？在这种情况下，创建代理是一种更好的实现方法吗？   4）是否有一条经验法则大概的想法/图形来了解通过TB4/TB3的编辑项目的擦洗性能？当它是1200 -1500mbps（三星T9）时，是否有任何诸如4K30层之类的4K30层会滞后随着SSD规则的全部超过60％）。如果有人对任何此类驱动器都有任何长期审查，请在您对产品进行审查时对此的想法以及您使用的文件/尺寸/分辨率/格式确实有帮助。 我的用语酶：   我将在4k30中录制4222222222222的示例（如果能够为PRORE 422222222）进行录制。 Sony A7或其他东西，类似的分辨率config）;我将主要在录像本身中使用3-4层上衣，而一对夫妇进行过渡/，也许是1个。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/raghav4882    href =“ https://www.reddit.com/r/editors/comments/1j7yrss/direct_edit_off_of_of_external_tb4tb3_drive/”&gt; [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1j7yrss/direct_edit_off_of_external_tb4tb3_drive/</guid>
+      <pubDate>Mon, 10 Mar 2025 13:36:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Davinci Resolve Studio上的播放问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1j7y261/playback_issue_on_davinci_resolve_studio/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  &#39;我正在制作达文奇（Davinci）的一个项目。这是一场婚礼，视频大约为15/16分钟。 原始镜头来自索尼A7SIII和FX30，在4k 10bit，4：2：2：2，60fps。    i启动了该项目，因为客户的要求，我不得不将其移至Davinci。我几乎没有启动，只是将素材分为时间表以进行初始选择。 问题是，我注意到当我将夹子放置在慢动作中时，它们看起来不光滑，它们就像稳定器一样固定的小跳跃。我已经尝试将所有材料摄入一个新项目，以查看PC还是PC或Davinci是什么，但是在该项目中不会发生。&lt; /p&gt; 您知道可能导致它是什么吗？&lt; /p&gt; 我的PC规格是：&lt; /p&gt;   ryzen 99950x  nvidia 40808080mz gb  60 cl /&gt; 60 cl /&gt; 2 TB Western Black 3000 x2   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/editors/comments/1j7y261/playback_issue_on_davinci_resolve_studio/”&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1j7y261/playback_issue_on_davinci_resolve_studio/</guid>
+      <pubDate>Mon, 10 Mar 2025 13:01:38 GMT</pubDate>
+    </item>
     <item>
       <title>现在最好的视频压缩应用程序是什么？寻找简单的内容，“这是一个视频，使其成为小”类型应用程序。</title>
       <link>https://www.reddit.com/r/editors/comments/1j7vjc2/whats_the_best_video_compression_app_right_now/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>Gyroflow 1.6的问题 - 视频尽管稳定仍然动摇</title>
       <link>https://www.reddit.com/r/editors/comments/1j7ukd1/issues_with_gyroflow_16_video_still_shaky_despite/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi， 我目前正在使用Gyroflow（1.6）的最新版本，但是我遇到了很多问题。每当我尝试稳定视频时，我都必须大量裁剪以减少颤抖。我已经尝试了几次调整，但是平滑似乎没有任何明显的效果。 我骑了MTB，并且使用了先前的版本，稳定功能非常有效。但是，现在，该视频非常摇摇欲坠。我已经附上了视频 - 也许您可以帮助我弄清楚出了什么问题？ 预先感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/editors/comments/1j7ukd1/issues_with_with_gyroflow_16_video_still_still_still_still_shaky_despite/”&gt; [link]   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi， 我目前正在使用Gyroflow（1.6）的最新版本，但是我遇到了很多问题。每当我尝试稳定视频时，我都必须大量裁剪以减少颤抖。我已经尝试了几次调整，但是平滑似乎没有任何明显的效果。 我骑了MTB，并且使用了先前的版本，稳定功能非常有效。但是，现在，该视频非常摇摇欲坠。我已经附上了视频 - 也许您可以帮助我找出问题？ 提前谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/editors/comments/1j7ukd1/issues_with_with_gyroflow_16_video_still_still_still_still_shaky_despite/”&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1j7ukd1/issues_with_gyroflow_16_video_still_shaky_despite/</guid>
       <pubDate>Mon, 10 Mar 2025 09:15:35 GMT</pubDate>
     </item>
@@ -29,7 +43,7 @@
     <item>
       <title>Wetransfer过多的退款要求</title>
       <link>https://www.reddit.com/r/editors/comments/1j7tail/wetransfer_excessive_refund_requirements/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在一个小时内付款并要求退款，以至于慢了，毫无意义。无论如何 - 退款 - 一种骗子的策略，可以阻止人们实际跟随大声笑。我要发布此信息，因此当其他人有类似的经验时，它在搜索结果中显示了Wetrabsfer，但我知道有更好的选择。无论如何我都完成了一切。我不捐款。  首先，在我研究并确认之前，我需要验证您是帐户的所有者。   wetransfer收据或发票的PDF副本或屏幕截图 您上次登录到Wetransfer帐户的IP地址或城市。您可以通过 https://www.whatsmyip.org/    上次交易日期的最后4位数字 用于PayPal付款的PDF副本或PayPal发票的屏幕截图，带有交易ID。提交由＆＃32; /u/u/zdena_rose     [link]    32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在一个小时内付款并要求退款，以至于慢了，毫无意义。无论如何 - 退款 - 一种骗子的策略，可以阻止人们实际跟随大声笑。我要发布此信息，因此当其他人有类似的经验时，它在搜索结果中显示了Wetrabsfer，但我知道有更好的选择。无论如何我都完成了一切。我不捐款。  首先，在我研究并确认之前，我需要验证您是帐户的所有者。   wetransfer收据或发票的PDF副本或屏幕截图 您上次登录到Wetransfer帐户的IP地址或城市。您可以通过 https://www.whatsmyip.org/    上次交易的iBan日期的最后4位  PayPal付款的PDF副本或屏幕截图可见交易ID。   &lt;！ -  sc_on-&gt;提交由＆＃32; /u/u/zdena_rose     [link]    32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1j7tail/wetransfer_excessive_refund_requirements/</guid>
       <pubDate>Mon, 10 Mar 2025 07:35:55 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>其他人在首映式上有音频辍学吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1j7j5z2/anyone_else_having_audio_dropouts_on_premiere/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  音频似乎完全辍学，或者对于某些轨道而不是其他曲目。这确实使播放成为一件繁琐的事情，尤其是当客户在房间里时。我可以通过我的项目来获得它，因为我只是在下线，在顶部与Sync削减音乐，只是播放Sync的节目 - 不仅没有音乐，但我遇到了它的大规模项目。我也没有几天的选择。这是非常不一致的。这与远程连接无关，发生在所有连接上，并在套件中本地进行。 我似乎最近通过一个项目修复了一次，我让所有词干都会开发它们的波形 - 我需要这些杆，无法将其关闭，然后将其关闭 - 然后重置PERM。但是，奇怪的是，似乎没有100％的时间工作。 它似乎在特定零件上掉落，即使重置PERM，它也会继续这样做。如果我将该序列复制到一个新项目，则行为，有时不会。就像我说的那样，我无法确定一个一致的原因。 在共享SEVER，LOCAL SSD和LUCID链接上编辑时，我有它。工作人员和客户也都会得到它，因此它正在Mac的PC，笔记本电脑上发生。我们正在使用Prem 2023＆amp; 2024年。我也在2021年也遇到了这个问题。 明智的明智，我不完全知道，但我知道我们有64GB RAM，i7 12700 4.5GHz不确定GPU，除了NVIDIA以外。工程学告诉我，这些机器对我们的作品来说足够强大，这是电影和电视的步道。  我们使用的媒体是DNXHD或AVC Infra 100 MXF，带有采用的代理工作流。有时，我们与ProRes和偶尔的H.264进行编辑，但从来没有为STEM进行编辑。对于代理人，它们将始终为WAV 48000Hz 24bit/16bit。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/assinmik     [link]     [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  音频似乎完全辍学，或者对于某些轨道而不是其他曲目。这确实使播放成为一件繁琐的事情，尤其是当客户在房间里时。我可以通过我的项目来获得它，因为我只是在下线，在顶部与Sync削减音乐，只是播放Sync的节目 - 不仅没有音乐，但我遇到了它的大规模项目。我也没有几天的选择。这是非常不一致的。这与远程连接无关，发生在所有连接上，并在套件中本地进行。 我似乎最近通过一个项目修复了一次，我让所有词干都会开发它们的波形 - 我需要这些杆，无法将其关闭，然后将其关闭 - 然后重置PERM。但是，奇怪的是，似乎没有100％的时间工作。 它似乎在特定零件上掉落，即使重置PERM，它也会继续这样做。如果我将该序列复制到一个新项目，则行为，有时不会。就像我说的那样，我无法确定一个一致的原因。 在共享SEVER，LOCAL SSD和LUCID链接上编辑时，我有它。工作人员和客户也都会得到它，因此它正在Mac的PC，笔记本电脑上发生。我们正在使用Prem 2023＆amp; 2024年。我也在2021年也遇到了这个问题。 明智的明智，我不完全知道，但我知道我们有64GB RAM，i7 12700 4.5GHz在GPU上不确定，除了NVIDIA以外。工程学告诉我，这些机器对我们的作品来说足够强大，这是电影和电视的步道。  我们使用的媒体是DNXHD或AVC Infra 100 MXF，带有采用的代理工作流。有时，我们与ProRes和偶尔的H.264进行编辑，但从来没有为STEM进行编辑。对于代理人，它们将始终为WAV 48000Hz 24bit/16bit。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/assinmik     [link]     [注释]  ]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1j7j5z2/anyone_else_having_audio_dropouts_on_premiere/</guid>
       <pubDate>Sun, 09 Mar 2025 22:11:15 GMT</pubDate>
     </item>
@@ -83,20 +97,6 @@
       <pubDate>Sun, 09 Mar 2025 14:37:26 GMT</pubDate>
     </item>
     <item>
-      <title>如何在Avid中快速找到序列？</title>
-      <link>https://www.reddit.com/r/editors/comments/1j77xjd/how_to_quickly_find_sequences_in_avid/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi avid编辑器， 我最近从首映式过渡到avid，我正在尝试找到我一直使用的功能。在首映中，我可以在搜索框中键入“序列” ，它将立即显示我项目中的所有序列，而无需键入名称。在Avid中，媒体，素材，音频等也适用于 ，我似乎找不到类似的功能。我知道您可以使用在bin 中查找，如果序列已加载，但是如果不是，则可以找到它变得很困难。  是否有一种方法可以在avid （或任何媒体）中搜索序列 - 如果是唯一的选择，则可以按名称进行过滤吗？任何技巧或最佳实践都将不胜感激！ 谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fible-witness329     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1j77xjd/how_to_quickly_find_sequences_in_avid/</guid>
-      <pubDate>Sun, 09 Mar 2025 13:44:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>更改Avid Media Composer中的默认跳转帧增量？</title>
-      <link>https://www.reddit.com/r/editors/comments/1j77rek/changing_default_jump_frame_increments_in_avid/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家， 我想知道是否有一种方法可以增加avid Media Composer中的默认跳跃/向后增量。默认情况下， 1和2键跳10帧，但我想将其设置为更高的数量或减少它（例如，20或50帧）。 是否有一种方法可以直接调整 向前/后方帧数   /u/u/fible-witness329     [link]       [commist]   ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1j77rek/changing_default_jump_frame_increments_in_avid/</guid>
-      <pubDate>Sun, 09 Mar 2025 13:35:19 GMT</pubDate>
-    </item>
-    <item>
       <title>如何在首映中创建120FPS调整层？</title>
       <link>https://www.reddit.com/r/editors/comments/1j77m17/how_to_create_a_120fps_adjustment_layer_in/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  怎么样？序列设置为120fps   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sydagncy     [link]   [注释]  ]]></description>
@@ -106,7 +106,7 @@
     <item>
       <title>是否可以编辑音频以给出L和R相等的输出？</title>
       <link>https://www.reddit.com/r/editors/comments/1j76vv9/is_it_possible_to_edit_audio_to_give_equal_output/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  尝试帮助自闭症朋友。每只耳朵的歌曲具有不同的水平，有时甚至不同的乐器。有什么方法可以使两只耳朵输出完全相同？这是我必须委托的东西还是有某种工具？  就像8D的对面一样，我们想要稳定性。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/electrical_course274     [link]    [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  尝试帮助自闭症朋友。每只耳朵的歌曲具有不同的水平，有时甚至不同的乐器。有什么方法可以使两只耳朵输出完全相同？这是我必须委托的东西还是有某种工具？  就像8D的对面一样，我们想要稳定性。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/electrical_course274     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1j76vv9/is_it_possible_to_edit_audio_to_give_equal_output/</guid>
       <pubDate>Sun, 09 Mar 2025 12:45:44 GMT</pubDate>
     </item>
