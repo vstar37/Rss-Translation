@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Tue, 11 Mar 2025 03:25:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 06:20:55 GMT</lastBuildDate>
+    <item>
+      <title>Anki，黑曜石，Zotero等等？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j8iajw/anki_obsidian_zotero_and_what_else/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我爱这些开源应用程序。它们使我的学习效率提高了100000％ 我还应该知道的还有什么？建议？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/mintttttttttt    [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j8iajw/anki_obsidian_zotero_and_what_else/</guid>
+      <pubDate>Tue, 11 Mar 2025 04:04:08 GMT</pubDate>
+    </item>
     <item>
       <title>帮助我充分利用不完美的情况</title>
       <link>https://www.reddit.com/r/opensource/comments/1j8hdkz/help_me_make_the_best_of_an_imperfect_situation/</link>
@@ -25,13 +32,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿！ 我已经使用了10年了，在过去的5  -  6年中，我一直在寻找一个自我托管的开放源替代方案。   ……问题是……我真的没有一个替代人。有大纲和其他一些看起来不错的，但是它们确实是汇合替代方案，而不是OneNote。或者，就轮廓而言，我对它需要第三方登录的方式不满意。我想要普通的用户名/密码，它们似乎不支持。 我想要与OneNote相同的组织级别（笔记本 - ＆gtbook  - ＆gt; e节 - ＆gt; e节） - 置于组织它们，轻松在其他页面之间的新页面上，能够立即编辑，而无需按下“编辑”，等等...  我会说每个月都有一个人在这里询问这里是否有其他建议，并且有很多建议的应用程序，但没有一个让我说的是，我说&#39; 但是，我最近看到人们开始建议 docmast ，哇...我绝对让人心灵！这真是太神奇了！ 它并不完全是onenote，但是它在其他应用程序中没有看到很多东西，例如能够拥有许多嵌套页面，能够轻松地在其他人之间创建页面，请立即编辑页面，拖动＆amp;掉落等...加上OneNote没有的几个功能。因此，我想说的是docmast可以被认为 比OneNote更好。 我尚未迁移的唯一原因是因为我发现了一些错误（我已经向他们报告了），而且它们仍然处于beta中，因此从技术上讲，可能会有一个破坏的更新与当前的存储并不兼容，并强迫我重置。但是，每当它们稳定时，我都很兴奋地迁移到它！   -   现在 - 我刚刚意识到他们正在克隆概念。我以前从未使用过概念。 查看 inteion-antertnative  tag/topic时，我看到还有其他相当完善的应用程序，例如 appflowy   and  affine&gt; affine ，而docmast在第三名。它们看起来都非常相似，但是前两个年龄大得多，它们更健壮。 我对您的问题是... 为什么在此subreddit中建议最大的docdit，for OneNote替代方案，但是我从未见过/注意到appflowy and offine and offine and offine and proffient of doc，因为从技术上讲，它们与doc  非常感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/nmp5     [link]    32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j8frwl/docmost_vs_affine_vs_appflowy/</guid>
       <pubDate>Tue, 11 Mar 2025 01:51:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>代理雷达-CLI工具漏洞扫描仪用于您的代理AI工作流程</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j8b3zm/agentic_radar_cli_tool_vulnerability_scanner_for/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，   时不时地我和我的团队必须探究我们自己的漏洞的代理AI系统，因此我们制作了一个开源CLI工具，可以通过将我们指向正确的方向来帮助我们。 generate a graph that shows how agents and tools interact detect vulnerabilities in the tools that the agents use produce a nice looking report with everything above  Currently supported frameworks:  LangGraph CrewAI  Currently supported languages:   python   是的，如果您正在使用可以相互交互的AI代理建立系统，请使用Web搜索，Python代码执行或类似工具，并且您害怕exploits，请尝试一下！它将告诉您有哪些潜在威胁以及有关它们的问题。 在此处查看： aderic radar      很想听听您的反馈！提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j8b3zm/agentic_radar_cli_cli_vulnerabily_vulnerability_scanner_for/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j8b3zm/agentic_radar_cli_tool_vulnerability_scanner_for/</guid>
-      <pubDate>Mon, 10 Mar 2025 22:16:49 GMT</pubDate>
     </item>
     <item>
       <title>开源AI代理</title>
@@ -57,7 +57,7 @@
     <item>
       <title>自托管的ebook2audiobook转换器，支持语音克隆和1107多种语言:)更新！</title>
       <link>https://www.reddit.com/r/opensource/comments/1j84r0r/self_hosted_ebook2audiobook_converter_supports/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  现在更新的现在支持：xtttsv2，bark，beailsed，vits，vits和yourtts！ 一个很酷的侧面项目在  eme   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/umagiss_belt_7757       [注释]]]></description>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  现在更新的现在支持：xtttsv2，bark，beailsed，vits，vits和yourtts！ 一个很酷的侧面项目在  eme   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/umagiss_belt_7757        [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j84r0r/self_hosted_ebook2audiobook_converter_supports/</guid>
       <pubDate>Mon, 10 Mar 2025 17:52:23 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>V0.6.0更新：潜水 - 开源MCP代理桌面</title>
       <link>https://www.reddit.com/r/opensource/comments/1j7u4qs/v060_update_dive_an_open_source_mcp_agent_desktop/</link>
-      <description><![CDATA[We collected everyone&#39;s feedback from last time and made some feature updates. Recent updates (v0.6.1): 🔌 SSE Support: Added Server-Sent Events (MCP) in v0.5.1 🔄 Auto-Update: Automatically checks and installs更新 ⌨️快捷方式：效率的可自定义键盘快捷键  🧮图形显示：支持乳胶和思维图（Mermaid）                    •开源＆amp;免费-MIT许可证 •桌面本地 - 用于Windows/Mac/Linux  •MCP协议 - 对模型上下文协议的全面支持 •扩展 - 可扩展 - 添加您自己的工具和功能    href =“ https://github.com/openagentplatform/dive/releases/tag/v0.6.1”&gt; https://github.com/openagentplatform/dive/releases/tag/tag/tag/v0.6.6.6.6.1 提交由＆＃32; /u/u/biggo_official     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j7u4qs/v060_update_update_dive_an_open_source_mcp_agent_gent_desktop/”]]></description>
+      <description><![CDATA[We collected everyone&#39;s feedback from last time and made some feature updates. Recent updates (v0.6.1): 🔌 SSE Support: Added Server-Sent Events (MCP) in v0.5.1 🔄 Auto-Update: Automatically checks and installs更新 ⌨️快捷方式：效率的可自定义键盘快捷键  🧮图形显示：支持乳胶和思维图（Mermaid）                    •开源＆amp;免费-MIT许可证 •桌面本地 - 用于Windows/Mac/Linux  •MCP协议 - 对模型上下文协议的全面支持 •扩展 - 可扩展 - 添加您自己的工具和功能    href =“ https://github.com/openagentplatform/dive/releases/”&gt; https://github.com/openagentplatform/dive/releases/ 提交由＆＃32; /u/u/biggo_official     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j7u4qs/v060_update_update_dive_an_open_source_mcp_agent_gent_desktop/”]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j7u4qs/v060_update_dive_an_open_source_mcp_agent_desktop/</guid>
       <pubDate>Mon, 10 Mar 2025 08:41:55 GMT</pubDate>
     </item>
