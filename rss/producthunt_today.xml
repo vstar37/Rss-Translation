@@ -4,7 +4,7 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 03 Apr 2025 01:07:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 03:30:21 GMT</lastBuildDate>
     <item>
       <title>概念邮件</title>
       <link>https://www.producthunt.com/posts/notionmail-2</link>
@@ -18,16 +18,40 @@
       <pubDate>Wed, 02 Apr 2025 11:53:09 GMT</pubDate>
     </item>
     <item>
-      <title>隐藏我的电子邮件 - 开源扩展</title>
-      <link>https://www.producthunt.com/posts/hide-my-email-open-source-extension</link>
+      <title>Openai Academy</title>
+      <link>https://www.producthunt.com/posts/openai-academy</link>
       <description><![CDATA[
-            注册网站时，请使用唯一的随机地址。
+            为每个人提供免费的AI素养
           
 
  link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/hide-my-email-open-source-extension</guid>
-      <pubDate>Tue, 01 Apr 2025 20:11:23 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/openai-academy</guid>
+      <pubDate>Wed, 02 Apr 2025 03:38:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>神奇的分钟</title>
+      <link>https://www.producthunt.com/posts/magic-minutes</link>
+      <description><![CDATA[
+            AI摘要的所有平台，例如Zoom，Meet，Teams等
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/magic-minutes</guid>
+      <pubDate>Wed, 02 Apr 2025 02:14:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>山羊</title>
+      <link>https://www.producthunt.com/posts/kozy</link>
+      <description><![CDATA[
+            螺栓/可爱的视频编辑。质量编辑在几秒钟内。 
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/kozy</guid>
+      <pubDate>Tue, 01 Apr 2025 20:48:45 GMT</pubDate>
     </item>
     <item>
       <title>elevenlabs文字到树皮</title>
@@ -40,18 +64,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/elevenlabs-text-to-bark</guid>
       <pubDate>Tue, 01 Apr 2025 17:51:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>DreamFlow</title>
-      <link>https://www.producthunt.com/posts/dreamflow</link>
-      <description><![CDATA[
-            立即从文本提示中构建颤音应用程序
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/dreamflow</guid>
-      <pubDate>Tue, 01 Apr 2025 17:45:59 GMT</pubDate>
     </item>
     <item>
       <title>DGI</title>
@@ -78,18 +90,6 @@
       <pubDate>Tue, 01 Apr 2025 11:37:13 GMT</pubDate>
     </item>
     <item>
-      <title>光束</title>
-      <link>https://www.producthunt.com/posts/beam-8</link>
-      <description><![CDATA[
-            具有内置QA/欺诈/合规性的CX代理的AI副驾驶员
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/beam-8</guid>
-      <pubDate>Tue, 01 Apr 2025 10:10:33 GMT</pubDate>
-    </item>
-    <item>
       <title>魔术师</title>
       <link>https://www.producthunt.com/posts/magican</link>
       <description><![CDATA[
@@ -100,18 +100,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/magican</guid>
       <pubDate>Tue, 01 Apr 2025 10:06:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Supabase UI库</title>
-      <link>https://www.producthunt.com/posts/supabase-ui-library</link>
-      <description><![CDATA[
-            基于shadcn/ui和由supabase驱动的滴入组件
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/supabase-ui-library</guid>
-      <pubDate>Tue, 01 Apr 2025 06:47:24 GMT</pubDate>
     </item>
     <item>
       <title>USERCALL AI定性分析</title>
@@ -126,6 +114,18 @@
       <pubDate>Tue, 01 Apr 2025 01:21:50 GMT</pubDate>
     </item>
     <item>
+      <title>MacOS的最新文件选择器</title>
+      <link>https://www.producthunt.com/posts/recent-file-picker-for-macos</link>
+      <description><![CDATA[
+            快速访问最近的文件
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/recent-file-picker-for-macos</guid>
+      <pubDate>Sun, 30 Mar 2025 19:56:47 GMT</pubDate>
+    </item>
+    <item>
       <title>Cove AI应用程序</title>
       <link>https://www.producthunt.com/posts/cove-ai-apps</link>
       <description><![CDATA[
@@ -136,6 +136,18 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/cove-ai-apps</guid>
       <pubDate>Fri, 28 Mar 2025 09:45:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Internet.io</title>
+      <link>https://www.producthunt.com/posts/internet-io</link>
+      <description><![CDATA[
+            一个平台，无尽的可能性
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/internet-io</guid>
+      <pubDate>Thu, 27 Mar 2025 18:14:43 GMT</pubDate>
     </item>
     <item>
       <title>指数</title>
@@ -150,28 +162,16 @@
       <pubDate>Wed, 26 Mar 2025 22:21:31 GMT</pubDate>
     </item>
     <item>
-      <title>tabtract</title>
-      <link>https://www.producthunt.com/posts/tabstract-2</link>
+      <title>EasyStaff工资单</title>
+      <link>https://www.producthunt.com/posts/easystaff-payroll</link>
       <description><![CDATA[
-            Safari的一个新的Tab Saver，为MacOS本地设计。
+            以360°合规向团队和自由职业者付款
           
 
- link 
+链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/tabstract-2</guid>
-      <pubDate>Sat, 22 Mar 2025 14:31:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>谜</title>
-      <link>https://www.producthunt.com/posts/enigma-4</link>
-      <description><![CDATA[
-            发现并报告世界各地的不明飞行物/UAP目击事件
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/enigma-4</guid>
-      <pubDate>Wed, 12 Mar 2025 20:18:05 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/easystaff-payroll</guid>
+      <pubDate>Wed, 26 Mar 2025 10:01:17 GMT</pubDate>
     </item>
     <item>
       <title>回忆增强的浏览</title>
