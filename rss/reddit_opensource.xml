@@ -4,7 +4,63 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sun, 06 Apr 2025 06:20:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 18:20:10 GMT</lastBuildDate>
+    <item>
+      <title>瑞士监视条例引发了隐私技术公司的反弹</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jt05xg/swiss_surveillance_ordinance_sparks_backlash_from/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/nick313      [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jt05xg/swiss_surveillance_ordinance_sparks_backlash_from/</guid>
+      <pubDate>Sun, 06 Apr 2025 17:58:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个附带项目，以在您最喜欢的开源编辑器中提供高级建议</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jt02wj/i_created_a_side_project_to_give_advanced/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我经常使用pg admin和grafana，因此我创建了一个侧面项目，该项目在开源工具中提供LLM代码建议。如果您认为这对您有帮助。 /u/u/jebick     [link]     [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jt02wj/i_created_a_side_project_to_give_advanced/</guid>
+      <pubDate>Sun, 06 Apr 2025 17:54:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>启动TypeConf 0.3.0和存储平台</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jswsqf/launching_typeconf_030_and_storage_platform/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/Heraldev      [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jswsqf/launching_typeconf_030_and_storage_platform/</guid>
+      <pubDate>Sun, 06 Apr 2025 15:32:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aura：音频和MIDI播放，编辑和插件集成的C＃音频框架</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jsw5np/aura_c_audio_framework_for_audio_and_midi/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我已经从事实验性.NET数字音频工作站工作了一段时间，并最终决定取我所拥有的东西并从中做些东西。它是基于其他.NET音频/MIDI库的开源C＃音频框架，旨在使构建基于序列的音频应用程序更容易。它使您可以：  轻松设置音频和MIDI设备来使用 创建，管理和播放音频或MIDI剪辑，调整其参数，例如音量，启动时间，启动时间等。 将剪辑添加到音频或MIDI轨道上，也可以使用音量/PAN  plosio  plosio  plosio 内置用于处理或生成声音的插件  它仍然是一项正在进行的工作，并且可能出乎意料地行事，因为我无法测试所有可能的用例，但是我可以共享它，以防任何人都觉得它有用或有趣。请注意，它仅在Windows上起作用，因为大多数使用的库并不完全是交叉平台。 我还制作了文档网站 href =“ https://github.com/imaxel0/aura”&gt; github存储库  感谢您的阅读。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jsw5np/aura_c_audio_frame_framework_for_for_for_for_for_for_audio_and_midi/”&gt; [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jsw5np/aura_c_audio_framework_for_audio_and_midi/</guid>
+      <pubDate>Sun, 06 Apr 2025 15:04:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>是时候分叉肥皂了吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jsukpx/is_it_time_to_fork_soapui/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  已经花了几个小时的soapui源代码，我得出的结论是，它已经被SmartBear有效地放弃了。  对于旨在提高质量的工具，它的代码质量极为差。这样，如果我们是新产品，它将不会通过最基本的质量大门。 截至目前：  代码没有测试代码 该代码似乎只收到自2016年以来只收到新功能的新功能。   15个安全问题  658可靠性问题  13K可维护性问题  7.2％代码重复  虽然有一些PR，但没有一个PR。我建议的是创建一个社区分叉。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/coderguyagb    href =“ https://www.reddit.com/r/opensource/comments/1jsukpx/is_it_time_time_time_ty_fork_soapui/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jsukpx/is_it_time_to_fork_soapui/</guid>
+      <pubDate>Sun, 06 Apr 2025 13:51:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以推出FOSS产品的平台吗？在寻找资金之前。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jss607/are_the_platforms_that_i_can_launch_a_foss/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在构建我想启动的FOSS产品的MVP。是否有免费的服务器层发布我们的MVP？我正在积极寻找资金，并且可能拥有付费服务器解决方案，但还没有。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/thepolystyrenekida    href =“ https://www.reddit.com/r/opensource/comments/1jss607/are_the_platforms_that_i_can_can_launch_a_a_foss/”&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jss607/are_the_platforms_that_i_can_launch_a_foss/</guid>
+      <pubDate>Sun, 06 Apr 2025 11:39:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>每个人都在为SME和Enterprise构建AI代理和无/低代码平台（如果有钱，我如何做）出了问题。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jsphjn/what_everyone_is_getting_wrong_about_building_ai/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jsphjn/what_everyone_is_getting_wrong_about_building_ai/</guid>
+      <pubDate>Sun, 06 Apr 2025 08:28:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用Grafana仪表板可视化Fitbit健康数据</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jsp5gc/visualize_your_fitbit_health_data_with_grafana/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  您好，Fitbit应用程序无法提供其收集的详细矩阵，因此我开发了一个仪表板，使用其官方API，Grafana和InfluxDB满足需求。使用Docker很容易设置。在这里，与其他详细的矩阵相侧面，您可以看到曲目 用原始的HR数据颜色 而不是HR区域。矩阵要详细得多，您可以放大它们，并在长时间内查看趋势。您也可以将以前的数据提到后端数据库。 这是项目和详细信息：思想或建议。希望您和我一样喜欢它。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/wonderecloud9935     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jsp5gc/visualize_your_fitbit_health_data_with_grafana/</guid>
+      <pubDate>Sun, 06 Apr 2025 08:03:58 GMT</pubDate>
+    </item>
     <item>
       <title>疯狂快速的库遍历和控制macos，如果您正在建立AI代理来控制您的计算机</title>
       <link>https://www.reddit.com/r/opensource/comments/1jsjush/insanely_fast_library_to_traverse_and_control/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[    src =“ https://external-preview.redd.it/k69qdfgd9hsjwtoyenqlllc4x-7zxhgkoykoykvga2si88.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = 215c6ecf9ebd8fdc4ba4ba4ba4ba4f9d163ca4906344ebf59“ title =“ Windows 11”/&gt;    &lt;！ -  sc_off-&gt;  只是想在此处与Moonlight一起使用的移动设备，以轻松控制麦克风，以与其状态的视觉反馈控制麦克风。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/nokerb       [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jsdq0a/an_onscreen_microphone_controller_overlay_button/</guid>
       <pubDate>Sat, 05 Apr 2025 21:07:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>动力板。 PowerShell目录可视化工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1js8qof/powertree_an_powershell_directory_visualization/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  什么是powertree？ 动力树是一个扩展标准目录树可视化工具的PowerShell模块。它提供了与内置的 tree 命令相同的基本功能，但添加了有用的过滤器，排序选项和文件信息显示功能。 为什么我需要将其 我可视化，我需要可视化项目结构，但想排除某些目录，例如 node_modules 从输出中。当我发现标准树命令无法执行此操作时，我将动力树构建为解决方案。 主要功能：  排除文件夹（想想node_modules，.next，.next等）。 排序选项（名称，所有日期，版本，大小）带有desc/asc order  能够立即将结果保存到TXT文件 额外的配置，例如：在ASCII中显示，标准排除文件，标准最大深度等。 Install-Module -Name PowerTree Usage Examples: powershellCopy# Basic tree view Ptree # Show tree with sizes, sorted by size Ptree -DisplaySize -SortBySize -Descending # Only show specific file types and exclude certain directories Ptree -IncludeExtensions ps1,md -ExcludEdirectories bin，node_modules＃显示在大小范围内的文件，按大小ptree -s -desc -sort size -fsmi 100kb -fsmi 100kb -fsma 1MB    href =“ https://github.com/spaansba/powertree”&gt; https://github.com/spaansba/powertree     PowerShell Gallery： https://www.powershellgallery.com/packages/packages/powertree/1.0.2   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1js8qof/powertree_an_powershell_directory_visualization/”&gt; [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1js8qof/powertree_an_powershell_directory_visualization/</guid>
-      <pubDate>Sat, 05 Apr 2025 17:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源茎分离器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1js7svs/open_source_stem_separator/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/imadz13     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1js7svs/open_source_stem_separator/</guid>
-      <pubDate>Sat, 05 Apr 2025 16:49:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>求职者分析</title>
-      <link>https://www.reddit.com/r/opensource/comments/1js5kl4/jobseeker_analytics/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/jianbing4ever4ever4ever      [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1js5kl4/jobseeker_analytics/</guid>
-      <pubDate>Sat, 05 Apr 2025 15:09:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于Web的打字球游乐场</title>
-      <link>https://www.reddit.com/r/opensource/comments/1js51ca/web_based_typescript_playground/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;   demo在 键入互动（请参阅您输入时的结果） 特殊日志的特殊日志，带有详细的响应数据 内置对象检查器（无需打开Chrome dev工具） 更漂亮的集成在自动代码格式中，您的代码 li&gt; li&gt; li&gt; li&gt; li&gt; lie&gt; li&gt;  代码  在引擎盖下使用Vscode＆amp; VSCODE语言服务器。利用SES（Harden JavaScript）进行安全执行，利用SWC WASM在工人中编译，并独特的方法来记录输出。 我最初是为我的产品建造的，但我认为将其保留在注册页面后面是太好了。我仍然需要改进 ，如果您尝试一下，我很想听听您的反馈！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/aker007       [注释]             ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1js51ca/web_based_typescript_playground/</guid>
-      <pubDate>Sat, 05 Apr 2025 14:44:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助对项目的回报</title>
-      <link>https://www.reddit.com/r/opensource/comments/1js3z36/help_with_readme_of_a_project/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  亲爱的社区， 我是 goinfinite/os 开源项目，; metamorphic＆quot;部署后适应您需求的容器。由于该项目的“特殊”，撰写全面的readme.md对我们来说是一个挑战。自然。 不久前，我遇到了这个subreddit上的一篇文章（也许是 r/self helf hosshosted ）关于开源项目的提示），但不幸的是，我没有通过搜索来保存它，我无法通过搜索找到它。该帖子涵盖的要点，例如包括屏幕截图和“入门”。从我隐约记得的是， 的部分。我们的最新读书我似乎涵盖了一些关键点，但是我很想获得您的反馈，并确保我们处于正确的轨道上。 ，请提前感谢您的帮助，我希望大家周末愉快。      &lt;！ -  sc_on！提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1js36/help_with_with_readme_of_a_a_project/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1js3z36/help_with_readme_of_a_project/</guid>
-      <pubDate>Sat, 05 Apr 2025 13:54:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>自托管/netlify/heroku风格的自托管的开源版本是什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1js1nqr/what_is_the_open_source_version_for_self_hosting/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  是什么首选开源解决方案，如果我有一个VPS并且我想设置我的网站以拥有CI/CD，然后将我推向GitHub repo，并且它可以部署，并且可以看到日志和东西，基本上像Vercel/NetLify/netlify/heroku and heroku and heroku and heroku and heroku and heroku and you noice dashboard。我听说了Dokloshy，Caprover，Colorify ....什么是最好的？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1js1nqr/what_is_is_the_open_source_source_version_for_self_hosting/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1js1nqr/what_is_the_open_source_version_for_self_hosting/</guid>
-      <pubDate>Sat, 05 Apr 2025 11:48:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源AI上的免费3小时Minicon虚拟活动[时间：4月12日，下午9点至下午12点]（来自Microsoft，Nvidia，Intel等的扬声器）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jrzdjr/free_3_hour_minicon_virtual_event_on_open_source/</link>
-      <description><![CDATA[        ＆＃32;提交由＆＃32; /u/ai-lover     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jrzdjr/1jrzdjr/free_3_hour_hour_minicon_virtual_event_event_event_open_open_open_source/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jrzdjr/free_3_hour_minicon_virtual_event_on_open_source/</guid>
-      <pubDate>Sat, 05 Apr 2025 09:07:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adnauseam是进一步进一步的大小叉子：它通过自动点击每个广告来积极攻击营销人员</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jrmfyp/adnauseam_is_a_ublock_fork_that_goes_further_it/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/i-t-t-t-i     [link]&gt; [link]&gt; [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jrmfyp/adnauseam_is_a_ublock_fork_that_goes_further_it/</guid>
-      <pubDate>Fri, 04 Apr 2025 20:55:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
