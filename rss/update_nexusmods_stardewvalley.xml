@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>立即上传到Stardew Valley Nexus的文件</title>
+    <link>https://www.nexusmods.com/stardewvalley/mods/today/</link>
+    <description>立即上传到Stardew Valley Nexus文件数据库的文件</description>
+    <lastBuildDate>Wed, 09 Apr 2025 06:13:34 GMT</lastBuildDate>
+    <item>
+      <title>农民肖像-Nyapu＆＃039; S样式 -  ZH</title>
+      <link>https://www.nexusmods.com/stardewvalley/mods/33041</link>
+      <description><![CDATA[这个 mod 允许您在玩游戏时配置农民的肖像，而无需关闭和更改 confg 文件。它具有季节和事件的配置选项。您可以在男性或女性农民之间进行选择，一切都应该自行更新以匹配。
+
+你可以在[url=http://www.nexusmods.com/stardewvalley/mods/29697]这里[/url]找到原mod，作者[url=https://next.nexusmods.com/profile/Jupm?gameId=1303]Jupm[/url]。
+
+你需要下载[url=http://www.nexusmods.com/stardewvalley/mods/20713]Generic Mod Config Menu[/url]、[url=https://www.nexusmods.com/stardewvalley/mods/20713]Farmer Portraits for 1.6[/url]、[url=http://www.nexusmods.com/stardewvalley/mods/29697]Farmer Portraits - Nyapu&#39;s Style[/url] 
+
+可以搭配﻿[url=https://next.nexusmods.com/profile/nyapu?gameId=1303]Nyapu[/url]的人物美化模组一起使用。
+
+将翻译文件解压到Stardew Valley\Mods\[CP] Farmer Portraits - Nyapu&#39;s Style文件夹中覆盖即可。
+翻译是根据我的理解来进行的，有不合适的地方可以直接用文档打开翻译文件进行查找修改。]]></description>
+      <guid>https://www.nexusmods.com/stardewvalley/mods/33041</guid>
+      <pubDate>Wed, 09 Apr 2025 05:55:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>沙漠扩张（KOR）</title>
+      <link>https://www.nexusmods.com/stardewvalley/mods/33036</link>
+      <description><![CDATA[原始模式：[url = http：// https：//www.nexusmods.com/stardewvalley/mods/31595？ tab =文件]沙漠扩展[/url]
+一种模式生产者：[url = https：//next.nexusmods.com/profile/harunesukts？ gameid = 1303]
+ hangul补丁制作人：JA3B2（ONJEBI） / DISCORD：JA3B2 /询问邮件：teehee77@naver.com
+
+
+以GRAINS OVERHULL模式为单位的韩国补丁文件。
+下载原件并下载hangul补丁和原始模式[CP]文件夹 - ＆gt;请将其放入I18N。
+
+
+查询有关错别字，误解和其他错误的询问，可以通过Discord或Email发送。
+电子邮件的检查不佳，因此，如果您想快速回答，请通过光盘代码与我们联系。]]></description>
+      <guid>https://www.nexusmods.com/stardewvalley/mods/33036</guid>
+      <pubDate>Wed, 09 Apr 2025 01:56:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找失败的果树</title>
+      <link>https://www.nexusmods.com/stardewvalley/mods/33035</link>
+      <description><![CDATA[无法生长的果树有点烦人。不知道那棵果树在哪里会更令人讨厌。该mod添加了一份通知，其中包括除了游戏自己的通知外，果树无法生长的位置的名称。它还在控制台中打印坐标供您参考。
+
+认为这是我的[url = https：//www.nexusmods.com/stardewvalley/mods/25450]的伴随mod，但此mod并没有提供幻想的渲染或箭头。我在半小时内做了这个。我将来可能会更新它，以添加更多有用的功能（因此是0.1.0版本编号），但似乎值得为Stardew社区提供。]]></description>
+      <guid>https://www.nexusmods.com/stardewvalley/mods/33035</guid>
+      <pubDate>Tue, 08 Apr 2025 23:42:27 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
