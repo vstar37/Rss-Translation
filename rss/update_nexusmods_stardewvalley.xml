@@ -4,7 +4,23 @@
     <title>立即上传到Stardew Valley Nexus的文件</title>
     <link>https://www.nexusmods.com/stardewvalley/mods/today/</link>
     <description>立即上传到Stardew Valley Nexus文件数据库的文件</description>
-    <lastBuildDate>Wed, 09 Apr 2025 06:13:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 09:11:18 GMT</lastBuildDate>
+    <item>
+      <title>（and）稻草人为kamichama karin</title>
+      <link>https://www.nexusmods.com/stardewvalley/mods/33043</link>
+      <description><![CDATA[This mod adds a scarecrow reskin featuring two characters from [i][b]Kamichama Karin[/b][/i]:
+[b]Karin Hanazono[/b] and [b]Kazune Kujyou[/b], each with two outfits — their school uniforms and their transformed battle forms.
+Due to canvas size limitations, the sprites had to be slightly scaled down, so they appear a bit smaller than the player character in-game. (Unfortunately, I haven’t figured out a way to make the scarecrow occupy more tiles visually. If you happen to know how, I’d love to hear from you!)
+Requirements:
+Besides [b]SMAPI[/b], you must install the [b]Alternative Textures[/b] mod. Once everything is installed, go to Robin’s shop to buy the paint bucket, then left-click on a scarecrow to change its appearance.
+⸻
+该模组为动画《小女神花铃》中的角色制作了稻草人美化，包含了两位角色：花园花铃和九条和音，每人各有两套服装——校服与神化后的战斗服。
+由于像素画布的限制，图像在绘制时略作缩小，因此在游戏中显示会比主角略小一些。 （目前还没有找到可以让稻草人图像在游戏中占据更多格子的办法，如果你知道怎么做，非常欢迎告诉我！）
+前置需求：
+除了[b]SMAPI[/b]外，还需要安装[b]Alternative Textures[/b]模组。安装成功后，前往罗宾家购买油漆桶，然后鼠标左键点击稻草人即可更换外观。]]></description>
+      <guid>https://www.nexusmods.com/stardewvalley/mods/33043</guid>
+      <pubDate>Wed, 09 Apr 2025 08:19:06 GMT</pubDate>
+    </item>
     <item>
       <title>农民肖像-Nyapu＆＃039; S样式 -  ZH</title>
       <link>https://www.nexusmods.com/stardewvalley/mods/33041</link>
