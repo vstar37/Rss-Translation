@@ -4,7 +4,38 @@
     <title>立即上传到Stardew Valley Nexus的文件</title>
     <link>https://www.nexusmods.com/stardewvalley/mods/today/</link>
     <description>立即上传到Stardew Valley Nexus文件数据库的文件</description>
-    <lastBuildDate>Wed, 09 Apr 2025 12:16:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 15:11:34 GMT</lastBuildDate>
+    <item>
+      <title>Wildflour的工作室商品 - 工匠商品扩展俄罗斯翻译</title>
+      <link>https://www.nexusmods.com/stardewvalley/mods/33045</link>
+      <description><![CDATA[[size = 3]安装说明：[/size]
+
+ [list = 1]
+ [*]确保已安装了所有必要的mod：
+ [列表]
+ |*’/murl=https://wwww.nexusmods.com/stardewvalley/mods/191515415415415.Content Patcher [/url]
+  -  2url = https://wwww.nexusmods.com/stardewvalley/mods/2400.ssmapiom/url]
+  -  2url = https://wwww.nexusmods.com/stardewvalley/mods/15792.bush bloom mod [/url]
+  -  2url = https://wwww.nexusmods.com/stardewvalley/mods/20628.calcifer*/url]
+  -  manmich=https://wwww.nexusmods.com/stardewvalley/mods/229261cauldrons/url]
+  -  2url = https://wwww.nexusmods.com/stardewvalley/mods/22256156.extra Machine Configs（EMC）[/url]
+  -  2url = https://wwww.nexusmods.com/stardewvalley/mods/32311.farm Type Manager（FTM）[/url]
+  -  2url = https://wwww.nexusmods.com/stardewvalley/mods/201391hxw tilesheets [/url]
+  -  2url = https://wwww.nexusmods.com/stardewvalley/mods/20357.Item Extensions [/url]
+  -  2url = https://wwww.nexusmods.com/stardewvalley/mods/28261121111111111.Machine Control面板[/url]
+  -  2url = https://wwww.nexusmods.com/stardewvalley/mods/17265.nlockable bundles [/url]
+ [*]原始mod [url = https：//www.nexusmods.com/stardewvalley/mods/27049？ tab = files] Wildflur的工作室商品 - 作者[url = https：//www.nexusmods.com/stardewvalley/users/109248658] delixxn [/url] [/url]
+ [ /list]
+ [*]使用已安装的游戏星谷（Stardew Valley）下载并在文件夹中的MODS文件夹中下载并解开所有mods。
+
+ [*]用我的翻译下载档案，然后将其拆开到单独的文件夹中。然后将翻译文件移至相同的mods文件夹，确认文件的替换。
+
+ [ /list]我为自己翻译了此mod。可能会出现小错误或不准确，尤其是在男性和女性的末端 - 我将感谢理解和任何评论！
+
+一个愉快的游戏！ :-)]]></description>
+      <guid>https://www.nexusmods.com/stardewvalley/mods/33045</guid>
+      <pubDate>Wed, 09 Apr 2025 13:48:23 GMT</pubDate>
+    </item>
     <item>
       <title>（and）稻草人为kamichama karin</title>
       <link>https://www.nexusmods.com/stardewvalley/mods/33043</link>
@@ -22,18 +53,18 @@ Besides [b]SMAPI[/b], you must install the [b]Alternative Textures[/b] mod. Once
       <pubDate>Wed, 09 Apr 2025 08:19:06 GMT</pubDate>
     </item>
     <item>
-      <title>农民肖像-Nyapu＆＃039; S样式 -  ZH</title>
+      <title>农民肖像-Nyapu＆＃039;</title>
       <link>https://www.nexusmods.com/stardewvalley/mods/33041</link>
       <description><![CDATA[这个 mod 允许您在玩游戏时配置农民的肖像，而无需关闭和更改 confg 文件。它具有季节和事件的配置选项。您可以在男性或女性农民之间进行选择，一切都应该自行更新以匹配。
 
 你可以在[url=http://www.nexusmods.com/stardewvalley/mods/29697]这里[/url]找到原mod，作者[url=https://next.nexusmods.com/profile/Jupm?gameId=1303]Jupm[/url]。
 
-你需要下载[url=http://www.nexusmods.com/stardewvalley/mods/20713]Generic Mod Config Menu[/url]、[url=https://www.nexusmods.com/stardewvalley/mods/20713]Farmer Portraits for 1.6[/url]、[url=http://www.nexusmods.com/stardewvalley/mods/29697]Farmer Portraits - Nyapu&#39;s Style[/url] 
+你需要下载[url=http://www.nexusmods.com/stardewvalley/mods/5098]通用 Mod 配置菜单[/url]、[url=https://www.nexusmods.com/stardewvalley/mods/20713]Farmer Portraits for 1.6[/url]、[url=http://www.nexusmods.com/stardewvalley/mods/29697]Farmer Portraits - Nyapu&#39;s Style[/url] 
 
-可以搭配﻿[url=https://next.nexusmods.com/profile/nyapu?gameId=1303]Nyapu[/url]的人物美化模组一起使用。
+可以搭配 [url=https://next.nexusmods.com/profile/nyapu?gameId=1303]Nyapu[/url]的人物美化模组一起使用。
 
 将翻译文件解压到Stardew Valley\Mods\[CP] Farmer Portraits - Nyapu&#39;s Style文件夹中覆盖即可。
-翻译是根据我的理解来进行的，有不合适的地方可以直接用文档打开翻译文件进行查找修改。]]></description>
+翻译是根据我的理解来进行的，有不合适的地方可以直接用文本文档打开翻译文件zh.json进行查找修改。]]></description>
       <guid>https://www.nexusmods.com/stardewvalley/mods/33041</guid>
       <pubDate>Wed, 09 Apr 2025 05:55:09 GMT</pubDate>
     </item>
