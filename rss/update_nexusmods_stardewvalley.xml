@@ -4,229 +4,109 @@
     <title>立即上传到Stardew Valley Nexus的文件</title>
     <link>https://www.nexusmods.com/stardewvalley/mods/today/</link>
     <description>立即上传到Stardew Valley Nexus文件数据库的文件</description>
-    <lastBuildDate>Wed, 09 Apr 2025 21:08:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 00:41:51 GMT</lastBuildDate>
     <item>
-      <title>Ridgeside Village手机继续PT-BR</title>
-      <link>https://www.nexusmods.com/stardewvalley/mods/33059</link>
-      <description><![CDATA[只需将其提取到mods文件夹并替换文件]]></description>
-      <guid>https://www.nexusmods.com/stardewvalley/mods/33059</guid>
-      <pubDate>Wed, 09 Apr 2025 21:00:27 GMT</pubDate>
+      <title>DM语音包 - 英语</title>
+      <link>https://www.nexusmods.com/stardewvalley/mods/33063</link>
+      <description><![CDATA[框架模块上语音中使用的语音包，以便可以播放音频。 
+除非您在MOD [/url]上安装了[url = https：//www.nexusmods.com/stardewvalley/33061]，否则无法播放此语音包。
+
+此语音包在英语中，用于用Elevenlabs的AI声音创建的各种字符。 
+随意仅使用您喜欢的人，然后将其换成其他声音。
+
+ [b]语音包包括以下字符的英语。[ /b]
+ Alex
+埃利奥特（Elliott）
+哈维
+ sam
+ sabastian
+ Shane
+ abigail
+ Emily
+海莉
+莉亚
+ maru
+便士
+ Caroline
+ clint
+ Demetrius
+矮人
+ evelyn
+乔治
+ gus
+ jas
+ jodi
+肯特
+ kbrubus
+狮子座
+刘易斯
+ linus
+玛妮
+ pam
+皮埃尔
+罗宾
+桑迪
+ Vincent
+威利
+向导
+小鸟
+州长
+马龙
+莫里斯
+
+ [b]不包括[ /b]
+弹跳器
+泡沫
+吉尔
+爷爷
+ Henchman
+ mr.qi
+蜗牛教授]]></description>
+      <guid>https://www.nexusmods.com/stardewvalley/mods/33063</guid>
+      <pubDate>Wed, 09 Apr 2025 23:27:47 GMT</pubDate>
     </item>
     <item>
-      <title>罗宾是单身土耳其人</title>
-      <link>https://www.nexusmods.com/stardewvalley/mods/33058</link>
-      <description><![CDATA[罗宾是单身，你可以嫁给他。罗宾离开了德姆特里乌斯，现已结婚。]]></description>
-      <guid>https://www.nexusmods.com/stardewvalley/mods/33058</guid>
-      <pubDate>Wed, 09 Apr 2025 20:52:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>非正式的星际蓝草Xiddav＆＃039; tilesheet修复</title>
-      <link>https://www.nexusmods.com/stardewvalley/mods/33056</link>
-      <description><![CDATA[[b]小修复，显然需要Xiddav的Tilesheet 1.6.6，而星际谷谷非正式为1.6 [/b]
+      <title>框架上的声音mod</title>
+      <link>https://www.nexusmods.com/stardewvalley/mods/33061</link>
+      <description><![CDATA[[b]这个mod做什么？[/b]
+这个mod本身无能为力。此mod允许用户从每个语音包中选择一个字符语音。设置了语音包后，对话将播放该语音包的音频。 
+ [b]
+如何获得语音包？
+ [ /b]它们将在nexusmod上下载。
+我在这里有1个示例：[url = https：//www.nexusmods.com/stardewvalley/mods/33063]这是我用AI [/url]创建的示例语音包
 
- [b]学分：[ /b]
- [列表]
- [*] Xiddav由原始tilesheet
- [ /list]]]></description>
-      <guid>https://www.nexusmods.com/stardewvalley/mods/33056</guid>
-      <pubDate>Wed, 09 Apr 2025 20:37:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>非正式的星际蓝谷谷扩大了完全兼容性修复</title>
-      <link>https://www.nexusmods.com/stardewvalley/mods/33050</link>
-      <description><![CDATA[纹理尚未完成，但是100％的功能和更身临其境
+ [b]视频如何选择语音包 /演示[ /b]
 
-只需将其提取到mods文件夹并替换文件
- [列表]
- [*] [b]在春季需要蓝草[ /b]
- [ /list]
- [b]学分：[ /b]
- [列表]
- [*] ***我在这里没有创建任何东西，这只是一个补充调整，您需要先安装mod（sve and starblue valley非官方）***
- [*] SVE：flashshifter
- [*]星际布鲁（Starblue）不承受的：
- [ /list]]]></description>
-      <guid>https://www.nexusmods.com/stardewvalley/mods/33050</guid>
-      <pubDate>Wed, 09 Apr 2025 20:29:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>舒适的日历 - 替代纹理</title>
-      <link>https://www.nexusmods.com/stardewvalley/mods/33053</link>
-      <description><![CDATA[[color =＃6cc46f] [size = 5]替代纹理日历[/size] [/color]
- [size = 4] [颜色=＃93C47D]要求：[/color] [/size]
- [扰流板]
- [size = 3] [color =＃93c47d]用于替换器：[/color] [/size]
- [列表]
- [himferl=https://www.nexusmods.com/stardewvalley/mods/9246] Alternative纹理[/url]  - 用于获得相同的外观。从罗宾那里买油漆桶。 
- [*]也需要SMAPI。 
- [ /list]
- [ /扰流板]
+ [YouTube] 1lioikxhvg [ /YouTube]
 
-使用：[url = https：//www.nexusmods.com/stardewvalley/mods/20760] faedew [/url] [url = https：//wwww.twitch.twitch.twitch.tv/cozysienna]
- [ /url]
-这是我的第一个mod，所以请记住这一点。请让我知道是否有任何问题 - 如果没有问题，请享受！确保上传自己的图像。我很想在您的游戏中看到这一点。]]></description>
-      <guid>https://www.nexusmods.com/stardewvalley/mods/33053</guid>
-      <pubDate>Wed, 09 Apr 2025 17:24:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>雄性马尾辫发型</title>
-      <link>https://www.nexusmods.com/stardewvalley/mods/33052</link>
-      <description><![CDATA[添加了一个新的切口。链接（Zelda的传奇）和毒蛇（MGS）样式。
-由Isacwallas制造。我刚刚为时尚史上引起了人们的欢迎。]]></description>
-      <guid>https://www.nexusmods.com/stardewvalley/mods/33052</guid>
-      <pubDate>Wed, 09 Apr 2025 17:07:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Terraria表情符号包</title>
-      <link>https://www.nexusmods.com/stardewvalley/mods/33051</link>
-      <description><![CDATA[[size = 5]🐸[/size] [b] [size = 5]关于此mod [/size] [/b]  
-这是Mod [url = https：//www.nexusmods.com/stardewvalley/mods/29215]自定义情绪菜单菜单[/url]的[b]内容包[/b]。  
-它添加了一个自定义表情符号的集合，您可以通过表情符号菜单在游戏中使用！
+ [b]如何创建语音包？ [/b]
+此mod将为有兴趣创建自己的语音包的Modder创建模板。
+只需加载游戏，然后转到SMAPI控制台并输入
+ create_template＆lt; contarname | all＆gt; ＆lt; languagecode | all＆gt; ＆lt; yourpackid＆gt; ＆lt; yourpackName＆gt; ＆lt; Startaudiofilenumber＆gt;
 
- [b]📌注意：[/b] [url = https：//www.nexusmods.com/stardewvalley/mods/29215]自定义情绪菜单[/url] di di di di di dis [b]不替换香草菜单 - 它创建了一个完全[B]新的自定义emoji System/B]。  
-要打开新的表情符号菜单，只需按[B] [color =＃00ff00] q [/color] [/b]键（默认情况下）。  
-我建议您查看主mod页面，以更好地了解其工作原理！
+该命令将使用所有DialogueText和音频路径创建每个字符 /语言的JSON，然后您就可以开始记录每个对话文本以创建自己的mod。 
 
- [line]
+也应包括这样的清单
 
- [size = 5]📦[b]要求[/b] [/size]  
-要使用此mod，您[b]必须首先安装[ /b]：
+ {
+“ name”：“ nameofyourvoicepack”，
+“作者”：“ yourname”，
+“版本”：“ 1.0.0”，
+“ description”：“ addDiscription”，
+“ unique id”：“ yourname.nameofyourvoicepack”，
+“ UpdateKeys”：[“ Nexus：YourNexusidGoeshere”]，
+“ contentpackfor”：{
+“ simolorId”：“ darkmushu1.voiceoverframeworkmod”
+}
+}
 
-🔹[url = https：//www.nexusmods.com/stardewvalley/mods/29215] [b]自定义情绪菜单[/b] [/url]  
-该mod提供了用于在游戏中显示新表情符号的系统。  
-此包仅在其上添加新的表情符号图像。
+请参阅视频：
+ [YouTube] FXB-8RU0JZC [ /YouTube]
 
- [line]
-
- [size = 5]📁[b]安装[/b] [/size]  
- [list = 1]
- [*]下载并安装[url = https：//www.nexusmods.com/stardewvalley/mods/29215]自定义情绪菜单[/url]。
-
- [*]下载此内容包。
-
- [*]将其提取到您的mods文件夹中。
- [ /list]
-
-✅就是这样！您的新表情符号将自动出现在菜单中。]]></description>
-      <guid>https://www.nexusmods.com/stardewvalley/mods/33051</guid>
-      <pubDate>Wed, 09 Apr 2025 16:28:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wu-Crobus</title>
-      <link>https://www.nexusmods.com/stardewvalley/mods/33049</link>
-      <description><![CDATA[【cp】文件放进mod，高清肖像需要放进Portraiture mod
-[s]ps：行走图画的有点敷衍，以后会考虑修改。
-画的时候挺开心的，画完上游戏测试又觉得不太行。总之，先这样吧
-[/s]
-
-Put the 【cp】 file into the mod, and the high-definition portrait needs to be put into the Portrait mod]]></description>
-      <guid>https://www.nexusmods.com/stardewvalley/mods/33049</guid>
-      <pubDate>Wed, 09 Apr 2025 15:25:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>奥斯曼萨斯农作物</title>
-      <link>https://www.nexusmods.com/stardewvalley/mods/33047</link>
-      <description><![CDATA[🌼osmanthus  - 一种定制的冬季作物
-与[b] Osmanthus [ /b]一起为您的冬季耕作增添了一丝优雅，这是一种甜美的花朵，以茶和葡萄酒的使用而闻名。这个mod介绍了一种全新的冬季专有农作物
-
-🌱功能[列表]
- [*] [b]新作物[/b]：Osmanthus  - 仅在[B]冬季[/b]
- [*] [b]增长时间[ /b]：成熟的18天，然后每4天重新生产一次
- [*] [b]收获[ /b]：手工挑选（无需镰刀）
- [*] [b] shops [/b]：在[b] Pierre的[/b]出售的种子，
- [*] [b]种子价格[ /b]：18G
- [ /list]]]></description>
-      <guid>https://www.nexusmods.com/stardewvalley/mods/33047</guid>
-      <pubDate>Wed, 09 Apr 2025 15:18:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wildflour的工作室商品 - 工匠商品扩展俄罗斯翻译</title>
-      <link>https://www.nexusmods.com/stardewvalley/mods/33045</link>
-      <description><![CDATA[[size = 3]安装说明：[/size]
-
- [list = 1]
- [*]确保已安装了所有必要的mod：
- [列表]
- |*’/murl=https://wwww.nexusmods.com/stardewvalley/mods/191515415415415.Content Patcher [/url]
-  -  2url = https://wwww.nexusmods.com/stardewvalley/mods/2400.ssmapiom/url]
-  -  2url = https://wwww.nexusmods.com/stardewvalley/mods/15792.bush bloom mod [/url]
-  -  2url = https://wwww.nexusmods.com/stardewvalley/mods/20628.calcifer*/url]
-  -  manmich=https://wwww.nexusmods.com/stardewvalley/mods/229261cauldrons/url]
-  -  2url = https://wwww.nexusmods.com/stardewvalley/mods/22256156.extra Machine Configs（EMC）[/url]
-  -  2url = https://wwww.nexusmods.com/stardewvalley/mods/32311.farm Type Manager（FTM）[/url]
-  -  2url = https://wwww.nexusmods.com/stardewvalley/mods/201391hxw tilesheets [/url]
-  -  2url = https://wwww.nexusmods.com/stardewvalley/mods/20357.Item Extensions [/url]
-  -  2url = https://wwww.nexusmods.com/stardewvalley/mods/28261121111111111.Machine Control面板[/url]
-  -  2url = https://wwww.nexusmods.com/stardewvalley/mods/17265.nlockable bundles [/url]
- [*]原始mod [url = https：//www.nexusmods.com/stardewvalley/mods/27049？ tab = files] Wildflur的工作室商品 - 作者[url = https：//www.nexusmods.com/stardewvalley/users/109248658] delixxn [/url] [/url]
- [ /list]
- [*]使用已安装的游戏星谷（Stardew Valley）下载并在文件夹中的MODS文件夹中下载并解开所有mods。
-
- [*]用我的翻译下载档案，然后将其拆开到单独的文件夹中。然后将翻译文件移至相同的mods文件夹，确认文件的替换。
-
- [ /list]我为自己翻译了此mod。可能会出现小错误或不准确，尤其是在男性和女性的末端 - 我将感谢理解和任何评论！
-
-一个愉快的游戏！ :-)]]></description>
-      <guid>https://www.nexusmods.com/stardewvalley/mods/33045</guid>
-      <pubDate>Wed, 09 Apr 2025 13:48:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>（and）稻草人为kamichama karin</title>
-      <link>https://www.nexusmods.com/stardewvalley/mods/33043</link>
-      <description><![CDATA[This mod adds a scarecrow reskin featuring two characters from [i][b]Kamichama Karin[/b][/i]:
-[b]Karin Hanazono[/b] and [b]Kazune Kujyou[/b], each with two outfits — their school uniforms and their transformed battle forms.
-Due to canvas size limitations, the sprites had to be slightly scaled down, so they appear a bit smaller than the player character in-game. (Unfortunately, I haven’t figured out a way to make the scarecrow occupy more tiles visually. If you happen to know how, I’d love to hear from you!)
-Requirements:
-Besides [b]SMAPI[/b], you must install the [b]Alternative Textures[/b] mod. Once everything is installed, go to Robin’s shop to buy the paint bucket, then left-click on a scarecrow to change its appearance.
-⸻
-该模组为动画《小女神花铃》中的角色制作了稻草人美化，包含了两位角色：花园花铃和九条和音，每人各有两套服装——校服与神化后的战斗服。
-由于像素画布的限制，图像在绘制时略作缩小，因此在游戏中显示会比主角略小一些。 （目前还没有找到可以让稻草人图像在游戏中占据更多格子的办法，如果你知道怎么做，非常欢迎告诉我！）
-前置需求：
-除了[b]SMAPI[/b]外，还需要安装[b]Alternative Textures[/b]模组。安装成功后，前往罗宾家购买油漆桶，然后鼠标左键点击稻草人即可更换外观。]]></description>
-      <guid>https://www.nexusmods.com/stardewvalley/mods/33043</guid>
-      <pubDate>Wed, 09 Apr 2025 08:19:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>农民肖像-Nyapu＆＃039;</title>
-      <link>https://www.nexusmods.com/stardewvalley/mods/33041</link>
-      <description><![CDATA[这个 mod 允许您在玩游戏时配置农民的肖像，而无需关闭和更改 confg 文件。它具有季节和事件的配置选项。您可以在男性或女性农民之间进行选择，一切都应该自行更新以匹配。
-
-你可以在[url=http://www.nexusmods.com/stardewvalley/mods/29697]这里[/url]找到原mod，作者[url=https://next.nexusmods.com/profile/Jupm?gameId=1303]Jupm[/url]。
-
-你需要下载[url=http://www.nexusmods.com/stardewvalley/mods/5098]通用 Mod 配置菜单[/url]、[url=https://www.nexusmods.com/stardewvalley/mods/20713]Farmer Portraits for 1.6[/url]、[url=http://www.nexusmods.com/stardewvalley/mods/29697]Farmer Portraits - Nyapu&#39;s Style[/url] 
-
-可以搭配 [url=https://next.nexusmods.com/profile/nyapu?gameId=1303]Nyapu[/url]的人物美化模组一起使用。
-
-将翻译文件解压到Stardew Valley\Mods\[CP] Farmer Portraits - Nyapu&#39;s Style文件夹中覆盖即可。
-翻译是根据我的理解来进行的，有不合适的地方可以直接用文本文档打开翻译文件zh.json进行查找修改。]]></description>
-      <guid>https://www.nexusmods.com/stardewvalley/mods/33041</guid>
-      <pubDate>Wed, 09 Apr 2025 05:55:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>沙漠扩张（KOR）</title>
-      <link>https://www.nexusmods.com/stardewvalley/mods/33036</link>
-      <description><![CDATA[原始模式：[url = http：// https：//www.nexusmods.com/stardewvalley/mods/31595？ tab =文件]沙漠扩展[/url]
-一种模式生产者：[url = https：//next.nexusmods.com/profile/harunesukts？ gameid = 1303]
- hangul补丁制作人：JA3B2（ONJEBI） / DISCORD：JA3B2 /询问邮件：teehee77@naver.com
-
-
-以GRAINS OVERHULL模式为单位的韩国补丁文件。
-下载原件并下载hangul补丁和原始模式[CP]文件夹 - ＆gt;请将其放入I18N。
-
-
-查询有关错别字，误解和其他错误的询问，可以通过Discord或Email发送。
-电子邮件的检查不佳，因此，如果您想快速回答，请通过光盘代码与我们联系。]]></description>
-      <guid>https://www.nexusmods.com/stardewvalley/mods/33036</guid>
-      <pubDate>Wed, 09 Apr 2025 01:56:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找失败的果树</title>
-      <link>https://www.nexusmods.com/stardewvalley/mods/33035</link>
-      <description><![CDATA[无法生长的果树有点烦人。不知道那棵果树在哪里会更令人讨厌。该mod添加了一份通知，其中包括除了游戏自己的通知外，果树无法生长的位置的名称。它还在控制台中打印坐标供您参考。
-
-认为这是我的[url = https：//www.nexusmods.com/stardewvalley/mods/25450]的伴随mod，但此mod并没有提供幻想的渲染或箭头。我在半小时内做了这个。我将来可能会更新它，以添加更多有用的功能（因此是0.1.0版本编号），但似乎值得为Stardew社区提供。]]></description>
-      <guid>https://www.nexusmods.com/stardewvalley/mods/33035</guid>
-      <pubDate>Tue, 08 Apr 2025 23:42:27 GMT</pubDate>
+ [b]此mod是否支持改装内容的其他字符和对话？[ /b]
+是的，但是，当对话与音频仍将播放的那些角色出现在游戏中时，需要手动创建角色和对话的JSON文件。]]></description>
+      <guid>https://www.nexusmods.com/stardewvalley/mods/33061</guid>
+      <pubDate>Wed, 09 Apr 2025 23:27:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
