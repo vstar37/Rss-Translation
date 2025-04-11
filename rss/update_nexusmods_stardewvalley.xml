@@ -4,7 +4,105 @@
     <title>立即上传到Stardew Valley Nexus的文件</title>
     <link>https://www.nexusmods.com/stardewvalley/mods/today/</link>
     <description>立即上传到Stardew Valley Nexus文件数据库的文件</description>
-    <lastBuildDate>Fri, 11 Apr 2025 12:16:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 15:09:39 GMT</lastBuildDate>
+    <item>
+      <title>CP-幸运三叶草</title>
+      <link>https://www.nexusmods.com/stardewvalley/mods/33111</link>
+      <description><![CDATA[[中心] [/center] [中心] [size = 5] [b] [u] content Patcher的幸运三叶草
+
+ [/u] [/b] [/size] [/center] [size = 3] [左] FishWaffles64的内容patcher转换[url = https：//www.nexusmods.com/stardewvalley/stardewvalley/mods/mods/mods/mods/3568]幸运的clover mod [/url] [/左边]
+ [b] [u] [左]原始描述[/left] [/u] [/b] [/size]
+ [color =＃00ff00] [代码] [quote]使用JSON资产，您现在可以在春季种植幸运的三叶草！他们花了4天的时间才能成长，吃饭时要有巨大的运气增益。
+您可以从Pierre&#39;s购买200克的种子！” [/QUOTE] [/code] [/color]
+ [b] [u] [center] [/center] [左] content patcher版本[/left] [/u] [/b]
+ [列表]
+ [*]种子可在春季从皮埃尔（Pierre）的商店购买，每张价格为200克。 
+ [*]幸运三叶草需要4天才能成长。他们在收获时产生1-3，每个农场水平增加5。还有一个额外的收获机会。这基于原始mod值。
+ [*]幸运三叶草可食用，并为10分钟提供+3运气。
+ [*]种子以50克和幸运的三叶草150克出售。 
+ [*]种子是一种普遍的类似和幸运的三叶草。 
+ [*]已设置MOD来支持I18N进行翻译。
+ [/list] [左] [/左] [列表]
+ [/list] [b] [u] [center] [/center] [左]未来计划[/左]
+ [/u] [/b]在以下内容上没有保证，但是可以; [b] [u]
+ [/u] [/b] [列表]
+ [*]添加配置选项
+ [*]与其他mod添加兼容性。虽然其他人可以自由地将其包含在自己的
+ [ /list]
+
+请让我知道任何问题。
+ [u] [b]
+ [左] credits [/left] [/b] [/u] [左]
+ [url = https://next.nexusmods.com/profile/fishwaffle64?gameid=1303] Fish -Waffles64 [/url]用于原始mod。如果他们要求，此版本将被删除。
+ [url=https://www.nexusmods.com/stardewvalley/users/1552317]
+ [ /u]]]></description>
+      <guid>https://www.nexusmods.com/stardewvalley/mods/33111</guid>
+      <pubDate>Fri, 11 Apr 2025 15:04:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>ENRI0425＆＃039; Alex Heart Events</title>
+      <link>https://www.nexusmods.com/stardewvalley/mods/33113</link>
+      <description><![CDATA[这个mod改变了亚历克斯的2和8个心脏事件，以便您可以在夏季以外的其他季节看到它们。
+您需要SMAPI和Content Patcher才能使此mod工作。
+我所做的更改是：
+ [列表]
+ [*] 2心脏事件：在任何季节的晴天去海滩，除了冬天上午8:00至下午12:00 ;
+ [*] 8心脏事件：任何季节的任何天气从上午8:00到下午4:00去海滩 
+ [ /list]此mod可能与改变亚历克斯心脏事件的其他人不兼容。]]></description>
+      <guid>https://www.nexusmods.com/stardewvalley/mods/33113</guid>
+      <pubDate>Fri, 11 Apr 2025 14:37:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>poliamor doce-多象甜1.3.1 pt -br</title>
+      <link>https://www.nexusmods.com/stardewvalley/mods/33083</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nexusmods.com/stardewvalley/mods/33083</guid>
+      <pubDate>Fri, 11 Apr 2025 13:46:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>哈维的来信（白俄罗斯翻译）</title>
+      <link>https://www.nexusmods.com/stardewvalley/mods/33110</link>
+      <description><![CDATA[[size = 6] [中心] [b] [color =＃6aa84f] Harvey [/color] [/b]的来信
+ [img] https://stardewvalleywiki.com/mediawiki/mediawiki/images/f/fe/mail.png [/img] [/center] [/center] [/size]此mod在每个心脏层面上增加了Harvey的新邮件和礼物。随着您的关系，它的礼物变得越来越重要。
+
+ [color =＃6aa84f] [size = 5] [b]功能[/b] [/size] [/color]
+ [列表]
+ [*]在每个心脏层面上都有礼物。
+ [ /list]
+ [color =＃6aa84f] [size = 5] [b]如何安装[/b] [/size] [/color]
+ [列表]
+ [*] [size = 3]下载并安装[url = http：//www.nexusmods.com/stardewvalley/mods/1536]邮件框架mod [/url]，以进行下种方式的正确工作。 [/尺寸]
+ [*] [size = 3]下载mod [url = https：//www.nexusmods.com/stardewvalley/mods/32091？ TAB =描述] Harvey [/url]的来信。
+ [*] [size = 3]在“ mods”文件夹中解开包装。 [ /尺寸]
+ [*] [size = 3]添加时尚翻译。 [ /尺寸]
+ [*] [size = 3]通过[url = http：//www.nexusmods.com/stardewvalley/mods/2400] smapi [/url]启动游戏。 [/尺寸]
+ [*] [size = 3]享受！ [ /尺寸]
+ [ /list]]]></description>
+      <guid>https://www.nexusmods.com/stardewvalley/mods/33110</guid>
+      <pubDate>Fri, 11 Apr 2025 13:31:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>NPC Eleanor中文翻译</title>
+      <link>https://www.nexusmods.com/stardewvalley/mods/33108</link>
+      <description><![CDATA[这里有内容是因为有些得在里汉化，我会去跟作者问问。有翻译错误可以留言。]]></description>
+      <guid>https://www.nexusmods.com/stardewvalley/mods/33108</guid>
+      <pubDate>Fri, 11 Apr 2025 13:25:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>中文翻译 - 罗斯和炼金术士 -  Sunberry Village的定制NPC</title>
+      <link>https://www.nexusmods.com/stardewvalley/mods/33107</link>
+      <description><![CDATA[感谢[url=https://www.nexusmods.com/stardewvalley/users/52118856]lala92876[/url]与我们联系，把Alchemist - Custom NPCs for Sunberry Village翻译权交给了我们，由于团队成员现实生活忙碌，该翻译由我一人完成。
+
+文件只包含翻译文件，需下载原mod进行覆盖。
+
+原mod：[url=https://www.nexusmods.com/stardewvalley/mods/32385]Alchemist - Custom NPCs for Sunberry Village[/url]﻿
+
+原作者主页：[url=https://www.nexusmods.com/stardewvalley/users/68674623]Wildflourmods[/url]﻿
+
+特别感谢：[url=https://www.nexusmods.com/stardewvalley/users/52118856]lala92876[/url]]]></description>
+      <guid>https://www.nexusmods.com/stardewvalley/mods/33107</guid>
+      <pubDate>Fri, 11 Apr 2025 12:50:43 GMT</pubDate>
+    </item>
     <item>
       <title>Cocumit的温室（季节性）</title>
       <link>https://www.nexusmods.com/stardewvalley/mods/33105</link>
@@ -206,115 +304,6 @@ The files are in .png format and require the Portraiture (999) mod as a prerequi
  [ /b] [line]]]></description>
       <guid>https://www.nexusmods.com/stardewvalley/mods/33096</guid>
       <pubDate>Fri, 11 Apr 2025 02:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>做吉尔真正的拉丁裔</title>
-      <link>https://www.nexusmods.com/stardewvalley/mods/33093</link>
-      <description><![CDATA[原始mod中的更多细节]]></description>
-      <guid>https://www.nexusmods.com/stardewvalley/mods/33093</guid>
-      <pubDate>Fri, 11 Apr 2025 01:21:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>玫瑰和炼金术士 - 日光村（拉丁西班牙语）的定制NPC</title>
-      <link>https://www.nexusmods.com/stardewvalley/mods/33092</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.nexusmods.com/stardewvalley/mods/33092</guid>
-      <pubDate>Fri, 11 Apr 2025 00:40:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>对话主题实用程序（CTU）</title>
-      <link>https://www.nexusmods.com/stardewvalley/mods/33032</link>
-      <description><![CDATA[[size = 3] [size = 4]大约[/size]
-
-对话主题实用程序（CTU）是一个需要从其对话主题对话行中获得更多灵活性的修改器的框架。它无能为力。如果您是使用需要此操作的mod的播放器，只需像其他任何mod一样安装它并喜欢玩游戏！
-
- mod作者：查看[url = https：//github.com/lisyce/stardewvalleymods/blob/main/main/conversation%20topic%20tibilities/docs/author-guide.md]作者指南[/url]用于完整文档！您可以使用Content Patcher编辑来利用此MOD的所有功能！
-
-可用功能包括：
-
- [列表]
- [*]标记对话主题（也可以选择地记忆）是每次到期时都可以重复的
- [*]主题的默认对话行：允许许多NPC为主题共享默认行，并指定谁可以使用这些默认值以及何时使用默认值。
- [*]能够一次匹配许多对话主题以获取默认 /可重复对话行（避免重复代码）
- [*]触发动作，以立即将对话主题再次标记为可重复
- [ /list]
-
- [size = 4]示例用途[ /size]
-
- [列表]
- [*]标记所有以您的mod独特ID开头的主题，每次过期时都可以重复
- [*]创建一个默认对话行，任何NPC都可以响应特定的对话主题来使用该行
- [*]创建一个默认对话行，仅当NPC的名称包含在“对话主题密钥中）（例如SAM仅响应主题“ mytopic_sam”，而不是“ mytopic_pierre”）
- [*]创建一个可以使用新触发动作来每个季节重复一次的主题
- [ /list]
-
- [size = 4]源代码[ /size]
-
-来源可在[url = https：//github.com/lisyce/stardewvalleymods/tree/main/main/conversation%20topic%20utilities] github [/url]。
- [ /size]]]></description>
-      <guid>https://www.nexusmods.com/stardewvalley/mods/33032</guid>
-      <pubDate>Fri, 11 Apr 2025 00:38:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>使马龙真正的拉丁裔</title>
-      <link>https://www.nexusmods.com/stardewvalley/mods/33091</link>
-      <description><![CDATA[原始mod中的更多细节]]></description>
-      <guid>https://www.nexusmods.com/stardewvalley/mods/33091</guid>
-      <pubDate>Fri, 11 Apr 2025 00:27:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>鹈鹕小镇 - 拉丁裔</title>
-      <link>https://www.nexusmods.com/stardewvalley/mods/33087</link>
-      <description><![CDATA[这些年来，您是否曾经问过刘易斯一直是市长？还是为什么皮埃尔从未拜访他的兄弟巴尔科恩？鹈鹕镇（Pelican Town）回答了所有这些，这是一个小型NPC扩展，在山谷中增加了2个新角色！认识汤普森和肯兹，这是两个五颜六色的村民创建的，目的是探索游戏中反射性较小的部分的武器。]]></description>
-      <guid>https://www.nexusmods.com/stardewvalley/mods/33087</guid>
-      <pubDate>Thu, 10 Apr 2025 23:53:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>手工苏打制造商 - 花背包继续</title>
-      <link>https://www.nexusmods.com/stardewvalley/mods/33086</link>
-      <description><![CDATA[[中心] [size = 5] [b]大约
- [/b] [/size]
- [/center] [尺寸= 2]手工苏打制造商 - 花包续，是改写[url = https：//www.nexusmods.com/stardewvalley/mods/5258]（PFM）Flower Pack for Artisanal Soda Makers [/url]由FWIPPY和HADII组成。这与[url = https：//www.nexusmods.com/stardewvalley/mods/5173] Artisanal Soda Makers [/url]的1.6版本兼容。无论您是野生动用，在游戏中添加大量新的花卉作物，还是纯粹粘在香草花中，这个mod又让您满足了所有花苏打水的需求！ 
-
- [b]安装[ /b]： 
- 1）确保您拥有的最新版本的内容贴片，额外的机器配置和手工苏打制造商安装了
- 2）从Nexus下载此mod
- [ /size] 3）将mod解压缩到mods文件夹中
-从原始变化
-
- [列表]
- [*] [尺寸= 2]蓝色玫瑰糖浆/苏打水/奶油汽水已更名为冬季玫瑰糖浆/苏打/奶油苏打。这些物品中的第一个物品现在是由冬季制成的，从[url = https：//www.nexusmods.com/stardewvalley/mods/20290] Coritucopia -More Flowers [/url] [/size]
- [*]现在是由[url = https：//www.nexusmods.com/stardewvalley/mods/3753] Stardew Valley扩展的幸运的四叶三叶草制成的。
- [*]古老的花朵，黑魔法中提琴，nasturtium，pass flower和夜间郁金香女王的产品已被删除。由于这些花朵从移植到1.6的mods，它们可能会在以后的更新中恢复 
- [/list] [中心] [/center] [中心] [size = 5] [b]常见问题
-
- [/b] [/size] [/center] [b] 1：我有一个错误并且需要帮助，我该怎么办？
- [ /b] a：打开一个错误报告。请记住要在您的错误报告中提供SMAPI日志，否则我无法调查问题 
-
- [b] 2：这个mod支持用[插入mod inmod ins in there Insert mod]制作苏打水吗？
- [ /b] a：应该说，如果该mod中的对象定义为属于“花”类别。 “花味的苏打水”和“花糖浆”的默认产品被编码为接受任何花作为输入。然后使用花糖浆制作花苏打和花生苏打 
-
- [b] 3：[插入mod名称]有一个玫瑰物品，但是它产生的苏打水并没有填充我的收藏片中的玫瑰苏打点。什么给？
- [/b] a：当前，此mod仅本地支持基础星星，[url = https：//www.nexusmods.com/com/stardewvalley/mods/20290]荷兰西亚 - 更多花朵[/url]和三叶草来自[url = https：//www.nexusmods.com/stardewvalley/mods/3753] Stardew Valley扩展了[/url] [/url]用于制作命名的Sodas，并计划增加兼容性对于[url = https：//www.nexusmods.com/stardewvalley/mods/27049？tab =说明] wildflour [/url]在版本1.1中的mods。 
-
- [b] 4：您可以为[此处插入mod名称]编写兼容性补丁吗？
- [ /b] a：您当然可以请求一个。不过，它必须是使用内容修补程序的mod-我真的不想与JSON Asset Mod搞砸，因为该框架已弃用
-
- [b] 5：原始mod最终计划制作花卉colas。您要实施这些吗？ 
- [ /b] A：我不知道。目前，我正在研究的Mod列表相当大，因此，如果我确实添加了花朵古尔拉斯，那可能会有一段时间。理想情况下，我很想马上说是，但是我不想保证我一段时间以来无法交付的东西。 
-
-
- [size = 5]信用[ /size]
-
- [列表]
- = 2] fwippy/ [url = https://next.nexusmods.com/profile/maerumaer2u/mods?gameid=1303] maerumaer2u [gameid = 1303]
- [himf/&gt; [url = https://next.nexusmods.com/profile/zosa] zosa [/url]  - 苏打水和奶油苏打瓶的图形发起人 
- [him [url=https://next.nexusmods.com/profile/hadiwrites42?gameid=1303]
- [him [url=https://next.nexusmods.com/profile/shads4242] Shads42 [/url]  -  1.6代码转换器
-
- [/list] [中心] [/center]]]></description>
-      <guid>https://www.nexusmods.com/stardewvalley/mods/33086</guid>
-      <pubDate>Thu, 10 Apr 2025 23:04:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
