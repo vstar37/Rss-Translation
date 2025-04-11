@@ -4,7 +4,14 @@
     <title>立即上传到Stardew Valley Nexus的文件</title>
     <link>https://www.nexusmods.com/stardewvalley/mods/today/</link>
     <description>立即上传到Stardew Valley Nexus文件数据库的文件</description>
-    <lastBuildDate>Fri, 11 Apr 2025 09:09:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 12:16:49 GMT</lastBuildDate>
+    <item>
+      <title>Cocumit的温室（季节性）</title>
+      <link>https://www.nexusmods.com/stardewvalley/mods/33105</link>
+      <description><![CDATA[我终于完成了温室，所以让我们为您的农场装饰您内心的满足。]]></description>
+      <guid>https://www.nexusmods.com/stardewvalley/mods/33105</guid>
+      <pubDate>Fri, 11 Apr 2025 10:43:38 GMT</pubDate>
+    </item>
     <item>
       <title>返回矿产小镇AI动漫风格的肖像</title>
       <link>https://www.nexusmods.com/stardewvalley/mods/33103</link>
@@ -86,7 +93,7 @@ The files are in .png format and require the Portraiture (999) mod as a prerequi
  [列表]
  [*]自动铸造：自动铸造钓鱼竿（在低耐力中自动禁用和暂停游戏）
  [*]自动诱饵：耗尽时会自动从库存中使用诱饵
- [*]自动挑战：自动从库存中替换损坏的铲球
+ [*]自动绑扎：自动从库存中替换损坏的铲球
  [*]自动捕食收藏：自动从钓鱼宝箱中收集物品
  [*]跳过鱼动画：捕获鱼后显示的动画
  [*]跳过钓鱼迷你游戏：自动完成您多次捕获的鱼的钓鱼迷你游戏
