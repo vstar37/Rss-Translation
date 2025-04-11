@@ -4,7 +4,14 @@
     <title>立即上传到Stardew Valley Nexus的文件</title>
     <link>https://www.nexusmods.com/stardewvalley/mods/today/</link>
     <description>立即上传到Stardew Valley Nexus文件数据库的文件</description>
-    <lastBuildDate>Fri, 11 Apr 2025 03:26:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 06:13:21 GMT</lastBuildDate>
+    <item>
+      <title>初学者无限的钱</title>
+      <link>https://www.nexusmods.com/stardewvalley/mods/33099</link>
+      <description><![CDATA[我的mod给你无限的钱]]></description>
+      <guid>https://www.nexusmods.com/stardewvalley/mods/33099</guid>
+      <pubDate>Fri, 11 Apr 2025 05:40:16 GMT</pubDate>
+    </item>
     <item>
       <title>钓鱼</title>
       <link>https://www.nexusmods.com/stardewvalley/mods/33094</link>
@@ -14,13 +21,13 @@
  [b] [size = 4]描述[/size] [/b]
 在星尘谷钓鱼很放松，但有时也很浪费时间
 此mod自动重复任务：自动铸造，自动诱饵，宝藏收集等。
-以及在您抓到足够多的鱼类类型后跳过钓鱼迷你游戏的能力
+和跳过钓鱼迷你游戏的能力[color =＃00ff00] [b]您抓到了一种鱼类的类型的时间[/b] [/b]（可配置）[/color]
 
  [b] [size = 4]功能[/size] [/b]
  [列表]
- [*]自动铸造：自动铸造钓鱼竿
+ [*]自动铸造：自动铸造钓鱼竿（在低耐力中自动禁用和暂停游戏）
  [*]自动诱饵：耗尽时会自动从库存中使用诱饵
- [*]自动绑扎：自动从库存中替换损坏的铲球
+ [*]自动挑战：自动从库存中替换损坏的铲球
  [*]自动捕食收藏：自动从钓鱼宝箱中收集物品
  [*]跳过鱼动画：捕获鱼后显示的动画
  [*]跳过钓鱼迷你游戏：自动完成您多次捕获的鱼的钓鱼迷你游戏
@@ -30,18 +37,27 @@
 所述的每个功能都是可配置的
 可以通过使用[url = https：//www.nexusmods.com/stardewvalley/mods/5098]通用mod config菜单[/url]（如果已安装）或通过config.json文件来配置mod。
 
+ [b] [size = 4]谢谢！[/size] [/b]
+ smapi Infra来自Pathoschild：[url = https：//www.nexusmods.com/stardewvalley/mods/2400]
+受dewmods的启发：[url = https：//www.nexusmods.com/stardewvalley/mods/2697]
+受tibsz的启发：[url = https：//www.nexusmods.com/stardewvalley/mods/21339]
+
+ [b] [size = 4]开源[/size] [/b]
+ [url = https://github.com/twt2333/fishingtweaks]
+
  [line]
+
  [size = 4] [b]太长不看[/b] [/size]
  装备鱼竿、按一下 v 键就可以开关所有功能！
 
  [b] [size = 4]描述[/size] [/b]
 在星露谷钓鱼一般都蛮让人放松的，但是有时候确实会比较枯燥
 本mod
-还能在你多次捕获特定鱼类后自动跳过这种鱼的钓鱼小游戏
+还能在你[color =＃00ff00] [b]多次捕获特定鱼类后[/b]（次数可自定义）[/color]自动跳过这种鱼的钓鱼小游戏
 
  [b] [size = 4]功能[/size] [/b]
  [列表]
- [*]自动抛竿：自动投掷钓鱼竿
+ [*]自动抛竿：自动投掷钓鱼竿（体力不足时自动停止+暂停游戏）
  [*]自动补充鱼饵：当鱼饵耗尽时自动从背包中补充
  [*]自动补充钓具：当钓具损坏时自动从背包中替换
  [*]自动收集宝箱：自动收集钓鱼宝箱中的物品
@@ -49,9 +65,9 @@
  [*]跳过钓鱼小游戏：对于已多次捕获的鱼类自动完成钓鱼小游戏
  [*]钓鱼统计：记录每种鱼的捕获次数
  [ /list]
-
  [b] [size = 4]修改配置[/size] [/b]
-安装[url = https：//www.nexusmods.com/stardewvalley/mods/5098]通用mod配置菜单[/url]后在游戏内即可进行配置]]></description>
+安装[url = https：//www.nexusmods.com/stardewvalley/mods/5098]通用mod配置菜单[/url]后在游戏内即可进行配置
+ [line]]]></description>
       <guid>https://www.nexusmods.com/stardewvalley/mods/33094</guid>
       <pubDate>Fri, 11 Apr 2025 03:15:58 GMT</pubDate>
     </item>
