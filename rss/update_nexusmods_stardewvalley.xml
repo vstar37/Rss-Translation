@@ -4,7 +4,134 @@
     <title>立即上传到Stardew Valley Nexus的文件</title>
     <link>https://www.nexusmods.com/stardewvalley/mods/today/</link>
     <description>立即上传到Stardew Valley Nexus文件数据库的文件</description>
-    <lastBuildDate>Fri, 11 Apr 2025 00:42:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 03:26:56 GMT</lastBuildDate>
+    <item>
+      <title>钓鱼</title>
+      <link>https://www.nexusmods.com/stardewvalley/mods/33094</link>
+      <description><![CDATA[[b] [size = 4] tl; dr＆amp;用法[/size] [/b]
+只需握住杆即可，然后按（V）切换所有功能！
+
+ [b] [size = 4]描述[/size] [/b]
+在星尘谷钓鱼很放松，但有时也很浪费时间
+此mod自动重复任务：自动铸造，自动诱饵，宝藏收集等。
+以及在您抓到足够多的鱼类类型后跳过钓鱼迷你游戏的能力
+
+ [b] [size = 4]功能[/size] [/b]
+ [列表]
+ [*]自动铸造：自动铸造钓鱼竿
+ [*]自动诱饵：耗尽时会自动从库存中使用诱饵
+ [*]自动绑扎：自动从库存中替换损坏的铲球
+ [*]自动捕食收藏：自动从钓鱼宝箱中收集物品
+ [*]跳过鱼动画：捕获鱼后显示的动画
+ [*]跳过钓鱼迷你游戏：自动完成您多次捕获的鱼的钓鱼迷你游戏
+ [*]钓鱼统计：跟踪您捕获的每条鱼多少次
+ [ /list]
+ [size = 4] [b]配置[/b] [/size]
+所述的每个功能都是可配置的
+可以通过使用[url = https：//www.nexusmods.com/stardewvalley/mods/5098]通用mod config菜单[/url]（如果已安装）或通过config.json文件来配置mod。
+
+ [line]
+ [size = 4] [b]太长不看[/b] [/size]
+ 装备鱼竿、按一下 v 键就可以开关所有功能！
+
+ [b] [size = 4]描述[/size] [/b]
+在星露谷钓鱼一般都蛮让人放松的，但是有时候确实会比较枯燥
+本mod
+还能在你多次捕获特定鱼类后自动跳过这种鱼的钓鱼小游戏
+
+ [b] [size = 4]功能[/size] [/b]
+ [列表]
+ [*]自动抛竿：自动投掷钓鱼竿
+ [*]自动补充鱼饵：当鱼饵耗尽时自动从背包中补充
+ [*]自动补充钓具：当钓具损坏时自动从背包中替换
+ [*]自动收集宝箱：自动收集钓鱼宝箱中的物品
+ [*]跳过展示鱼环节：跳过钓到鱼后的展示动画
+ [*]跳过钓鱼小游戏：对于已多次捕获的鱼类自动完成钓鱼小游戏
+ [*]钓鱼统计：记录每种鱼的捕获次数
+ [ /list]
+
+ [b] [size = 4]修改配置[/size] [/b]
+安装[url = https：//www.nexusmods.com/stardewvalley/mods/5098]通用mod配置菜单[/url]后在游戏内即可进行配置]]></description>
+      <guid>https://www.nexusmods.com/stardewvalley/mods/33094</guid>
+      <pubDate>Fri, 11 Apr 2025 03:15:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>可浪漫的Rasmodius Latino</title>
+      <link>https://www.nexusmods.com/stardewvalley/mods/33097</link>
+      <description><![CDATA[原始mod中的更多细节]]></description>
+      <guid>https://www.nexusmods.com/stardewvalley/mods/33097</guid>
+      <pubDate>Fri, 11 Apr 2025 02:45:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>矿产镇的物品袋</title>
+      <link>https://www.nexusmods.com/stardewvalley/mods/33095</link>
+      <description><![CDATA[这些物品袋的创建是为了适合我自己的玩具，但也许有人会发现它们有用。 :) 
+
+ [b]包括：[ /b]
+
+钓鱼袋（用于存放渔具 - 可在威利购买）
+农民包（用于存放门票，图腾，树苗，水果，蔬菜，花朵，草料和稻草人 - 可在皮埃尔购买）
+采矿袋（用于存放矿物质 - 可在Clint&#39;s和Dwarf&#39;s购买）
+烹饪袋（用于存储烹饪产品和消耗品 - 可在Gus购买）
+（可选）AIO袋 - （用于存放...嗯，所有的东西都像龙一样的巨型库存 - 可在Krobus的购买）
+
+ [b]安装：[ /b]
+
+只需从提供的zip档案中提取JSON文件中的json文件，将其用于... mods; 
+
+所有的荣誉都归Rexstrife2及其团队，感谢您的许可和怀旧[url = https：//www.nexusmods.com/stardewvalley/mods/13996]您的mod [/url]提出了。 ＆lt; 3]]></description>
+      <guid>https://www.nexusmods.com/stardewvalley/mods/33095</guid>
+      <pubDate>Fri, 11 Apr 2025 02:28:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>觅食者Nooks and Crannies -Stardew Valley的新地图（拉丁西班牙语）</title>
+      <link>https://www.nexusmods.com/stardewvalley/mods/33096</link>
+      <description><![CDATA[[img] https://staticdelivery.nexusmods.com/mods/1303/images/headers/23468_1714506748.jpg [/img]
+
+Áimgpe
+
+沿Sta​​rdew Valley添加10个新地图，这些地图将根据您在山谷生活的几个方面出现，例如您的收集水平，与某些NPC的友谊水平等等。完全可与Wildflour的工作室的觅食包装等配置！ 
+
+这些新的地图“出现”时，您会与某些村民交朋友，并在收藏，农业等领域变得更熟练。 [b]如何访问新地图（剧透！）[/b]
+ [扰流板]
+ [列表]
+ [*] [b]废弃农场[ /b]  - 农业能力 /友谊水平与伊芙琳
+ [*] [B] Bays Arboleda [ /b]  - 与Jas的友谊 /友谊水平
+ [*] [b]青蛙盆地[ /b]  - 与塞巴斯蒂安的战斗技能 /友谊水平
+ [*] [b]水晶洞[ /b]  - 一分钱的采矿技巧 /友谊水平
+ [*] [b]美人鱼洞穴[ /b]  - 威利的钓鱼技巧 /友谊水平
+ [*] [b]热带丛林的退休[ /b]  - 与狮子座的钓鱼能力 /友谊水平
+ [*] [b]神秘森林[ /b]  - 与利亚的收集技能 /友谊水平
+ [*] [b]原始森林[ /b]  - 与罗宾的收集技巧 /友谊水平
+ [*] [b]秘密花园[ /b]  - 农业能力 /友谊水平与古斯
+ [*] [b] ruins [/b]  - 仅当[b] forager pack [/b]的模块[b]仙灵花园[/b]被激活[/b]的模块[b]仙灵花园[/b]才能激活[b]
+ [ /list]
+ [b]如何配置此mod：
+ [/b]请确保安装[B] Cauldron [/b]并查看不同的配置选项以决定以下内容：
+
+ [b]使这些位置始终可用[ /b]  - 您不必担心成为NPC的朋友或提高您的技能吗？您不能等待看这些新地图吗？激活此选项，这些位置将始终可供您使用
+
+ÁimgvAttps：//i.imgur.com/wrso1e5.pnga/img]。
+ [中心]照常，我离开野生动物ko-di，以防他们与她合作 
+Ámbñ
+
+ [b] Wildflour：[/b]此mod适用于[B] SDV 1.6 [/b]  - 与游戏的先前版本不兼容。它尚未在移动设备或多人游戏设备上进行测试，尽管如果安装了所有相同的mod，[b]多人游戏应该很好地工作[/b]。我无法提供移动支持；至于多人游戏，最好在游戏中使用SDV Discord中的MOD咨询，因为我通常很难诊断多人游戏中的问题。
+
+可以使用此mod [b]而没有其他农作物模块[ /b]，但是如果您安装了多个mod，就会出现更多可收藏的对象！
+
+这些访问新区域的地图补丁很小，可以尝试与其他地图mod兼容。 [b]如果您使用SVE [/b]，请确保安装Noclip，因为我认为秘密森林的区域可能很难进入。 [b]我不会为此创建不同的补丁。
+
+ [ /b] [line]]]></description>
+      <guid>https://www.nexusmods.com/stardewvalley/mods/33096</guid>
+      <pubDate>Fri, 11 Apr 2025 02:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>做吉尔真正的拉丁裔</title>
+      <link>https://www.nexusmods.com/stardewvalley/mods/33093</link>
+      <description><![CDATA[原始mod中的更多细节]]></description>
+      <guid>https://www.nexusmods.com/stardewvalley/mods/33093</guid>
+      <pubDate>Fri, 11 Apr 2025 01:21:32 GMT</pubDate>
+    </item>
     <item>
       <title>玫瑰和炼金术士 - 日光村（拉丁西班牙语）的定制NPC</title>
       <link>https://www.nexusmods.com/stardewvalley/mods/33092</link>
